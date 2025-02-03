@@ -1,0 +1,3285 @@
+{
+  "last_updated": "February 03, 2025 11:48 AM ",
+  "release": [
+    {
+      "type": "major",
+      "version": "1.0",
+      "date": "2004-11-09"
+    },
+    {
+      "type": "stability",
+      "version": "1.0.1",
+      "date": "2005-02-24"
+    },
+    {
+      "type": "stability",
+      "version": "1.0.2",
+      "date": "2005-03-23"
+    },
+    {
+      "type": "stability",
+      "version": "1.0.3",
+      "date": "2005-04-15"
+    },
+    {
+      "type": "stability",
+      "version": "1.0.4",
+      "date": "2005-05-11"
+    },
+    {
+      "type": "stability",
+      "version": "1.0.5",
+      "date": "2005-07-12"
+    },
+    {
+      "type": "stability",
+      "version": "1.0.6",
+      "date": "2005-07-19"
+    },
+    {
+      "type": "stability",
+      "version": "1.0.7",
+      "date": "2005-09-20"
+    },
+    {
+      "type": "major",
+      "version": "1.5",
+      "date": "2005-11-29"
+    },
+    {
+      "type": "stability",
+      "version": "1.5.0.1",
+      "date": "2006-02-01"
+    },
+    {
+      "type": "stability",
+      "version": "1.0.8",
+      "date": "2006-04-13"
+    },
+    {
+      "type": "stability",
+      "version": "1.5.0.2",
+      "date": "2006-04-13"
+    },
+    {
+      "type": "stability",
+      "version": "1.5.0.3",
+      "date": "2006-05-02"
+    },
+    {
+      "type": "stability",
+      "version": "1.5.0.4",
+      "date": "2006-06-01"
+    },
+    {
+      "type": "stability",
+      "version": "1.5.0.5",
+      "date": "2006-07-26"
+    },
+    {
+      "type": "stability",
+      "version": "1.5.0.6",
+      "date": "2006-08-02"
+    },
+    {
+      "type": "stability",
+      "version": "1.5.0.7",
+      "date": "2006-09-14"
+    },
+    {
+      "type": "major",
+      "version": "2.0",
+      "date": "2006-10-24"
+    },
+    {
+      "type": "stability",
+      "version": "1.5.0.8",
+      "date": "2006-11-07"
+    },
+    {
+      "type": "stability",
+      "version": "1.5.0.9",
+      "date": "2006-12-19"
+    },
+    {
+      "type": "stability",
+      "version": "2.0.0.1",
+      "date": "2006-12-19"
+    },
+    {
+      "type": "stability",
+      "version": "1.5.0.10",
+      "date": "2007-02-23"
+    },
+    {
+      "type": "stability",
+      "version": "2.0.0.2",
+      "date": "2007-02-23"
+    },
+    {
+      "type": "stability",
+      "version": "1.5.0.11",
+      "date": "2007-03-20"
+    },
+    {
+      "type": "stability",
+      "version": "2.0.0.3",
+      "date": "2007-03-20"
+    },
+    {
+      "type": "stability",
+      "version": "1.5.0.12",
+      "date": "2007-05-30"
+    },
+    {
+      "type": "stability",
+      "version": "2.0.0.4",
+      "date": "2007-05-30"
+    },
+    {
+      "type": "stability",
+      "version": "2.0.0.5",
+      "date": "2007-07-17"
+    },
+    {
+      "type": "stability",
+      "version": "2.0.0.6",
+      "date": "2007-07-30"
+    },
+    {
+      "type": "stability",
+      "version": "2.0.0.7",
+      "date": "2007-09-18"
+    },
+    {
+      "type": "stability",
+      "version": "2.0.0.8",
+      "date": "2007-10-18"
+    },
+    {
+      "type": "stability",
+      "version": "2.0.0.9",
+      "date": "2007-11-01"
+    },
+    {
+      "type": "stability",
+      "version": "2.0.0.10",
+      "date": "2007-11-26"
+    },
+    {
+      "type": "stability",
+      "version": "2.0.0.11",
+      "date": "2007-11-30"
+    },
+    {
+      "type": "stability",
+      "version": "2.0.0.12",
+      "date": "2008-02-07"
+    },
+    {
+      "type": "stability",
+      "version": "2.0.0.13",
+      "date": "2008-03-25"
+    },
+    {
+      "type": "stability",
+      "version": "2.0.0.14",
+      "date": "2008-04-16"
+    },
+    {
+      "type": "major",
+      "version": "3.0",
+      "date": "2008-06-17"
+    },
+    {
+      "type": "stability",
+      "version": "2.0.0.15",
+      "date": "2008-07-01"
+    },
+    {
+      "type": "stability",
+      "version": "2.0.0.16",
+      "date": "2008-07-15"
+    },
+    {
+      "type": "stability",
+      "version": "3.0.1",
+      "date": "2008-07-16"
+    },
+    {
+      "type": "stability",
+      "version": "2.0.0.17",
+      "date": "2008-09-23"
+    },
+    {
+      "type": "stability",
+      "version": "3.0.2",
+      "date": "2008-09-23"
+    },
+    {
+      "type": "stability",
+      "version": "3.0.3",
+      "date": "2008-09-26"
+    },
+    {
+      "type": "stability",
+      "version": "2.0.0.18",
+      "date": "2008-11-12"
+    },
+    {
+      "type": "stability",
+      "version": "3.0.4",
+      "date": "2008-11-12"
+    },
+    {
+      "type": "stability",
+      "version": "2.0.0.19",
+      "date": "2008-12-16"
+    },
+    {
+      "type": "stability",
+      "version": "3.0.5",
+      "date": "2008-12-16"
+    },
+    {
+      "type": "stability",
+      "version": "2.0.0.20",
+      "date": "2008-12-18"
+    },
+    {
+      "type": "stability",
+      "version": "3.0.6",
+      "date": "2009-02-03"
+    },
+    {
+      "type": "stability",
+      "version": "3.0.7",
+      "date": "2009-03-04"
+    },
+    {
+      "type": "stability",
+      "version": "3.0.8",
+      "date": "2009-03-27"
+    },
+    {
+      "type": "stability",
+      "version": "3.0.9",
+      "date": "2009-04-21"
+    },
+    {
+      "type": "stability",
+      "version": "3.0.10",
+      "date": "2009-04-27"
+    },
+    {
+      "type": "stability",
+      "version": "3.0.11",
+      "date": "2009-06-11"
+    },
+    {
+      "type": "major",
+      "version": "3.5",
+      "date": "2009-06-30"
+    },
+    {
+      "type": "stability",
+      "version": "3.5.1",
+      "date": "2009-07-17"
+    },
+    {
+      "type": "stability",
+      "version": "3.0.12",
+      "date": "2009-07-21"
+    },
+    {
+      "type": "stability",
+      "version": "3.0.13",
+      "date": "2009-08-03"
+    },
+    {
+      "type": "stability",
+      "version": "3.5.2",
+      "date": "2009-08-03"
+    },
+    {
+      "type": "stability",
+      "version": "3.0.14",
+      "date": "2009-09-09"
+    },
+    {
+      "type": "stability",
+      "version": "3.5.3",
+      "date": "2009-09-09"
+    },
+    {
+      "type": "stability",
+      "version": "3.0.15",
+      "date": "2009-10-27"
+    },
+    {
+      "type": "stability",
+      "version": "3.5.4",
+      "date": "2009-10-27"
+    },
+    {
+      "type": "stability",
+      "version": "3.5.5",
+      "date": "2009-11-05"
+    },
+    {
+      "type": "stability",
+      "version": "3.0.16",
+      "date": "2009-12-15"
+    },
+    {
+      "type": "stability",
+      "version": "3.5.6",
+      "date": "2009-12-15"
+    },
+    {
+      "type": "stability",
+      "version": "3.0.17",
+      "date": "2010-01-05"
+    },
+    {
+      "type": "stability",
+      "version": "3.5.7",
+      "date": "2010-01-05"
+    },
+    {
+      "type": "major",
+      "version": "3.6",
+      "date": "2010-01-21"
+    },
+    {
+      "type": "stability",
+      "version": "3.0.18",
+      "date": "2010-02-17"
+    },
+    {
+      "type": "stability",
+      "version": "3.5.8",
+      "date": "2010-02-17"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.2",
+      "date": "2010-03-22"
+    },
+    {
+      "type": "stability",
+      "version": "3.0.19",
+      "date": "2010-03-30"
+    },
+    {
+      "type": "stability",
+      "version": "3.5.9",
+      "date": "2010-03-30"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.3",
+      "date": "2010-04-01"
+    },
+    {
+      "type": "stability",
+      "version": "3.5.10",
+      "date": "2010-06-22"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.4",
+      "date": "2010-06-22"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.6",
+      "date": "2010-06-26"
+    },
+    {
+      "type": "stability",
+      "version": "3.5.11",
+      "date": "2010-07-20"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.7",
+      "date": "2010-07-20"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.8",
+      "date": "2010-07-23"
+    },
+    {
+      "type": "stability",
+      "version": "3.5.12",
+      "date": "2010-09-07"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.9",
+      "date": "2010-09-07"
+    },
+    {
+      "type": "stability",
+      "version": "3.5.13",
+      "date": "2010-09-15"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.10",
+      "date": "2010-09-15"
+    },
+    {
+      "type": "stability",
+      "version": "3.5.14",
+      "date": "2010-10-19"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.11",
+      "date": "2010-10-19"
+    },
+    {
+      "type": "stability",
+      "version": "3.5.15",
+      "date": "2010-10-27"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.12",
+      "date": "2010-10-27"
+    },
+    {
+      "type": "stability",
+      "version": "3.5.16",
+      "date": "2010-12-09"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.13",
+      "date": "2010-12-09"
+    },
+    {
+      "type": "stability",
+      "version": "3.5.17",
+      "date": "2011-03-01"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.14",
+      "date": "2011-03-01"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.15",
+      "date": "2011-03-04"
+    },
+    {
+      "type": "major",
+      "version": "4.0",
+      "date": "2011-03-22"
+    },
+    {
+      "type": "stability",
+      "version": "3.5.18",
+      "date": "2011-03-22"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.16",
+      "date": "2011-03-22"
+    },
+    {
+      "type": "stability",
+      "version": "3.5.19",
+      "date": "2011-04-28"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.17",
+      "date": "2011-04-28"
+    },
+    {
+      "type": "stability",
+      "version": "4.0.1",
+      "date": "2011-04-28"
+    },
+    {
+      "type": "major",
+      "version": "5.0",
+      "date": "2011-06-21"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.18",
+      "date": "2011-06-21"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.19",
+      "date": "2011-07-11"
+    },
+    {
+      "type": "stability",
+      "version": "5.0.1",
+      "date": "2011-07-11"
+    },
+    {
+      "type": "major",
+      "version": "6.0",
+      "date": "2011-08-16"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.20",
+      "date": "2011-08-16"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.21",
+      "date": "2011-08-30"
+    },
+    {
+      "type": "stability",
+      "version": "6.0.1",
+      "date": "2011-08-30"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.22",
+      "date": "2011-09-06"
+    },
+    {
+      "type": "stability",
+      "version": "6.0.2",
+      "date": "2011-09-06"
+    },
+    {
+      "type": "major",
+      "version": "7.0",
+      "date": "2011-09-27"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.23",
+      "date": "2011-09-27"
+    },
+    {
+      "type": "stability",
+      "version": "7.0.1",
+      "date": "2011-09-29"
+    },
+    {
+      "type": "major",
+      "version": "8.0",
+      "date": "2011-11-08"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.24",
+      "date": "2011-11-08"
+    },
+    {
+      "type": "stability",
+      "version": "8.0.1",
+      "date": "2011-11-21"
+    },
+    {
+      "type": "major",
+      "version": "9.0",
+      "date": "2011-12-20"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.25",
+      "date": "2011-12-20"
+    },
+    {
+      "type": "stability",
+      "version": "9.0.1",
+      "date": "2011-12-21"
+    },
+    {
+      "type": "major",
+      "version": "10.0",
+      "date": "2012-01-31"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.26",
+      "date": "2012-01-31"
+    },
+    {
+      "type": "stability",
+      "version": "10.0.1",
+      "date": "2012-02-10"
+    },
+    {
+      "type": "stability",
+      "version": "10.0.2",
+      "date": "2012-02-16"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.27",
+      "date": "2012-02-17"
+    },
+    {
+      "type": "major",
+      "version": "11.0",
+      "date": "2012-03-13"
+    },
+    {
+      "type": "stability",
+      "version": "10.0.3",
+      "date": "2012-03-13"
+    },
+    {
+      "type": "stability",
+      "version": "3.6.28",
+      "date": "2012-03-13"
+    },
+    {
+      "type": "major",
+      "version": "12.0",
+      "date": "2012-04-24"
+    },
+    {
+      "type": "stability",
+      "version": "10.0.4",
+      "date": "2012-04-24"
+    },
+    {
+      "type": "major",
+      "version": "13.0",
+      "date": "2012-06-05"
+    },
+    {
+      "type": "stability",
+      "version": "10.0.5",
+      "date": "2012-06-05"
+    },
+    {
+      "type": "stability",
+      "version": "13.0.1",
+      "date": "2012-06-15"
+    },
+    {
+      "type": "major",
+      "version": "14.0.1",
+      "date": "2012-07-17"
+    },
+    {
+      "type": "stability",
+      "version": "10.0.6",
+      "date": "2012-07-17"
+    },
+    {
+      "type": "stability",
+      "version": "14.0.1",
+      "date": "2012-07-17"
+    },
+    {
+      "type": "major",
+      "version": "15.0",
+      "date": "2012-08-28"
+    },
+    {
+      "type": "stability",
+      "version": "10.0.7",
+      "date": "2012-08-28"
+    },
+    {
+      "type": "stability",
+      "version": "15.0.1",
+      "date": "2012-09-06"
+    },
+    {
+      "type": "major",
+      "version": "16.0",
+      "date": "2012-10-09"
+    },
+    {
+      "type": "stability",
+      "version": "10.0.8",
+      "date": "2012-10-09"
+    },
+    {
+      "type": "stability",
+      "version": "16.0.1",
+      "date": "2012-10-11"
+    },
+    {
+      "type": "stability",
+      "version": "10.0.9",
+      "date": "2012-10-12"
+    },
+    {
+      "type": "stability",
+      "version": "10.0.10",
+      "date": "2012-10-26"
+    },
+    {
+      "type": "stability",
+      "version": "16.0.2",
+      "date": "2012-10-26"
+    },
+    {
+      "type": "major",
+      "version": "17.0",
+      "date": "2012-11-20"
+    },
+    {
+      "type": "stability",
+      "version": "10.0.11",
+      "date": "2012-11-20"
+    },
+    {
+      "type": "stability",
+      "version": "17.0.1",
+      "date": "2012-11-30"
+    },
+    {
+      "type": "major",
+      "version": "18.0",
+      "date": "2013-01-08"
+    },
+    {
+      "type": "stability",
+      "version": "10.0.12",
+      "date": "2013-01-08"
+    },
+    {
+      "type": "stability",
+      "version": "17.0.2",
+      "date": "2013-01-08"
+    },
+    {
+      "type": "stability",
+      "version": "18.0.1",
+      "date": "2013-01-18"
+    },
+    {
+      "type": "stability",
+      "version": "18.0.2",
+      "date": "2013-02-05"
+    },
+    {
+      "type": "major",
+      "version": "19.0",
+      "date": "2013-02-19"
+    },
+    {
+      "type": "stability",
+      "version": "17.0.3",
+      "date": "2013-02-19"
+    },
+    {
+      "type": "stability",
+      "version": "19.0.1",
+      "date": "2013-02-27"
+    },
+    {
+      "type": "stability",
+      "version": "17.0.4",
+      "date": "2013-03-07"
+    },
+    {
+      "type": "stability",
+      "version": "19.0.2",
+      "date": "2013-03-07"
+    },
+    {
+      "type": "major",
+      "version": "20.0",
+      "date": "2013-04-02"
+    },
+    {
+      "type": "stability",
+      "version": "17.0.5",
+      "date": "2013-04-02"
+    },
+    {
+      "type": "stability",
+      "version": "20.0.1",
+      "date": "2013-04-11"
+    },
+    {
+      "type": "major",
+      "version": "21.0",
+      "date": "2013-05-14"
+    },
+    {
+      "type": "stability",
+      "version": "17.0.6",
+      "date": "2013-05-14"
+    },
+    {
+      "type": "major",
+      "version": "22.0",
+      "date": "2013-06-25"
+    },
+    {
+      "type": "stability",
+      "version": "17.0.7",
+      "date": "2013-06-25"
+    },
+    {
+      "type": "major",
+      "version": "23.0",
+      "date": "2013-08-06"
+    },
+    {
+      "type": "stability",
+      "version": "17.0.8",
+      "date": "2013-08-06"
+    },
+    {
+      "type": "stability",
+      "version": "23.0.1",
+      "date": "2013-08-16"
+    },
+    {
+      "type": "major",
+      "version": "24.0",
+      "date": "2013-09-17"
+    },
+    {
+      "type": "stability",
+      "version": "17.0.9",
+      "date": "2013-09-17"
+    },
+    {
+      "type": "major",
+      "version": "25.0",
+      "date": "2013-10-29"
+    },
+    {
+      "type": "stability",
+      "version": "17.0.10",
+      "date": "2013-10-29"
+    },
+    {
+      "type": "stability",
+      "version": "24.1.0",
+      "date": "2013-10-29"
+    },
+    {
+      "type": "stability",
+      "version": "17.0.11",
+      "date": "2013-11-15"
+    },
+    {
+      "type": "stability",
+      "version": "24.1.1",
+      "date": "2013-11-15"
+    },
+    {
+      "type": "stability",
+      "version": "25.0.1",
+      "date": "2013-11-15"
+    },
+    {
+      "type": "major",
+      "version": "26.0",
+      "date": "2013-12-10"
+    },
+    {
+      "type": "stability",
+      "version": "24.2.0",
+      "date": "2013-12-10"
+    },
+    {
+      "type": "major",
+      "version": "27.0",
+      "date": "2014-02-04"
+    },
+    {
+      "type": "stability",
+      "version": "24.3.0",
+      "date": "2014-02-04"
+    },
+    {
+      "type": "stability",
+      "version": "27.0.1",
+      "date": "2014-02-14"
+    },
+    {
+      "type": "major",
+      "version": "28.0",
+      "date": "2014-03-18"
+    },
+    {
+      "type": "stability",
+      "version": "24.4.0",
+      "date": "2014-03-18"
+    },
+    {
+      "type": "major",
+      "version": "29.0",
+      "date": "2014-04-29"
+    },
+    {
+      "type": "stability",
+      "version": "24.5.0",
+      "date": "2014-04-29"
+    },
+    {
+      "type": "stability",
+      "version": "29.0.1",
+      "date": "2014-05-09"
+    },
+    {
+      "type": "major",
+      "version": "30.0",
+      "date": "2014-06-10"
+    },
+    {
+      "type": "stability",
+      "version": "24.6.0",
+      "date": "2014-06-10"
+    },
+    {
+      "type": "major",
+      "version": "31.0",
+      "date": "2014-07-22"
+    },
+    {
+      "type": "stability",
+      "version": "24.7.0",
+      "date": "2014-07-22"
+    },
+    {
+      "type": "major",
+      "version": "32.0",
+      "date": "2014-09-02"
+    },
+    {
+      "type": "stability",
+      "version": "24.8.0",
+      "date": "2014-09-02"
+    },
+    {
+      "type": "stability",
+      "version": "31.1.0",
+      "date": "2014-09-02"
+    },
+    {
+      "type": "stability",
+      "version": "32.0.1",
+      "date": "2014-09-12"
+    },
+    {
+      "type": "stability",
+      "version": "32.0.2",
+      "date": "2014-09-18"
+    },
+    {
+      "type": "stability",
+      "version": "24.8.1",
+      "date": "2014-09-24"
+    },
+    {
+      "type": "stability",
+      "version": "31.1.1",
+      "date": "2014-09-24"
+    },
+    {
+      "type": "stability",
+      "version": "32.0.3",
+      "date": "2014-09-24"
+    },
+    {
+      "type": "major",
+      "version": "33.0",
+      "date": "2014-10-14"
+    },
+    {
+      "type": "stability",
+      "version": "31.2.0",
+      "date": "2014-10-14"
+    },
+    {
+      "type": "stability",
+      "version": "33.0.1",
+      "date": "2014-10-24"
+    },
+    {
+      "type": "stability",
+      "version": "33.0.2",
+      "date": "2014-10-28"
+    },
+    {
+      "type": "stability",
+      "version": "33.0.3",
+      "date": "2014-11-06"
+    },
+    {
+      "type": "major",
+      "version": "33.1",
+      "date": "2014-11-10"
+    },
+    {
+      "type": "stability",
+      "version": "33.1.1",
+      "date": "2014-11-14"
+    },
+    {
+      "type": "major",
+      "version": "34.0",
+      "date": "2014-12-01"
+    },
+    {
+      "type": "stability",
+      "version": "31.3.0",
+      "date": "2014-12-01"
+    },
+    {
+      "type": "stability",
+      "version": "34.0.5",
+      "date": "2014-12-01"
+    },
+    {
+      "type": "major",
+      "version": "35.0",
+      "date": "2015-01-13"
+    },
+    {
+      "type": "stability",
+      "version": "31.4.0",
+      "date": "2015-01-13"
+    },
+    {
+      "type": "stability",
+      "version": "35.0.1",
+      "date": "2015-01-26"
+    },
+    {
+      "type": "major",
+      "version": "36.0",
+      "date": "2015-02-24"
+    },
+    {
+      "type": "stability",
+      "version": "31.5.0",
+      "date": "2015-02-24"
+    },
+    {
+      "type": "stability",
+      "version": "36.0.1",
+      "date": "2015-03-05"
+    },
+    {
+      "type": "stability",
+      "version": "31.5.2",
+      "date": "2015-03-20"
+    },
+    {
+      "type": "stability",
+      "version": "36.0.3",
+      "date": "2015-03-20"
+    },
+    {
+      "type": "stability",
+      "version": "31.5.3",
+      "date": "2015-03-21"
+    },
+    {
+      "type": "stability",
+      "version": "36.0.4",
+      "date": "2015-03-21"
+    },
+    {
+      "type": "major",
+      "version": "37.0",
+      "date": "2015-03-31"
+    },
+    {
+      "type": "stability",
+      "version": "31.6.0",
+      "date": "2015-03-31"
+    },
+    {
+      "type": "stability",
+      "version": "37.0.1",
+      "date": "2015-04-03"
+    },
+    {
+      "type": "stability",
+      "version": "37.0.2",
+      "date": "2015-04-20"
+    },
+    {
+      "type": "major",
+      "version": "38.0",
+      "date": "2015-05-12"
+    },
+    {
+      "type": "stability",
+      "version": "31.7.0",
+      "date": "2015-05-12"
+    },
+    {
+      "type": "stability",
+      "version": "38.0.1",
+      "date": "2015-05-14"
+    },
+    {
+      "type": "stability",
+      "version": "38.0.5",
+      "date": "2015-06-02"
+    },
+    {
+      "type": "major",
+      "version": "39.0",
+      "date": "2015-07-02"
+    },
+    {
+      "type": "stability",
+      "version": "31.8.0",
+      "date": "2015-07-02"
+    },
+    {
+      "type": "stability",
+      "version": "38.1.0",
+      "date": "2015-07-02"
+    },
+    {
+      "type": "stability",
+      "version": "38.1.1",
+      "date": "2015-08-06"
+    },
+    {
+      "type": "stability",
+      "version": "39.0.3",
+      "date": "2015-08-06"
+    },
+    {
+      "type": "major",
+      "version": "40.0",
+      "date": "2015-08-11"
+    },
+    {
+      "type": "stability",
+      "version": "38.2.0",
+      "date": "2015-08-11"
+    },
+    {
+      "type": "stability",
+      "version": "40.0.2",
+      "date": "2015-08-13"
+    },
+    {
+      "type": "stability",
+      "version": "38.2.1",
+      "date": "2015-08-27"
+    },
+    {
+      "type": "stability",
+      "version": "40.0.3",
+      "date": "2015-08-27"
+    },
+    {
+      "type": "major",
+      "version": "41.0",
+      "date": "2015-09-22"
+    },
+    {
+      "type": "stability",
+      "version": "38.3.0",
+      "date": "2015-09-22"
+    },
+    {
+      "type": "stability",
+      "version": "41.0.1",
+      "date": "2015-09-30"
+    },
+    {
+      "type": "stability",
+      "version": "38.4.0",
+      "date": "2015-10-03"
+    },
+    {
+      "type": "stability",
+      "version": "41.0.2",
+      "date": "2015-10-15"
+    },
+    {
+      "type": "major",
+      "version": "42.0",
+      "date": "2015-11-03"
+    },
+    {
+      "type": "major",
+      "version": "43.0",
+      "date": "2015-12-15"
+    },
+    {
+      "type": "stability",
+      "version": "38.5.0",
+      "date": "2015-12-15"
+    },
+    {
+      "type": "stability",
+      "version": "43.0.1",
+      "date": "2015-12-18"
+    },
+    {
+      "type": "stability",
+      "version": "38.5.1",
+      "date": "2015-12-21"
+    },
+    {
+      "type": "stability",
+      "version": "38.5.2",
+      "date": "2015-12-22"
+    },
+    {
+      "type": "stability",
+      "version": "43.0.2",
+      "date": "2015-12-22"
+    },
+    {
+      "type": "stability",
+      "version": "43.0.3",
+      "date": "2015-12-28"
+    },
+    {
+      "type": "stability",
+      "version": "43.0.4",
+      "date": "2016-01-06"
+    },
+    {
+      "type": "major",
+      "version": "44.0",
+      "date": "2016-01-26"
+    },
+    {
+      "type": "stability",
+      "version": "38.6.0",
+      "date": "2016-01-26"
+    },
+    {
+      "type": "stability",
+      "version": "44.0.1",
+      "date": "2016-02-08"
+    },
+    {
+      "type": "stability",
+      "version": "38.6.1",
+      "date": "2016-02-11"
+    },
+    {
+      "type": "stability",
+      "version": "44.0.2",
+      "date": "2016-02-11"
+    },
+    {
+      "type": "major",
+      "version": "45.0",
+      "date": "2016-03-08"
+    },
+    {
+      "type": "stability",
+      "version": "38.7.0",
+      "date": "2016-03-08"
+    },
+    {
+      "type": "stability",
+      "version": "38.7.1",
+      "date": "2016-03-17"
+    },
+    {
+      "type": "stability",
+      "version": "45.0.1",
+      "date": "2016-03-18"
+    },
+    {
+      "type": "stability",
+      "version": "45.0.2",
+      "date": "2016-04-11"
+    },
+    {
+      "type": "major",
+      "version": "46.0",
+      "date": "2016-04-26"
+    },
+    {
+      "type": "stability",
+      "version": "38.8.0",
+      "date": "2016-04-26"
+    },
+    {
+      "type": "stability",
+      "version": "45.1.1",
+      "date": "2016-05-03"
+    },
+    {
+      "type": "stability",
+      "version": "46.0.1",
+      "date": "2016-05-03"
+    },
+    {
+      "type": "major",
+      "version": "47.0",
+      "date": "2016-06-07"
+    },
+    {
+      "type": "stability",
+      "version": "45.2.0",
+      "date": "2016-06-07"
+    },
+    {
+      "type": "stability",
+      "version": "47.0.1",
+      "date": "2016-06-28"
+    },
+    {
+      "type": "major",
+      "version": "48.0",
+      "date": "2016-08-02"
+    },
+    {
+      "type": "stability",
+      "version": "45.3.0",
+      "date": "2016-08-02"
+    },
+    {
+      "type": "stability",
+      "version": "48.0.1",
+      "date": "2016-08-18"
+    },
+    {
+      "type": "stability",
+      "version": "48.0.2",
+      "date": "2016-08-24"
+    },
+    {
+      "type": "major",
+      "version": "49.0",
+      "date": "2016-09-20"
+    },
+    {
+      "type": "stability",
+      "version": "45.4.0",
+      "date": "2016-09-20"
+    },
+    {
+      "type": "stability",
+      "version": "49.0.1",
+      "date": "2016-09-23"
+    },
+    {
+      "type": "stability",
+      "version": "49.0.2",
+      "date": "2016-10-20"
+    },
+    {
+      "type": "stability",
+      "version": "47.0.2",
+      "date": "2016-11-03"
+    },
+    {
+      "type": "major",
+      "version": "50.0",
+      "date": "2016-11-15"
+    },
+    {
+      "type": "stability",
+      "version": "45.5.0",
+      "date": "2016-11-15"
+    },
+    {
+      "type": "stability",
+      "version": "50.0.1",
+      "date": "2016-11-28"
+    },
+    {
+      "type": "stability",
+      "version": "45.5.1",
+      "date": "2016-11-30"
+    },
+    {
+      "type": "stability",
+      "version": "50.0.2",
+      "date": "2016-11-30"
+    },
+    {
+      "type": "stability",
+      "version": "45.6.0",
+      "date": "2016-12-13"
+    },
+    {
+      "type": "stability",
+      "version": "50.1.0",
+      "date": "2016-12-13"
+    },
+    {
+      "type": "major",
+      "version": "51.0",
+      "date": "2017-01-24"
+    },
+    {
+      "type": "stability",
+      "version": "45.7.0",
+      "date": "2017-01-24"
+    },
+    {
+      "type": "stability",
+      "version": "51.0.1",
+      "date": "2017-01-26"
+    },
+    {
+      "type": "major",
+      "version": "52.0",
+      "date": "2017-03-07"
+    },
+    {
+      "type": "stability",
+      "version": "45.8.0",
+      "date": "2017-03-07"
+    },
+    {
+      "type": "stability",
+      "version": "52.0.1",
+      "date": "2017-03-17"
+    },
+    {
+      "type": "stability",
+      "version": "52.0.2",
+      "date": "2017-03-29"
+    },
+    {
+      "type": "major",
+      "version": "53.0",
+      "date": "2017-04-19"
+    },
+    {
+      "type": "stability",
+      "version": "45.9.0",
+      "date": "2017-04-19"
+    },
+    {
+      "type": "stability",
+      "version": "52.1.0",
+      "date": "2017-04-19"
+    },
+    {
+      "type": "stability",
+      "version": "52.1.1",
+      "date": "2017-05-05"
+    },
+    {
+      "type": "stability",
+      "version": "53.0.2",
+      "date": "2017-05-05"
+    },
+    {
+      "type": "stability",
+      "version": "52.1.2",
+      "date": "2017-05-19"
+    },
+    {
+      "type": "stability",
+      "version": "53.0.3",
+      "date": "2017-05-19"
+    },
+    {
+      "type": "major",
+      "version": "54.0",
+      "date": "2017-06-13"
+    },
+    {
+      "type": "stability",
+      "version": "52.2.0",
+      "date": "2017-06-13"
+    },
+    {
+      "type": "stability",
+      "version": "52.2.1",
+      "date": "2017-06-29"
+    },
+    {
+      "type": "stability",
+      "version": "54.0.1",
+      "date": "2017-06-29"
+    },
+    {
+      "type": "major",
+      "version": "55.0",
+      "date": "2017-08-08"
+    },
+    {
+      "type": "stability",
+      "version": "52.3.0",
+      "date": "2017-08-08"
+    },
+    {
+      "type": "stability",
+      "version": "55.0.1",
+      "date": "2017-08-10"
+    },
+    {
+      "type": "stability",
+      "version": "55.0.2",
+      "date": "2017-08-16"
+    },
+    {
+      "type": "stability",
+      "version": "55.0.3",
+      "date": "2017-08-25"
+    },
+    {
+      "type": "major",
+      "version": "56.0",
+      "date": "2017-09-28"
+    },
+    {
+      "type": "stability",
+      "version": "52.4.0",
+      "date": "2017-09-28"
+    },
+    {
+      "type": "stability",
+      "version": "56.0.1",
+      "date": "2017-10-09"
+    },
+    {
+      "type": "stability",
+      "version": "52.4.1",
+      "date": "2017-10-10"
+    },
+    {
+      "type": "stability",
+      "version": "56.0.2",
+      "date": "2017-10-26"
+    },
+    {
+      "type": "major",
+      "version": "57.0",
+      "date": "2017-11-14"
+    },
+    {
+      "type": "stability",
+      "version": "52.5.0",
+      "date": "2017-11-14"
+    },
+    {
+      "type": "stability",
+      "version": "57.0.1",
+      "date": "2017-11-30"
+    },
+    {
+      "type": "stability",
+      "version": "52.5.2",
+      "date": "2017-12-07"
+    },
+    {
+      "type": "stability",
+      "version": "57.0.2",
+      "date": "2017-12-07"
+    },
+    {
+      "type": "stability",
+      "version": "52.5.3",
+      "date": "2017-12-28"
+    },
+    {
+      "type": "stability",
+      "version": "57.0.3",
+      "date": "2017-12-28"
+    },
+    {
+      "type": "stability",
+      "version": "57.0.4",
+      "date": "2018-01-04"
+    },
+    {
+      "type": "major",
+      "version": "58.0",
+      "date": "2018-01-23"
+    },
+    {
+      "type": "stability",
+      "version": "52.6.0",
+      "date": "2018-01-23"
+    },
+    {
+      "type": "stability",
+      "version": "58.0.1",
+      "date": "2018-01-29"
+    },
+    {
+      "type": "stability",
+      "version": "58.0.2",
+      "date": "2018-02-07"
+    },
+    {
+      "type": "major",
+      "version": "59.0",
+      "date": "2018-03-13"
+    },
+    {
+      "type": "stability",
+      "version": "52.7.0",
+      "date": "2018-03-13"
+    },
+    {
+      "type": "stability",
+      "version": "52.7.1",
+      "date": "2018-03-14"
+    },
+    {
+      "type": "stability",
+      "version": "52.7.2",
+      "date": "2018-03-16"
+    },
+    {
+      "type": "stability",
+      "version": "59.0.1",
+      "date": "2018-03-16"
+    },
+    {
+      "type": "stability",
+      "version": "52.7.3",
+      "date": "2018-03-26"
+    },
+    {
+      "type": "stability",
+      "version": "59.0.2",
+      "date": "2018-03-26"
+    },
+    {
+      "type": "stability",
+      "version": "52.7.4",
+      "date": "2018-04-30"
+    },
+    {
+      "type": "stability",
+      "version": "59.0.3",
+      "date": "2018-04-30"
+    },
+    {
+      "type": "major",
+      "version": "60.0",
+      "date": "2018-05-09"
+    },
+    {
+      "type": "stability",
+      "version": "52.8.0",
+      "date": "2018-05-09"
+    },
+    {
+      "type": "stability",
+      "version": "60.0.1",
+      "date": "2018-05-16"
+    },
+    {
+      "type": "stability",
+      "version": "52.8.1",
+      "date": "2018-06-06"
+    },
+    {
+      "type": "stability",
+      "version": "60.0.2",
+      "date": "2018-06-06"
+    },
+    {
+      "type": "major",
+      "version": "61.0",
+      "date": "2018-06-26"
+    },
+    {
+      "type": "stability",
+      "version": "52.9.0",
+      "date": "2018-06-26"
+    },
+    {
+      "type": "stability",
+      "version": "60.1.0",
+      "date": "2018-06-26"
+    },
+    {
+      "type": "stability",
+      "version": "61.0.1",
+      "date": "2018-07-05"
+    },
+    {
+      "type": "stability",
+      "version": "61.0.2",
+      "date": "2018-08-08"
+    },
+    {
+      "type": "major",
+      "version": "62.0",
+      "date": "2018-09-05"
+    },
+    {
+      "type": "stability",
+      "version": "60.2.0",
+      "date": "2018-09-05"
+    },
+    {
+      "type": "stability",
+      "version": "60.2.1",
+      "date": "2018-09-21"
+    },
+    {
+      "type": "stability",
+      "version": "62.0.2",
+      "date": "2018-09-21"
+    },
+    {
+      "type": "stability",
+      "version": "60.2.2",
+      "date": "2018-10-02"
+    },
+    {
+      "type": "stability",
+      "version": "62.0.3",
+      "date": "2018-10-02"
+    },
+    {
+      "type": "major",
+      "version": "63.0",
+      "date": "2018-10-23"
+    },
+    {
+      "type": "stability",
+      "version": "60.3.0",
+      "date": "2018-10-23"
+    },
+    {
+      "type": "stability",
+      "version": "63.0.1",
+      "date": "2018-10-31"
+    },
+    {
+      "type": "stability",
+      "version": "63.0.3",
+      "date": "2018-11-15"
+    },
+    {
+      "type": "major",
+      "version": "64.0",
+      "date": "2018-12-11"
+    },
+    {
+      "type": "stability",
+      "version": "60.4.0",
+      "date": "2018-12-11"
+    },
+    {
+      "type": "stability",
+      "version": "64.0.2",
+      "date": "2019-01-09"
+    },
+    {
+      "type": "major",
+      "version": "65.0",
+      "date": "2019-01-29"
+    },
+    {
+      "type": "stability",
+      "version": "60.5.0",
+      "date": "2019-01-29"
+    },
+    {
+      "type": "stability",
+      "version": "60.5.1",
+      "date": "2019-02-12"
+    },
+    {
+      "type": "stability",
+      "version": "65.0.1",
+      "date": "2019-02-12"
+    },
+    {
+      "type": "stability",
+      "version": "60.5.2",
+      "date": "2019-02-22"
+    },
+    {
+      "type": "stability",
+      "version": "65.0.2",
+      "date": "2019-02-28"
+    },
+    {
+      "type": "major",
+      "version": "66.0",
+      "date": "2019-03-19"
+    },
+    {
+      "type": "stability",
+      "version": "60.6.0",
+      "date": "2019-03-19"
+    },
+    {
+      "type": "stability",
+      "version": "66.0.1",
+      "date": "2019-03-22"
+    },
+    {
+      "type": "stability",
+      "version": "60.6.1",
+      "date": "2019-03-22"
+    },
+    {
+      "type": "stability",
+      "version": "66.0.2",
+      "date": "2019-03-27"
+    },
+    {
+      "type": "stability",
+      "version": "66.0.3",
+      "date": "2019-04-10"
+    },
+    {
+      "type": "stability",
+      "version": "66.0.4",
+      "date": "2019-05-05"
+    },
+    {
+      "type": "stability",
+      "version": "60.6.2",
+      "date": "2019-05-05"
+    },
+    {
+      "type": "stability",
+      "version": "66.0.5",
+      "date": "2019-05-07"
+    },
+    {
+      "type": "stability",
+      "version": "60.6.3",
+      "date": "2019-05-08"
+    },
+    {
+      "type": "major",
+      "version": "67.0",
+      "date": "2019-05-21"
+    },
+    {
+      "type": "stability",
+      "version": "60.7.0",
+      "date": "2019-05-21"
+    },
+    {
+      "type": "stability",
+      "version": "67.0.1",
+      "date": "2019-06-04"
+    },
+    {
+      "type": "stability",
+      "version": "67.0.2",
+      "date": "2019-06-11"
+    },
+    {
+      "type": "stability",
+      "version": "60.7.1",
+      "date": "2019-06-18"
+    },
+    {
+      "type": "stability",
+      "version": "67.0.3",
+      "date": "2019-06-18"
+    },
+    {
+      "type": "stability",
+      "version": "60.7.2",
+      "date": "2019-06-20"
+    },
+    {
+      "type": "stability",
+      "version": "67.0.4",
+      "date": "2019-06-20"
+    },
+    {
+      "type": "major",
+      "version": "68.0",
+      "date": "2019-07-09"
+    },
+    {
+      "type": "stability",
+      "version": "60.8.0",
+      "date": "2019-07-09"
+    },
+    {
+      "type": "stability",
+      "version": "68.0.1",
+      "date": "2019-07-18"
+    },
+    {
+      "type": "stability",
+      "version": "68.0.2",
+      "date": "2019-08-14"
+    },
+    {
+      "type": "major",
+      "version": "69.0",
+      "date": "2019-09-03"
+    },
+    {
+      "type": "stability",
+      "version": "60.9.0",
+      "date": "2019-09-03"
+    },
+    {
+      "type": "stability",
+      "version": "68.1.0",
+      "date": "2019-09-03"
+    },
+    {
+      "type": "stability",
+      "version": "69.0.1",
+      "date": "2019-09-18"
+    },
+    {
+      "type": "stability",
+      "version": "69.0.2",
+      "date": "2019-10-03"
+    },
+    {
+      "type": "stability",
+      "version": "69.0.3",
+      "date": "2019-10-10"
+    },
+    {
+      "type": "major",
+      "version": "70.0",
+      "date": "2019-10-22"
+    },
+    {
+      "type": "stability",
+      "version": "68.2.0",
+      "date": "2019-10-22"
+    },
+    {
+      "type": "stability",
+      "version": "70.0.1",
+      "date": "2019-10-31"
+    },
+    {
+      "type": "major",
+      "version": "71.0",
+      "date": "2019-12-03"
+    },
+    {
+      "type": "stability",
+      "version": "68.3.0",
+      "date": "2019-12-03"
+    },
+    {
+      "type": "major",
+      "version": "72.0",
+      "date": "2020-01-07"
+    },
+    {
+      "type": "stability",
+      "version": "68.4.0",
+      "date": "2020-01-07"
+    },
+    {
+      "type": "stability",
+      "version": "72.0.1",
+      "date": "2020-01-08"
+    },
+    {
+      "type": "stability",
+      "version": "68.4.1",
+      "date": "2020-01-08"
+    },
+    {
+      "type": "stability",
+      "version": "68.4.2",
+      "date": "2020-01-20"
+    },
+    {
+      "type": "stability",
+      "version": "72.0.2",
+      "date": "2020-01-20"
+    },
+    {
+      "type": "major",
+      "version": "73.0",
+      "date": "2020-02-11"
+    },
+    {
+      "type": "stability",
+      "version": "68.5.0",
+      "date": "2020-02-11"
+    },
+    {
+      "type": "stability",
+      "version": "73.0.1",
+      "date": "2020-02-18"
+    },
+    {
+      "type": "major",
+      "version": "74.0",
+      "date": "2020-03-10"
+    },
+    {
+      "type": "stability",
+      "version": "68.6.0",
+      "date": "2020-03-10"
+    },
+    {
+      "type": "stability",
+      "version": "68.6.1",
+      "date": "2020-04-03"
+    },
+    {
+      "type": "stability",
+      "version": "74.0.1",
+      "date": "2020-04-03"
+    },
+    {
+      "type": "major",
+      "version": "75.0",
+      "date": "2020-04-07"
+    },
+    {
+      "type": "stability",
+      "version": "68.7.0",
+      "date": "2020-04-07"
+    },
+    {
+      "type": "major",
+      "version": "76.0",
+      "date": "2020-05-05"
+    },
+    {
+      "type": "stability",
+      "version": "68.8.0",
+      "date": "2020-05-05"
+    },
+    {
+      "type": "stability",
+      "version": "76.0.1",
+      "date": "2020-05-08"
+    },
+    {
+      "type": "major",
+      "version": "77.0",
+      "date": "2020-06-02"
+    },
+    {
+      "type": "stability",
+      "version": "68.9.0",
+      "date": "2020-06-02"
+    },
+    {
+      "type": "stability",
+      "version": "77.0.1",
+      "date": "2020-06-03"
+    },
+    {
+      "type": "major",
+      "version": "78.0",
+      "date": "2020-06-30"
+    },
+    {
+      "type": "stability",
+      "version": "68.10.0",
+      "date": "2020-06-30"
+    },
+    {
+      "type": "stability",
+      "version": "78.0.1",
+      "date": "2020-07-01"
+    },
+    {
+      "type": "stability",
+      "version": "78.0.2",
+      "date": "2020-07-09"
+    },
+    {
+      "type": "major",
+      "version": "79.0",
+      "date": "2020-07-28"
+    },
+    {
+      "type": "stability",
+      "version": "68.11.0",
+      "date": "2020-07-28"
+    },
+    {
+      "type": "stability",
+      "version": "78.1.0",
+      "date": "2020-07-28"
+    },
+    {
+      "type": "major",
+      "version": "80.0",
+      "date": "2020-08-25"
+    },
+    {
+      "type": "stability",
+      "version": "68.12.0",
+      "date": "2020-08-25"
+    },
+    {
+      "type": "stability",
+      "version": "78.2.0",
+      "date": "2020-08-25"
+    },
+    {
+      "type": "stability",
+      "version": "80.0.1",
+      "date": "2020-09-01"
+    },
+    {
+      "type": "major",
+      "version": "81.0",
+      "date": "2020-09-22"
+    },
+    {
+      "type": "stability",
+      "version": "78.3.0",
+      "date": "2020-09-22"
+    },
+    {
+      "type": "stability",
+      "version": "81.0.1",
+      "date": "2020-10-01"
+    },
+    {
+      "type": "stability",
+      "version": "78.3.1",
+      "date": "2020-10-01"
+    },
+    {
+      "type": "stability",
+      "version": "81.0.2",
+      "date": "2020-10-13"
+    },
+    {
+      "type": "major",
+      "version": "82.0",
+      "date": "2020-10-20"
+    },
+    {
+      "type": "stability",
+      "version": "78.4.0",
+      "date": "2020-10-20"
+    },
+    {
+      "type": "stability",
+      "version": "82.0.1",
+      "date": "2020-10-27"
+    },
+    {
+      "type": "stability",
+      "version": "82.0.2",
+      "date": "2020-10-28"
+    },
+    {
+      "type": "stability",
+      "version": "82.0.3",
+      "date": "2020-11-09"
+    },
+    {
+      "type": "stability",
+      "version": "78.4.1",
+      "date": "2020-11-09"
+    },
+    {
+      "type": "major",
+      "version": "83.0",
+      "date": "2020-11-17"
+    },
+    {
+      "type": "stability",
+      "version": "78.5.0",
+      "date": "2020-11-17"
+    },
+    {
+      "type": "major",
+      "version": "84.0",
+      "date": "2020-12-15"
+    },
+    {
+      "type": "stability",
+      "version": "78.6.0",
+      "date": "2020-12-15"
+    },
+    {
+      "type": "stability",
+      "version": "84.0.1",
+      "date": "2020-12-22"
+    },
+    {
+      "type": "stability",
+      "version": "84.0.2",
+      "date": "2021-01-06"
+    },
+    {
+      "type": "stability",
+      "version": "78.6.1",
+      "date": "2021-01-06"
+    },
+    {
+      "type": "major",
+      "version": "85.0",
+      "date": "2021-01-26"
+    },
+    {
+      "type": "stability",
+      "version": "78.7.0",
+      "date": "2021-01-26"
+    },
+    {
+      "type": "stability",
+      "version": "85.0.1",
+      "date": "2021-02-05"
+    },
+    {
+      "type": "stability",
+      "version": "78.7.1",
+      "date": "2021-02-05"
+    },
+    {
+      "type": "stability",
+      "version": "85.0.2",
+      "date": "2021-02-09"
+    },
+    {
+      "type": "major",
+      "version": "86.0",
+      "date": "2021-02-23"
+    },
+    {
+      "type": "stability",
+      "version": "78.8.0",
+      "date": "2021-02-23"
+    },
+    {
+      "type": "stability",
+      "version": "86.0.1",
+      "date": "2021-03-11"
+    },
+    {
+      "type": "major",
+      "version": "87.0",
+      "date": "2021-03-23"
+    },
+    {
+      "type": "stability",
+      "version": "78.9.0",
+      "date": "2021-03-23"
+    },
+    {
+      "type": "major",
+      "version": "88.0",
+      "date": "2021-04-19"
+    },
+    {
+      "type": "stability",
+      "version": "78.10.0",
+      "date": "2021-04-19"
+    },
+    {
+      "type": "stability",
+      "version": "78.10.1",
+      "date": "2021-05-04"
+    },
+    {
+      "type": "stability",
+      "version": "88.0.1",
+      "date": "2021-05-05"
+    },
+    {
+      "type": "major",
+      "version": "89.0",
+      "date": "2021-06-01"
+    },
+    {
+      "type": "stability",
+      "version": "78.11.0",
+      "date": "2021-06-01"
+    },
+    {
+      "type": "stability",
+      "version": "89.0.1",
+      "date": "2021-06-16"
+    },
+    {
+      "type": "stability",
+      "version": "89.0.2",
+      "date": "2021-06-23"
+    },
+    {
+      "type": "major",
+      "version": "90.0",
+      "date": "2021-07-13"
+    },
+    {
+      "type": "stability",
+      "version": "78.12.0",
+      "date": "2021-07-13"
+    },
+    {
+      "type": "stability",
+      "version": "90.0.1",
+      "date": "2021-07-19"
+    },
+    {
+      "type": "stability",
+      "version": "90.0.2",
+      "date": "2021-07-22"
+    },
+    {
+      "type": "major",
+      "version": "91.0",
+      "date": "2021-08-10"
+    },
+    {
+      "type": "stability",
+      "version": "78.13.0",
+      "date": "2021-08-10"
+    },
+    {
+      "type": "stability",
+      "version": "91.0.1",
+      "date": "2021-08-17"
+    },
+    {
+      "type": "stability",
+      "version": "91.0.2",
+      "date": "2021-08-24"
+    },
+    {
+      "type": "major",
+      "version": "92.0",
+      "date": "2021-09-07"
+    },
+    {
+      "type": "stability",
+      "version": "78.14.0",
+      "date": "2021-09-07"
+    },
+    {
+      "type": "stability",
+      "version": "91.1.0",
+      "date": "2021-09-07"
+    },
+    {
+      "type": "stability",
+      "version": "92.0.1",
+      "date": "2021-09-23"
+    },
+    {
+      "type": "major",
+      "version": "93.0",
+      "date": "2021-10-05"
+    },
+    {
+      "type": "stability",
+      "version": "78.15.0",
+      "date": "2021-10-05"
+    },
+    {
+      "type": "stability",
+      "version": "91.2.0",
+      "date": "2021-10-05"
+    },
+    {
+      "type": "major",
+      "version": "94.0",
+      "date": "2021-11-02"
+    },
+    {
+      "type": "stability",
+      "version": "91.3.0",
+      "date": "2021-11-02"
+    },
+    {
+      "type": "stability",
+      "version": "94.0.1",
+      "date": "2021-11-04"
+    },
+    {
+      "type": "stability",
+      "version": "94.0.2",
+      "date": "2021-11-22"
+    },
+    {
+      "type": "major",
+      "version": "95.0",
+      "date": "2021-12-07"
+    },
+    {
+      "type": "stability",
+      "version": "91.4.0",
+      "date": "2021-12-07"
+    },
+    {
+      "type": "stability",
+      "version": "95.0.1",
+      "date": "2021-12-16"
+    },
+    {
+      "type": "stability",
+      "version": "91.4.1",
+      "date": "2021-12-16"
+    },
+    {
+      "type": "stability",
+      "version": "95.0.2",
+      "date": "2021-12-19"
+    },
+    {
+      "type": "major",
+      "version": "96.0",
+      "date": "2022-01-11"
+    },
+    {
+      "type": "stability",
+      "version": "91.5.0",
+      "date": "2022-01-11"
+    },
+    {
+      "type": "stability",
+      "version": "96.0.1",
+      "date": "2022-01-14"
+    },
+    {
+      "type": "stability",
+      "version": "96.0.2",
+      "date": "2022-01-20"
+    },
+    {
+      "type": "stability",
+      "version": "96.0.3",
+      "date": "2022-01-27"
+    },
+    {
+      "type": "stability",
+      "version": "91.5.1",
+      "date": "2022-01-27"
+    },
+    {
+      "type": "major",
+      "version": "97.0",
+      "date": "2022-02-08"
+    },
+    {
+      "type": "stability",
+      "version": "91.6.0",
+      "date": "2022-02-08"
+    },
+    {
+      "type": "stability",
+      "version": "97.0.1",
+      "date": "2022-02-17"
+    },
+    {
+      "type": "stability",
+      "version": "97.0.2",
+      "date": "2022-03-05"
+    },
+    {
+      "type": "stability",
+      "version": "91.6.1",
+      "date": "2022-03-05"
+    },
+    {
+      "type": "major",
+      "version": "98.0",
+      "date": "2022-03-08"
+    },
+    {
+      "type": "stability",
+      "version": "91.7.0",
+      "date": "2022-03-08"
+    },
+    {
+      "type": "stability",
+      "version": "98.0.1",
+      "date": "2022-03-14"
+    },
+    {
+      "type": "stability",
+      "version": "91.7.1",
+      "date": "2022-03-14"
+    },
+    {
+      "type": "stability",
+      "version": "98.0.2",
+      "date": "2022-03-23"
+    },
+    {
+      "type": "major",
+      "version": "99.0",
+      "date": "2022-04-05"
+    },
+    {
+      "type": "stability",
+      "version": "91.8.0",
+      "date": "2022-04-05"
+    },
+    {
+      "type": "stability",
+      "version": "99.0.1",
+      "date": "2022-04-12"
+    },
+    {
+      "type": "major",
+      "version": "100.0",
+      "date": "2022-05-03"
+    },
+    {
+      "type": "stability",
+      "version": "91.9.0",
+      "date": "2022-05-03"
+    },
+    {
+      "type": "stability",
+      "version": "100.0.1",
+      "date": "2022-05-16"
+    },
+    {
+      "type": "stability",
+      "version": "91.9.1",
+      "date": "2022-05-20"
+    },
+    {
+      "type": "stability",
+      "version": "100.0.2",
+      "date": "2022-05-20"
+    },
+    {
+      "type": "major",
+      "version": "101.0",
+      "date": "2022-05-31"
+    },
+    {
+      "type": "stability",
+      "version": "91.10.0",
+      "date": "2022-05-31"
+    },
+    {
+      "type": "stability",
+      "version": "101.0.1",
+      "date": "2022-06-09"
+    },
+    {
+      "type": "major",
+      "version": "102.0",
+      "date": "2022-06-28"
+    },
+    {
+      "type": "stability",
+      "version": "91.11.0",
+      "date": "2022-06-28"
+    },
+    {
+      "type": "stability",
+      "version": "102.0.1",
+      "date": "2022-07-13"
+    },
+    {
+      "type": "major",
+      "version": "103.0",
+      "date": "2022-07-26"
+    },
+    {
+      "type": "stability",
+      "version": "91.12.0",
+      "date": "2022-07-26"
+    },
+    {
+      "type": "stability",
+      "version": "102.1.0",
+      "date": "2022-07-26"
+    },
+    {
+      "type": "stability",
+      "version": "103.0.1",
+      "date": "2022-08-01"
+    },
+    {
+      "type": "stability",
+      "version": "103.0.2",
+      "date": "2022-08-09"
+    },
+    {
+      "type": "major",
+      "version": "104.0",
+      "date": "2022-08-23"
+    },
+    {
+      "type": "stability",
+      "version": "91.13.0",
+      "date": "2022-08-23"
+    },
+    {
+      "type": "stability",
+      "version": "102.2.0",
+      "date": "2022-08-23"
+    },
+    {
+      "type": "stability",
+      "version": "104.0.1",
+      "date": "2022-08-30"
+    },
+    {
+      "type": "stability",
+      "version": "104.0.2",
+      "date": "2022-09-06"
+    },
+    {
+      "type": "major",
+      "version": "105.0",
+      "date": "2022-09-20"
+    },
+    {
+      "type": "stability",
+      "version": "102.3.0",
+      "date": "2022-09-20"
+    },
+    {
+      "type": "stability",
+      "version": "105.0.1",
+      "date": "2022-09-23"
+    },
+    {
+      "type": "stability",
+      "version": "105.0.2",
+      "date": "2022-10-04"
+    },
+    {
+      "type": "stability",
+      "version": "105.0.3",
+      "date": "2022-10-07"
+    },
+    {
+      "type": "major",
+      "version": "106.0",
+      "date": "2022-10-18"
+    },
+    {
+      "type": "stability",
+      "version": "102.4.0",
+      "date": "2022-10-18"
+    },
+    {
+      "type": "stability",
+      "version": "106.0.1",
+      "date": "2022-10-20"
+    },
+    {
+      "type": "stability",
+      "version": "106.0.2",
+      "date": "2022-10-26"
+    },
+    {
+      "type": "stability",
+      "version": "106.0.3",
+      "date": "2022-10-31"
+    },
+    {
+      "type": "stability",
+      "version": "106.0.4",
+      "date": "2022-11-03"
+    },
+    {
+      "type": "stability",
+      "version": "106.0.5",
+      "date": "2022-11-04"
+    },
+    {
+      "type": "major",
+      "version": "107.0",
+      "date": "2022-11-15"
+    },
+    {
+      "type": "stability",
+      "version": "102.5.0",
+      "date": "2022-11-15"
+    },
+    {
+      "type": "stability",
+      "version": "107.0.1",
+      "date": "2022-11-29"
+    },
+    {
+      "type": "major",
+      "version": "108.0",
+      "date": "2022-12-13"
+    },
+    {
+      "type": "stability",
+      "version": "102.6.0",
+      "date": "2022-12-13"
+    },
+    {
+      "type": "stability",
+      "version": "108.0.1",
+      "date": "2022-12-16"
+    },
+    {
+      "type": "stability",
+      "version": "108.0.2",
+      "date": "2023-01-05"
+    },
+    {
+      "type": "major",
+      "version": "109.0",
+      "date": "2023-01-17"
+    },
+    {
+      "type": "stability",
+      "version": "102.7.0",
+      "date": "2023-01-17"
+    },
+    {
+      "type": "stability",
+      "version": "109.0.1",
+      "date": "2023-01-31"
+    },
+    {
+      "type": "major",
+      "version": "110.0",
+      "date": "2023-02-14"
+    },
+    {
+      "type": "stability",
+      "version": "102.8.0",
+      "date": "2023-02-14"
+    },
+    {
+      "type": "stability",
+      "version": "110.0.1",
+      "date": "2023-02-28"
+    },
+    {
+      "type": "major",
+      "version": "111.0",
+      "date": "2023-03-14"
+    },
+    {
+      "type": "stability",
+      "version": "102.9.0",
+      "date": "2023-03-14"
+    },
+    {
+      "type": "stability",
+      "version": "111.0.1",
+      "date": "2023-03-21"
+    },
+    {
+      "type": "major",
+      "version": "112.0",
+      "date": "2023-04-11"
+    },
+    {
+      "type": "stability",
+      "version": "102.10.0",
+      "date": "2023-04-11"
+    },
+    {
+      "type": "stability",
+      "version": "112.0.1",
+      "date": "2023-04-17"
+    },
+    {
+      "type": "stability",
+      "version": "112.0.2",
+      "date": "2023-04-25"
+    },
+    {
+      "type": "major",
+      "version": "113.0",
+      "date": "2023-05-09"
+    },
+    {
+      "type": "stability",
+      "version": "102.11.0",
+      "date": "2023-05-09"
+    },
+    {
+      "type": "stability",
+      "version": "113.0.1",
+      "date": "2023-05-12"
+    },
+    {
+      "type": "stability",
+      "version": "113.0.2",
+      "date": "2023-05-23"
+    },
+    {
+      "type": "major",
+      "version": "114.0",
+      "date": "2023-06-06"
+    },
+    {
+      "type": "stability",
+      "version": "102.12.0",
+      "date": "2023-06-06"
+    },
+    {
+      "type": "stability",
+      "version": "114.0.1",
+      "date": "2023-06-09"
+    },
+    {
+      "type": "stability",
+      "version": "114.0.2",
+      "date": "2023-06-20"
+    },
+    {
+      "type": "major",
+      "version": "115.0",
+      "date": "2023-07-04"
+    },
+    {
+      "type": "stability",
+      "version": "102.13.0",
+      "date": "2023-07-04"
+    },
+    {
+      "type": "stability",
+      "version": "115.0.1",
+      "date": "2023-07-07"
+    },
+    {
+      "type": "stability",
+      "version": "115.0.2",
+      "date": "2023-07-11"
+    },
+    {
+      "type": "stability",
+      "version": "115.0.3",
+      "date": "2023-07-27"
+    },
+    {
+      "type": "major",
+      "version": "116.0",
+      "date": "2023-08-01"
+    },
+    {
+      "type": "stability",
+      "version": "102.14.0",
+      "date": "2023-08-01"
+    },
+    {
+      "type": "stability",
+      "version": "115.1.0",
+      "date": "2023-08-01"
+    },
+    {
+      "type": "stability",
+      "version": "116.0.1",
+      "date": "2023-08-04"
+    },
+    {
+      "type": "stability",
+      "version": "116.0.2",
+      "date": "2023-08-07"
+    },
+    {
+      "type": "stability",
+      "version": "116.0.3",
+      "date": "2023-08-16"
+    },
+    {
+      "type": "major",
+      "version": "117.0",
+      "date": "2023-08-29"
+    },
+    {
+      "type": "stability",
+      "version": "102.15.0",
+      "date": "2023-08-29"
+    },
+    {
+      "type": "stability",
+      "version": "115.2.0",
+      "date": "2023-08-29"
+    },
+    {
+      "type": "stability",
+      "version": "102.15.1",
+      "date": "2023-09-12"
+    },
+    {
+      "type": "stability",
+      "version": "115.2.1",
+      "date": "2023-09-12"
+    },
+    {
+      "type": "stability",
+      "version": "117.0.1",
+      "date": "2023-09-12"
+    },
+    {
+      "type": "major",
+      "version": "118.0",
+      "date": "2023-09-26"
+    },
+    {
+      "type": "stability",
+      "version": "115.3.0",
+      "date": "2023-09-26"
+    },
+    {
+      "type": "stability",
+      "version": "118.0.1",
+      "date": "2023-09-28"
+    },
+    {
+      "type": "stability",
+      "version": "115.3.1",
+      "date": "2023-09-28"
+    },
+    {
+      "type": "stability",
+      "version": "118.0.2",
+      "date": "2023-10-10"
+    },
+    {
+      "type": "major",
+      "version": "119.0",
+      "date": "2023-10-24"
+    },
+    {
+      "type": "stability",
+      "version": "115.4.0",
+      "date": "2023-10-24"
+    },
+    {
+      "type": "stability",
+      "version": "119.0.1",
+      "date": "2023-11-07"
+    },
+    {
+      "type": "major",
+      "version": "120.0",
+      "date": "2023-11-21"
+    },
+    {
+      "type": "stability",
+      "version": "115.5.0",
+      "date": "2023-11-21"
+    },
+    {
+      "type": "stability",
+      "version": "120.0.1",
+      "date": "2023-11-30"
+    },
+    {
+      "type": "major",
+      "version": "121.0",
+      "date": "2023-12-19"
+    },
+    {
+      "type": "stability",
+      "version": "115.6.0",
+      "date": "2023-12-19"
+    },
+    {
+      "type": "stability",
+      "version": "121.0.1",
+      "date": "2024-01-09"
+    },
+    {
+      "type": "major",
+      "version": "122.0",
+      "date": "2024-01-23"
+    },
+    {
+      "type": "stability",
+      "version": "115.7.0",
+      "date": "2024-01-23"
+    },
+    {
+      "type": "stability",
+      "version": "122.0.1",
+      "date": "2024-02-06"
+    },
+    {
+      "type": "major",
+      "version": "123.0",
+      "date": "2024-02-20"
+    },
+    {
+      "type": "stability",
+      "version": "115.8.0",
+      "date": "2024-02-20"
+    },
+    {
+      "type": "stability",
+      "version": "123.0.1",
+      "date": "2024-03-05"
+    },
+    {
+      "type": "major",
+      "version": "124.0",
+      "date": "2024-03-19"
+    },
+    {
+      "type": "stability",
+      "version": "115.9.0",
+      "date": "2024-03-19"
+    },
+    {
+      "type": "stability",
+      "version": "124.0.1",
+      "date": "2024-03-22"
+    },
+    {
+      "type": "stability",
+      "version": "115.9.1",
+      "date": "2024-03-22"
+    },
+    {
+      "type": "stability",
+      "version": "124.0.2",
+      "date": "2024-04-02"
+    },
+    {
+      "type": "major",
+      "version": "125.0.1",
+      "date": "2024-04-16"
+    },
+    {
+      "type": "stability",
+      "version": "125.0.1",
+      "date": "2024-04-16"
+    },
+    {
+      "type": "stability",
+      "version": "115.10.0",
+      "date": "2024-04-16"
+    },
+    {
+      "type": "stability",
+      "version": "125.0.2",
+      "date": "2024-04-22"
+    },
+    {
+      "type": "stability",
+      "version": "125.0.3",
+      "date": "2024-04-29"
+    },
+    {
+      "type": "major",
+      "version": "126.0",
+      "date": "2024-05-14"
+    },
+    {
+      "type": "stability",
+      "version": "115.11.0",
+      "date": "2024-05-14"
+    },
+    {
+      "type": "stability",
+      "version": "126.0.1",
+      "date": "2024-05-28"
+    },
+    {
+      "type": "major",
+      "version": "127.0",
+      "date": "2024-06-11"
+    },
+    {
+      "type": "stability",
+      "version": "115.12.0",
+      "date": "2024-06-11"
+    },
+    {
+      "type": "stability",
+      "version": "127.0.1",
+      "date": "2024-06-19"
+    },
+    {
+      "type": "stability",
+      "version": "127.0.2",
+      "date": "2024-06-25"
+    },
+    {
+      "type": "major",
+      "version": "128.0",
+      "date": "2024-07-09"
+    },
+    {
+      "type": "stability",
+      "version": "115.13.0",
+      "date": "2024-07-09"
+    },
+    {
+      "type": "stability",
+      "version": "128.0.2",
+      "date": "2024-07-23"
+    },
+    {
+      "type": "stability",
+      "version": "128.0.3",
+      "date": "2024-07-26"
+    },
+    {
+      "type": "major",
+      "version": "129.0",
+      "date": "2024-08-06"
+    },
+    {
+      "type": "stability",
+      "version": "115.14.0",
+      "date": "2024-08-06"
+    },
+    {
+      "type": "stability",
+      "version": "128.1.0",
+      "date": "2024-08-06"
+    },
+    {
+      "type": "stability",
+      "version": "129.0.1",
+      "date": "2024-08-13"
+    },
+    {
+      "type": "stability",
+      "version": "129.0.2",
+      "date": "2024-08-20"
+    },
+    {
+      "type": "major",
+      "version": "130.0",
+      "date": "2024-09-03"
+    },
+    {
+      "type": "stability",
+      "version": "128.2.0",
+      "date": "2024-09-03"
+    },
+    {
+      "type": "stability",
+      "version": "115.15.0",
+      "date": "2024-09-03"
+    },
+    {
+      "type": "stability",
+      "version": "130.0.1",
+      "date": "2024-09-17"
+    },
+    {
+      "type": "major",
+      "version": "131.0",
+      "date": "2024-10-01"
+    },
+    {
+      "type": "stability",
+      "version": "128.3.0",
+      "date": "2024-10-01"
+    },
+    {
+      "type": "stability",
+      "version": "115.16.0",
+      "date": "2024-10-01"
+    },
+    {
+      "type": "stability",
+      "version": "131.0.2",
+      "date": "2024-10-09"
+    },
+    {
+      "type": "stability",
+      "version": "128.3.1",
+      "date": "2024-10-09"
+    },
+    {
+      "type": "stability",
+      "version": "115.16.1",
+      "date": "2024-10-09"
+    },
+    {
+      "type": "stability",
+      "version": "131.0.3",
+      "date": "2024-10-14"
+    },
+    {
+      "type": "major",
+      "version": "132.0",
+      "date": "2024-10-29"
+    },
+    {
+      "type": "stability",
+      "version": "115.17.0",
+      "date": "2024-10-29"
+    },
+    {
+      "type": "stability",
+      "version": "128.4.0",
+      "date": "2024-10-29"
+    },
+    {
+      "type": "stability",
+      "version": "132.0.1",
+      "date": "2024-11-04"
+    },
+    {
+      "type": "stability",
+      "version": "132.0.2",
+      "date": "2024-11-12"
+    },
+    {
+      "type": "major",
+      "version": "133.0",
+      "date": "2024-11-26"
+    },
+    {
+      "type": "stability",
+      "version": "128.5.0",
+      "date": "2024-11-26"
+    },
+    {
+      "type": "stability",
+      "version": "115.18.0",
+      "date": "2024-11-26"
+    },
+    {
+      "type": "stability",
+      "version": "128.5.1",
+      "date": "2024-11-29"
+    },
+    {
+      "type": "stability",
+      "version": "133.0.3",
+      "date": "2024-12-10"
+    },
+    {
+      "type": "stability",
+      "version": "128.5.2",
+      "date": "2024-12-12"
+    },
+    {
+      "type": "major",
+      "version": "134.0",
+      "date": "2025-01-07"
+    },
+    {
+      "type": "stability",
+      "version": "128.6.0",
+      "date": "2025-01-07"
+    },
+    {
+      "type": "stability",
+      "version": "115.19.0",
+      "date": "2025-01-07"
+    },
+    {
+      "type": "stability",
+      "version": "134.0.1",
+      "date": "2025-01-14"
+    },
+    {
+      "type": "stability",
+      "version": "134.0.2",
+      "date": "2025-01-21"
+    }
+  ]
+}
