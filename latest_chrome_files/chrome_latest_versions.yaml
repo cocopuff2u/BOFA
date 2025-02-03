@@ -1,0 +1,17 @@
+beta:
+  beta_download: https://dl.google.com/chrome/mac/beta/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg
+  time: N/A
+  version: N/A
+canary:
+  canary_download: https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg
+  time: N/A
+  version: N/A
+dev:
+  dev_download: https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg
+  time: N/A
+  version: N/A
+last_updated: February 03, 2025 02:45 PM
+stable:
+  latest_download: https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg
+  time: N/A
+  version: N/A

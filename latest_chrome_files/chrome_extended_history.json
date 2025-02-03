@@ -1,0 +1,637 @@
+{
+  "last_updated": "February 03, 2025 02:45 PM ",
+  "versions": [
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/132.0.6834.160",
+      "version": "132.0.6834.160"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/132.0.6834.111",
+      "version": "132.0.6834.111"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/132.0.6834.84",
+      "version": "132.0.6834.84"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/130.0.6723.191",
+      "version": "130.0.6723.191"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/130.0.6723.170",
+      "version": "130.0.6723.170"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/130.0.6723.160",
+      "version": "130.0.6723.160"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/130.0.6723.152",
+      "version": "130.0.6723.152"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/130.0.6723.137",
+      "version": "130.0.6723.137"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/130.0.6723.127",
+      "version": "130.0.6723.127"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/130.0.6723.117",
+      "version": "130.0.6723.117"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/130.0.6723.92",
+      "version": "130.0.6723.92"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/130.0.6723.70",
+      "version": "130.0.6723.70"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/130.0.6723.59",
+      "version": "130.0.6723.59"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/128.0.6613.186",
+      "version": "128.0.6613.186"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/128.0.6613.178",
+      "version": "128.0.6613.178"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/128.0.6613.170",
+      "version": "128.0.6613.170"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/128.0.6613.162",
+      "version": "128.0.6613.162"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/128.0.6613.138",
+      "version": "128.0.6613.138"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/128.0.6613.120",
+      "version": "128.0.6613.120"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/128.0.6613.114",
+      "version": "128.0.6613.114"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/128.0.6613.85",
+      "version": "128.0.6613.85"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/126.0.6478.234",
+      "version": "126.0.6478.234"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/126.0.6478.226",
+      "version": "126.0.6478.226"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/126.0.6478.183",
+      "version": "126.0.6478.183"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/126.0.6478.182",
+      "version": "126.0.6478.182"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/126.0.6478.127",
+      "version": "126.0.6478.127"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/126.0.6478.126",
+      "version": "126.0.6478.126"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/126.0.6478.115",
+      "version": "126.0.6478.115"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/126.0.6478.114",
+      "version": "126.0.6478.114"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/126.0.6478.62",
+      "version": "126.0.6478.62"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/126.0.6478.61",
+      "version": "126.0.6478.61"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/126.0.6478.56",
+      "version": "126.0.6478.56"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/124.0.6367.243",
+      "version": "124.0.6367.243"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/124.0.6367.233",
+      "version": "124.0.6367.233"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/124.0.6367.230",
+      "version": "124.0.6367.230"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/124.0.6367.221",
+      "version": "124.0.6367.221"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/124.0.6367.208",
+      "version": "124.0.6367.208"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/124.0.6367.207",
+      "version": "124.0.6367.207"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/124.0.6367.202",
+      "version": "124.0.6367.202"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/124.0.6367.201",
+      "version": "124.0.6367.201"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/124.0.6367.156",
+      "version": "124.0.6367.156"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/124.0.6367.155",
+      "version": "124.0.6367.155"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/124.0.6367.119",
+      "version": "124.0.6367.119"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/124.0.6367.118",
+      "version": "124.0.6367.118"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/124.0.6367.92",
+      "version": "124.0.6367.92"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/124.0.6367.91",
+      "version": "124.0.6367.91"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/124.0.6367.78",
+      "version": "124.0.6367.78"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/124.0.6367.61",
+      "version": "124.0.6367.61"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/124.0.6367.60",
+      "version": "124.0.6367.60"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/122.0.6261.156",
+      "version": "122.0.6261.156"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/122.0.6261.148",
+      "version": "122.0.6261.148"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/122.0.6261.139",
+      "version": "122.0.6261.139"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/122.0.6261.129",
+      "version": "122.0.6261.129"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/122.0.6261.112",
+      "version": "122.0.6261.112"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/122.0.6261.95",
+      "version": "122.0.6261.95"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/122.0.6261.70",
+      "version": "122.0.6261.70"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/122.0.6261.58",
+      "version": "122.0.6261.58"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/120.0.6099.291",
+      "version": "120.0.6099.291"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/120.0.6099.283",
+      "version": "120.0.6099.283"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/120.0.6099.276",
+      "version": "120.0.6099.276"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/120.0.6099.268",
+      "version": "120.0.6099.268"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/120.0.6099.225",
+      "version": "120.0.6099.225"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/120.0.6099.217",
+      "version": "120.0.6099.217"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/120.0.6099.200",
+      "version": "120.0.6099.200"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/120.0.6099.130",
+      "version": "120.0.6099.130"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/120.0.6099.110",
+      "version": "120.0.6099.110"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/120.0.6099.71",
+      "version": "120.0.6099.71"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/120.0.6099.63",
+      "version": "120.0.6099.63"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/118.0.5993.159",
+      "version": "118.0.5993.159"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/118.0.5993.144",
+      "version": "118.0.5993.144"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/118.0.5993.136",
+      "version": "118.0.5993.136"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/118.0.5993.129",
+      "version": "118.0.5993.129"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/118.0.5993.118",
+      "version": "118.0.5993.118"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/118.0.5993.89",
+      "version": "118.0.5993.89"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/118.0.5993.71",
+      "version": "118.0.5993.71"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/116.0.5845.228",
+      "version": "116.0.5845.228"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/116.0.5845.188",
+      "version": "116.0.5845.188"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/116.0.5845.180",
+      "version": "116.0.5845.180"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/116.0.5845.141",
+      "version": "116.0.5845.141"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/116.0.5845.111",
+      "version": "116.0.5845.111"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/116.0.5845.97",
+      "version": "116.0.5845.97"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/114.0.5735.289",
+      "version": "114.0.5735.289"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/114.0.5735.248",
+      "version": "114.0.5735.248"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/114.0.5735.243",
+      "version": "114.0.5735.243"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/114.0.5735.199",
+      "version": "114.0.5735.199"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/114.0.5735.134",
+      "version": "114.0.5735.134"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/114.0.5735.110",
+      "version": "114.0.5735.110"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/114.0.5735.91",
+      "version": "114.0.5735.91"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/112.0.5615.204",
+      "version": "112.0.5615.204"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/112.0.5615.183",
+      "version": "112.0.5615.183"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/112.0.5615.179",
+      "version": "112.0.5615.179"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/112.0.5615.138",
+      "version": "112.0.5615.138"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/112.0.5615.121",
+      "version": "112.0.5615.121"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/112.0.5615.87",
+      "version": "112.0.5615.87"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/112.0.5615.50",
+      "version": "112.0.5615.50"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/110.0.5481.208",
+      "version": "110.0.5481.208"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/110.0.5481.192",
+      "version": "110.0.5481.192"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/110.0.5481.177",
+      "version": "110.0.5481.177"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/110.0.5481.104",
+      "version": "110.0.5481.104"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/110.0.5481.100",
+      "version": "110.0.5481.100"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/110.0.5481.97",
+      "version": "110.0.5481.97"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/110.0.5481.78",
+      "version": "110.0.5481.78"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/108.0.5359.215",
+      "version": "108.0.5359.215"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/108.0.5359.179",
+      "version": "108.0.5359.179"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/108.0.5359.125",
+      "version": "108.0.5359.125"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/108.0.5359.99",
+      "version": "108.0.5359.99"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/108.0.5359.95",
+      "version": "108.0.5359.95"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/108.0.5359.72",
+      "version": "108.0.5359.72"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/106.0.5249.199",
+      "version": "106.0.5249.199"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/106.0.5249.181",
+      "version": "106.0.5249.181"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/106.0.5249.168",
+      "version": "106.0.5249.168"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/106.0.5249.165",
+      "version": "106.0.5249.165"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/106.0.5249.119",
+      "version": "106.0.5249.119"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/106.0.5249.103",
+      "version": "106.0.5249.103"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/106.0.5249.91",
+      "version": "106.0.5249.91"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/106.0.5249.62",
+      "version": "106.0.5249.62"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/104.0.5112.124",
+      "version": "104.0.5112.124"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/104.0.5112.114",
+      "version": "104.0.5112.114"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/104.0.5112.111",
+      "version": "104.0.5112.111"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/104.0.5112.102",
+      "version": "104.0.5112.102"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/104.0.5112.81",
+      "version": "104.0.5112.81"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/102.0.5005.167",
+      "version": "102.0.5005.167"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/102.0.5005.148",
+      "version": "102.0.5005.148"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/102.0.5005.134",
+      "version": "102.0.5005.134"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/102.0.5005.115",
+      "version": "102.0.5005.115"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/102.0.5005.63",
+      "version": "102.0.5005.63"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/100.0.4896.160",
+      "version": "100.0.4896.160"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/100.0.4896.143",
+      "version": "100.0.4896.143"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/100.0.4896.127",
+      "version": "100.0.4896.127"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/100.0.4896.88",
+      "version": "100.0.4896.88"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/100.0.4896.75",
+      "version": "100.0.4896.75"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/100.0.4896.60",
+      "version": "100.0.4896.60"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/98.0.4758.141",
+      "version": "98.0.4758.141"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/98.0.4758.132",
+      "version": "98.0.4758.132"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/98.0.4758.119",
+      "version": "98.0.4758.119"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/98.0.4758.102",
+      "version": "98.0.4758.102"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/98.0.4758.82",
+      "version": "98.0.4758.82"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/98.0.4758.80",
+      "version": "98.0.4758.80"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/96.0.4664.174",
+      "version": "96.0.4664.174"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/96.0.4664.131",
+      "version": "96.0.4664.131"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/96.0.4664.110",
+      "version": "96.0.4664.110"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/96.0.4664.93",
+      "version": "96.0.4664.93"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/96.0.4664.45",
+      "version": "96.0.4664.45"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/94.0.4606.113",
+      "version": "94.0.4606.113"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/94.0.4606.101",
+      "version": "94.0.4606.101"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/94.0.4606.81",
+      "version": "94.0.4606.81"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/94.0.4606.71",
+      "version": "94.0.4606.71"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/94.0.4606.61",
+      "version": "94.0.4606.61"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/94.0.4606.54",
+      "version": "94.0.4606.54"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/93.0.4577.82",
+      "version": "93.0.4577.82"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/93.0.4577.63",
+      "version": "93.0.4577.63"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/92.0.4515.176",
+      "version": "92.0.4515.176"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/92.0.4515.130",
+      "version": "92.0.4515.130"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/91.0.4472.169",
+      "version": "91.0.4472.169"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/91.0.4472.164",
+      "version": "91.0.4472.164"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/91.0.4472.114",
+      "version": "91.0.4472.114"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/91.0.4472.106",
+      "version": "91.0.4472.106"
+    },
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/91.0.4472.101",
+      "version": "91.0.4472.101"
+    }
+  ]
+}

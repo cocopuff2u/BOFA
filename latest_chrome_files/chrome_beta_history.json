@@ -1,0 +1,1849 @@
+{
+  "last_updated": "February 03, 2025 02:45 PM ",
+  "versions": [
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/133.0.6943.35",
+      "version": "133.0.6943.35"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/133.0.6943.27",
+      "version": "133.0.6943.27"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/133.0.6943.16",
+      "version": "133.0.6943.16"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/132.0.6834.83",
+      "version": "132.0.6834.83"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/132.0.6834.57",
+      "version": "132.0.6834.57"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/132.0.6834.46",
+      "version": "132.0.6834.46"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/132.0.6834.32",
+      "version": "132.0.6834.32"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/132.0.6834.15",
+      "version": "132.0.6834.15"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/132.0.6834.6",
+      "version": "132.0.6834.6"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/131.0.6778.33",
+      "version": "131.0.6778.33"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/131.0.6778.24",
+      "version": "131.0.6778.24"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/131.0.6778.13",
+      "version": "131.0.6778.13"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/131.0.6778.3",
+      "version": "131.0.6778.3"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/130.0.6723.44",
+      "version": "130.0.6723.44"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/130.0.6723.31",
+      "version": "130.0.6723.31"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/130.0.6723.19",
+      "version": "130.0.6723.19"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/130.0.6723.6",
+      "version": "130.0.6723.6"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/129.0.6668.42",
+      "version": "129.0.6668.42"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/129.0.6668.29",
+      "version": "129.0.6668.29"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/129.0.6668.22",
+      "version": "129.0.6668.22"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/129.0.6668.12",
+      "version": "129.0.6668.12"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/128.0.6613.36",
+      "version": "128.0.6613.36"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/128.0.6613.27",
+      "version": "128.0.6613.27"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/128.0.6613.18",
+      "version": "128.0.6613.18"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/128.0.6613.7",
+      "version": "128.0.6613.7"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/127.0.6533.57",
+      "version": "127.0.6533.57"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/127.0.6533.43",
+      "version": "127.0.6533.43"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/127.0.6533.26",
+      "version": "127.0.6533.26"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/127.0.6533.17",
+      "version": "127.0.6533.17"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/127.0.6533.5",
+      "version": "127.0.6533.5"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/126.0.6478.36",
+      "version": "126.0.6478.36"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/126.0.6478.26",
+      "version": "126.0.6478.26"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/126.0.6478.17",
+      "version": "126.0.6478.17"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/126.0.6478.8",
+      "version": "126.0.6478.8"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/125.0.6422.41",
+      "version": "125.0.6422.41"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/125.0.6422.26",
+      "version": "125.0.6422.26"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/125.0.6422.14",
+      "version": "125.0.6422.14"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/125.0.6422.4",
+      "version": "125.0.6422.4"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/124.0.6367.60",
+      "version": "124.0.6367.60"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/124.0.6367.49",
+      "version": "124.0.6367.49"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/124.0.6367.29",
+      "version": "124.0.6367.29"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/124.0.6367.18",
+      "version": "124.0.6367.18"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/124.0.6367.8",
+      "version": "124.0.6367.8"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/123.0.6312.46",
+      "version": "123.0.6312.46"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/123.0.6312.28",
+      "version": "123.0.6312.28"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/123.0.6312.22",
+      "version": "123.0.6312.22"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/123.0.6312.4",
+      "version": "123.0.6312.4"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/122.0.6261.57",
+      "version": "122.0.6261.57"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/122.0.6261.39",
+      "version": "122.0.6261.39"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/122.0.6261.29",
+      "version": "122.0.6261.29"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/122.0.6261.18",
+      "version": "122.0.6261.18"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/122.0.6261.6",
+      "version": "122.0.6261.6"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/121.0.6167.85",
+      "version": "121.0.6167.85"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/121.0.6167.75",
+      "version": "121.0.6167.75"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/121.0.6167.57",
+      "version": "121.0.6167.57"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/121.0.6167.47",
+      "version": "121.0.6167.47"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/121.0.6167.16",
+      "version": "121.0.6167.16"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/121.0.6167.8",
+      "version": "121.0.6167.8"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/120.0.6099.62",
+      "version": "120.0.6099.62"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/120.0.6099.56",
+      "version": "120.0.6099.56"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/120.0.6099.35",
+      "version": "120.0.6099.35"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/120.0.6099.28",
+      "version": "120.0.6099.28"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/120.0.6099.18",
+      "version": "120.0.6099.18"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/120.0.6099.5",
+      "version": "120.0.6099.5"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/119.0.6045.105",
+      "version": "119.0.6045.105"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/119.0.6045.59",
+      "version": "119.0.6045.59"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/119.0.6045.33",
+      "version": "119.0.6045.33"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/119.0.6045.21",
+      "version": "119.0.6045.21"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/119.0.6045.9",
+      "version": "119.0.6045.9"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/118.0.5993.54",
+      "version": "118.0.5993.54"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/118.0.5993.32",
+      "version": "118.0.5993.32"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/118.0.5993.18",
+      "version": "118.0.5993.18"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/118.0.5993.11",
+      "version": "118.0.5993.11"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/117.0.5938.62",
+      "version": "117.0.5938.62"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/117.0.5938.48",
+      "version": "117.0.5938.48"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/117.0.5938.35",
+      "version": "117.0.5938.35"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/117.0.5938.22",
+      "version": "117.0.5938.22"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/117.0.5938.11",
+      "version": "117.0.5938.11"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/116.0.5845.96",
+      "version": "116.0.5845.96"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/116.0.5845.82",
+      "version": "116.0.5845.82"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/116.0.5845.62",
+      "version": "116.0.5845.62"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/116.0.5845.49",
+      "version": "116.0.5845.49"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/116.0.5845.42",
+      "version": "116.0.5845.42"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/115.0.5790.98",
+      "version": "115.0.5790.98"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/115.0.5790.90",
+      "version": "115.0.5790.90"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/115.0.5790.75",
+      "version": "115.0.5790.75"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/115.0.5790.56",
+      "version": "115.0.5790.56"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/115.0.5790.40",
+      "version": "115.0.5790.40"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/115.0.5790.32",
+      "version": "115.0.5790.32"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/115.0.5790.24",
+      "version": "115.0.5790.24"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/115.0.5790.13",
+      "version": "115.0.5790.13"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/114.0.5735.45",
+      "version": "114.0.5735.45"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/114.0.5735.35",
+      "version": "114.0.5735.35"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/114.0.5735.26",
+      "version": "114.0.5735.26"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/114.0.5735.16",
+      "version": "114.0.5735.16"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/113.0.5672.63",
+      "version": "113.0.5672.63"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/113.0.5672.53",
+      "version": "113.0.5672.53"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/113.0.5672.35",
+      "version": "113.0.5672.35"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/113.0.5672.24",
+      "version": "113.0.5672.24"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/112.0.5615.49",
+      "version": "112.0.5615.49"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/112.0.5615.39",
+      "version": "112.0.5615.39"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/112.0.5615.29",
+      "version": "112.0.5615.29"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/112.0.5615.20",
+      "version": "112.0.5615.20"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/111.0.5563.64",
+      "version": "111.0.5563.64"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/111.0.5563.50",
+      "version": "111.0.5563.50"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/111.0.5563.41",
+      "version": "111.0.5563.41"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/111.0.5563.33",
+      "version": "111.0.5563.33"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/111.0.5563.19",
+      "version": "111.0.5563.19"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/110.0.5481.77",
+      "version": "110.0.5481.77"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/110.0.5481.52",
+      "version": "110.0.5481.52"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/110.0.5481.38",
+      "version": "110.0.5481.38"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/110.0.5481.30",
+      "version": "110.0.5481.30"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/109.0.5414.74",
+      "version": "109.0.5414.74"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/109.0.5414.61",
+      "version": "109.0.5414.61"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/109.0.5414.46",
+      "version": "109.0.5414.46"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/109.0.5414.36",
+      "version": "109.0.5414.36"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/109.0.5414.25",
+      "version": "109.0.5414.25"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/108.0.5359.71",
+      "version": "108.0.5359.71"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/108.0.5359.62",
+      "version": "108.0.5359.62"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/108.0.5359.48",
+      "version": "108.0.5359.48"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/108.0.5359.40",
+      "version": "108.0.5359.40"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/108.0.5359.29",
+      "version": "108.0.5359.29"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/108.0.5359.22",
+      "version": "108.0.5359.22"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/107.0.5304.62",
+      "version": "107.0.5304.62"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/107.0.5304.36",
+      "version": "107.0.5304.36"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/107.0.5304.29",
+      "version": "107.0.5304.29"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/107.0.5304.18",
+      "version": "107.0.5304.18"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/106.0.5249.61",
+      "version": "106.0.5249.61"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/106.0.5249.55",
+      "version": "106.0.5249.55"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/106.0.5249.40",
+      "version": "106.0.5249.40"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/106.0.5249.30",
+      "version": "106.0.5249.30"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/106.0.5249.21",
+      "version": "106.0.5249.21"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/105.0.5195.52",
+      "version": "105.0.5195.52"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/105.0.5195.37",
+      "version": "105.0.5195.37"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/105.0.5195.28",
+      "version": "105.0.5195.28"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/105.0.5195.19",
+      "version": "105.0.5195.19"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/104.0.5112.81",
+      "version": "104.0.5112.81"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/104.0.5112.65",
+      "version": "104.0.5112.65"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/104.0.5112.57",
+      "version": "104.0.5112.57"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/104.0.5112.48",
+      "version": "104.0.5112.48"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/104.0.5112.39",
+      "version": "104.0.5112.39"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/104.0.5112.29",
+      "version": "104.0.5112.29"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/104.0.5112.20",
+      "version": "104.0.5112.20"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/103.0.5060.53",
+      "version": "103.0.5060.53"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/103.0.5060.42",
+      "version": "103.0.5060.42"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/103.0.5060.33",
+      "version": "103.0.5060.33"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/103.0.5060.24",
+      "version": "103.0.5060.24"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/102.0.5005.61",
+      "version": "102.0.5005.61"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/102.0.5005.49",
+      "version": "102.0.5005.49"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/102.0.5005.40",
+      "version": "102.0.5005.40"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/102.0.5005.27",
+      "version": "102.0.5005.27"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/101.0.4951.41",
+      "version": "101.0.4951.41"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/101.0.4951.34",
+      "version": "101.0.4951.34"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/101.0.4951.26",
+      "version": "101.0.4951.26"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/101.0.4951.15",
+      "version": "101.0.4951.15"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/100.0.4896.60",
+      "version": "100.0.4896.60"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/100.0.4896.56",
+      "version": "100.0.4896.56"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/100.0.4896.46",
+      "version": "100.0.4896.46"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/100.0.4896.30",
+      "version": "100.0.4896.30"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/100.0.4896.20",
+      "version": "100.0.4896.20"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/99.0.4844.51",
+      "version": "99.0.4844.51"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/99.0.4844.45",
+      "version": "99.0.4844.45"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/99.0.4844.35",
+      "version": "99.0.4844.35"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/99.0.4844.27",
+      "version": "99.0.4844.27"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/99.0.4844.17",
+      "version": "99.0.4844.17"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/98.0.4758.80",
+      "version": "98.0.4758.80"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/98.0.4758.74",
+      "version": "98.0.4758.74"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/98.0.4758.66",
+      "version": "98.0.4758.66"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/98.0.4758.54",
+      "version": "98.0.4758.54"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/98.0.4758.48",
+      "version": "98.0.4758.48"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/97.0.4692.71",
+      "version": "97.0.4692.71"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/97.0.4692.56",
+      "version": "97.0.4692.56"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/97.0.4692.45",
+      "version": "97.0.4692.45"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/97.0.4692.36",
+      "version": "97.0.4692.36"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/97.0.4692.20",
+      "version": "97.0.4692.20"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/96.0.4664.45",
+      "version": "96.0.4664.45"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/96.0.4664.35",
+      "version": "96.0.4664.35"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/96.0.4664.27",
+      "version": "96.0.4664.27"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/96.0.4664.18",
+      "version": "96.0.4664.18"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/95.0.4638.54",
+      "version": "95.0.4638.54"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/95.0.4638.49",
+      "version": "95.0.4638.49"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/95.0.4638.40",
+      "version": "95.0.4638.40"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/95.0.4638.32",
+      "version": "95.0.4638.32"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/95.0.4638.17",
+      "version": "95.0.4638.17"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/94.0.4606.54",
+      "version": "94.0.4606.54"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/94.0.4606.50",
+      "version": "94.0.4606.50"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/94.0.4606.41",
+      "version": "94.0.4606.41"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/94.0.4606.31",
+      "version": "94.0.4606.31"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/94.0.4606.20",
+      "version": "94.0.4606.20"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/93.0.4577.58",
+      "version": "93.0.4577.58"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/93.0.4577.51",
+      "version": "93.0.4577.51"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/93.0.4577.42",
+      "version": "93.0.4577.42"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/93.0.4577.25",
+      "version": "93.0.4577.25"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/93.0.4577.18",
+      "version": "93.0.4577.18"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/92.0.4515.107",
+      "version": "92.0.4515.107"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/92.0.4515.101",
+      "version": "92.0.4515.101"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/92.0.4515.93",
+      "version": "92.0.4515.93"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/92.0.4515.81",
+      "version": "92.0.4515.81"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/92.0.4515.70",
+      "version": "92.0.4515.70"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/92.0.4515.59",
+      "version": "92.0.4515.59"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/92.0.4515.51",
+      "version": "92.0.4515.51"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/92.0.4515.40",
+      "version": "92.0.4515.40"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/91.0.4472.77",
+      "version": "91.0.4472.77"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/91.0.4472.69",
+      "version": "91.0.4472.69"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/91.0.4472.57",
+      "version": "91.0.4472.57"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/91.0.4472.56",
+      "version": "91.0.4472.56"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/91.0.4472.38",
+      "version": "91.0.4472.38"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/91.0.4472.37",
+      "version": "91.0.4472.37"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/91.0.4472.27",
+      "version": "91.0.4472.27"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/91.0.4472.19",
+      "version": "91.0.4472.19"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/90.0.4430.85",
+      "version": "90.0.4430.85"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/90.0.4430.72",
+      "version": "90.0.4430.72"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/90.0.4430.70",
+      "version": "90.0.4430.70"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/90.0.4430.61",
+      "version": "90.0.4430.61"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/90.0.4430.51",
+      "version": "90.0.4430.51"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/90.0.4430.41",
+      "version": "90.0.4430.41"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/90.0.4430.30",
+      "version": "90.0.4430.30"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/90.0.4430.19",
+      "version": "90.0.4430.19"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/89.0.4389.72",
+      "version": "89.0.4389.72"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/89.0.4389.69",
+      "version": "89.0.4389.69"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/89.0.4389.58",
+      "version": "89.0.4389.58"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/89.0.4389.47",
+      "version": "89.0.4389.47"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/89.0.4389.40",
+      "version": "89.0.4389.40"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/89.0.4389.23",
+      "version": "89.0.4389.23"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/88.0.4324.104",
+      "version": "88.0.4324.104"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/88.0.4324.96",
+      "version": "88.0.4324.96"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/88.0.4324.87",
+      "version": "88.0.4324.87"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/88.0.4324.79",
+      "version": "88.0.4324.79"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/88.0.4324.50",
+      "version": "88.0.4324.50"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/88.0.4324.41",
+      "version": "88.0.4324.41"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/88.0.4324.27",
+      "version": "88.0.4324.27"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/87.0.4280.66",
+      "version": "87.0.4280.66"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/87.0.4280.63",
+      "version": "87.0.4280.63"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/87.0.4280.60",
+      "version": "87.0.4280.60"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/87.0.4280.47",
+      "version": "87.0.4280.47"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/87.0.4280.40",
+      "version": "87.0.4280.40"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/87.0.4280.27",
+      "version": "87.0.4280.27"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/87.0.4280.20",
+      "version": "87.0.4280.20"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/86.0.4240.75",
+      "version": "86.0.4240.75"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/86.0.4240.72",
+      "version": "86.0.4240.72"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/86.0.4240.68",
+      "version": "86.0.4240.68"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/86.0.4240.53",
+      "version": "86.0.4240.53"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/86.0.4240.42",
+      "version": "86.0.4240.42"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/86.0.4240.30",
+      "version": "86.0.4240.30"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/86.0.4240.22",
+      "version": "86.0.4240.22"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/85.0.4183.83",
+      "version": "85.0.4183.83"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/85.0.4183.76",
+      "version": "85.0.4183.76"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/85.0.4183.69",
+      "version": "85.0.4183.69"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/85.0.4183.59",
+      "version": "85.0.4183.59"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/85.0.4183.48",
+      "version": "85.0.4183.48"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/85.0.4183.38",
+      "version": "85.0.4183.38"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/84.0.4147.89",
+      "version": "84.0.4147.89"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/84.0.4147.85",
+      "version": "84.0.4147.85"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/84.0.4147.68",
+      "version": "84.0.4147.68"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/84.0.4147.56",
+      "version": "84.0.4147.56"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/84.0.4147.45",
+      "version": "84.0.4147.45"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/84.0.4147.38",
+      "version": "84.0.4147.38"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/84.0.4147.30",
+      "version": "84.0.4147.30"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/83.0.4103.61",
+      "version": "83.0.4103.61"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/83.0.4103.56",
+      "version": "83.0.4103.56"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/83.0.4103.44",
+      "version": "83.0.4103.44"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/83.0.4103.34",
+      "version": "83.0.4103.34"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/83.0.4103.24",
+      "version": "83.0.4103.24"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/83.0.4103.14",
+      "version": "83.0.4103.14"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/81.0.4044.113",
+      "version": "81.0.4044.113"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/81.0.4044.92",
+      "version": "81.0.4044.92"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/81.0.4044.83",
+      "version": "81.0.4044.83"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/81.0.4044.69",
+      "version": "81.0.4044.69"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/81.0.4044.62",
+      "version": "81.0.4044.62"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/81.0.4044.43",
+      "version": "81.0.4044.43"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/81.0.4044.34",
+      "version": "81.0.4044.34"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/81.0.4044.26",
+      "version": "81.0.4044.26"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/81.0.4044.17",
+      "version": "81.0.4044.17"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/80.0.3987.100",
+      "version": "80.0.3987.100"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/80.0.3987.87",
+      "version": "80.0.3987.87"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/80.0.3987.85",
+      "version": "80.0.3987.85"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/80.0.3987.78",
+      "version": "80.0.3987.78"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/80.0.3987.66",
+      "version": "80.0.3987.66"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/80.0.3987.53",
+      "version": "80.0.3987.53"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/80.0.3987.42",
+      "version": "80.0.3987.42"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/80.0.3987.16",
+      "version": "80.0.3987.16"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/79.0.3945.88",
+      "version": "79.0.3945.88"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/79.0.3945.79",
+      "version": "79.0.3945.79"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/79.0.3945.74",
+      "version": "79.0.3945.74"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/79.0.3945.70",
+      "version": "79.0.3945.70"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/79.0.3945.56",
+      "version": "79.0.3945.56"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/79.0.3945.45",
+      "version": "79.0.3945.45"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/79.0.3945.36",
+      "version": "79.0.3945.36"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/79.0.3945.29",
+      "version": "79.0.3945.29"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/79.0.3945.16",
+      "version": "79.0.3945.16"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/78.0.3904.85",
+      "version": "78.0.3904.85"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/78.0.3904.70",
+      "version": "78.0.3904.70"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/78.0.3904.63",
+      "version": "78.0.3904.63"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/78.0.3904.50",
+      "version": "78.0.3904.50"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/78.0.3904.44",
+      "version": "78.0.3904.44"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/78.0.3904.34",
+      "version": "78.0.3904.34"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/78.0.3904.21",
+      "version": "78.0.3904.21"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/77.0.3865.90",
+      "version": "77.0.3865.90"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/77.0.3865.75",
+      "version": "77.0.3865.75"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/77.0.3865.70",
+      "version": "77.0.3865.70"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/77.0.3865.65",
+      "version": "77.0.3865.65"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/77.0.3865.56",
+      "version": "77.0.3865.56"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/77.0.3865.42",
+      "version": "77.0.3865.42"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/77.0.3865.35",
+      "version": "77.0.3865.35"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/77.0.3865.19",
+      "version": "77.0.3865.19"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/76.0.3809.100",
+      "version": "76.0.3809.100"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/76.0.3809.87",
+      "version": "76.0.3809.87"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/76.0.3809.80",
+      "version": "76.0.3809.80"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/76.0.3809.71",
+      "version": "76.0.3809.71"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/76.0.3809.62",
+      "version": "76.0.3809.62"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/76.0.3809.46",
+      "version": "76.0.3809.46"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/76.0.3809.36",
+      "version": "76.0.3809.36"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/76.0.3809.25",
+      "version": "76.0.3809.25"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/75.0.3770.90",
+      "version": "75.0.3770.90"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/75.0.3770.87",
+      "version": "75.0.3770.87"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/75.0.3770.80",
+      "version": "75.0.3770.80"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/75.0.3770.75",
+      "version": "75.0.3770.75"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/75.0.3770.66",
+      "version": "75.0.3770.66"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/75.0.3770.54",
+      "version": "75.0.3770.54"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/75.0.3770.52",
+      "version": "75.0.3770.52"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/75.0.3770.38",
+      "version": "75.0.3770.38"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/75.0.3770.27",
+      "version": "75.0.3770.27"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/75.0.3770.18",
+      "version": "75.0.3770.18"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/74.0.3729.131",
+      "version": "74.0.3729.131"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/74.0.3729.108",
+      "version": "74.0.3729.108"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/74.0.3729.91",
+      "version": "74.0.3729.91"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/74.0.3729.75",
+      "version": "74.0.3729.75"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/74.0.3729.61",
+      "version": "74.0.3729.61"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/74.0.3729.40",
+      "version": "74.0.3729.40"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/74.0.3729.28",
+      "version": "74.0.3729.28"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/73.0.3683.86",
+      "version": "73.0.3683.86"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/73.0.3683.75",
+      "version": "73.0.3683.75"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/73.0.3683.67",
+      "version": "73.0.3683.67"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/73.0.3683.56",
+      "version": "73.0.3683.56"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/73.0.3683.46",
+      "version": "73.0.3683.46"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/73.0.3683.39",
+      "version": "73.0.3683.39"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/73.0.3683.27",
+      "version": "73.0.3683.27"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/72.0.3626.96",
+      "version": "72.0.3626.96"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/72.0.3626.81",
+      "version": "72.0.3626.81"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/72.0.3626.77",
+      "version": "72.0.3626.77"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/72.0.3626.71",
+      "version": "72.0.3626.71"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/72.0.3626.64",
+      "version": "72.0.3626.64"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/72.0.3626.53",
+      "version": "72.0.3626.53"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/72.0.3626.28",
+      "version": "72.0.3626.28"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/72.0.3626.17",
+      "version": "72.0.3626.17"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/71.0.3578.98",
+      "version": "71.0.3578.98"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/71.0.3578.80",
+      "version": "71.0.3578.80"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/71.0.3578.75",
+      "version": "71.0.3578.75"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/71.0.3578.62",
+      "version": "71.0.3578.62"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/71.0.3578.53",
+      "version": "71.0.3578.53"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/71.0.3578.44",
+      "version": "71.0.3578.44"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/71.0.3578.30",
+      "version": "71.0.3578.30"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/71.0.3578.20",
+      "version": "71.0.3578.20"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/70.0.3538.77",
+      "version": "70.0.3538.77"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/70.0.3538.67",
+      "version": "70.0.3538.67"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/70.0.3538.54",
+      "version": "70.0.3538.54"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/70.0.3538.45",
+      "version": "70.0.3538.45"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/70.0.3538.35",
+      "version": "70.0.3538.35"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/70.0.3538.22",
+      "version": "70.0.3538.22"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/70.0.3538.16",
+      "version": "70.0.3538.16"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/69.0.3497.92",
+      "version": "69.0.3497.92"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/69.0.3497.81",
+      "version": "69.0.3497.81"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/69.0.3497.72",
+      "version": "69.0.3497.72"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/69.0.3497.57",
+      "version": "69.0.3497.57"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/69.0.3497.42",
+      "version": "69.0.3497.42"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/69.0.3497.32",
+      "version": "69.0.3497.32"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/69.0.3497.23",
+      "version": "69.0.3497.23"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/68.0.3440.75",
+      "version": "68.0.3440.75"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/68.0.3440.68",
+      "version": "68.0.3440.68"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/68.0.3440.59",
+      "version": "68.0.3440.59"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/68.0.3440.42",
+      "version": "68.0.3440.42"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/68.0.3440.33",
+      "version": "68.0.3440.33"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/68.0.3440.25",
+      "version": "68.0.3440.25"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/68.0.3440.17",
+      "version": "68.0.3440.17"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/67.0.3396.62",
+      "version": "67.0.3396.62"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/67.0.3396.56",
+      "version": "67.0.3396.56"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/67.0.3396.48",
+      "version": "67.0.3396.48"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/67.0.3396.40",
+      "version": "67.0.3396.40"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/67.0.3396.30",
+      "version": "67.0.3396.30"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/67.0.3396.18",
+      "version": "67.0.3396.18"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/66.0.3359.117",
+      "version": "66.0.3359.117"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/66.0.3359.106",
+      "version": "66.0.3359.106"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/66.0.3359.81",
+      "version": "66.0.3359.81"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/66.0.3359.66",
+      "version": "66.0.3359.66"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/66.0.3359.45",
+      "version": "66.0.3359.45"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/66.0.3359.33",
+      "version": "66.0.3359.33"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/65.0.3325.125",
+      "version": "65.0.3325.125"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/65.0.3325.106",
+      "version": "65.0.3325.106"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/65.0.3325.88",
+      "version": "65.0.3325.88"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/65.0.3325.73",
+      "version": "65.0.3325.73"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/65.0.3325.51",
+      "version": "65.0.3325.51"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/64.0.3282.140",
+      "version": "64.0.3282.140"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/64.0.3282.119",
+      "version": "64.0.3282.119"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/64.0.3282.113",
+      "version": "64.0.3282.113"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/64.0.3282.100",
+      "version": "64.0.3282.100"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/64.0.3282.99",
+      "version": "64.0.3282.99"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/64.0.3282.85",
+      "version": "64.0.3282.85"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/64.0.3282.71",
+      "version": "64.0.3282.71"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/64.0.3282.39",
+      "version": "64.0.3282.39"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/64.0.3282.24",
+      "version": "64.0.3282.24"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/63.0.3239.90",
+      "version": "63.0.3239.90"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/63.0.3239.84",
+      "version": "63.0.3239.84"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/63.0.3239.70",
+      "version": "63.0.3239.70"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/63.0.3239.59",
+      "version": "63.0.3239.59"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/63.0.3239.52",
+      "version": "63.0.3239.52"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/63.0.3239.40",
+      "version": "63.0.3239.40"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/63.0.3239.30",
+      "version": "63.0.3239.30"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/63.0.3239.18",
+      "version": "63.0.3239.18"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/62.0.3202.62",
+      "version": "62.0.3202.62"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/62.0.3202.52",
+      "version": "62.0.3202.52"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/62.0.3202.45",
+      "version": "62.0.3202.45"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/62.0.3202.38",
+      "version": "62.0.3202.38"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/62.0.3202.29",
+      "version": "62.0.3202.29"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/62.0.3202.18",
+      "version": "62.0.3202.18"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/61.0.3163.79",
+      "version": "61.0.3163.79"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/61.0.3163.71",
+      "version": "61.0.3163.71"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/61.0.3163.59",
+      "version": "61.0.3163.59"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/61.0.3163.49",
+      "version": "61.0.3163.49"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/61.0.3163.39",
+      "version": "61.0.3163.39"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/61.0.3163.31",
+      "version": "61.0.3163.31"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/60.0.3112.78",
+      "version": "60.0.3112.78"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/60.0.3112.72",
+      "version": "60.0.3112.72"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/60.0.3112.66",
+      "version": "60.0.3112.66"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/60.0.3112.50",
+      "version": "60.0.3112.50"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/60.0.3112.40",
+      "version": "60.0.3112.40"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/60.0.3112.32",
+      "version": "60.0.3112.32"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/60.0.3112.24",
+      "version": "60.0.3112.24"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/59.0.3071.86",
+      "version": "59.0.3071.86"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/59.0.3071.82",
+      "version": "59.0.3071.82"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/59.0.3071.71",
+      "version": "59.0.3071.71"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/59.0.3071.61",
+      "version": "59.0.3071.61"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/59.0.3071.47",
+      "version": "59.0.3071.47"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/59.0.3071.36",
+      "version": "59.0.3071.36"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/59.0.3071.29",
+      "version": "59.0.3071.29"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/59.0.3071.29",
+      "version": "59.0.3071.29"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/58.0.3029.81",
+      "version": "58.0.3029.81"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/58.0.3029.68",
+      "version": "58.0.3029.68"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/58.0.3029.54",
+      "version": "58.0.3029.54"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/58.0.3029.41",
+      "version": "58.0.3029.41"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/58.0.3029.33",
+      "version": "58.0.3029.33"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/58.0.3029.19",
+      "version": "58.0.3029.19"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/57.0.2987.98",
+      "version": "57.0.2987.98"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/57.0.2987.88",
+      "version": "57.0.2987.88"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/57.0.2987.74",
+      "version": "57.0.2987.74"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/57.0.2987.54",
+      "version": "57.0.2987.54"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/57.0.2987.37",
+      "version": "57.0.2987.37"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/57.0.2987.21",
+      "version": "57.0.2987.21"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/56.0.2924.76",
+      "version": "56.0.2924.76"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/56.0.2924.67",
+      "version": "56.0.2924.67"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/56.0.2924.59",
+      "version": "56.0.2924.59"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/56.0.2924.51",
+      "version": "56.0.2924.51"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/56.0.2924.28",
+      "version": "56.0.2924.28"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/56.0.2924.21",
+      "version": "56.0.2924.21"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/55.0.2883.75",
+      "version": "55.0.2883.75"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/55.0.2883.59",
+      "version": "55.0.2883.59"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/55.0.2883.52",
+      "version": "55.0.2883.52"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/55.0.2883.44",
+      "version": "55.0.2883.44"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/55.0.2883.35",
+      "version": "55.0.2883.35"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/55.0.2883.28",
+      "version": "55.0.2883.28"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/55.0.2883.21",
+      "version": "55.0.2883.21"
+    },
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/54.0.2840.59",
+      "version": "54.0.2840.59"
+    }
+  ]
+}

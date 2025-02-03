@@ -1,0 +1,23 @@
+{
+  "last_updated": "February 03, 2025 02:45 PM",
+  "stable": {
+    "version": "N/A",
+    "time": "N/A",
+    "latest_download": "https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg"
+  },
+  "beta": {
+    "version": "N/A",
+    "time": "N/A",
+    "beta_download": "https://dl.google.com/chrome/mac/beta/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg"
+  },
+  "dev": {
+    "version": "N/A",
+    "time": "N/A",
+    "dev_download": "https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg"
+  },
+  "canary": {
+    "version": "N/A",
+    "time": "N/A",
+    "canary_download": "https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg"
+  }
+}

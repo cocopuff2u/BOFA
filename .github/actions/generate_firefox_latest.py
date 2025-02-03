@@ -121,10 +121,10 @@ output_dir = os.path.join(os.getcwd(), 'latest_firefox_files')
 os.makedirs(output_dir, exist_ok=True)
 
 # Save the first XML to a local file (overwrite if exists)
-with open(os.path.join(output_dir, "firefox_versions.xml"), "w") as f:
+with open(os.path.join(output_dir, "firefox_latest_versions.xml"), "w") as f:
     f.write(xml_data)
 
-print("First XML file (firefox_versions.xml) created successfully in latest_firefox_files.")
+print("First XML file (firefox_latest_versions.xml) created successfully in latest_firefox_files.")
 
 # Create the root element for the second XML
 root_releases = ET.Element("releases")
@@ -166,10 +166,10 @@ pretty_print_xml(root_releases)
 xml_data_releases = ET.tostring(root_releases, encoding='utf8', method='xml').decode()
 
 # Save the second XML to a local file (overwrite if exists)
-with open(os.path.join(output_dir, "firefox_releases.xml"), "w") as f:
+with open(os.path.join(output_dir, "firefox_release_history.xml"), "w") as f:
     f.write(xml_data_releases)
 
-print("Second XML file (firefox_releases.xml) created successfully in latest_firefox_files.")
+print("Second XML file (firefox_release_history.xml) created successfully in latest_firefox_files.")
 
 # Create the root element for the third XML
 root_devedition = ET.Element("firefox_devedition_releases")
@@ -211,10 +211,10 @@ pretty_print_xml(root_devedition)
 xml_data_devedition = ET.tostring(root_devedition, encoding='utf8', method='xml').decode()
 
 # Save the third XML to a local file (overwrite if exists)
-with open(os.path.join(output_dir, "firefox_devedition_releases.xml"), "w") as f:
+with open(os.path.join(output_dir, "firefox_devedition_history.xml"), "w") as f:
     f.write(xml_data_devedition)
 
-print("Third XML file (firefox_devedition_releases.xml) created successfully in latest_firefox_files.")
+print("Third XML file (firefox_devedition_history.xml) created successfully in latest_firefox_files.")
 
 # Create the root element for the combined XML
 root_combined_releases = ET.Element("combined_releases")
@@ -249,10 +249,10 @@ pretty_print_xml(root_combined_releases)
 xml_data_combined_releases = ET.tostring(root_combined_releases, encoding='utf8', method='xml').decode()
 
 # Save the combined XML to a local file (overwrite if exists)
-with open(os.path.join(output_dir, "firefox_combined_releases.xml"), "w") as f:
+with open(os.path.join(output_dir, "firefox_combined_history.xml"), "w") as f:
     f.write(xml_data_combined_releases)
 
-print("Combined XML file (firefox_combined_releases.xml) created successfully in latest_firefox_files.")
+print("Combined XML file (firefox_combined_history.xml) created successfully in latest_firefox_files.")
 
 # Function to convert XML to dictionary
 def xml_to_dict(element):
@@ -288,24 +288,24 @@ yaml_data_devedition = yaml.dump(data_devedition_dict, sort_keys=False)
 yaml_data_combined_releases = yaml.dump(data_combined_releases_dict, sort_keys=False)
 
 # Save JSON and YAML files (overwrite if exists)
-with open(os.path.join(output_dir, "firefox_versions.json"), "w") as f:
+with open(os.path.join(output_dir, "firefox_latest_versions.json"), "w") as f:
     f.write(json_data)
-with open(os.path.join(output_dir, "firefox_versions.yaml"), "w") as f:
+with open(os.path.join(output_dir, "firefox_latest_versions.yaml"), "w") as f:
     f.write(yaml_data)
 
-with open(os.path.join(output_dir, "firefox_releases.json"), "w") as f:
+with open(os.path.join(output_dir, "firefox_release_history.json"), "w") as f:
     f.write(json_data_releases)
-with open(os.path.join(output_dir, "firefox_releases.yaml"), "w") as f:
+with open(os.path.join(output_dir, "firefox_release_history.yaml"), "w") as f:
     f.write(yaml_data_releases)
 
-with open(os.path.join(output_dir, "firefox_devedition_releases.json"), "w") as f:
+with open(os.path.join(output_dir, "firefox_devedition_history.json"), "w") as f:
     f.write(json_data_devedition)
-with open(os.path.join(output_dir, "firefox_devedition_releases.yaml"), "w") as f:
+with open(os.path.join(output_dir, "firefox_devedition_history.yaml"), "w") as f:
     f.write(yaml_data_devedition)
 
-with open(os.path.join(output_dir, "firefox_combined_releases.json"), "w") as f:
+with open(os.path.join(output_dir, "firefox_combined_releases_history.json"), "w") as f:
     f.write(json_data_combined_releases)
-with open(os.path.join(output_dir, "firefox_combined_releases.yaml"), "w") as f:
+with open(os.path.join(output_dir, "firefox_combined_history.yaml"), "w") as f:
     f.write(yaml_data_combined_releases)
 
 print("JSON and YAML files created successfully in latest_firefox_files.")
