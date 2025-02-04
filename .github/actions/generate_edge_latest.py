@@ -1,0 +1,232 @@
+import os
+import requests
+import plistlib
+import xml.etree.ElementTree as ET
+from xml.dom import minidom
+from datetime import datetime
+import re
+
+def fetch_edge_latest(channel, url):
+    response = requests.get(url)
+    response.raise_for_status()
+    
+    xml_content = response.text
+    
+    output_dir = "latest_edge_files"
+    os.makedirs(output_dir, exist_ok=True)
+    print(f"Directory '{output_dir}' created or already exists.")
+    
+    output_file = os.path.join(output_dir, f"edge_{channel}_version.xml")
+    with open(output_file, "w") as file:
+        file.write(xml_content)
+    print(f"File '{output_file}' written successfully.")
+    return output_file
+
+def extract_info_from_xml(file_path):
+    try:
+        with open(file_path, 'rb') as file:
+            plist_data = plistlib.load(file)
+        
+        # Debug prints to check the structure of the plist
+        print(f"Parsing plist file: {file_path}")
+        print(plist_data)
+        
+        date = plist_data[0].get('Date', 'N/A')
+        location = plist_data[0].get('Location', 'N/A')
+        title = plist_data[0].get('Title', 'N/A')
+        
+        # Format the title to only include numbers and special characters
+        version = re.sub(r'[^0-9.]+', '', title)
+        
+        # Format the date to a user-readable format
+        if date != 'N/A':
+            date = date.strftime('%B %d, %Y %I:%M %p')
+        
+        return {
+            "channel": os.path.basename(file_path).split('_')[1],
+            "date": date,
+            "location": location,
+            "version": version
+        }
+    except Exception as e:
+        print(f"Error parsing file {file_path}: {e}")
+        return {
+            "channel": os.path.basename(file_path).split('_')[1],
+            "date": 'N/A',
+            "location": 'N/A',
+            "version": 'N/A'
+        }
+
+def create_summary_xml(info_list, insider_info_list, output_file):
+    root = ET.Element("EdgeLatestVersions")
+    
+    # Add last_updated element
+    last_updated = ET.SubElement(root, "last_updated")
+    last_updated.text = datetime.now().strftime('%B %d, %Y %I:%M %p')
+    
+    for info in info_list:
+        entry = ET.SubElement(root, "Version")
+        ET.SubElement(entry, "Channel").text = info["channel"]
+        ET.SubElement(entry, "Date").text = info["date"]
+        ET.SubElement(entry, "Location").text = info["location"]
+        ET.SubElement(entry, "Version").text = info["version"]
+    
+    for info in insider_info_list:
+        entry = ET.SubElement(root, "Version")
+        ET.SubElement(entry, "Channel").text = f"insider_{info['channel']}"
+        ET.SubElement(entry, "Date").text = info["date"]
+        ET.SubElement(entry, "Location").text = info["location"]
+        ET.SubElement(entry, "Version").text = info["version"]
+    
+    tree = ET.ElementTree(root)
+    xml_str = ET.tostring(root, encoding='utf-8')
+    pretty_xml_str = minidom.parseString(xml_str).toprettyxml(indent="  ")
+    
+    with open(output_file, "w") as file:
+        file.write(pretty_xml_str)
+    print(f"Summary file '{output_file}' written successfully.")
+
+def update_last_updated_in_xml(file_path):
+    tree = ET.parse(file_path)
+    root = tree.getroot()
+    
+    # Find or create last_updated element
+    last_updated = root.find("last_updated")
+    if last_updated is None:
+        last_updated = ET.Element("last_updated")
+        root.insert(0, last_updated)
+    
+    last_updated.text = datetime.now().strftime('%B %d, %Y %I:%M %p')
+    
+    tree = ET.ElementTree(root)
+    xml_str = ET.tostring(root, encoding='utf-8')
+    pretty_xml_str = minidom.parseString(xml_str).toprettyxml(indent="  ")
+    
+    # Remove extra newlines and spaces
+    pretty_xml_str = "\n".join([line for line in pretty_xml_str.split("\n") if line.strip()])
+    
+    with open(file_path, "w") as file:
+        file.write(pretty_xml_str)
+    print(f"Updated file '{file_path}' with last_updated.")
+
+def fetch_edge_insider_canary_version(url):
+    response = requests.get(url)
+    response.raise_for_status()
+    
+    releases = response.json()
+    macos_releases = [release for release in releases[0]["Releases"] if release["Platform"] == "MacOS"]
+    
+    if not macos_releases:
+        print("No MacOS releases found.")
+        return None
+    
+    latest_release = max(macos_releases, key=lambda x: x["PublishedTime"])
+    
+    artifact = next((artifact for artifact in latest_release["Artifacts"] if artifact["ArtifactName"] == "pkg"), None)
+    location = artifact["Location"] if artifact else "N/A"
+    
+    return {
+        "channel": "canary",
+        "date": datetime.strptime(latest_release["PublishedTime"], '%Y-%m-%dT%H:%M:%S').strftime('%B %d, %Y %I:%M %p'),
+        "location": location,
+        "version": latest_release["ProductVersion"]
+    }
+
+def create_canary_xml(info, output_file):
+    root = ET.Element("EdgeCanaryVersion")
+    
+    # Add last_updated element
+    last_updated = ET.SubElement(root, "last_updated")
+    last_updated.text = datetime.now().strftime('%B %d, %Y %I:%M %p')
+    
+    entry = ET.SubElement(root, "Version")
+    ET.SubElement(entry, "Channel").text = info["channel"]
+    ET.SubElement(entry, "Date").text = info["date"]
+    ET.SubElement(entry, "Location").text = info["location"]
+    ET.SubElement(entry, "Version").text = info["version"]
+    
+    tree = ET.ElementTree(root)
+    xml_str = ET.tostring(root, encoding='utf-8')
+    pretty_xml_str = minidom.parseString(xml_str).toprettyxml(indent="  ")
+    
+    with open(output_file, "w") as file:
+        file.write(pretty_xml_str)
+    print(f"Canary file '{output_file}' written successfully.")
+
+def fetch_edge_insider_version(url, channel):
+    response = requests.get(url)
+    response.raise_for_status()
+    
+    releases = response.json()
+    macos_releases = [release for release in releases[0]["Releases"] if release["Platform"] == "MacOS"]
+    
+    if not macos_releases:
+        print(f"No MacOS releases found for {channel}.")
+        return None
+    
+    latest_release = max(macos_releases, key=lambda x: x["PublishedTime"])
+    
+    artifact = next((artifact for artifact in latest_release["Artifacts"] if artifact["ArtifactName"] == "pkg"), None)
+    location = artifact["Location"] if artifact else "N/A"
+    
+    return {
+        "channel": channel,
+        "date": datetime.strptime(latest_release["PublishedTime"], '%Y-%m-%dT%H:%M:%S').strftime('%B %d, %Y %I:%M %p'),
+        "location": location,
+        "version": latest_release["ProductVersion"]
+    }
+
+def create_insider_versions_xml(info_list, output_file):
+    root = ET.Element("EdgeInsiderVersions")
+    
+    # Add last_updated element
+    last_updated = ET.SubElement(root, "last_updated")
+    last_updated.text = datetime.now().strftime('%B %d, %Y %I:%M %p')
+    
+    for info in info_list:
+        entry = ET.SubElement(root, "Version")
+        ET.SubElement(entry, "Channel").text = info["channel"]
+        ET.SubElement(entry, "Date").text = info["date"]
+        ET.SubElement(entry, "Location").text = info["location"]
+        ET.SubElement(entry, "Version").text = info["version"]
+    
+    tree = ET.ElementTree(root)
+    xml_str = ET.tostring(root, encoding='utf-8')
+    pretty_xml_str = minidom.parseString(xml_str).toprettyxml(indent="  ")
+    
+    with open(output_file, "w") as file:
+        file.write(pretty_xml_str)
+    print(f"Insider versions file '{output_file}' written successfully.")
+
+if __name__ == "__main__":
+    channels = {
+        "current": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409EDGE01.xml",
+        "preview": "https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/0409EDGE01.xml",
+        "beta": "https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/0409EDGE01.xml"
+    }
+    
+    info_list = []
+    for channel, url in channels.items():
+        xml_file = fetch_edge_latest(channel, url)
+        info = extract_info_from_xml(xml_file)
+        info_list.append(info)
+        update_last_updated_in_xml(xml_file)
+    
+    insider_channels = {
+        "canary": "https://edgeupdates.microsoft.com/api/products/canary",
+        "dev": "https://edgeupdates.microsoft.com/api/products/dev",
+        "beta": "https://edgeupdates.microsoft.com/api/products/beta"
+    }
+    
+    insider_info_list = []
+    for channel, url in insider_channels.items():
+        info = fetch_edge_insider_version(url, channel)
+        if info:
+            insider_info_list.append(info)
+    
+    insider_output_file = os.path.join("latest_edge_files", "edge_insider_versions.xml")
+    create_insider_versions_xml(insider_info_list, insider_output_file)
+    
+    output_file = os.path.join("latest_edge_files", "edge_latest_versions.xml")
+    create_summary_xml(info_list, insider_info_list, output_file)
+    update_last_updated_in_xml(output_file)
