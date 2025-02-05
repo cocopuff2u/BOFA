@@ -1,0 +1,43 @@
+{
+    "EdgeLatestVersions": {
+        "last_updated": "February 05, 2025 09:44 AM",
+        "Version": [
+            {
+                "Channel": "current",
+                "Date": "January 30, 2025 05:37 PM",
+                "Location": "https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-132.0.2957.140.pkg",
+                "Version": "132.0.2957.140"
+            },
+            {
+                "Channel": "preview",
+                "Date": "January 30, 2025 05:37 PM",
+                "Location": "https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-132.0.2957.140.pkg",
+                "Version": "132.0.2957.140"
+            },
+            {
+                "Channel": "beta",
+                "Date": "January 30, 2025 05:37 PM",
+                "Location": "https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-132.0.2957.140.pkg",
+                "Version": "132.0.2957.140"
+            },
+            {
+                "Channel": "insider_canary",
+                "Date": "February 05, 2025 12:38 AM",
+                "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/7f277d5d-c938-4a0b-a092-c3989064172b/MicrosoftEdgeCanary-134.0.3118.0.pkg",
+                "Version": "134.0.3118.0"
+            },
+            {
+                "Channel": "insider_dev",
+                "Date": "February 04, 2025 06:11 PM",
+                "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e0bb2ce1-9c30-40f4-b09b-2c649d2c77a7/MicrosoftEdgeDev-134.0.3109.0.pkg",
+                "Version": "134.0.3109.0"
+            },
+            {
+                "Channel": "insider_beta",
+                "Date": "January 31, 2025 04:24 PM",
+                "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e4c0bc66-f41b-4c9d-94ca-97df82f87712/MicrosoftEdgeBeta-133.0.3065.39.pkg",
+                "Version": "133.0.3065.39"
+            }
+        ]
+    }
+}

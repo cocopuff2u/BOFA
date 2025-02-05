@@ -5,6 +5,9 @@ import xml.etree.ElementTree as ET
 from xml.dom import minidom
 from datetime import datetime
 import re
+import json
+import yaml
+from collections import defaultdict
 
 def fetch_edge_latest(channel, url):
     response = requests.get(url)
@@ -198,6 +201,110 @@ def create_insider_versions_xml(info_list, output_file):
         file.write(pretty_xml_str)
     print(f"Insider versions file '{output_file}' written successfully.")
 
+def convert_xml_to_json(xml_file, json_file):
+    tree = ET.parse(xml_file)
+    root = tree.getroot()
+    
+    def etree_to_dict(t):
+        d = {t.tag: {} if t.attrib else None}
+        children = list(t)
+        if children:
+            dd = defaultdict(list)
+            for dc in map(etree_to_dict, children):
+                for k, v in dc.items():
+                    dd[k].append(v)
+            d = {t.tag: {k: v[0] if len(v) == 1 else v for k, v in dd.items()}}
+        if t.attrib:
+            d[t.tag].update(('@' + k, v) for k, v in t.attrib.items())
+        if t.text:
+            text = t.text.strip()
+            if children or t.attrib:
+                if text:
+                    d[t.tag]['#text'] = text
+            else:
+                d[t.tag] = text
+        return d
+    
+    data_dict = etree_to_dict(root)
+    with open(json_file, "w") as file:
+        json.dump(data_dict, file, indent=4)
+    print(f"JSON file '{json_file}' written successfully.")
+
+def convert_xml_to_yaml(xml_file, yaml_file):
+    tree = ET.parse(xml_file)
+    root = tree.getroot()
+    
+    def etree_to_dict(t):
+        d = {t.tag: {} if t.attrib else None}
+        children = list(t)
+        if children:
+            dd = defaultdict(list)
+            for dc in map(etree_to_dict, children):
+                for k, v in dc.items():
+                    dd[k].append(v)
+            d = {t.tag: {k: v[0] if len(v) == 1 else v for k, v in dd.items()}}
+        if t.attrib:
+            d[t.tag].update(('@' + k, v) for k, v in t.attrib.items())
+        if t.text:
+            text = t.text.strip()
+            if children or t.attrib:
+                if text:
+                    d[t.tag]['#text'] = text
+            else:
+                d[t.tag] = text
+        return d
+    
+    data_dict = etree_to_dict(root)
+    
+    # Create a new dictionary with the desired order
+    if "EdgeLatestVersions" in data_dict:
+        edge_versions = data_dict["EdgeLatestVersions"]
+        ordered_dict = {
+            "EdgeLatestVersions": {
+                "last_updated": edge_versions.get("last_updated", ""),
+                "Version": edge_versions.get("Version", [])
+            }
+        }
+        data_dict = ordered_dict
+    
+    with open(yaml_file, "w") as file:
+        yaml.dump(data_dict, file, default_flow_style=False, sort_keys=False)
+    print(f"YAML file '{yaml_file}' written successfully.")
+
+def convert_plist_to_json(xml_file, json_file):
+    try:
+        with open(xml_file, 'rb') as file:
+            plist_data = plistlib.load(file)
+        
+        # Add last_updated field
+        output_data = {
+            "last_updated": datetime.now().strftime('%B %d, %Y %I:%M %p'),
+            "plist_data": plist_data
+        }
+        
+        with open(json_file, 'w') as f:
+            json.dump(output_data, f, indent=2, default=str)
+        print(f"JSON file '{json_file}' written successfully.")
+    except Exception as e:
+        print(f"Error converting plist to JSON: {e}")
+
+def convert_plist_to_yaml(xml_file, yaml_file):
+    try:
+        with open(xml_file, 'rb') as file:
+            plist_data = plistlib.load(file)
+        
+        # Add last_updated field
+        output_data = {
+            "last_updated": datetime.now().strftime('%B %d, %Y %I:%M %p'),
+            "plist_data": plist_data
+        }
+        
+        with open(yaml_file, 'w') as f:
+            yaml.dump(output_data, f, default_flow_style=False, sort_keys=False, allow_unicode=True)
+        print(f"YAML file '{yaml_file}' written successfully.")
+    except Exception as e:
+        print(f"Error converting plist to YAML: {e}")
+
 if __name__ == "__main__":
     channels = {
         "current": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409EDGE01.xml",
@@ -230,3 +337,19 @@ if __name__ == "__main__":
     output_file = os.path.join("latest_edge_files", "edge_latest_versions.xml")
     create_summary_xml(info_list, insider_info_list, output_file)
     update_last_updated_in_xml(output_file)
+    
+    # Convert XML to JSON and YAML
+    convert_xml_to_json(output_file, os.path.join("latest_edge_files", "edge_latest_versions.json"))
+    convert_xml_to_yaml(output_file, os.path.join("latest_edge_files", "edge_latest_versions.yaml"))
+    convert_xml_to_json(insider_output_file, os.path.join("latest_edge_files", "edge_insider_versions.json"))
+    convert_xml_to_yaml(insider_output_file, os.path.join("latest_edge_files", "edge_insider_versions.yaml"))
+    
+    # Convert individual channel XML files to JSON and YAML using plist conversion
+    for channel in ['beta', 'current', 'preview']:
+        xml_file = os.path.join("latest_edge_files", f"edge_{channel}_version.xml")
+        if os.path.exists(xml_file):
+            json_file = os.path.join("latest_edge_files", f"edge_{channel}_version.json")
+            yaml_file = os.path.join("latest_edge_files", f"edge_{channel}_version.yaml")
+            convert_plist_to_json(xml_file, json_file)
+            convert_plist_to_yaml(xml_file, yaml_file)
+            print(f"Converted {channel} XML to JSON and YAML using plist conversion")
