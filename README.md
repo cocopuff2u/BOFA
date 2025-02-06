@@ -35,7 +35,11 @@ We welcome community contributions—fork the repository, ask questions, or shar
 <sup>**Edge**: [**_Raw XML_**](latest_edge_files/edge_latest_versions.xml) [**_Raw YAML_**](latest_edge_files/edge_latest_versions.yaml) [**_Raw JSON_**](latest_edge_files/edge_latest_versions.json) | **Safari**: [**_Raw XML_**](latest_safari_files/safari_latest_versions.xml) [**_Raw YAML_**](latest_safari_files/safari_latest_versions.yaml) [**_Raw JSON_**](latest_safari_files/safari_latest_versions.json)</sup>
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 <sup>_Last Updated: <code style="color : mediumseagreen">February 06, 2025 11:14 AM EST</code> (Automatically Updated every hour)_</sup>
+=======
+<sup>_Last Updated: <code style="color : mediumseagreen">February 06, 2025 11:13 AM EST</code> (Automatically Updated every hour)_</sup>
+>>>>>>> Stashed changes
 =======
 <sup>_Last Updated: <code style="color : mediumseagreen">February 06, 2025 11:13 AM EST</code> (Automatically Updated every hour)_</sup>
 >>>>>>> Stashed changes
