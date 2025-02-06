@@ -157,6 +157,7 @@ def fetch_safari_details(xml_path, os_version, detail_type):
 BROWSER_CONFIGS = {
     'Chrome': {
         'fetch_details': fetch_chrome_details,
+        'release_notes': 'https://chromereleases.googleblog.com/',
         'channels': [
             {'name': '', 'display': 'Chrome', 'version_path': 'stable/version', 'download_path': 'stable/latest_download', 'bundle_id': 'com.google.Chrome', 'image': 'chrome.png'},
             {'name': 'Beta', 'display': 'Chrome', 'version_path': 'beta/version', 'download_path': 'beta/beta_download', 'bundle_id': 'com.google.Chrome.beta', 'image': 'chrome_beta.png'},
@@ -166,6 +167,7 @@ BROWSER_CONFIGS = {
     },
     'Firefox': {
         'fetch_details': fetch_firefox_details,
+        'release_notes': 'https://www.mozilla.org/en-US/firefox/releases/',
         'channels': [
             {'name': '', 'display': 'Firefox', 'version_path': 'latest_version', 'download_path': 'latest_download', 'bundle_id': 'org.mozilla.firefox', 'image': 'firefox.png'},
             {'name': 'Beta', 'display': 'Firefox', 'version_path': 'latest_devel_version', 'download_path': 'latest_beta_download', 'bundle_id': 'org.mozilla.firefoxbeta', 'image': 'firefox.png'},
@@ -177,6 +179,7 @@ BROWSER_CONFIGS = {
     },
     'Edge': {
         'fetch_details': fetch_edge_details,
+        'release_notes': 'https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel',
         'channels': [
             {'name': '', 'display': 'Edge', 'version_path': 'current', 'download_path': 'current', 'bundle_id': 'com.microsoft.edgemac', 'image': 'edge.png'},
             {'name': 'Preview', 'display': 'Edge', 'version_path': 'preview', 'download_path': 'preview', 'bundle_id': 'com.microsoft.edgemac.dev', 'image': 'edge.png'},
@@ -188,6 +191,7 @@ BROWSER_CONFIGS = {
     },
     'Safari': {
         'fetch_details': fetch_safari_details,
+        'release_notes': 'https://developer.apple.com/documentation/safari-release-notes',
         'channels': [
             {'name': 'Sequoia/Sonoma', 'display': 'Safari', 'version_path': 'Sonoma', 'download_path': 'Sonoma', 'bundle_id': 'com.apple.Safari', 'image': 'safari.png'},
             {'name': 'Ventura', 'display': 'Safari', 'version_path': 'Ventura', 'download_path': 'Ventura', 'bundle_id': 'com.apple.Safari', 'image': 'safari.png'},
@@ -215,7 +219,7 @@ def generate_browser_table(base_path):
             channel_name = f"<sup>{channel['name']}</sup>" if channel['name'] else ""
             
             table_content += (
-                f"| **{channel['display']}** {channel_name} | "
+                f"| **{channel['display']}** {channel_name} <br><a href=\"{config['release_notes']}\" style=\"text-decoration: none;\"><small>_Release Notes_</small></a> | "
                 f"`{version}` | "
                 f"`{channel['bundle_id']}` | "
                 f"<a href=\"{download}\"><img src=\".github/images/{channel['image']}\" "
