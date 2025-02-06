@@ -1,29 +1,41 @@
 # **BOFA**
 **B**rowser **O**verview **F**eed for **A**pple
 
-<img src=".github/images/logo_Mofa_NoBackground.png" alt="MOFA Image" width="200">
+<img src=".github/images/bofa_logo.png" alt="MOFA Image" width="200">
 
-Welcome to the **BOFA** repository! This resource tracks the latest versions of major web browsers for macOS. Feeds are automatically updated every 4 hours from XML and JSON links directly from vendors.
+Welcome to the **BOFA** repository! This resource tracks the latest versions of major web browsers for macOS. Feeds are automatically updated every hour from XML and JSON links directly from vendors.
 
 We welcome community contributions—fork the repository, ask questions, or share insights to help keep this resource accurate and useful for everyone. Check out the user-friendly website version below for an easier browsing experience!
 
 ### ~~[bofa.cocolabs.dev](https://bofa.cocolabs.dev)~~ (Coming Soon)
 
-## Browser Versions
+<div align="center">
 
-- **Chrome**: 133.0.6943.54
-- **Firefox**: 134.0.2
-- **Edge**: 132.0.2957.140
-- **Safari**: 18.3
+## Latest Stable Browser Versions
 
-## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Browser Packages
+<table>
+  <tr>
+    <td align="center"><img src=".github/images/chrome.png" alt="Chrome" width="80"><br><b>Chrome</b><br>133.0.6943.54</td>
+    <td align="center"><img src=".github/images/firefox.png" alt="Firefox" width="80"><br><b>Firefox</b><br>134.0.2</td>
+  </tr>
+  <tr>
+    <td align="center"><img src=".github/images/edge.png" alt="Edge" width="80"><br><b>Edge</b><br>132.0.2957.140</td>
+    <td align="center"><img src=".github/images/safari.png" alt="Safari" width="80"><br><b>Safari</b><br>18.3</td>
+  </tr>
+</table>
+
+</div>
+
+## Browser Packages
 
 <sup>All links below direct to the official browser vendor. The links provided will always download the latest available version as of the last scan update.</sup>  
 
-<sup>_Last Updated: <code style="color : mediumseagreen">February 06, 2025 09:02 AM </code>_</sup>
-
 <sup>**Chrome**: [**_Raw XML_**](latest_chrome_files/chrome_latest_versions.xml) [**_Raw YAML_**](latest_chrome_files/chrome_latest_versions.yaml) [**_Raw JSON_**](latest_chrome_files/chrome_latest_versions.json) | **Firefox**: [**_Raw XML_**](latest_firefox_files/firefox_latest_versions.xml) [**_Raw YAML_**](latest_firefox_files/firefox_latest_versions.yaml) [**_Raw JSON_**](latest_firefox_files/firefox_latest_versions.json)</sup>
+
 <sup>**Edge**: [**_Raw XML_**](latest_edge_files/edge_latest_versions.xml) [**_Raw YAML_**](latest_edge_files/edge_latest_versions.yaml) [**_Raw JSON_**](latest_edge_files/edge_latest_versions.json) | **Safari**: [**_Raw XML_**](latest_safari_files/safari_latest_versions.xml) [**_Raw YAML_**](latest_safari_files/safari_latest_versions.yaml) [**_Raw JSON_**](latest_safari_files/safari_latest_versions.json)</sup>
+
+<sup>_Last Updated: <code style="color : mediumseagreen">February 06, 2025 09:33 AM </code> (Automatically Updated every hour)_</sup>
+
 | **Browser** | **CFBundle Version** | **CFBundle Identifier** | **Download** |
 |------------|-------------------|---------------------|------------|
 | **Chrome**  | `133.0.6943.54` | `com.google.Chrome` | <a href="https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg"><img src=".github/images/chrome.png" alt="Download Chrome" width="80"></a> |
@@ -46,8 +58,3 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **Safari** <sup>Ventura</sup> | `18.3` | `com.apple.Safari` | <a href="https://swcdn.apple.com/content/downloads/25/26/072-37121-A_ZC4O3POGUS/zyrvcx8nmioye0dlak2mz4zsedgidau1o3/Safari18.3VenturaAuto.pkg"><img src=".github/images/safari.png" alt="Download Safari" width="80"></a> |
 | **Safari** <sup>Monterey</sup> | `17.6` | `com.apple.Safari` | <a href="https://swcdn.apple.com/content/downloads/19/54/062-47822-A_BHCA3624RA/oixd7i5b8y3g67u6x0upt45m0u2xotc4eh/Safari17.6MontereyAuto.pkg"><img src=".github/images/safari.png" alt="Download Safari" width="80"></a> |
 | **Safari** <sup>BigSur</sup> | `16.6.1` | `com.apple.Safari` | <a href="https://swcdn.apple.com/content/downloads/47/04/042-27539-A_JOWCKWG03T/q1askvrrids8ykmi9ok73aqmj05kzskcya/Safari16.6.1BigSurAuto.pkg"><img src=".github/images/safari.png" alt="Download Safari" width="80"></a> |
-
-## About
-
-This README is automatically generated based on the latest browser version information.
-Last updated: February 06, 2025 09:02 AM 

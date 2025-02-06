@@ -240,41 +240,59 @@ def generate_readme():
     readme_content = """# **BOFA**
 **B**rowser **O**verview **F**eed for **A**pple
 
-<img src=".github/images/logo_Mofa_NoBackground.png" alt="MOFA Image" width="200">
+<img src=".github/images/bofa_logo.png" alt="MOFA Image" width="200">
 
-Welcome to the **BOFA** repository! This resource tracks the latest versions of major web browsers for macOS. Feeds are automatically updated every 4 hours from XML and JSON links directly from vendors.
+Welcome to the **BOFA** repository! This resource tracks the latest versions of major web browsers for macOS. Feeds are automatically updated every hour from XML and JSON links directly from vendors.
 
 We welcome community contributions—fork the repository, ask questions, or share insights to help keep this resource accurate and useful for everyone. Check out the user-friendly website version below for an easier browsing experience!
 
 ### ~~[bofa.cocolabs.dev](https://bofa.cocolabs.dev)~~ (Coming Soon)
 
-## Browser Versions
+<div align="center">
 
+## Latest Stable Browser Versions
+
+<table>
+  <tr>
+    <td align="center"><img src=".github/images/chrome.png" alt="Chrome" width="80"><br><b>Chrome</b><br>{chrome_version}</td>
+    <td align="center"><img src=".github/images/firefox.png" alt="Firefox" width="80"><br><b>Firefox</b><br>{firefox_version}</td>
+  </tr>
+  <tr>
+    <td align="center"><img src=".github/images/edge.png" alt="Edge" width="80"><br><b>Edge</b><br>{edge_version}</td>
+    <td align="center"><img src=".github/images/safari.png" alt="Safari" width="80"><br><b>Safari</b><br>{safari_version}</td>
+  </tr>
+</table>
+
+</div>
 """
     
-    for browser, xml_path in xml_files.items():
-        version = read_xml_version(xml_path)
-        readme_content += f"- **{browser}**: {version}\n"
+    # Fetch versions
+    chrome_version = read_xml_version(xml_files['Chrome'])
+    firefox_version = read_xml_version(xml_files['Firefox'])
+    edge_version = read_xml_version(xml_files['Edge'])
+    safari_version = read_xml_version(xml_files['Safari'])
+
+    readme_content = readme_content.format(
+        chrome_version=chrome_version,
+        firefox_version=firefox_version,
+        edge_version=edge_version,
+        safari_version=safari_version
+    )
 
     readme_content += f"""
-## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Browser Packages
+## Browser Packages
 
 <sup>All links below direct to the official browser vendor. The links provided will always download the latest available version as of the last scan update.</sup>  
 
-<sup>_Last Updated: <code style="color : mediumseagreen">{global_last_updated}</code>_</sup>
-
 <sup>**Chrome**: [**_Raw XML_**](latest_chrome_files/chrome_latest_versions.xml) [**_Raw YAML_**](latest_chrome_files/chrome_latest_versions.yaml) [**_Raw JSON_**](latest_chrome_files/chrome_latest_versions.json) | **Firefox**: [**_Raw XML_**](latest_firefox_files/firefox_latest_versions.xml) [**_Raw YAML_**](latest_firefox_files/firefox_latest_versions.yaml) [**_Raw JSON_**](latest_firefox_files/firefox_latest_versions.json)</sup>
+
 <sup>**Edge**: [**_Raw XML_**](latest_edge_files/edge_latest_versions.xml) [**_Raw YAML_**](latest_edge_files/edge_latest_versions.yaml) [**_Raw JSON_**](latest_edge_files/edge_latest_versions.json) | **Safari**: [**_Raw XML_**](latest_safari_files/safari_latest_versions.xml) [**_Raw YAML_**](latest_safari_files/safari_latest_versions.yaml) [**_Raw JSON_**](latest_safari_files/safari_latest_versions.json)</sup>
+
+<sup>_Last Updated: <code style="color : mediumseagreen">{global_last_updated}</code> (Automatically Updated every hour)_</sup>
+
 """
 
     readme_content += generate_browser_table(base_path)
-
-    readme_content += f"""
-## About
-
-This README is automatically generated based on the latest browser version information.
-Last updated: {current_time}
-"""
 
     # Write to README.md at repository root level
     readme_path = os.path.join(base_path, 'README.md')
