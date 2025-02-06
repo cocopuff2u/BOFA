@@ -8,6 +8,10 @@ import re
 import json
 import yaml
 from collections import defaultdict
+import pytz
+
+# Define the Eastern Time Zone
+eastern = pytz.timezone('US/Eastern')
 
 def fetch_edge_latest(channel, url):
     response = requests.get(url)
@@ -43,7 +47,7 @@ def extract_info_from_xml(file_path):
         
         # Format the date to a user-readable format
         if date != 'N/A':
-            date = date.strftime('%B %d, %Y %I:%M %p')
+            date = date.astimezone(eastern).strftime('%B %d, %Y %I:%M %p %Z')
         
         return {
             "channel": os.path.basename(file_path).split('_')[1],
@@ -65,7 +69,7 @@ def create_summary_xml(info_list, insider_info_list, output_file):
     
     # Add last_updated element
     last_updated = ET.SubElement(root, "last_updated")
-    last_updated.text = datetime.now().strftime('%B %d, %Y %I:%M %p')
+    last_updated.text = datetime.now(eastern).strftime('%B %d, %Y %I:%M %p %Z')
     
     for info in info_list:
         entry = ET.SubElement(root, "Version")
@@ -99,7 +103,7 @@ def update_last_updated_in_xml(file_path):
         last_updated = ET.Element("last_updated")
         root.insert(0, last_updated)
     
-    last_updated.text = datetime.now().strftime('%B %d, %Y %I:%M %p')
+    last_updated.text = datetime.now(eastern).strftime('%B %d, %Y %I:%M %p %Z')
     
     tree = ET.ElementTree(root)
     xml_str = ET.tostring(root, encoding='utf-8')
@@ -130,7 +134,7 @@ def fetch_edge_insider_canary_version(url):
     
     return {
         "channel": "canary",
-        "date": datetime.strptime(latest_release["PublishedTime"], '%Y-%m-%dT%H:%M:%S').strftime('%B %d, %Y %I:%M %p'),
+        "date": datetime.strptime(latest_release["PublishedTime"], '%Y-%m-%dT%H:%M:%S').astimezone(eastern).strftime('%B %d, %Y %I:%M %p %Z'),
         "location": location,
         "version": latest_release["ProductVersion"]
     }
@@ -140,7 +144,7 @@ def create_canary_xml(info, output_file):
     
     # Add last_updated element
     last_updated = ET.SubElement(root, "last_updated")
-    last_updated.text = datetime.now().strftime('%B %d, %Y %I:%M %p')
+    last_updated.text = datetime.now(eastern).strftime('%B %d, %Y %I:%M %p %Z')
     
     entry = ET.SubElement(root, "Version")
     ET.SubElement(entry, "Channel").text = info["channel"]
@@ -174,7 +178,7 @@ def fetch_edge_insider_version(url, channel):
     
     return {
         "channel": channel,
-        "date": datetime.strptime(latest_release["PublishedTime"], '%Y-%m-%dT%H:%M:%S').strftime('%B %d, %Y %I:%M %p'),
+        "date": datetime.strptime(latest_release["PublishedTime"], '%Y-%m-%dT%H:%M:%S').astimezone(eastern).strftime('%B %d, %Y %I:%M %p %Z'),
         "location": location,
         "version": latest_release["ProductVersion"]
     }
@@ -184,7 +188,7 @@ def create_insider_versions_xml(info_list, output_file):
     
     # Add last_updated element
     last_updated = ET.SubElement(root, "last_updated")
-    last_updated.text = datetime.now().strftime('%B %d, %Y %I:%M %p')
+    last_updated.text = datetime.now(eastern).strftime('%B %d, %Y %I:%M %p %Z')
     
     for info in info_list:
         entry = ET.SubElement(root, "Version")
@@ -278,7 +282,7 @@ def convert_plist_to_json(xml_file, json_file):
         
         # Add last_updated field
         output_data = {
-            "last_updated": datetime.now().strftime('%B %d, %Y %I:%M %p'),
+            "last_updated": datetime.now(eastern).strftime('%B %d, %Y %I:%M %p %Z'),
             "plist_data": plist_data
         }
         
@@ -295,7 +299,7 @@ def convert_plist_to_yaml(xml_file, yaml_file):
         
         # Add last_updated field
         output_data = {
-            "last_updated": datetime.now().strftime('%B %d, %Y %I:%M %p'),
+            "last_updated": datetime.now(eastern).strftime('%B %d, %Y %I:%M %p %Z'),
             "plist_data": plist_data
         }
         

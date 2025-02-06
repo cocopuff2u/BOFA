@@ -1,6 +1,7 @@
 import xml.etree.ElementTree as ET
 import os
 from datetime import datetime
+from pytz import timezone
 
 def read_xml_value(file_path, xpath):
     """Generic function to read any value from XML using xpath"""
@@ -233,7 +234,8 @@ def generate_readme():
         'Safari': os.path.join(base_path, 'latest_safari_files/safari_latest_versions.xml')
     }
 
-    current_time = datetime.now().strftime("%B %d, %Y %I:%M %p %Z")
+    eastern = timezone('US/Eastern')
+    current_time = datetime.now(eastern).strftime("%B %d, %Y %I:%M %p %Z")
     global_last_updated = current_time
 
     # Generate README content

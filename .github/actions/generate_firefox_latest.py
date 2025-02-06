@@ -6,6 +6,7 @@ import subprocess
 import os
 import json
 import yaml
+import pytz
 
 # Fetch the JSON data
 url = "https://product-details.mozilla.org/1.0/firefox_versions.json"
@@ -62,9 +63,12 @@ firefox_devedition_download_url = fetch_download_url("https://download.mozilla.o
 # Create the root element for the first XML
 root = ET.Element("latest")
 
+# Define the Eastern Time Zone
+eastern = pytz.timezone('US/Eastern')
+
 # Add static information to the first XML
 last_updated = ET.SubElement(root, "last_updated")
-last_updated.text = datetime.now().strftime("%B %d, %Y %I:%M %p %Z")
+last_updated.text = datetime.now(eastern).strftime("%B %d, %Y %I:%M %p %Z")
 
 # Helper function to get data or return "N/A" if blank
 def get_data_or_na(key):
@@ -131,7 +135,7 @@ root_releases = ET.Element("releases")
 
 # Add static information to the second XML
 last_updated_releases = ET.SubElement(root_releases, "last_updated")
-last_updated_releases.text = datetime.now().strftime("%B %d, %Y %I:%M %p %Z")
+last_updated_releases.text = datetime.now(eastern).strftime("%B %d, %Y %I:%M %p %Z")
 
 # Add dynamic information from the second JSON
 releases_list = []
@@ -176,7 +180,7 @@ root_devedition = ET.Element("firefox_devedition_releases")
 
 # Add static information to the third XML
 last_updated_devedition = ET.SubElement(root_devedition, "last_updated")
-last_updated_devedition.text = datetime.now().strftime("%B %d, %Y %I:%M %p %Z")
+last_updated_devedition.text = datetime.now(eastern).strftime("%B %d, %Y %I:%M %p %Z")
 
 # Add dynamic information from the third JSON
 devedition_list = []
@@ -221,7 +225,7 @@ root_combined_releases = ET.Element("combined_releases")
 
 # Add static information to the combined XML
 last_updated_combined_releases = ET.SubElement(root_combined_releases, "last_updated")
-last_updated_combined_releases.text = datetime.now().strftime("%B %d, %Y %I:%M %p %Z")
+last_updated_combined_releases.text = datetime.now(eastern).strftime("%B %d, %Y %I:%M %p %Z")
 
 # Collect all releases from both JSONs
 combined_releases = []

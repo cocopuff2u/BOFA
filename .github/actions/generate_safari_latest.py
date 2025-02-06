@@ -2,6 +2,7 @@ import requests
 import gzip
 import plistlib
 from datetime import datetime
+import pytz
 import io
 from bs4 import BeautifulSoup
 import os
@@ -72,7 +73,8 @@ def get_latest_safari_version(catalog_url):
         
         # Add last_updated element
         last_updated = ET.SubElement(root, 'last_updated')
-        current_time = datetime.now().strftime('%B %d, %Y %I:%M %p')
+        eastern = pytz.timezone('US/Eastern')
+        current_time = datetime.now(eastern).strftime('%B %d, %Y %I:%M %p %Z')
         last_updated.text = current_time
         
         for product_id, product_info in catalog['Products'].items():

@@ -5,6 +5,7 @@ import json
 from datetime import datetime
 import os
 import yaml
+from pytz import timezone
 
 def fetch_chrome_versions(channel):
     url = f"https://versionhistory.googleapis.com/v1/{channel}/versions"
@@ -21,7 +22,7 @@ def fetch_mac_version(channel):
         if data:
             version = data[0]["version"]
             timestamp = int(data[0]["time"])
-            release_time = datetime.fromtimestamp(timestamp / 1000).strftime("%B %d, %Y %I:%M %p %Z")
+            release_time = datetime.fromtimestamp(timestamp / 1000, timezone('US/Eastern')).strftime("%B %d, %Y %I:%M %p %Z")
             return {"version": version, "time": release_time}
     except json.JSONDecodeError:
         return {"version": "N/A", "time": "N/A"}
@@ -30,7 +31,7 @@ def fetch_mac_version(channel):
 def convert_to_xml(json_data):
     root = ET.Element("versions")
     last_updated = ET.SubElement(root, "last_updated")
-    last_updated.text = datetime.now().strftime("%B %d, %Y %I:%M %p %Z")
+    last_updated.text = datetime.now(timezone('US/Eastern')).strftime("%B %d, %Y %I:%M %p %Z")
     for version in json_data["versions"]:
         version_element = ET.SubElement(root, "version")
         name_element = ET.SubElement(version_element, "name")
@@ -40,14 +41,14 @@ def convert_to_xml(json_data):
     return minidom.parseString(ET.tostring(root)).toprettyxml(indent="  ")
 
 def convert_to_yaml(json_data):
-    last_updated = {"last_updated": datetime.now().strftime("%B %d, %Y %I:%M %p %Z")}
+    last_updated = {"last_updated": datetime.now(timezone('US/Eastern')).strftime("%B %d, %Y %I:%M %p %Z")}
     json_data.update(last_updated)
     if "nextPageToken" in json_data and not json_data["nextPageToken"]:
         del json_data["nextPageToken"]
     return yaml.dump(json_data, default_flow_style=False)
 
 def convert_to_json(json_data):
-    last_updated = {"last_updated": datetime.now().strftime("%B %d, %Y %I:%M %p %Z")}
+    last_updated = {"last_updated": datetime.now(timezone('US/Eastern')).strftime("%B %d, %Y %I:%M %p %Z")}
     json_data = {**last_updated, **json_data}
     if "nextPageToken" in json_data and not json_data["nextPageToken"]:
         del json_data["nextPageToken"]
@@ -56,7 +57,7 @@ def convert_to_json(json_data):
 def convert_mac_versions_to_xml(stable, beta, dev, canary):
     root = ET.Element("mac_versions")
     last_updated = ET.SubElement(root, "last_updated")
-    last_updated.text = datetime.now().strftime("%B %d, %Y %I:%M %p %Z")
+    last_updated.text = datetime.now(timezone('US/Eastern')).strftime("%B %d, %Y %I:%M %p %Z")
     
     stable_element = ET.SubElement(root, "stable")
     version_element = ET.SubElement(stable_element, "version")
@@ -93,7 +94,7 @@ def convert_mac_versions_to_xml(stable, beta, dev, canary):
     return minidom.parseString(ET.tostring(root)).toprettyxml(indent="  ")
 
 def convert_mac_versions_to_yaml(stable, beta, dev, canary):
-    last_updated = {"last_updated": datetime.now().strftime("%B %d, %Y %I:%M %p")}
+    last_updated = {"last_updated": datetime.now(timezone('US/Eastern')).strftime("%B %d, %Y %I:%M %p %Z")}
     mac_versions = {
         "stable": {
             "version": stable["version"],
@@ -142,7 +143,7 @@ def convert_mac_versions_to_json(stable, beta, dev, canary):
             "canary_download": "https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg"
         }
     }
-    last_updated = {"last_updated": datetime.now().strftime("%B %d, %Y %I:%M %p")}
+    last_updated = {"last_updated": datetime.now(timezone('US/Eastern')).strftime("%B %d, %Y %I:%M %p %Z")}
     mac_versions = {**last_updated, **mac_versions}
     return json.dumps(mac_versions, indent=2)
 
