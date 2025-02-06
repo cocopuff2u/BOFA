@@ -157,33 +157,30 @@ def fetch_safari_details(xml_path, os_version, detail_type):
 BROWSER_CONFIGS = {
     'Chrome': {
         'fetch_details': fetch_chrome_details,
-        'release_notes': 'https://chromereleases.googleblog.com/',
         'channels': [
-            {'name': '', 'display': 'Chrome', 'version_path': 'stable/version', 'download_path': 'stable/latest_download', 'bundle_id': 'com.google.Chrome', 'image': 'chrome.png'},
-            {'name': 'Beta', 'display': 'Chrome', 'version_path': 'beta/version', 'download_path': 'beta/beta_download', 'bundle_id': 'com.google.Chrome.beta', 'image': 'chrome_beta.png'},
-            {'name': 'Dev', 'display': 'Chrome', 'version_path': 'dev/version', 'download_path': 'dev/dev_download', 'bundle_id': 'com.google.Chrome.dev', 'image': 'chrome_dev.png'},
+            {'name': '', 'display': 'Chrome', 'version_path': 'stable/version', 'download_path': 'stable/latest_download', 'bundle_id': 'com.google.Chrome', 'image': 'chrome.png', 'release_notes': 'https://chromereleases.googleblog.com/'},
+            {'name': 'Beta', 'display': 'Chrome', 'version_path': 'beta/version', 'download_path': 'beta/beta_download', 'bundle_id': 'com.google.Chrome.beta', 'image': 'chrome_beta.png', 'release_notes': 'https://chromereleases.googleblog.com/search/label/Beta%20updates'},
+            {'name': 'Dev', 'display': 'Chrome', 'version_path': 'dev/version', 'download_path': 'dev/dev_download', 'bundle_id': 'com.google.Chrome.dev', 'image': 'chrome_dev.png', 'release_notes': 'https://chromereleases.googleblog.com/search/label/Dev%20updates'},
             {'name': 'Canary', 'display': 'Chrome', 'version_path': 'canary/version', 'download_path': 'canary/canary_download', 'bundle_id': 'com.google.Chrome.canary', 'image': 'chrome_canary.png'}
         ]
     },
     'Firefox': {
         'fetch_details': fetch_firefox_details,
-        'release_notes': 'https://www.mozilla.org/en-US/firefox/releases/',
         'channels': [
-            {'name': '', 'display': 'Firefox', 'version_path': 'latest_version', 'download_path': 'latest_download', 'bundle_id': 'org.mozilla.firefox', 'image': 'firefox.png'},
-            {'name': 'Beta', 'display': 'Firefox', 'version_path': 'latest_devel_version', 'download_path': 'latest_beta_download', 'bundle_id': 'org.mozilla.firefoxbeta', 'image': 'firefox.png'},
-            {'name': 'Developer', 'display': 'Firefox', 'version_path': 'devedition_version', 'download_path': 'devedition_download', 'bundle_id': 'org.mozilla.firefoxdev', 'image': 'firefox_developer.png'},
+            {'name': '', 'display': 'Firefox', 'version_path': 'latest_version', 'download_path': 'latest_download', 'bundle_id': 'org.mozilla.firefox', 'image': 'firefox.png', 'release_notes': 'https://www.mozilla.org/en-US/firefox/releases/'},
+            {'name': 'Beta', 'display': 'Firefox', 'version_path': 'latest_devel_version', 'download_path': 'latest_beta_download', 'bundle_id': 'org.mozilla.firefoxbeta', 'image': 'firefox.png', 'release_notes': 'https://www.mozilla.org/en-US/firefox/channel/desktop/#beta'},
+            {'name': 'Developer', 'display': 'Firefox', 'version_path': 'devedition_version', 'download_path': 'devedition_download', 'bundle_id': 'org.mozilla.firefoxdev', 'image': 'firefox_developer.png', 'release_notes': 'https://www.mozilla.org/en-US/firefox/channel/desktop/#developer'},
             {'name': 'ESR', 'display': 'Firefox', 'version_path': 'esr_version', 'download_path': 'esr_download', 'bundle_id': 'org.mozilla.firefoxesr', 'image': 'firefox.png'},
             {'name': 'ESR 115', 'display': 'Firefox', 'version_path': 'esr115_version', 'download_path': 'esr115_download', 'bundle_id': 'org.mozilla.firefoxesr', 'image': 'firefox.png'},
-            {'name': 'Nightly', 'display': 'Firefox', 'version_path': 'nightly_version', 'download_path': 'nightly_download', 'bundle_id': 'org.mozilla.nightly', 'image': 'firefox_nightly.png'}
+            {'name': 'Nightly', 'display': 'Firefox', 'version_path': 'nightly_version', 'download_path': 'nightly_download', 'bundle_id': 'org.mozilla.nightly', 'image': 'firefox_nightly.png', 'release_notes': 'https://www.mozilla.org/en-US/firefox/channel/desktop/#nightly'}
         ]
     },
     'Edge': {
         'fetch_details': fetch_edge_details,
-        'release_notes': 'https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel',
         'channels': [
-            {'name': '', 'display': 'Edge', 'version_path': 'current', 'download_path': 'current', 'bundle_id': 'com.microsoft.edgemac', 'image': 'edge.png'},
+            {'name': '', 'display': 'Edge', 'version_path': 'current', 'download_path': 'current', 'bundle_id': 'com.microsoft.edgemac', 'image': 'edge.png', 'release_notes': 'https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel'},
             {'name': 'Preview', 'display': 'Edge', 'version_path': 'preview', 'download_path': 'preview', 'bundle_id': 'com.microsoft.edgemac.dev', 'image': 'edge.png'},
-            {'name': 'Beta', 'display': 'Edge', 'version_path': 'beta', 'download_path': 'beta', 'bundle_id': 'com.microsoft.edgemac.beta', 'image': 'edge.png'},
+            {'name': 'Beta', 'display': 'Edge', 'version_path': 'beta', 'download_path': 'beta', 'bundle_id': 'com.microsoft.edgemac.beta', 'image': 'edge.png', 'release_notes': 'https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-beta-channel'},
             {'name': 'Beta', 'display': 'Edge Insider', 'version_path': 'insider_beta', 'download_path': 'insider_beta', 'bundle_id': 'com.microsoft.edgemac.insider.beta', 'image': 'edge_beta.png'},
             {'name': 'Developer', 'display': 'Edge Insider', 'version_path': 'insider_dev', 'download_path': 'insider_dev', 'bundle_id': 'com.microsoft.edgemac.insider.dev', 'image': 'edge_dev.png'},
             {'name': 'Canary', 'display': 'Edge Insider', 'version_path': 'insider_canary', 'download_path': 'insider_canary', 'bundle_id': 'com.microsoft.edgemac.insider.canary', 'image': 'edge_canary.png'}
@@ -191,9 +188,8 @@ BROWSER_CONFIGS = {
     },
     'Safari': {
         'fetch_details': fetch_safari_details,
-        'release_notes': 'https://developer.apple.com/documentation/safari-release-notes',
         'channels': [
-            {'name': 'Sequoia/Sonoma', 'display': 'Safari', 'version_path': 'Sonoma', 'download_path': 'Sonoma', 'bundle_id': 'com.apple.Safari', 'image': 'safari.png'},
+            {'name': 'Sequoia/Sonoma', 'display': 'Safari', 'version_path': 'Sonoma', 'download_path': 'Sonoma', 'bundle_id': 'com.apple.Safari', 'image': 'safari.png', 'release_notes': 'https://developer.apple.com/documentation/safari-release-notes'},
             {'name': 'Ventura', 'display': 'Safari', 'version_path': 'Ventura', 'download_path': 'Ventura', 'bundle_id': 'com.apple.Safari', 'image': 'safari.png'},
             {'name': 'Monterey', 'display': 'Safari', 'version_path': 'Monterey', 'download_path': 'Monterey', 'bundle_id': 'com.apple.Safari', 'image': 'safari.png'},
             {'name': 'BigSur', 'display': 'Safari', 'version_path': 'BigSur', 'download_path': 'BigSur', 'bundle_id': 'com.apple.Safari', 'image': 'safari.png'}
@@ -217,9 +213,10 @@ def generate_browser_table(base_path):
             
             # Use channel name as superscript if it exists
             channel_name = f"<sup>{channel['name']}</sup>" if channel['name'] else ""
+            release_notes = f"<br><a href=\"{channel.get('release_notes', config.get('release_notes', '#'))}\" style=\"text-decoration: none;\"><small>_Release Notes_</small></a>" if 'release_notes' in channel or 'release_notes' in config else ""
             
             table_content += (
-                f"| **{channel['display']}** {channel_name} <br><a href=\"{config['release_notes']}\" style=\"text-decoration: none;\"><small>_Release Notes_</small></a> | "
+                f"| **{channel['display']}** {channel_name} {release_notes} | "
                 f"`{version}` | "
                 f"`{channel['bundle_id']}` | "
                 f"<a href=\"{download}\"><img src=\".github/images/{channel['image']}\" "
