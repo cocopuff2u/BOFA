@@ -1,5 +1,7 @@
-last_updated: 'February 04, 2025 07:47 AM '
+last_updated: 'February 06, 2025 07:30 AM '
 versions:
+- name: chrome/platforms/win/channels/beta/versions/134.0.6998.3
+  version: 134.0.6998.3
 - name: chrome/platforms/win/channels/beta/versions/133.0.6943.35
   version: 133.0.6943.35
 - name: chrome/platforms/win/channels/beta/versions/133.0.6943.27

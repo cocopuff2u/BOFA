@@ -62,7 +62,7 @@ def read_xml_version(file_path):
         
         # For Chrome, get the first version
         elif 'chrome' in file_path.lower():
-            version_element = root.find('.//line1/version')
+            version_element = root.find('.//version')
             return version_element.text if version_element is not None else "N/A"
         
         # For Safari, get the version from Sonoma (latest macOS)
@@ -169,8 +169,8 @@ BROWSER_CONFIGS = {
             {'name': '', 'display': 'Firefox', 'version_path': 'latest_version', 'download_path': 'latest_download', 'bundle_id': 'org.mozilla.firefox', 'image': 'firefox.png'},
             {'name': 'Beta', 'display': 'Firefox', 'version_path': 'latest_devel_version', 'download_path': 'latest_beta_download', 'bundle_id': 'org.mozilla.firefoxbeta', 'image': 'firefox.png'},
             {'name': 'Developer', 'display': 'Firefox', 'version_path': 'devedition_version', 'download_path': 'devedition_download', 'bundle_id': 'org.mozilla.firefoxdev', 'image': 'firefox_developer.png'},
-            {'name': 'ESR', 'display': 'Firefox', 'version_path': 'esr_version', 'download_path': 'esr_download', 'bundle_id': 'org.mozilla.firefoxesr', 'image': 'firefox_esr.png'},
-            {'name': 'ESR 115', 'display': 'Firefox', 'version_path': 'esr115_version', 'download_path': 'esr115_download', 'bundle_id': 'org.mozilla.firefoxesr', 'image': 'firefox_esr_next.png'},
+            {'name': 'ESR', 'display': 'Firefox', 'version_path': 'esr_version', 'download_path': 'esr_download', 'bundle_id': 'org.mozilla.firefoxesr', 'image': 'firefox.png'},
+            {'name': 'ESR 115', 'display': 'Firefox', 'version_path': 'esr115_version', 'download_path': 'esr115_download', 'bundle_id': 'org.mozilla.firefoxesr', 'image': 'firefox.png'},
             {'name': 'Nightly', 'display': 'Firefox', 'version_path': 'nightly_version', 'download_path': 'nightly_download', 'bundle_id': 'org.mozilla.nightly', 'image': 'firefox_nightly.png'}
         ]
     },
@@ -179,10 +179,10 @@ BROWSER_CONFIGS = {
         'channels': [
             {'name': '', 'display': 'Edge', 'version_path': 'current', 'download_path': 'current', 'bundle_id': 'com.microsoft.edgemac', 'image': 'edge.png'},
             {'name': 'Preview', 'display': 'Edge', 'version_path': 'preview', 'download_path': 'preview', 'bundle_id': 'com.microsoft.edgemac.dev', 'image': 'edge.png'},
-            {'name': 'Beta', 'display': 'Edge', 'version_path': 'beta', 'download_path': 'beta', 'bundle_id': 'com.microsoft.edgemac.beta', 'image': 'edge_beta.png'},
-            {'name': 'Beta', 'display': 'Edge Insider', 'version_path': 'insider_beta', 'download_path': 'insider_beta', 'bundle_id': 'com.microsoft.edgemac.insider.beta', 'image': 'edge_insider_beta.png'},
-            {'name': 'Developer', 'display': 'Edge Insider', 'version_path': 'insider_dev', 'download_path': 'insider_dev', 'bundle_id': 'com.microsoft.edgemac.insider.dev', 'image': 'edge_insider_dev.png'},
-            {'name': 'Canary', 'display': 'Edge Insider', 'version_path': 'insider_canary', 'download_path': 'insider_canary', 'bundle_id': 'com.microsoft.edgemac.insider.canary', 'image': 'edge_insider_canary.png'}
+            {'name': 'Beta', 'display': 'Edge', 'version_path': 'beta', 'download_path': 'beta', 'bundle_id': 'com.microsoft.edgemac.beta', 'image': 'edge.png'},
+            {'name': 'Beta', 'display': 'Edge Insider', 'version_path': 'insider_beta', 'download_path': 'insider_beta', 'bundle_id': 'com.microsoft.edgemac.insider.beta', 'image': 'edge_beta.png'},
+            {'name': 'Developer', 'display': 'Edge Insider', 'version_path': 'insider_dev', 'download_path': 'insider_dev', 'bundle_id': 'com.microsoft.edgemac.insider.dev', 'image': 'edge_dev.png'},
+            {'name': 'Canary', 'display': 'Edge Insider', 'version_path': 'insider_canary', 'download_path': 'insider_canary', 'bundle_id': 'com.microsoft.edgemac.insider.canary', 'image': 'edge_canary.png'}
         ]
     },
     'Safari': {
@@ -233,7 +233,8 @@ def generate_readme():
         'Safari': os.path.join(base_path, 'latest_safari_files/safari_latest_versions.xml')
     }
 
-    current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S UTC")
+    current_time = datetime.now().strftime("%B %d, %Y %I:%M %p %Z")
+    global_last_updated = current_time
 
     # Generate README content
     readme_content = """# **BOFA**
@@ -255,7 +256,17 @@ We welcome community contributions—fork the repository, ask questions, or shar
         version = read_xml_version(xml_path)
         readme_content += f"- **{browser}**: {version}\n"
 
-    readme_content += "\n## Browser Downloads\n\n"
+    readme_content += f"""
+## <img src=".github/images/Microsoft_Logo_512px.png" alt="Download Image" width="20"></a> Browser Packages
+
+<sup>All links below direct to the official browser vendor. The links provided will always download the latest available version as of the last scan update.</sup>  
+
+<sup>_Last Updated: <code style="color : mediumseagreen">{global_last_updated}</code>_</sup>
+
+<sup>**Chrome**: [**_Raw XML_**](latest_chrome_files/chrome_latest_versions.xml) [**_Raw YAML_**](latest_chrome_files/chrome_latest_versions.yaml) [**_Raw JSON_**](latest_chrome_files/chrome_latest_versions.json) | **Firefox**: [**_Raw XML_**](latest_firefox_files/firefox_latest_versions.xml) [**_Raw YAML_**](latest_firefox_files/firefox_latest_versions.yaml) [**_Raw JSON_**](latest_firefox_files/firefox_latest_versions.json)</sup>
+<sup>**Edge**: [**_Raw XML_**](latest_edge_files/edge_latest_versions.xml) [**_Raw YAML_**](latest_edge_files/edge_latest_versions.yaml) [**_Raw JSON_**](latest_edge_files/edge_latest_versions.json) | **Safari**: [**_Raw XML_**](latest_safari_files/safari_latest_versions.xml) [**_Raw YAML_**](latest_safari_files/safari_latest_versions.yaml) [**_Raw JSON_**](latest_safari_files/safari_latest_versions.json)</sup>
+"""
+
     readme_content += generate_browser_table(base_path)
 
     readme_content += f"""
