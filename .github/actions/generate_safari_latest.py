@@ -7,6 +7,9 @@ from bs4 import BeautifulSoup
 import os
 import xml.etree.ElementTree as ET
 from xml.dom import minidom
+import json
+import yaml
+from collections import defaultdict
 
 def get_session():
     session = requests.Session()
@@ -56,7 +59,12 @@ def get_latest_safari_version(catalog_url):
         response = session.get(catalog_url)
         response.raise_for_status()
         
-        plist_content = gzip.decompress(response.content)
+        # Check if the content is gzipped
+        if response.headers.get('Content-Encoding') == 'gzip':
+            plist_content = gzip.decompress(response.content)
+        else:
+            plist_content = response.content
+        
         catalog = plistlib.loads(plist_content)
         
         # Create root XML element
@@ -156,9 +164,83 @@ def export_to_text(content, filepath):
     with open(filepath, 'w', encoding='utf-8') as file:
         file.write(content)
 
+def xml_to_json(xml_str):
+    try:
+        root = ET.fromstring(xml_str)
+        def etree_to_dict(t):
+            d = {t.tag: {} if t.attrib else None}
+            children = list(t)
+            if children:
+                dd = defaultdict(list)
+                for dc in map(etree_to_dict, children):
+                    for k, v in dc.items():
+                        dd[k].append(v)
+                d = {t.tag: {k: v[0] if len(v) == 1 else v for k, v in dd.items()}}
+            if t.attrib:
+                d[t.tag].update(('@' + k, v) for k, v in t.attrib.items())
+            if t.text:
+                text = t.text.strip()
+                if children or t.attrib:
+                    if text:
+                        d[t.tag]['#text'] = text
+                else:
+                    d[t.tag] = text
+            return d
+        return json.dumps(etree_to_dict(root), indent=4)
+    except Exception as e:
+        print(f"Error converting XML to JSON: {e}")
+        return None
+
+def xml_to_yaml(xml_str):
+    try:
+        root = ET.fromstring(xml_str)
+        def etree_to_dict(t):
+            d = {t.tag: {} if t.attrib else None}
+            children = list(t)
+            if children:
+                dd = defaultdict(list)
+                for dc in map(etree_to_dict, children):
+                    for k, v in dc.items():
+                        dd[k].append(v)
+                d = {t.tag: {k: v[0] if len(v) == 1 else v for k, v in dd.items()}}
+            if t.attrib:
+                d[t.tag].update(('@' + k, v) for k, v in t.attrib.items())
+            if t.text:
+                text = t.text.strip()
+                if children or t.attrib:
+                    if text:
+                        d[t.tag]['#text'] = text
+                else:
+                    d[t.tag] = text
+            return d
+        
+        data_dict = etree_to_dict(root)
+        
+        # Ensure last_updated is at the top
+        safari_versions = data_dict.get('safari_versions', {})
+        if 'last_updated' in safari_versions:
+            last_updated = safari_versions.pop('last_updated')
+            safari_versions = {'last_updated': last_updated, **safari_versions}
+            data_dict['safari_versions'] = safari_versions
+        
+        return yaml.dump(data_dict, default_flow_style=False, sort_keys=False)
+    except Exception as e:
+        print(f"Error converting XML to YAML: {e}")
+        return None
+
+def export_to_file(content, filepath):
+    with open(filepath, 'w', encoding='utf-8') as file:
+        file.write(content)
+
 # Example usage
 catalog_url = 'https://swscan.apple.com/content/catalogs/others/index-15-14-13-12-10.16-10.15-10.14-10.13-10.12-10.11-10.10-10.9-mountainlion-lion-snowleopard-leopard.merged-1.sucatalog.gz'
 safari_xml = get_latest_safari_version(catalog_url)
 
 if safari_xml:
-    export_to_text(safari_xml, 'latest_safari_files/safari_latest_versions.xml')
+    export_to_file(safari_xml, 'latest_safari_files/safari_latest_versions.xml')
+    safari_json = xml_to_json(safari_xml)
+    if safari_json:
+        export_to_file(safari_json, 'latest_safari_files/safari_latest_versions.json')
+    safari_yaml = xml_to_yaml(safari_xml)
+    if safari_yaml:
+        export_to_file(safari_yaml, 'latest_safari_files/safari_latest_versions.yaml')
