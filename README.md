@@ -1,7 +1,7 @@
 # **BOFA**
 **B**rowser **O**verview **F**eed for **A**pple
 
-<img src=".github/images/bofa_logo.png" alt="MOFA Image" width="200">
+<a href="https://bofa.cocolabs.dev"><img src=".github/images/bofa_logo.png" alt="MOFA Image" width="200"></a>
 
 Welcome to the **BOFA** repository! This resource tracks the latest versions of major web browsers for macOS. Feeds are automatically updated every hour from XML and JSON links directly from vendors.
 
@@ -15,12 +15,12 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <table>
   <tr>
-    <td align="center"><img src=".github/images/chrome.png" alt="Chrome" width="80"><br><b>Chrome</b><br>133.0.6943.54</td>
-    <td align="center"><img src=".github/images/firefox.png" alt="Firefox" width="80"><br><b>Firefox</b><br>135.0</td>
+    <td align="center"><a href="https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg"><img src=".github/images/chrome.png" alt="Chrome" width="80"></a><br><b>Chrome</b><br>133.0.6943.54<br><a href="https://chromereleases.googleblog.com/" style="text-decoration: none;"><small>Release Notes</small></a></td>
+    <td align="center"><a href="https://download-installer.cdn.mozilla.net/pub/firefox/releases/135.0/mac/en-US/Firefox%20135.0.pkg"><img src=".github/images/firefox.png" alt="Firefox" width="80"></a><br><b>Firefox</b><br>135.0<br><a href="https://www.mozilla.org/en-US/firefox/notes/" style="text-decoration: none;"><small>Release Notes</small></a></td>
   </tr>
   <tr>
-    <td align="center"><img src=".github/images/edge.png" alt="Edge" width="80"><br><b>Edge</b><br>132.0.2957.140</td>
-    <td align="center"><img src=".github/images/safari.png" alt="Safari" width="80"><br><b>Safari</b><br>18.3</td>
+    <td align="center"><a href="https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-132.0.2957.140.pkg"><img src=".github/images/edge.png" alt="Edge" width="80"></a><br><b>Edge</b><br>132.0.2957.140<br><a href="https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel" style="text-decoration: none;"><small>Release Notes</small></a></td>
+    <td align="center"><a href="https://swcdn.apple.com/content/downloads/09/29/072-37131-A_TB5KELZSTG/yngguudq6uadu4goqvbbroumbqgnpf0q3m/Safari18.3SonomaAuto.pkg"><img src=".github/images/safari.png" alt="Safari" width="80"></a><br><b>Safari</b><br>18.3<br><a href="https://developer.apple.com/documentation/safari-release-notes" style="text-decoration: none;"><small>Release Notes</small></a></td>
   </tr>
 </table>
 
@@ -34,7 +34,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <sup>**Edge**: [**_Raw XML_**](latest_edge_files/edge_latest_versions.xml) [**_Raw YAML_**](latest_edge_files/edge_latest_versions.yaml) [**_Raw JSON_**](latest_edge_files/edge_latest_versions.json) | **Safari**: [**_Raw XML_**](latest_safari_files/safari_latest_versions.xml) [**_Raw YAML_**](latest_safari_files/safari_latest_versions.yaml) [**_Raw JSON_**](latest_safari_files/safari_latest_versions.json)</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">February 06, 2025 11:36 AM EST</code> (Automatically Updated every hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">February 06, 2025 11:50 AM EST</code> (Automatically Updated every hour)_</sup>
 
 | **Browser** | **CFBundle Version** | **CFBundle Identifier** | **Download** |
 |------------|-------------------|---------------------|------------|

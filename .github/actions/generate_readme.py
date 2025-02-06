@@ -243,7 +243,7 @@ def generate_readme():
     readme_content = """# **BOFA**
 **B**rowser **O**verview **F**eed for **A**pple
 
-<img src=".github/images/bofa_logo.png" alt="MOFA Image" width="200">
+<a href="https://bofa.cocolabs.dev"><img src=".github/images/bofa_logo.png" alt="MOFA Image" width="200"></a>
 
 Welcome to the **BOFA** repository! This resource tracks the latest versions of major web browsers for macOS. Feeds are automatically updated every hour from XML and JSON links directly from vendors.
 
@@ -257,29 +257,33 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <table>
   <tr>
-    <td align="center"><img src=".github/images/chrome.png" alt="Chrome" width="80"><br><b>Chrome</b><br>{chrome_version}</td>
-    <td align="center"><img src=".github/images/firefox.png" alt="Firefox" width="80"><br><b>Firefox</b><br>{firefox_version}</td>
+    <td align="center"><a href="{chrome_download}"><img src=".github/images/chrome.png" alt="Chrome" width="80"></a><br><b>Chrome</b><br>{chrome_version}<br><a href="https://chromereleases.googleblog.com/" style="text-decoration: none;"><small>Release Notes</small></a></td>
+    <td align="center"><a href="{firefox_download}"><img src=".github/images/firefox.png" alt="Firefox" width="80"></a><br><b>Firefox</b><br>{firefox_version}<br><a href="https://www.mozilla.org/en-US/firefox/notes/" style="text-decoration: none;"><small>Release Notes</small></a></td>
   </tr>
   <tr>
-    <td align="center"><img src=".github/images/edge.png" alt="Edge" width="80"><br><b>Edge</b><br>{edge_version}</td>
-    <td align="center"><img src=".github/images/safari.png" alt="Safari" width="80"><br><b>Safari</b><br>{safari_version}</td>
+    <td align="center"><a href="{edge_download}"><img src=".github/images/edge.png" alt="Edge" width="80"></a><br><b>Edge</b><br>{edge_version}<br><a href="https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel" style="text-decoration: none;"><small>Release Notes</small></a></td>
+    <td align="center"><a href="{safari_download}"><img src=".github/images/safari.png" alt="Safari" width="80"></a><br><b>Safari</b><br>{safari_version}<br><a href="https://developer.apple.com/documentation/safari-release-notes" style="text-decoration: none;"><small>Release Notes</small></a></td>
   </tr>
 </table>
 
 </div>
 """
     
-    # Fetch versions
-    chrome_version = read_xml_version(xml_files['Chrome'])
-    firefox_version = read_xml_version(xml_files['Firefox'])
-    edge_version = read_xml_version(xml_files['Edge'])
-    safari_version = read_xml_version(xml_files['Safari'])
+    # Fetch versions and download URLs
+    chrome_version, chrome_download = fetch_chrome_details(xml_files['Chrome'], 'stable/version', 'stable/latest_download')
+    firefox_version, firefox_download = fetch_firefox_details(xml_files['Firefox'], 'latest_version', 'latest_download')
+    edge_version, edge_download = fetch_edge_details(xml_files['Edge'], 'current', 'current')
+    safari_version, safari_download = fetch_safari_details(xml_files['Safari'], 'Sonoma', 'URL')
 
     readme_content = readme_content.format(
         chrome_version=chrome_version,
+        chrome_download=chrome_download,
         firefox_version=firefox_version,
+        firefox_download=firefox_download,
         edge_version=edge_version,
-        safari_version=safari_version
+        edge_download=edge_download,
+        safari_version=safari_version,
+        safari_download=safari_download
     )
 
     readme_content += f"""
