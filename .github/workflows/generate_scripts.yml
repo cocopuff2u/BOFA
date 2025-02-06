@@ -13,6 +13,10 @@ jobs:
     - name: Checkout repository
       uses: actions/checkout@v2
 
+    - name: Set time zone
+      run: |
+        sudo timedatectl set-timezone America/New_York
+
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
