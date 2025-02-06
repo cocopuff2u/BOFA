@@ -2,7 +2,8 @@ name: Run Generate Scripts
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs every hour
+    - cron: '0 */1 * * *' # Runs every 1 hours
+  workflow_dispatch:
 
 jobs:
   run-generate-scripts:
