@@ -1,23 +1,23 @@
 {
-  "last_updated": "February 06, 2025 03:31 PM",
+  "last_updated": "February 06, 2025 10:49 AM",
   "stable": {
     "version": "133.0.6943.54",
-    "time": "February 04, 2025 05:40 PM ",
+    "time": "February 04, 2025 12:40 PM ",
     "latest_download": "https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg"
   },
   "beta": {
     "version": "134.0.6998.3",
-    "time": "February 05, 2025 04:34 PM ",
+    "time": "February 05, 2025 11:34 AM ",
     "beta_download": "https://dl.google.com/chrome/mac/beta/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg"
   },
   "dev": {
     "version": "134.0.6988.2",
-    "time": "January 31, 2025 02:26 PM ",
+    "time": "January 31, 2025 09:26 AM ",
     "dev_download": "https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg"
   },
   "canary": {
     "version": "135.0.7001.0",
-    "time": "February 06, 2025 08:47 AM ",
+    "time": "February 06, 2025 03:47 AM ",
     "canary_download": "https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg"
   }
 }
