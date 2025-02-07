@@ -7,9 +7,9 @@ Welcome to the **BOFA** repository! This resource tracks the latest versions of 
 
 We welcome community contributions—fork the repository, ask questions, or share insights to help keep this resource accurate and useful for everyone. Check out the user-friendly website version below for an easier browsing experience!
 
-### ~~[bofa.cocolabs.dev](https://bofa.cocolabs.dev)~~ (Coming Soon)
-
 <div align="center">
+
+### ~~[bofa.cocolabs.dev](https://bofa.cocolabs.dev)~~ (Coming Soon)
 
 ## Latest Stable Browser Versions
 
@@ -17,8 +17,6 @@ We welcome community contributions—fork the repository, ask questions, or shar
   <tr>
     <td align="center"><a href="https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg"><img src=".github/images/chrome.png" alt="Chrome" width="80"></a><br><b>Chrome</b><br>133.0.6943.54<br><a href="https://chromereleases.googleblog.com/" style="text-decoration: none;"><small>Release Notes</small></a></td>
     <td align="center"><a href="https://download-installer.cdn.mozilla.net/pub/firefox/releases/135.0/mac/en-US/Firefox%20135.0.pkg"><img src=".github/images/firefox.png" alt="Firefox" width="80"></a><br><b>Firefox</b><br>135.0<br><a href="https://www.mozilla.org/en-US/firefox/notes/" style="text-decoration: none;"><small>Release Notes</small></a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-132.0.2957.140.pkg"><img src=".github/images/edge.png" alt="Edge" width="80"></a><br><b>Edge</b><br>132.0.2957.140<br><a href="https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel" style="text-decoration: none;"><small>Release Notes</small></a></td>
     <td align="center"><a href="https://swcdn.apple.com/content/downloads/09/29/072-37131-A_TB5KELZSTG/yngguudq6uadu4goqvbbroumbqgnpf0q3m/Safari18.3SonomaAuto.pkg"><img src=".github/images/safari.png" alt="Safari" width="80"></a><br><b>Safari</b><br>18.3<br><a href="https://developer.apple.com/documentation/safari-release-notes" style="text-decoration: none;"><small>Release Notes</small></a></td>
   </tr>
@@ -34,7 +32,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <sup>**Edge**: [**_Raw XML_**](latest_edge_files/edge_latest_versions.xml) [**_Raw YAML_**](latest_edge_files/edge_latest_versions.yaml) [**_Raw JSON_**](latest_edge_files/edge_latest_versions.json) | **Safari**: [**_Raw XML_**](latest_safari_files/safari_latest_versions.xml) [**_Raw YAML_**](latest_safari_files/safari_latest_versions.yaml) [**_Raw JSON_**](latest_safari_files/safari_latest_versions.json)</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">February 07, 2025 12:11 PM EST</code> (Automatically Updated every hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">February 07, 2025 12:41 PM EST</code> (Automatically Updated every hour)_</sup>
 
 | **Browser** | **CFBundle Version** | **CFBundle Identifier** | **Download** |
 |------------|-------------------|---------------------|------------|
@@ -58,3 +56,24 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **Safari** <sup>Ventura</sup>  | `18.3` | `com.apple.Safari` | <a href="https://swcdn.apple.com/content/downloads/25/26/072-37121-A_ZC4O3POGUS/zyrvcx8nmioye0dlak2mz4zsedgidau1o3/Safari18.3VenturaAuto.pkg"><img src=".github/images/safari.png" alt="Download Safari" width="80"></a> |
 | **Safari** <sup>Monterey</sup>  | `17.6` | `com.apple.Safari` | <a href="https://swcdn.apple.com/content/downloads/19/54/062-47822-A_BHCA3624RA/oixd7i5b8y3g67u6x0upt45m0u2xotc4eh/Safari17.6MontereyAuto.pkg"><img src=".github/images/safari.png" alt="Download Safari" width="80"></a> |
 | **Safari** <sup>BigSur</sup>  | `16.6.1` | `com.apple.Safari` | <a href="https://swcdn.apple.com/content/downloads/47/04/042-27539-A_JOWCKWG03T/q1askvrrids8ykmi9ok73aqmj05kzskcya/Safari16.6.1BigSurAuto.pkg"><img src=".github/images/safari.png" alt="Download Safari" width="80"></a> |
+
+## Browser Settings Management
+
+View your current browser policies and explore available policy options:
+
+### <img src=".github/images/chrome.png" alt="Chrome" width="20"> Chrome
+1. **View Current Policies**: Enter `chrome://policy` in your address bar to see active policies
+2. **Available Options**: [Chrome Enterprise Policy Documentation](https://chromeenterprise.google/policies/)
+
+### <img src=".github/images/firefox.png" alt="Firefox" width="20"> Firefox
+1. **View Current Policies**: Enter `about:policies` in your address bar to see active policies
+2. **Available Options**: [Firefox Policy Documentation](https://mozilla.github.io/policy-templates/)
+
+### <img src=".github/images/edge.png" alt="Edge" width="20"> Edge
+1. **View Current Policies**: Enter `edge://policy` in your address bar to see active policies
+2. **Available Options**: [Edge Policy Documentation](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-policies)
+
+### <img src=".github/images/safari.png" alt="Safari" width="20"> Safari
+1. **View Current Policies**: Open System Settings > Profiles & Device Management
+2. **Available Options**: [Safari Configuration Profile Reference](https://support.apple.com/guide/deployment/welcome/web)
+

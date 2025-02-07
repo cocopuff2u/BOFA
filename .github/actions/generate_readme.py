@@ -225,6 +225,30 @@ def generate_browser_table(base_path):
     
     return table_content
 
+def generate_settings_section():
+    return """
+## Browser Settings Management
+
+View your current browser policies and explore available policy options:
+
+### <img src=".github/images/chrome.png" alt="Chrome" width="20"> Chrome
+1. **View Current Policies**: Enter `chrome://policy` in your address bar to see active policies
+2. **Available Options**: [Chrome Enterprise Policy Documentation](https://chromeenterprise.google/policies/)
+
+### <img src=".github/images/firefox.png" alt="Firefox" width="20"> Firefox
+1. **View Current Policies**: Enter `about:policies` in your address bar to see active policies
+2. **Available Options**: [Firefox Policy Documentation](https://mozilla.github.io/policy-templates/)
+
+### <img src=".github/images/edge.png" alt="Edge" width="20"> Edge
+1. **View Current Policies**: Enter `edge://policy` in your address bar to see active policies
+2. **Available Options**: [Edge Policy Documentation](https://learn.microsoft.com/en-us/deployedge/microsoft-edge-policies)
+
+### <img src=".github/images/safari.png" alt="Safari" width="20"> Safari
+1. **View Current Policies**: Open System Settings > Profiles & Device Management
+2. **Available Options**: [Safari Configuration Profile Reference](https://support.apple.com/guide/deployment/welcome/web)
+
+"""
+
 def generate_readme():
     base_path = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
     
@@ -249,9 +273,9 @@ Welcome to the **BOFA** repository! This resource tracks the latest versions of 
 
 We welcome community contributions—fork the repository, ask questions, or share insights to help keep this resource accurate and useful for everyone. Check out the user-friendly website version below for an easier browsing experience!
 
-### ~~[bofa.cocolabs.dev](https://bofa.cocolabs.dev)~~ (Coming Soon)
-
 <div align="center">
+
+### ~~[bofa.cocolabs.dev](https://bofa.cocolabs.dev)~~ (Coming Soon)
 
 ## Latest Stable Browser Versions
 
@@ -259,8 +283,6 @@ We welcome community contributions—fork the repository, ask questions, or shar
   <tr>
     <td align="center"><a href="{chrome_download}"><img src=".github/images/chrome.png" alt="Chrome" width="80"></a><br><b>Chrome</b><br>{chrome_version}<br><a href="https://chromereleases.googleblog.com/" style="text-decoration: none;"><small>Release Notes</small></a></td>
     <td align="center"><a href="{firefox_download}"><img src=".github/images/firefox.png" alt="Firefox" width="80"></a><br><b>Firefox</b><br>{firefox_version}<br><a href="https://www.mozilla.org/en-US/firefox/notes/" style="text-decoration: none;"><small>Release Notes</small></a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="{edge_download}"><img src=".github/images/edge.png" alt="Edge" width="80"></a><br><b>Edge</b><br>{edge_version}<br><a href="https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel" style="text-decoration: none;"><small>Release Notes</small></a></td>
     <td align="center"><a href="{safari_download}"><img src=".github/images/safari.png" alt="Safari" width="80"></a><br><b>Safari</b><br>{safari_version}<br><a href="https://developer.apple.com/documentation/safari-release-notes" style="text-decoration: none;"><small>Release Notes</small></a></td>
   </tr>
@@ -300,6 +322,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 """
 
     readme_content += generate_browser_table(base_path)
+    readme_content += generate_settings_section()  # Add this line
 
     # Write to README.md at repository root level
     readme_path = os.path.join(base_path, 'README.md')
