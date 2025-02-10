@@ -1,18 +1,18 @@
 EdgeLatestVersions:
-  last_updated: February 10, 2025 02:10 PM EST
+  last_updated: February 10, 2025 03:12 PM EST
   Version:
   - Channel: current
-    Date: January 30, 2025 05:37 PM EST
-    Location: https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-132.0.2957.140.pkg
-    Version: 132.0.2957.140
+    Date: February 10, 2025 12:46 AM EST
+    Location: https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-133.0.3065.59.pkg
+    Version: 133.0.3065.59
   - Channel: preview
-    Date: January 30, 2025 05:37 PM EST
-    Location: https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-132.0.2957.140.pkg
-    Version: 132.0.2957.140
+    Date: February 10, 2025 12:46 AM EST
+    Location: https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-133.0.3065.59.pkg
+    Version: 133.0.3065.59
   - Channel: beta
-    Date: January 30, 2025 05:37 PM EST
-    Location: https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-132.0.2957.140.pkg
-    Version: 132.0.2957.140
+    Date: February 10, 2025 12:46 AM EST
+    Location: https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-133.0.3065.59.pkg
+    Version: 133.0.3065.59
   - Channel: insider_canary
     Date: February 10, 2025 02:06 PM EST
     Location: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/cfcc6bea-3e59-4335-97b1-ca8a5a3d1c1f/MicrosoftEdgeCanary-135.0.3130.0.pkg
@@ -22,6 +22,6 @@ EdgeLatestVersions:
     Location: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e0bb2ce1-9c30-40f4-b09b-2c649d2c77a7/MicrosoftEdgeDev-134.0.3109.0.pkg
     Version: 134.0.3109.0
   - Channel: insider_beta
-    Date: February 05, 2025 08:51 PM EST
-    Location: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/77b56a43-ec60-429b-99c4-305689fa7fde/MicrosoftEdgeBeta-133.0.3065.49.pkg
-    Version: 133.0.3065.49
+    Date: February 10, 2025 07:19 PM EST
+    Location: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3495f910-3399-45d4-926f-15663a503ae6/MicrosoftEdgeBeta-133.0.3065.59.pkg
+    Version: 133.0.3065.59
