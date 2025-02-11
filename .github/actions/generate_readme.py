@@ -275,7 +275,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <div align="center">
 
-### ~~[bofa.cocolabs.dev](https://bofa.cocolabs.dev)~~ (Coming Soon)
+### [bofa.cocolabs.dev](https://bofa.cocolabs.dev)
 
 ## Latest Stable Browser Versions
 
