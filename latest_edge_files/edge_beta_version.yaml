@@ -1,20 +1,20 @@
-last_updated: February 14, 2025 06:11 PM EST
+last_updated: February 14, 2025 07:57 PM EST
 plist_data:
 - Application ID: EDGE01
-  Date: 2025-02-10 00:46:55
+  Date: 2025-02-14 17:51:08
   Download Time: 0
   LCID: 1033
-  Location: https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-133.0.3065.59.pkg
+  Location: https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-133.0.3065.69.pkg
   ManifestVersion: 2.0.0
   Max OS: '0x0'
   Min Memory: 256
   Min OS: 4352
   Minimum OS: '11.0'
-  Payload: MicrosoftEdgeUpdate-133.0.3065.59.pkg
+  Payload: MicrosoftEdgeUpdate-133.0.3065.69.pkg
   Short Description: ''
-  Size: 392547
-  Title: Microsoft Edge 133.0.3065.59
+  Size: 392579
+  Title: Microsoft Edge 133.0.3065.69
   Type: Recommended
-  Update Version: 133.3065.25020959
+  Update Version: 133.3065.25021469
   UpdateBaseSearchPath: /Applications
   UpdaterFileType: pkg

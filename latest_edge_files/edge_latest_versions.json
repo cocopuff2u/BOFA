@@ -1,30 +1,30 @@
 {
     "EdgeLatestVersions": {
-        "last_updated": "February 14, 2025 06:11 PM EST",
+        "last_updated": "February 14, 2025 07:57 PM EST",
         "Version": [
             {
                 "Channel": "current",
-                "Date": "February 10, 2025 12:46 AM EST",
-                "Location": "https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-133.0.3065.59.pkg",
-                "Version": "133.0.3065.59"
+                "Date": "February 14, 2025 05:51 PM EST",
+                "Location": "https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-133.0.3065.69.pkg",
+                "Version": "133.0.3065.69"
             },
             {
                 "Channel": "preview",
-                "Date": "February 10, 2025 12:46 AM EST",
-                "Location": "https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-133.0.3065.59.pkg",
-                "Version": "133.0.3065.59"
+                "Date": "February 14, 2025 05:51 PM EST",
+                "Location": "https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-133.0.3065.69.pkg",
+                "Version": "133.0.3065.69"
             },
             {
                 "Channel": "beta",
-                "Date": "February 10, 2025 12:46 AM EST",
-                "Location": "https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-133.0.3065.59.pkg",
-                "Version": "133.0.3065.59"
+                "Date": "February 14, 2025 05:51 PM EST",
+                "Location": "https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-133.0.3065.69.pkg",
+                "Version": "133.0.3065.69"
             },
             {
                 "Channel": "insider_canary",
-                "Date": "February 14, 2025 02:18 PM EST",
-                "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e8a46abd-6eff-460f-85c6-0386b750c9ff/MicrosoftEdgeCanary-135.0.3138.0.pkg",
-                "Version": "135.0.3138.0"
+                "Date": "February 14, 2025 11:35 PM EST",
+                "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/040f1ef3-9b20-4b0c-81b9-8d3e027c32b1/MicrosoftEdgeCanary-135.0.3139.0.pkg",
+                "Version": "135.0.3139.0"
             },
             {
                 "Channel": "insider_dev",
