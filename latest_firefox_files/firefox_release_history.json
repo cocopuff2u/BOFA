@@ -1,5 +1,5 @@
 {
-  "last_updated": "February 18, 2025 09:12 AM EST",
+  "last_updated": "February 18, 2025 10:13 AM EST",
   "release": [
     {
       "key": "firefox-1.0rc1",
@@ -19790,6 +19790,16 @@
       "is_security_driven": "False",
       "product": "firefox",
       "version": "136.0b7"
+    },
+    {
+      "key": "firefox-135.0.1",
+      "build_number": "1",
+      "category": "stability",
+      "date": "2025-02-18",
+      "description": null,
+      "is_security_driven": "False",
+      "product": "firefox",
+      "version": "135.0.1"
     }
   ]
 }
