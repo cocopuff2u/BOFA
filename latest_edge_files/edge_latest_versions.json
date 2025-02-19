@@ -1,6 +1,6 @@
 {
     "EdgeLatestVersions": {
-        "last_updated": "February 19, 2025 03:14 PM EST",
+        "last_updated": "February 19, 2025 04:11 PM EST",
         "Version": [
             {
                 "Channel": "current",
@@ -28,9 +28,9 @@
             },
             {
                 "Channel": "insider_dev",
-                "Date": "February 11, 2025 07:42 PM EST",
-                "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/fc26b1c0-d48c-4448-a630-9e94063a5749/MicrosoftEdgeDev-134.0.3124.5.pkg",
-                "Version": "134.0.3124.5"
+                "Date": "February 19, 2025 09:10 PM EST",
+                "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/fb238d07-69e2-4968-8a67-8eed6699f1e7/MicrosoftEdgeDev-135.0.3140.0.pkg",
+                "Version": "135.0.3140.0"
             },
             {
                 "Channel": "insider_beta",
