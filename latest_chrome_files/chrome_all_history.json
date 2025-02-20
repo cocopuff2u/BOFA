@@ -1,5 +1,5 @@
 {
-  "last_updated": "February 20, 2025 04:10 PM EST",
+  "last_updated": "February 20, 2025 05:12 PM EST",
   "versions": [
     {
       "name": "chrome/platforms/win/channels/extended/versions/132.0.6834.209",
@@ -4820,6 +4820,10 @@
     {
       "name": "chrome/platforms/win/channels/beta/versions/54.0.2840.59",
       "version": "54.0.2840.59"
+    },
+    {
+      "name": "chrome/platforms/win/channels/dev/versions/135.0.7023.0",
+      "version": "135.0.7023.0"
     },
     {
       "name": "chrome/platforms/win/channels/dev/versions/135.0.7012.4",
