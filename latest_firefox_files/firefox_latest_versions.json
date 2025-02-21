@@ -1,5 +1,5 @@
 {
-  "last_updated": "February 21, 2025 10:12 AM EST",
+  "last_updated": "February 21, 2025 11:14 AM EST",
   "package": {
     "name": "Firefox",
     "application_name": "Mozilla Firefox",
@@ -17,7 +17,7 @@
     "esr115_version": "115.20.0esr",
     "esr115_download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.20.0esr/mac/en-US/Firefox%20115.20.0esr.pkg",
     "devedition_version": "136.0b8",
-    "devedition_download": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/136.0b8/mac/en-US/Firefox%20136.0b8.dmg",
+    "devedition_download": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/136.0b9/mac/en-US/Firefox%20136.0b9.dmg",
     "nightly_version": "137.0a1",
     "nightly_download": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/latest-mozilla-central/firefox-137.0a1.en-US.mac.pkg",
     "last_merge_date": "2025-02-03",
