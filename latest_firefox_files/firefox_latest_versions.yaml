@@ -1,4 +1,4 @@
-last_updated: February 21, 2025 11:14 AM EST
+last_updated: February 21, 2025 12:11 PM EST
 package:
   name: Firefox
   application_name: Mozilla Firefox
@@ -7,15 +7,15 @@ package:
   latest_older_version: 3.6.28
   currentVersionReleaseDate: '2025-02-04'
   latest_download: https://download-installer.cdn.mozilla.net/pub/firefox/releases/135.0.1/mac/en-US/Firefox%20135.0.1.pkg
-  latest_devel_version: 136.0b8
-  latest_released_devel_version: 136.0b8
-  latest_beta_download: https://download-installer.cdn.mozilla.net/pub/firefox/releases/136.0b8/mac/en-US/Firefox%20136.0b8.pkg
+  latest_devel_version: 136.0b9
+  latest_released_devel_version: 136.0b9
+  latest_beta_download: https://download-installer.cdn.mozilla.net/pub/firefox/releases/136.0b9/mac/en-US/Firefox%20136.0b9.pkg
   esr_version: 128.7.0esr
   esr_next_version: N/A
   esr_download: https://download-installer.cdn.mozilla.net/pub/firefox/releases/128.7.0esr/mac/en-US/Firefox%20128.7.0esr.pkg
   esr115_version: 115.20.0esr
   esr115_download: https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.20.0esr/mac/en-US/Firefox%20115.20.0esr.pkg
-  devedition_version: 136.0b8
+  devedition_version: 136.0b9
   devedition_download: https://download-installer.cdn.mozilla.net/pub/devedition/releases/136.0b9/mac/en-US/Firefox%20136.0b9.dmg
   nightly_version: 137.0a1
   nightly_download: https://download-installer.cdn.mozilla.net/pub/firefox/nightly/latest-mozilla-central/firefox-137.0a1.en-US.mac.pkg
