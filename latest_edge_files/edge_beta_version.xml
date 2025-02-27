@@ -1,18 +1,18 @@
 <?xml version="1.0" ?>
 <plist version="1.0">
-  <last_updated>February 27, 2025 03:14 PM EST</last_updated>
+  <last_updated>February 27, 2025 04:11 PM EST</last_updated>
   <array>
     <dict>
       <key>Application ID</key>
       <string>EDGE01</string>
       <key>Date</key>
-      <date>2025-02-21T00:50:25Z</date>
+      <date>2025-02-27T08:51:47Z</date>
       <key>Download Time</key>
       <integer>0</integer>
       <key>LCID</key>
       <integer>1033</integer>
       <key>Location</key>
-      <string>https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-133.0.3065.82.pkg</string>
+      <string>https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-133.0.3065.92.pkg</string>
       <key>ManifestVersion</key>
       <string>2.0.0</string>
       <key>Max OS</key>
@@ -24,17 +24,17 @@
       <key>Minimum OS</key>
       <string>11.0</string>
       <key>Payload</key>
-      <string>MicrosoftEdgeUpdate-133.0.3065.82.pkg</string>
+      <string>MicrosoftEdgeUpdate-133.0.3065.92.pkg</string>
       <key>Short Description</key>
       <string/>
       <key>Size</key>
-      <integer>392583</integer>
+      <integer>392582</integer>
       <key>Title</key>
-      <string>Microsoft Edge 133.0.3065.82</string>
+      <string>Microsoft Edge 133.0.3065.92</string>
       <key>Type</key>
       <string>Recommended</string>
       <key>Update Version</key>
-      <string>133.3065.25022082</string>
+      <string>133.3065.25022692</string>
       <key>UpdateBaseSearchPath</key>
       <string>/Applications</string>
       <key>UpdaterFileType</key>
