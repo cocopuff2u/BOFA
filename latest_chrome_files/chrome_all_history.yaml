@@ -1,4 +1,4 @@
-last_updated: March 06, 2025 04:13 AM EST
+last_updated: March 06, 2025 05:13 AM EST
 versions:
 - name: chrome/platforms/win/channels/extended/versions/134.0.6998.36
   version: 134.0.6998.36
@@ -12860,6 +12860,8 @@ versions:
   version: 56.0.2896.0
 - name: chrome/platforms/win/channels/canary/versions/56.0.2895.0
   version: 56.0.2895.0
+- name: chrome/platforms/win/channels/canary_asan/versions/136.0.7052.1
+  version: 136.0.7052.1
 - name: chrome/platforms/win/channels/canary_asan/versions/136.0.7051.1
   version: 136.0.7051.1
 - name: chrome/platforms/win/channels/canary_asan/versions/135.0.7049.6

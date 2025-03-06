@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <versions>
-  <last_updated>March 06, 2025 04:13 AM EST</last_updated>
+  <last_updated>March 06, 2025 05:13 AM EST</last_updated>
   <version>
     <name>chrome/platforms/win/channels/extended/versions/134.0.6998.36</name>
     <version>134.0.6998.36</version>
@@ -25720,6 +25720,10 @@
   <version>
     <name>chrome/platforms/win/channels/canary/versions/56.0.2895.0</name>
     <version>56.0.2895.0</version>
+  </version>
+  <version>
+    <name>chrome/platforms/win/channels/canary_asan/versions/136.0.7052.1</name>
+    <version>136.0.7052.1</version>
   </version>
   <version>
     <name>chrome/platforms/win/channels/canary_asan/versions/136.0.7051.1</name>
