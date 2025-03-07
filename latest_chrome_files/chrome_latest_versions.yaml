@@ -8,9 +8,9 @@ canary:
   version: 136.0.7054.0
 dev:
   dev_download: https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg
-  time: March 03, 2025 05:31 PM EST
-  version: 135.0.7039.0
-last_updated: March 07, 2025 01:17 PM EST
+  time: March 07, 2025 01:34 PM EST
+  version: 136.0.7052.2
+last_updated: March 07, 2025 02:10 PM EST
 stable:
   latest_download: https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg
   time: March 04, 2025 03:54 PM EST
