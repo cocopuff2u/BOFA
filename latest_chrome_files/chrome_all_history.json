@@ -1,5 +1,5 @@
 {
-  "last_updated": "March 07, 2025 04:13 AM EST",
+  "last_updated": "March 07, 2025 05:14 AM EST",
   "versions": [
     {
       "name": "chrome/platforms/win/channels/extended/versions/134.0.6998.36",
@@ -7108,6 +7108,10 @@
     {
       "name": "chrome/platforms/win/channels/dev/versions/55.0.2883.19",
       "version": "55.0.2883.19"
+    },
+    {
+      "name": "chrome/platforms/win/channels/canary/versions/136.0.7054.0",
+      "version": "136.0.7054.0"
     },
     {
       "name": "chrome/platforms/win/channels/canary/versions/136.0.7053.0",
@@ -25724,6 +25728,10 @@
     {
       "name": "chrome/platforms/win/channels/canary/versions/56.0.2895.0",
       "version": "56.0.2895.0"
+    },
+    {
+      "name": "chrome/platforms/win/channels/canary_asan/versions/136.0.7054.1",
+      "version": "136.0.7054.1"
     },
     {
       "name": "chrome/platforms/win/channels/canary_asan/versions/136.0.7053.1",
