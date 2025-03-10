@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf8'?>
 <firefox_devedition_releases>
-  <last_updated>March 10, 2025 12:03 PM EDT</last_updated>
+  <last_updated>March 10, 2025 01:02 PM EDT</last_updated>
   <release>
     <key>devedition-54.0b11</key>
     <build_number>4</build_number>
@@ -8540,5 +8540,15 @@
     <is_security_driven>False</is_security_driven>
     <product>devedition</product>
     <version>137.0b3</version>
+  </release>
+  <release>
+    <key>devedition-137.0b4</key>
+    <build_number>1</build_number>
+    <category>dev</category>
+    <date>2025-03-10</date>
+    <description />
+    <is_security_driven>False</is_security_driven>
+    <product>devedition</product>
+    <version>137.0b4</version>
   </release>
 </firefox_devedition_releases>
