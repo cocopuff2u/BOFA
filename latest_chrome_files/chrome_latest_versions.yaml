@@ -10,8 +10,8 @@ dev:
   dev_download: https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg
   time: March 07, 2025 01:34 PM EST
   version: 136.0.7052.2
-last_updated: March 10, 2025 04:03 PM EDT
+last_updated: March 10, 2025 05:03 PM EDT
 stable:
   latest_download: https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg
-  time: March 04, 2025 03:54 PM EST
-  version: 134.0.6998.45
+  time: March 10, 2025 03:59 PM EDT
+  version: 134.0.6998.89
