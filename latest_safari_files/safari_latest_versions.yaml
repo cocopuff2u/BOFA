@@ -1,5 +1,5 @@
 safari_versions:
-  last_updated: March 11, 2025 02:03 PM EDT
+  last_updated: March 11, 2025 03:02 PM EDT
   BigSur:
     version: 16.6.1
     URL: https://swcdn.apple.com/content/downloads/47/04/042-27539-A_JOWCKWG03T/q1askvrrids8ykmi9ok73aqmj05kzskcya/Safari16.6.1BigSurAuto.pkg
@@ -11,12 +11,12 @@ safari_versions:
     Size: 148.80 MB
     PostDate: August 15, 2024 07:58 PM
   Sonoma:
-    version: '18.3'
-    URL: https://swcdn.apple.com/content/downloads/09/29/072-37131-A_TB5KELZSTG/yngguudq6uadu4goqvbbroumbqgnpf0q3m/Safari18.3SonomaAuto.pkg
-    Size: 175.02 MB
-    PostDate: February 03, 2025 06:02 PM
+    version: 18.3.1
+    URL: https://swcdn.apple.com/content/downloads/28/57/082-06250-A_CM81BJNGCG/4bo3ktr97td8tf9pda71rvysnet7kr2wz7/Safari18.3.1SonomaAuto.pkg
+    Size: 175.01 MB
+    PostDate: March 11, 2025 06:09 PM
   Ventura:
-    version: '18.3'
-    URL: https://swcdn.apple.com/content/downloads/25/26/072-37121-A_ZC4O3POGUS/zyrvcx8nmioye0dlak2mz4zsedgidau1o3/Safari18.3VenturaAuto.pkg
-    Size: 171.12 MB
-    PostDate: February 03, 2025 06:02 PM
+    version: 18.3.1
+    URL: https://swcdn.apple.com/content/downloads/40/31/082-05632-A_DU8EI8VNVI/m4gu4h8k7p95qshxoosd2ynmpx9bcwnwkj/Safari18.3.1VenturaAuto.pkg
+    Size: 171.11 MB
+    PostDate: March 11, 2025 06:10 PM
