@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <versions>
-  <last_updated>March 12, 2025 04:03 PM EDT</last_updated>
+  <last_updated>March 12, 2025 05:02 PM EDT</last_updated>
   <version>
     <name>chrome/platforms/win/channels/extended/versions/134.0.6998.89</name>
     <version>134.0.6998.89</version>
@@ -3012,6 +3012,10 @@
   <version>
     <name>chrome/platforms/win/channels/stable/versions/54.0.2840.71</name>
     <version>54.0.2840.71</version>
+  </version>
+  <version>
+    <name>chrome/platforms/win/channels/beta/versions/135.0.7049.17</name>
+    <version>135.0.7049.17</version>
   </version>
   <version>
     <name>chrome/platforms/win/channels/beta/versions/135.0.7049.3</name>
