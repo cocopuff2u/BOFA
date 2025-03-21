@@ -1,5 +1,7 @@
-last_updated: March 21, 2025 12:03 PM EDT
+last_updated: March 21, 2025 01:02 PM EDT
 versions:
+- name: chrome/platforms/win/channels/extended/versions/134.0.6998.166
+  version: 134.0.6998.166
 - name: chrome/platforms/win/channels/extended/versions/134.0.6998.118
   version: 134.0.6998.118
 - name: chrome/platforms/win/channels/extended/versions/134.0.6998.89
@@ -330,6 +332,12 @@ versions:
   version: 91.0.4472.106
 - name: chrome/platforms/win/channels/extended/versions/91.0.4472.101
   version: 91.0.4472.101
+- name: chrome/platforms/win/channels/stable/versions/134.0.6998.166
+  version: 134.0.6998.166
+- name: chrome/platforms/win/channels/stable/versions/134.0.6998.165
+  version: 134.0.6998.165
+- name: chrome/platforms/win/channels/stable/versions/134.0.6998.119
+  version: 134.0.6998.119
 - name: chrome/platforms/win/channels/stable/versions/134.0.6998.118
   version: 134.0.6998.118
 - name: chrome/platforms/win/channels/stable/versions/134.0.6998.117
