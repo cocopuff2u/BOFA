@@ -1,4 +1,4 @@
-last_updated: March 21, 2025 02:03 PM EDT
+last_updated: March 21, 2025 03:02 PM EDT
 release:
 - key: firefox-1.0rc1
   build_number: '1'
@@ -15961,3 +15961,11 @@ release:
   is_security_driven: 'False'
   product: firefox
   version: 137.0b8
+- key: firefox-137.0b9
+  build_number: '1'
+  category: dev
+  date: '2025-03-21'
+  description: null
+  is_security_driven: 'False'
+  product: firefox
+  version: 137.0b9
