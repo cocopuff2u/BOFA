@@ -1,5 +1,5 @@
 {
-  "last_updated": "March 25, 2025 10:03 AM EDT",
+  "last_updated": "March 25, 2025 11:03 AM EDT",
   "release": [
     {
       "type": "major",
@@ -3325,6 +3325,11 @@
       "type": "stability",
       "version": "136.0.2",
       "date": "2025-03-18"
+    },
+    {
+      "type": "stability",
+      "version": "136.0.3",
+      "date": "2025-03-25"
     }
   ]
 }
