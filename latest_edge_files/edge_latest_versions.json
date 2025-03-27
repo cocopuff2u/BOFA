@@ -1,6 +1,6 @@
 {
     "EdgeLatestVersions": {
-        "last_updated": "March 27, 2025 10:03 AM EDT",
+        "last_updated": "March 27, 2025 11:03 AM EDT",
         "Version": [
             {
                 "Channel": "current",
@@ -22,9 +22,9 @@
             },
             {
                 "Channel": "insider_canary",
-                "Date": "March 26, 2025 11:11 PM EDT",
-                "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9ad17de0-3052-484a-95db-da6d493fe0e8/MicrosoftEdgeCanary-136.0.3220.0.pkg",
-                "Version": "136.0.3220.0"
+                "Date": "March 27, 2025 02:16 PM EDT",
+                "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9384eae8-9db2-4aa0-a6ee-6815be6a09e8/MicrosoftEdgeCanary-136.0.3221.0.pkg",
+                "Version": "136.0.3221.0"
             },
             {
                 "Channel": "insider_dev",
