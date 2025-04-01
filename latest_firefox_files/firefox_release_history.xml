@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf8'?>
 <releases>
-  <last_updated>April 01, 2025 08:04 AM EDT</last_updated>
+  <last_updated>April 01, 2025 09:10 AM EDT</last_updated>
   <release>
     <key>firefox-1.0rc1</key>
     <build_number>1</build_number>
@@ -20010,6 +20010,36 @@
     <is_security_driven>False</is_security_driven>
     <product>firefox</product>
     <version>136.0.4</version>
+  </release>
+  <release>
+    <key>firefox-115.22.0esr</key>
+    <build_number>2</build_number>
+    <category>stability</category>
+    <date>2025-04-01</date>
+    <description />
+    <is_security_driven>False</is_security_driven>
+    <product>firefox</product>
+    <version>115.22.0</version>
+  </release>
+  <release>
+    <key>firefox-128.9.0esr</key>
+    <build_number>2</build_number>
+    <category>esr</category>
+    <date>2025-04-01</date>
+    <description />
+    <is_security_driven>False</is_security_driven>
+    <product>firefox</product>
+    <version>128.9.0</version>
+  </release>
+  <release>
+    <key>firefox-137.0</key>
+    <build_number>2</build_number>
+    <category>major</category>
+    <date>2025-04-01</date>
+    <description />
+    <is_security_driven>False</is_security_driven>
+    <product>firefox</product>
+    <version>137.0</version>
   </release>
   <release>
     <key>firefox-138.0b1</key>
