@@ -1,5 +1,7 @@
-last_updated: April 02, 2025 06:03 AM EDT
+last_updated: April 02, 2025 07:02 AM EDT
 versions:
+- name: chrome/platforms/win/channels/canary/versions/137.0.7104.0
+  version: 137.0.7104.0
 - name: chrome/platforms/win/channels/canary/versions/136.0.7103.15
   version: 136.0.7103.15
 - name: chrome/platforms/win/channels/canary/versions/136.0.7103.3
