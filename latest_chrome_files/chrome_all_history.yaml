@@ -1,5 +1,7 @@
-last_updated: April 15, 2025 04:03 PM EDT
+last_updated: April 15, 2025 05:03 PM EDT
 versions:
+- name: chrome/platforms/win/channels/extended/versions/134.0.6998.205
+  version: 134.0.6998.205
 - name: chrome/platforms/win/channels/extended/versions/134.0.6998.196
   version: 134.0.6998.196
 - name: chrome/platforms/win/channels/extended/versions/134.0.6998.178
@@ -336,6 +338,12 @@ versions:
   version: 91.0.4472.106
 - name: chrome/platforms/win/channels/extended/versions/91.0.4472.101
   version: 91.0.4472.101
+- name: chrome/platforms/win/channels/stable/versions/135.0.7049.96
+  version: 135.0.7049.96
+- name: chrome/platforms/win/channels/stable/versions/135.0.7049.95
+  version: 135.0.7049.95
+- name: chrome/platforms/win/channels/stable/versions/135.0.7049.86
+  version: 135.0.7049.86
 - name: chrome/platforms/win/channels/stable/versions/135.0.7049.85
   version: 135.0.7049.85
 - name: chrome/platforms/win/channels/stable/versions/135.0.7049.84
@@ -3620,6 +3628,8 @@ versions:
   version: 56.0.2896.3
 - name: chrome/platforms/win/channels/dev/versions/55.0.2883.19
   version: 55.0.2883.19
+- name: chrome/platforms/win/channels/canary/versions/137.0.7126.0
+  version: 137.0.7126.0
 - name: chrome/platforms/win/channels/canary/versions/137.0.7125.0
   version: 137.0.7125.0
 - name: chrome/platforms/win/channels/canary/versions/137.0.7124.0
