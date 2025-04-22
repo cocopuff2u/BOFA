@@ -1,9 +1,9 @@
 <?xml version="1.0" ?>
 <mac_versions>
-  <last_updated>April 22, 2025 03:02 PM EDT</last_updated>
+  <last_updated>April 22, 2025 04:03 PM EDT</last_updated>
   <stable>
-    <version>135.0.7049.96</version>
-    <release_time>April 15, 2025 04:17 PM EDT</release_time>
+    <version>135.0.7049.97</version>
+    <release_time>April 22, 2025 03:29 PM EDT</release_time>
     <latest_download>https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg</latest_download>
   </stable>
   <beta>
