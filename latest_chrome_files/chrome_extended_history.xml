@@ -1,6 +1,10 @@
 <?xml version="1.0" ?>
 <versions>
-  <last_updated>April 29, 2025 02:04 PM EDT</last_updated>
+  <last_updated>April 29, 2025 03:02 PM EDT</last_updated>
+  <version>
+    <name>chrome/platforms/win/channels/extended/versions/136.0.7103.49</name>
+    <version>136.0.7103.49</version>
+  </version>
   <version>
     <name>chrome/platforms/win/channels/extended/versions/134.0.6998.205</name>
     <version>134.0.6998.205</version>
