@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 29, 2025 08:05 AM EDT",
+  "last_updated": "April 29, 2025 09:12 AM EDT",
   "release": [
     {
       "key": "firefox-1.0rc1",
@@ -20150,6 +20150,36 @@
       "is_security_driven": "False",
       "product": "firefox",
       "version": "138.0b9"
+    },
+    {
+      "key": "firefox-115.23.0esr",
+      "build_number": "1",
+      "category": "stability",
+      "date": "2025-04-29",
+      "description": null,
+      "is_security_driven": "False",
+      "product": "firefox",
+      "version": "115.23.0"
+    },
+    {
+      "key": "firefox-128.10.0esr",
+      "build_number": "1",
+      "category": "esr",
+      "date": "2025-04-29",
+      "description": null,
+      "is_security_driven": "False",
+      "product": "firefox",
+      "version": "128.10.0"
+    },
+    {
+      "key": "firefox-138.0",
+      "build_number": "1",
+      "category": "major",
+      "date": "2025-04-29",
+      "description": null,
+      "is_security_driven": "False",
+      "product": "firefox",
+      "version": "138.0"
     }
   ]
 }
