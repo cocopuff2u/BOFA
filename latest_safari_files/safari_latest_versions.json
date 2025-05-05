@@ -1,6 +1,6 @@
 {
     "safari_versions": {
-        "last_updated": "May 05, 2025 01:03 PM EDT",
+        "last_updated": "May 05, 2025 02:03 PM EDT",
         "BigSur": {
             "version": "16.6.1",
             "URL": "https://swcdn.apple.com/content/downloads/47/04/042-27539-A_JOWCKWG03T/q1askvrrids8ykmi9ok73aqmj05kzskcya/Safari16.6.1BigSurAuto.pkg",
@@ -17,13 +17,13 @@
             "version": "18.4",
             "URL": "https://swcdn.apple.com/content/downloads/33/13/062-92831-A_TZ6DSW2X26/czod00t7exrzch6beecedv6meth47zgcpt/Safari18.4SonomaAuto.pkg",
             "Size": "184.44 MB",
-            "PostDate": "March 31, 2025 09:04 PM"
+            "PostDate": "May 05, 2025 05:00 PM"
         },
         "Ventura": {
             "version": "18.4",
             "URL": "https://swcdn.apple.com/content/downloads/62/26/082-18261-A_6MTRUUL35H/4hda7q9uatu7nrqui5lu8mj62p5bd0ql7n/Safari18.4VenturaAuto.pkg",
             "Size": "179.99 MB",
-            "PostDate": "March 31, 2025 09:05 PM"
+            "PostDate": "May 05, 2025 05:00 PM"
         }
     }
 }
