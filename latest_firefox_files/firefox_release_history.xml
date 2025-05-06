@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf8'?>
 <releases>
-  <last_updated>May 06, 2025 12:03 PM EDT</last_updated>
+  <last_updated>May 06, 2025 01:02 PM EDT</last_updated>
   <release>
     <key>firefox-1.0rc1</key>
     <build_number>1</build_number>
@@ -18714,7 +18714,7 @@
   <release>
     <key>firefox-128.0esr</key>
     <build_number>2</build_number>
-    <category>esr</category>
+    <category>major</category>
     <date>2024-07-09</date>
     <description />
     <is_security_driven>False</is_security_driven>
@@ -18844,7 +18844,7 @@
   <release>
     <key>firefox-128.1.0esr</key>
     <build_number>2</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2024-08-06</date>
     <description />
     <is_security_driven>False</is_security_driven>
@@ -18984,7 +18984,7 @@
   <release>
     <key>firefox-128.2.0esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2024-09-03</date>
     <description />
     <is_security_driven>False</is_security_driven>
@@ -19114,7 +19114,7 @@
   <release>
     <key>firefox-128.3.0esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2024-10-01</date>
     <description />
     <is_security_driven>False</is_security_driven>
@@ -19184,7 +19184,7 @@
   <release>
     <key>firefox-128.3.1esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2024-10-09</date>
     <description />
     <is_security_driven>False</is_security_driven>
@@ -19274,7 +19274,7 @@
   <release>
     <key>firefox-128.4.0esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2024-10-29</date>
     <description />
     <is_security_driven>False</is_security_driven>
@@ -19414,7 +19414,7 @@
   <release>
     <key>firefox-128.5.0esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2024-11-26</date>
     <description />
     <is_security_driven>False</is_security_driven>
@@ -19454,7 +19454,7 @@
   <release>
     <key>firefox-128.5.1esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2024-11-29</date>
     <description />
     <is_security_driven>False</is_security_driven>
@@ -19534,7 +19534,7 @@
   <release>
     <key>firefox-128.5.2esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2024-12-12</date>
     <description />
     <is_security_driven>False</is_security_driven>
@@ -19564,7 +19564,7 @@
   <release>
     <key>firefox-128.6.0esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2025-01-07</date>
     <description />
     <is_security_driven>False</is_security_driven>
@@ -19704,7 +19704,7 @@
   <release>
     <key>firefox-128.7.0esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2025-02-04</date>
     <description />
     <is_security_driven>False</is_security_driven>
@@ -19834,7 +19834,7 @@
   <release>
     <key>firefox-128.8.0esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2025-03-04</date>
     <description />
     <is_security_driven>False</is_security_driven>
@@ -19994,7 +19994,7 @@
   <release>
     <key>firefox-128.8.1esr</key>
     <build_number>2</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2025-03-27</date>
     <description />
     <is_security_driven>False</is_security_driven>
@@ -20024,7 +20024,7 @@
   <release>
     <key>firefox-128.9.0esr</key>
     <build_number>2</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2025-04-01</date>
     <description />
     <is_security_driven>False</is_security_driven>
@@ -20164,7 +20164,7 @@
   <release>
     <key>firefox-128.10.0esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2025-04-29</date>
     <description />
     <is_security_driven>False</is_security_driven>

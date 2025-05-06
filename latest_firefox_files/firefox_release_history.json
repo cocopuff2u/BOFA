@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 06, 2025 12:03 PM EDT",
+  "last_updated": "May 06, 2025 01:02 PM EDT",
   "release": [
     {
       "key": "firefox-1.0rc1",
@@ -18714,7 +18714,7 @@
     {
       "key": "firefox-128.0esr",
       "build_number": "2",
-      "category": "esr",
+      "category": "major",
       "date": "2024-07-09",
       "description": null,
       "is_security_driven": "False",
@@ -18844,7 +18844,7 @@
     {
       "key": "firefox-128.1.0esr",
       "build_number": "2",
-      "category": "esr",
+      "category": "stability",
       "date": "2024-08-06",
       "description": null,
       "is_security_driven": "False",
@@ -18984,7 +18984,7 @@
     {
       "key": "firefox-128.2.0esr",
       "build_number": "1",
-      "category": "esr",
+      "category": "stability",
       "date": "2024-09-03",
       "description": null,
       "is_security_driven": "False",
@@ -19114,7 +19114,7 @@
     {
       "key": "firefox-128.3.0esr",
       "build_number": "1",
-      "category": "esr",
+      "category": "stability",
       "date": "2024-10-01",
       "description": null,
       "is_security_driven": "False",
@@ -19184,7 +19184,7 @@
     {
       "key": "firefox-128.3.1esr",
       "build_number": "1",
-      "category": "esr",
+      "category": "stability",
       "date": "2024-10-09",
       "description": null,
       "is_security_driven": "False",
@@ -19274,7 +19274,7 @@
     {
       "key": "firefox-128.4.0esr",
       "build_number": "1",
-      "category": "esr",
+      "category": "stability",
       "date": "2024-10-29",
       "description": null,
       "is_security_driven": "False",
@@ -19414,7 +19414,7 @@
     {
       "key": "firefox-128.5.0esr",
       "build_number": "1",
-      "category": "esr",
+      "category": "stability",
       "date": "2024-11-26",
       "description": null,
       "is_security_driven": "False",
@@ -19454,7 +19454,7 @@
     {
       "key": "firefox-128.5.1esr",
       "build_number": "1",
-      "category": "esr",
+      "category": "stability",
       "date": "2024-11-29",
       "description": null,
       "is_security_driven": "False",
@@ -19534,7 +19534,7 @@
     {
       "key": "firefox-128.5.2esr",
       "build_number": "1",
-      "category": "esr",
+      "category": "stability",
       "date": "2024-12-12",
       "description": null,
       "is_security_driven": "False",
@@ -19564,7 +19564,7 @@
     {
       "key": "firefox-128.6.0esr",
       "build_number": "1",
-      "category": "esr",
+      "category": "stability",
       "date": "2025-01-07",
       "description": null,
       "is_security_driven": "False",
@@ -19704,7 +19704,7 @@
     {
       "key": "firefox-128.7.0esr",
       "build_number": "1",
-      "category": "esr",
+      "category": "stability",
       "date": "2025-02-04",
       "description": null,
       "is_security_driven": "False",
@@ -19834,7 +19834,7 @@
     {
       "key": "firefox-128.8.0esr",
       "build_number": "1",
-      "category": "esr",
+      "category": "stability",
       "date": "2025-03-04",
       "description": null,
       "is_security_driven": "False",
@@ -19994,7 +19994,7 @@
     {
       "key": "firefox-128.8.1esr",
       "build_number": "2",
-      "category": "esr",
+      "category": "stability",
       "date": "2025-03-27",
       "description": null,
       "is_security_driven": "False",
@@ -20024,7 +20024,7 @@
     {
       "key": "firefox-128.9.0esr",
       "build_number": "2",
-      "category": "esr",
+      "category": "stability",
       "date": "2025-04-01",
       "description": null,
       "is_security_driven": "False",
@@ -20164,7 +20164,7 @@
     {
       "key": "firefox-128.10.0esr",
       "build_number": "1",
-      "category": "esr",
+      "category": "stability",
       "date": "2025-04-29",
       "description": null,
       "is_security_driven": "False",
