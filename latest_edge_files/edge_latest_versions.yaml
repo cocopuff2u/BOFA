@@ -1,5 +1,5 @@
 EdgeLatestVersions:
-  last_updated: May 06, 2025 06:03 PM EDT
+  last_updated: May 06, 2025 07:03 PM EDT
   Version:
   - Channel: current
     Date: March 05, 2025 08:19 PM EST
@@ -14,9 +14,9 @@ EdgeLatestVersions:
     Location: https://officecdn-microsoft-com.akamaized.net/pr/03adf619-38c6-4249-95ff-4a01c0ffc962/MacAutoupdate/MicrosoftEdgeUpdate-134.0.3124.51.pkg
     Version: 134.0.3124.51
   - Channel: insider_canary
-    Date: May 06, 2025 12:38 PM EDT
-    Location: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2e4e3233-83ef-4876-9d8b-f7f26646ccc1/MicrosoftEdgeCanary-138.0.3303.0.pkg
-    Version: 138.0.3303.0
+    Date: May 06, 2025 10:59 PM EDT
+    Location: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/92b2ff9d-28f1-464f-bee7-5fe09c7fed64/MicrosoftEdgeCanary-138.0.3304.0.pkg
+    Version: 138.0.3304.0
   - Channel: insider_dev
     Date: May 06, 2025 05:34 PM EDT
     Location: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/70cd1b47-aade-489f-99a1-00f6d1dd5dde/MicrosoftEdgeDev-137.0.3296.4.pkg
