@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 08, 2025 02:04 PM EDT",
+  "last_updated": "May 08, 2025 03:02 PM EDT",
   "stable": {
     "version": "136.0.7103.93",
     "time": "May 06, 2025 01:50 PM EDT",
@@ -11,8 +11,8 @@
     "beta_download": "https://dl.google.com/chrome/mac/beta/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg"
   },
   "dev": {
-    "version": "138.0.7153.0",
-    "time": "May 02, 2025 12:23 PM EDT",
+    "version": "138.0.7166.2",
+    "time": "May 08, 2025 02:26 PM EDT",
     "dev_download": "https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg"
   },
   "canary": {
