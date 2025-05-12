@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 12, 2025 01:03 PM EDT",
+  "last_updated": "May 12, 2025 02:03 PM EDT",
   "release": [
     {
       "key": "firefox-1.0rc1",
@@ -20250,6 +20250,16 @@
       "is_security_driven": "False",
       "product": "firefox",
       "version": "139.0b6"
+    },
+    {
+      "key": "firefox-139.0b7",
+      "build_number": "1",
+      "category": "dev",
+      "date": "2025-05-12",
+      "description": null,
+      "is_security_driven": "False",
+      "product": "firefox",
+      "version": "139.0b7"
     }
   ]
 }
