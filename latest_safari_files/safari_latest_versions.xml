@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <safari_versions>
-  <last_updated>May 12, 2025 04:03 PM EDT</last_updated>
+  <last_updated>May 12, 2025 05:03 PM EDT</last_updated>
   <BigSur>
     <version>16.6.1</version>
     <URL>https://swcdn.apple.com/content/downloads/47/04/042-27539-A_JOWCKWG03T/q1askvrrids8ykmi9ok73aqmj05kzskcya/Safari16.6.1BigSurAuto.pkg</URL>
@@ -14,15 +14,15 @@
     <PostDate>August 15, 2024 07:58 PM</PostDate>
   </Monterey>
   <Sonoma>
-    <version>18.4</version>
-    <URL>https://swcdn.apple.com/content/downloads/33/13/062-92831-A_TZ6DSW2X26/czod00t7exrzch6beecedv6meth47zgcpt/Safari18.4SonomaAuto.pkg</URL>
-    <Size>184.44 MB</Size>
-    <PostDate>May 05, 2025 05:00 PM</PostDate>
+    <version>18.5</version>
+    <URL>https://swcdn.apple.com/content/downloads/08/26/082-18361-A_O3VSRCP8K3/5vlwh79cz177ia1ws5w2aep4d46pknikt2/Safari18.5SonomaAuto.pkg</URL>
+    <Size>184.73 MB</Size>
+    <PostDate>May 12, 2025 08:15 PM</PostDate>
   </Sonoma>
   <Ventura>
-    <version>18.4</version>
-    <URL>https://swcdn.apple.com/content/downloads/62/26/082-18261-A_6MTRUUL35H/4hda7q9uatu7nrqui5lu8mj62p5bd0ql7n/Safari18.4VenturaAuto.pkg</URL>
-    <Size>179.99 MB</Size>
-    <PostDate>May 05, 2025 05:00 PM</PostDate>
+    <version>18.5</version>
+    <URL>https://swcdn.apple.com/content/downloads/12/52/082-15975-A_C0C5PADNX9/3bpb62xwd7jk2t4t53x5wq47crgirscb36/Safari18.5VenturaAuto.pkg</URL>
+    <Size>180.36 MB</Size>
+    <PostDate>May 12, 2025 08:15 PM</PostDate>
   </Ventura>
 </safari_versions>
