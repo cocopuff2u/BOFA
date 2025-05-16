@@ -4,13 +4,13 @@ beta:
   version: 137.0.7151.27
 canary:
   canary_download: https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg
-  time: May 15, 2025 04:40 PM EDT
-  version: 138.0.7181.0
+  time: May 16, 2025 04:36 AM EDT
+  version: 138.0.7182.0
 dev:
   dev_download: https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg
   time: May 08, 2025 02:26 PM EDT
   version: 138.0.7166.2
-last_updated: May 16, 2025 04:04 AM EDT
+last_updated: May 16, 2025 05:03 AM EDT
 stable:
   latest_download: https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg
   time: May 14, 2025 12:40 PM EDT
