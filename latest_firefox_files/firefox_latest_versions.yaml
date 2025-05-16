@@ -1,4 +1,4 @@
-last_updated: May 16, 2025 01:02 PM EDT
+last_updated: May 16, 2025 02:04 PM EDT
 package:
   name: Firefox
   application_name: Mozilla Firefox
@@ -15,7 +15,7 @@ package:
   esr_download: https://download-installer.cdn.mozilla.net/pub/firefox/releases/128.10.0esr/mac/en-US/Firefox%20128.10.0esr.pkg
   esr115_version: 115.23.0esr
   esr115_download: https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.23.0esr/mac/en-US/Firefox%20115.23.0esr.pkg
-  devedition_version: 139.0b8
+  devedition_version: 139.0b9
   devedition_download: https://download-installer.cdn.mozilla.net/pub/devedition/releases/139.0b9/mac/en-US/Firefox%20139.0b9.dmg
   nightly_version: 140.0a1
   nightly_download: https://download-installer.cdn.mozilla.net/pub/firefox/nightly/latest-mozilla-central/firefox-140.0a1.en-US.mac.pkg
