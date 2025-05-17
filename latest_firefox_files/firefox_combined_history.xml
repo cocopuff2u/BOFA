@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf8'?>
 <combined_releases>
-  <last_updated>May 17, 2025 05:02 PM EDT</last_updated>
+  <last_updated>May 17, 2025 06:02 PM EDT</last_updated>
   <release>
     <type>major</type>
     <version>1.0</version>
@@ -3395,5 +3395,20 @@
     <type>stability</type>
     <version>138.0.3</version>
     <date>2025-05-13</date>
+  </release>
+  <release>
+    <type>stability</type>
+    <version>128.10.1</version>
+    <date>2025-05-17</date>
+  </release>
+  <release>
+    <type>stability</type>
+    <version>115.23.1</version>
+    <date>2025-05-17</date>
+  </release>
+  <release>
+    <type>stability</type>
+    <version>138.0.4</version>
+    <date>2025-05-17</date>
   </release>
 </combined_releases>

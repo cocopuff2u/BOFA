@@ -1,20 +1,20 @@
-last_updated: May 17, 2025 05:02 PM EDT
+last_updated: May 17, 2025 06:02 PM EDT
 package:
   name: Firefox
   application_name: Mozilla Firefox
   bundleId: org.mozilla.firefox
-  latest_version: 138.0.3
+  latest_version: 138.0.4
   latest_older_version: 3.6.28
   currentVersionReleaseDate: '2025-04-29'
-  latest_download: https://download-installer.cdn.mozilla.net/pub/firefox/releases/138.0.3/mac/en-US/Firefox%20138.0.3.pkg
+  latest_download: https://download-installer.cdn.mozilla.net/pub/firefox/releases/138.0.4/mac/en-US/Firefox%20138.0.4.pkg
   latest_devel_version: 139.0b9
   latest_released_devel_version: 139.0b9
   latest_beta_download: https://download-installer.cdn.mozilla.net/pub/firefox/releases/139.0b9/mac/en-US/Firefox%20139.0b9.pkg
-  esr_version: 128.10.0esr
+  esr_version: 128.10.1esr
   esr_next_version: N/A
-  esr_download: https://download-installer.cdn.mozilla.net/pub/firefox/releases/128.10.0esr/mac/en-US/Firefox%20128.10.0esr.pkg
-  esr115_version: 115.23.0esr
-  esr115_download: https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.23.0esr/mac/en-US/Firefox%20115.23.0esr.pkg
+  esr_download: https://download-installer.cdn.mozilla.net/pub/firefox/releases/128.10.1esr/mac/en-US/Firefox%20128.10.1esr.pkg
+  esr115_version: 115.23.1esr
+  esr115_download: https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.23.1esr/mac/en-US/Firefox%20115.23.1esr.pkg
   devedition_version: 139.0b9
   devedition_download: https://download-installer.cdn.mozilla.net/pub/devedition/releases/139.0b9/mac/en-US/Firefox%20139.0b9.dmg
   nightly_version: 140.0a1
