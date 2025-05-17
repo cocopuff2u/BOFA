@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf8'?>
 <latest>
-  <last_updated>May 17, 2025 06:02 PM EDT</last_updated>
+  <last_updated>May 17, 2025 07:02 PM EDT</last_updated>
   <package>
     <name>Firefox</name>
     <application_name>Mozilla Firefox</application_name>
@@ -18,7 +18,7 @@
     <esr115_version>115.23.1esr</esr115_version>
     <esr115_download>https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.23.1esr/mac/en-US/Firefox%20115.23.1esr.pkg</esr115_download>
     <devedition_version>139.0b9</devedition_version>
-    <devedition_download>https://download-installer.cdn.mozilla.net/pub/devedition/releases/139.0b9/mac/en-US/Firefox%20139.0b9.dmg</devedition_download>
+    <devedition_download>https://download-installer.cdn.mozilla.net/pub/devedition/releases/139.0b10/mac/en-US/Firefox%20139.0b10.dmg</devedition_download>
     <nightly_version>140.0a1</nightly_version>
     <nightly_download>https://download-installer.cdn.mozilla.net/pub/firefox/nightly/latest-mozilla-central/firefox-140.0a1.en-US.mac.pkg</nightly_download>
     <last_merge_date>2025-04-28</last_merge_date>
