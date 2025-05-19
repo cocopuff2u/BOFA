@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <EdgeInsiderVersions>
-  <last_updated>May 19, 2025 02:04 PM EDT</last_updated>
+  <last_updated>May 19, 2025 03:02 PM EDT</last_updated>
   <Version>
     <Channel>canary</Channel>
     <Date>May 16, 2025 10:32 PM EDT</Date>
@@ -15,8 +15,8 @@
   </Version>
   <Version>
     <Channel>beta</Channel>
-    <Date>May 12, 2025 05:30 PM EDT</Date>
-    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/1dbc1a5b-1b4c-40fc-8a9b-ba3edcfba8d0/MicrosoftEdgeBeta-137.0.3296.16.pkg</Location>
-    <Version>137.0.3296.16</Version>
+    <Date>May 19, 2025 06:40 PM EDT</Date>
+    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5ebff64d-0260-4bff-8508-c7ace71ff8c7/MicrosoftEdgeBeta-137.0.3296.30.pkg</Location>
+    <Version>137.0.3296.30</Version>
   </Version>
 </EdgeInsiderVersions>
