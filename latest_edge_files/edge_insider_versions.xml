@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <EdgeInsiderVersions>
-  <last_updated>May 22, 2025 08:05 AM EDT</last_updated>
+  <last_updated>May 22, 2025 09:12 AM EDT</last_updated>
   <Version>
     <Channel>canary</Channel>
-    <Date>May 21, 2025 10:29 PM EDT</Date>
-    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c1a58ac2-718e-49fc-8d8e-677d910488f2/MicrosoftEdgeCanary-138.0.3334.0.pkg</Location>
-    <Version>138.0.3334.0</Version>
+    <Date>May 22, 2025 12:52 PM EDT</Date>
+    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/449a305a-04e6-47f6-a841-95b349aa98fb/MicrosoftEdgeCanary-138.0.3335.0.pkg</Location>
+    <Version>138.0.3335.0</Version>
   </Version>
   <Version>
     <Channel>dev</Channel>
