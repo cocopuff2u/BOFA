@@ -32,11 +32,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <sup>**Edge**: [**_Raw XML_**](latest_edge_files/edge_latest_versions.xml) [**_Raw YAML_**](latest_edge_files/edge_latest_versions.yaml) [**_Raw JSON_**](latest_edge_files/edge_latest_versions.json) | **Safari**: [**_Raw XML_**](latest_safari_files/safari_latest_versions.xml) [**_Raw YAML_**](latest_safari_files/safari_latest_versions.yaml) [**_Raw JSON_**](latest_safari_files/safari_latest_versions.json)</sup>
 
-<<<<<<< HEAD
-<sup>_Last Updated: <code style="color : mediumseagreen">May 27, 2025 11:34 AM EDT</code> (Automatically Updated every hour)_</sup>
-=======
-<sup>_Last Updated: <code style="color : mediumseagreen">May 27, 2025 11:03 AM EDT</code> (Automatically Updated every hour)_</sup>
->>>>>>> 0830a1cc2221e69a2be571ceed5fddddcf1dd99d
+<sup>_Last Updated: <code style="color : mediumseagreen">May 27, 2025 11:39 AM EDT</code> (Automatically Updated every hour)_</sup>
 
 | **Browser** | **CFBundle Version** | **CFBundle Identifier** | **Download** |
 |------------|-------------------|---------------------|------------|
