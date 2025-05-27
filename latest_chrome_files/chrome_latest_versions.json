@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 27, 2025 04:04 AM EDT",
+  "last_updated": "May 27, 2025 05:03 AM EDT",
   "stable": {
     "version": "137.0.7151.41",
     "time": "May 21, 2025 11:04 AM EDT",
@@ -16,8 +16,8 @@
     "dev_download": "https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg"
   },
   "canary": {
-    "version": "138.0.7203.0",
-    "time": "May 26, 2025 04:28 PM EDT",
+    "version": "138.0.7204.0",
+    "time": "May 27, 2025 04:18 AM EDT",
     "canary_download": "https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg"
   }
 }
