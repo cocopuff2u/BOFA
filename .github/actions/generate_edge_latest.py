@@ -310,50 +310,24 @@ def convert_plist_to_yaml(xml_file, yaml_file):
         print(f"Error converting plist to YAML: {e}")
 
 if __name__ == "__main__":
+    # Remove the old channels dictionary and use insider_channels as channels
     channels = {
-        "current": "https://officecdnmac.microsoft.com/pr/C1297A47-86C4-4C1F-97FA-950631F94777/MacAutoupdate/0409EDGE01.xml",
-        "preview": "https://officecdnmac.microsoft.com/pr/1ac37578-5a24-40fb-892e-b89d85b6dfaa/MacAutoupdate/0409EDGE01.xml",
-        "beta": "https://officecdnmac.microsoft.com/pr/4B2D7701-0A4F-49C8-B4CB-0C2D4043F51F/MacAutoupdate/0409EDGE01.xml"
-    }
-    
-    info_list = []
-    for channel, url in channels.items():
-        xml_file = fetch_edge_latest(channel, url)
-        info = extract_info_from_xml(xml_file)
-        info_list.append(info)
-        update_last_updated_in_xml(xml_file)
-    
-    insider_channels = {
+        "current": "https://edgeupdates.microsoft.com/api/products/stable",
         "canary": "https://edgeupdates.microsoft.com/api/products/canary",
         "dev": "https://edgeupdates.microsoft.com/api/products/dev",
         "beta": "https://edgeupdates.microsoft.com/api/products/beta"
     }
     
-    insider_info_list = []
-    for channel, url in insider_channels.items():
+    info_list = []
+    for channel, url in channels.items():
         info = fetch_edge_insider_version(url, channel)
         if info:
-            insider_info_list.append(info)
-    
-    insider_output_file = os.path.join("latest_edge_files", "edge_insider_versions.xml")
-    create_insider_versions_xml(insider_info_list, insider_output_file)
+            info_list.append(info)
     
     output_file = os.path.join("latest_edge_files", "edge_latest_versions.xml")
-    create_summary_xml(info_list, insider_info_list, output_file)
+    create_insider_versions_xml(info_list, output_file)
     update_last_updated_in_xml(output_file)
     
     # Convert XML to JSON and YAML
     convert_xml_to_json(output_file, os.path.join("latest_edge_files", "edge_latest_versions.json"))
     convert_xml_to_yaml(output_file, os.path.join("latest_edge_files", "edge_latest_versions.yaml"))
-    convert_xml_to_json(insider_output_file, os.path.join("latest_edge_files", "edge_insider_versions.json"))
-    convert_xml_to_yaml(insider_output_file, os.path.join("latest_edge_files", "edge_insider_versions.yaml"))
-    
-    # Convert individual channel XML files to JSON and YAML using plist conversion
-    for channel in ['beta', 'current', 'preview']:
-        xml_file = os.path.join("latest_edge_files", f"edge_{channel}_version.xml")
-        if os.path.exists(xml_file):
-            json_file = os.path.join("latest_edge_files", f"edge_{channel}_version.json")
-            yaml_file = os.path.join("latest_edge_files", f"edge_{channel}_version.yaml")
-            convert_plist_to_json(xml_file, json_file)
-            convert_plist_to_yaml(xml_file, yaml_file)
-            print(f"Converted {channel} XML to JSON and YAML using plist conversion")

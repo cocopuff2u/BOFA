@@ -13,23 +13,18 @@ def read_xml_value(file_path, xpath):
         
         # For Edge specific handling
         if 'edge' in file_path.lower():
+            # Updated channel map to match new XML format
             channel_map = {
                 'stable': 'current',
-                'dev': 'preview',
+                'dev': 'dev',
                 'beta': 'beta',
-                'canary': 'insider_canary',
-                'internal': 'insider_dev',
-                'extended': 'insider_beta'
+                'canary': 'canary'
             }
-            
-            # Extract channel from xpath (e.g., 'stable' from 'stable/version' or 'stable/download')
             base_channel = xpath.split('/')[0]
             xml_channel = channel_map.get(base_channel)
-            
             if xml_channel:
                 version_element = root.find(f".//Version[Channel='{xml_channel}']")
                 if version_element is not None:
-                    # Return Location for download paths, Version for version paths
                     return version_element.find('Location' if 'download' in xpath else 'Version').text
             return "N/A"
             
@@ -134,7 +129,14 @@ def fetch_edge_details(xml_path, version_path, download_path):
     try:
         tree = ET.parse(xml_path)
         root = tree.getroot()
-        channel = version_path.split('/')[0]
+        # Use new channel mapping
+        channel_map = {
+            'stable': 'current',
+            'dev': 'dev',
+            'beta': 'beta',
+            'canary': 'canary'
+        }
+        channel = channel_map.get(version_path, version_path)
         version_element = root.find(f".//Version[Channel='{channel}']")
         if version_element is not None:
             version = version_element.find('Version').text
@@ -178,12 +180,10 @@ BROWSER_CONFIGS = {
     'Edge': {
         'fetch_details': fetch_edge_details,
         'channels': [
-            {'name': '', 'display': 'Edge', 'version_path': 'current', 'download_path': 'current', 'bundle_id': 'com.microsoft.edgemac', 'image': 'edge.png', 'release_notes': 'https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel'},
-            {'name': 'Preview', 'display': 'Edge', 'version_path': 'preview', 'download_path': 'preview', 'bundle_id': 'com.microsoft.edgemac.dev', 'image': 'edge.png'},
-            {'name': 'Beta', 'display': 'Edge', 'version_path': 'beta', 'download_path': 'beta', 'bundle_id': 'com.microsoft.edgemac.beta', 'image': 'edge.png', 'release_notes': 'https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-beta-channel'},
-            {'name': 'Beta', 'display': 'Edge Insider', 'version_path': 'insider_beta', 'download_path': 'insider_beta', 'bundle_id': 'com.microsoft.edgemac.insider.beta', 'image': 'edge_beta.png'},
-            {'name': 'Developer', 'display': 'Edge Insider', 'version_path': 'insider_dev', 'download_path': 'insider_dev', 'bundle_id': 'com.microsoft.edgemac.insider.dev', 'image': 'edge_dev.png'},
-            {'name': 'Canary', 'display': 'Edge Insider', 'version_path': 'insider_canary', 'download_path': 'insider_canary', 'bundle_id': 'com.microsoft.edgemac.insider.canary', 'image': 'edge_canary.png'}
+            {'name': '', 'display': 'Edge', 'version_path': 'stable', 'download_path': 'stable', 'bundle_id': 'com.microsoft.edgemac', 'image': 'edge.png', 'release_notes': 'https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel'},
+            {'name': 'Beta', 'display': 'Edge', 'version_path': 'beta', 'download_path': 'beta', 'bundle_id': 'com.microsoft.edgemac.beta', 'image': 'edge_beta.png', 'release_notes': 'https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-beta-channel'},
+            {'name': 'Developer', 'display': 'Edge', 'version_path': 'dev', 'download_path': 'dev', 'bundle_id': 'com.microsoft.edgemac.dev', 'image': 'edge_dev.png'},
+            {'name': 'Canary', 'display': 'Edge', 'version_path': 'canary', 'download_path': 'canary', 'bundle_id': 'com.microsoft.edgemac.canary', 'image': 'edge_canary.png'}
         ]
     },
     'Safari': {
@@ -197,32 +197,100 @@ BROWSER_CONFIGS = {
     }
 }
 
+def get_last_updated_from_xml(xml_path, browser, channel=None):
+    """Extract last updated date for the main stable channel/version for each browser, formatted as 'Month day, Year'."""
+    if not os.path.exists(xml_path):
+        return "N/A"
+    def format_date(date_str):
+        # Try to parse common formats and return 'Month day, Year'
+        for fmt in [
+            "%B %d, %Y %I:%M %p %Z",  # e.g., May 27, 2025 10:02 AM EDT
+            "%B %d, %Y %I:%M %p",     # e.g., May 27, 2025 10:02 AM
+            "%B %d, %Y",              # e.g., May 27, 2025
+            "%Y-%m-%d",               # e.g., 2025-05-27
+            "%Y-%m-%d %H:%M",         # e.g., 2025-05-27 10:02
+        ]:
+            try:
+                dt = datetime.strptime(date_str.strip(), fmt)
+                return dt.strftime("%B %d, %Y")
+            except Exception:
+                continue
+        return date_str  # fallback: return as-is
+
+    try:
+        tree = ET.parse(xml_path)
+        root = tree.getroot()
+        if browser == 'Chrome':
+            elem = root.find(f'.//{channel}/release_time')
+            if elem is not None and elem.text:
+                return format_date(elem.text)
+        elif browser == 'Firefox':
+            elem = root.find('.//package/currentVersionReleaseDate')
+            if elem is not None and elem.text:
+                return format_date(elem.text)
+        elif browser == 'Edge':
+            for version in root.findall('.//Version'):
+                channel_elem = version.find('Channel')
+                if channel_elem is not None and channel_elem.text == 'current':
+                    date_elem = version.find('Date')
+                    if date_elem is not None and date_elem.text:
+                        return format_date(date_elem.text)
+        elif browser == 'Safari':
+            elem = root.find(f'.//{channel}/PostDate')
+            if elem is not None and elem.text:
+                return format_date(elem.text)
+        elem = root.find('.//last_updated')
+        if elem is not None and elem.text:
+            return format_date(elem.text)
+        mtime = os.path.getmtime(xml_path)
+        return datetime.fromtimestamp(mtime).strftime("%B %d, %Y")
+    except Exception as e:
+        return "N/A"
+
 def generate_browser_table(base_path):
     table_content = """| **Browser** | **CFBundle Version** | **CFBundle Identifier** | **Download** |
 |------------|-------------------|---------------------|------------|
 """
-    
     for browser, config in BROWSER_CONFIGS.items():
         xml_path = os.path.join(base_path, f'latest_{browser.lower()}_files/{browser.lower()}_latest_versions.xml')
-        
         for channel in config['channels']:
+            # Fetch version and download as before
             if browser == 'Safari':
                 version, download = config['fetch_details'](xml_path, channel['version_path'], 'URL')
-            else:
+                # Only show release date for "Sequoia/Sonoma" (current)
+                show_release = channel['version_path'] == 'Sonoma'
+                last_updated = get_last_updated_from_xml(xml_path, browser, channel['version_path']) if show_release else None
+            elif browser == 'Chrome':
                 version, download = config['fetch_details'](xml_path, channel['version_path'], channel['download_path'])
-            
-            # Use channel name as superscript if it exists
+                # Only show release date for "stable"
+                show_release = channel['version_path'].split('/')[0] == 'stable'
+                last_updated = get_last_updated_from_xml(xml_path, browser, channel['version_path'].split('/')[0]) if show_release else None
+            elif browser == 'Edge':
+                version, download = config['fetch_details'](xml_path, channel['version_path'], channel['download_path'])
+                # Only show release date for "stable"
+                show_release = channel['version_path'] == 'stable'
+                last_updated = get_last_updated_from_xml(xml_path, browser) if show_release else None
+            elif browser == 'Firefox':
+                version, download = config['fetch_details'](xml_path, channel['version_path'], channel['download_path'])
+                # Only show release date for "latest_version"
+                show_release = channel['version_path'] == 'latest_version'
+                last_updated = get_last_updated_from_xml(xml_path, browser) if show_release else None
+            else:
+                version, download = "N/A", "N/A"
+                last_updated = None
+                show_release = False
+
             channel_name = f"<sup>{channel['name']}</sup>" if channel['name'] else ""
             release_notes = f"<br><a href=\"{channel.get('release_notes', config.get('release_notes', '#'))}\" style=\"text-decoration: none;\"><small>_Release Notes_</small></a>" if 'release_notes' in channel or 'release_notes' in config else ""
-            
+            # Add Last Updated below Release Notes only for current/stable
+            last_updated_html = f"<br><br><b>Last Updated:<br>{last_updated}</b>" if show_release and last_updated else ""
             table_content += (
-                f"| **{channel['display']}** {channel_name} {release_notes} | "
+                f"| **{channel['display']}** {channel_name} {release_notes}{last_updated_html} | "
                 f"`{version}` | "
                 f"`{channel['bundle_id']}` | "
                 f"<a href=\"{download}\"><img src=\".github/images/{channel['image']}\" "
                 f"alt=\"Download {channel['display']}\" width=\"80\"></a> |\n"
             )
-    
     return table_content
 
 def generate_settings_section():
@@ -251,20 +319,29 @@ View your current browser policies and explore available policy options:
 
 def generate_readme():
     base_path = os.path.dirname(os.path.dirname(os.path.dirname(__file__)))
-    
     xml_files = {
         'Chrome': os.path.join(base_path, 'latest_chrome_files/chrome_latest_versions.xml'),
         'Firefox': os.path.join(base_path, 'latest_firefox_files/firefox_latest_versions.xml'),
         'Edge': os.path.join(base_path, 'latest_edge_files/edge_latest_versions.xml'),
         'Safari': os.path.join(base_path, 'latest_safari_files/safari_latest_versions.xml')
     }
-
     eastern = timezone('US/Eastern')
     current_time = datetime.now(eastern).strftime("%B %d, %Y %I:%M %p %Z")
     global_last_updated = current_time
 
-    # Generate README content
-    readme_content = """# **BOFA**
+    # Fetch versions and download URLs with new Edge mapping
+    chrome_version, chrome_download = fetch_chrome_details(xml_files['Chrome'], 'stable/version', 'stable/latest_download')
+    firefox_version, firefox_download = fetch_firefox_details(xml_files['Firefox'], 'latest_version', 'latest_download')
+    edge_version, edge_download = fetch_edge_details(xml_files['Edge'], 'stable', 'stable')
+    safari_version, safari_download = fetch_safari_details(xml_files['Safari'], 'Sonoma', 'URL')
+
+    # Fetch last updated dates from XMLs (browser-specific, channel-specific)
+    chrome_last_updated = get_last_updated_from_xml(xml_files['Chrome'], 'Chrome', 'stable')
+    firefox_last_updated = get_last_updated_from_xml(xml_files['Firefox'], 'Firefox')
+    edge_last_updated = get_last_updated_from_xml(xml_files['Edge'], 'Edge')
+    safari_last_updated = get_last_updated_from_xml(xml_files['Safari'], 'Safari', 'Sonoma')
+
+    readme_content = f"""# **BOFA**
 **B**rowser **O**verview **F**eed for **A**pple
 
 <a href="https://bofa.cocolabs.dev"><img src=".github/images/bofa_logo.png" alt="MOFA Image" width="200"></a>
@@ -281,32 +358,15 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <table>
   <tr>
-    <td align="center"><a href="{chrome_download}"><img src=".github/images/chrome.png" alt="Chrome" width="80"></a><br><b>Chrome</b><br>{chrome_version}<br><a href="https://chromereleases.googleblog.com/" style="text-decoration: none;"><small>Release Notes</small></a></td>
-    <td align="center"><a href="{firefox_download}"><img src=".github/images/firefox.png" alt="Firefox" width="80"></a><br><b>Firefox</b><br>{firefox_version}<br><a href="https://www.mozilla.org/en-US/firefox/notes/" style="text-decoration: none;"><small>Release Notes</small></a></td>
-    <td align="center"><a href="{edge_download}"><img src=".github/images/edge.png" alt="Edge" width="80"></a><br><b>Edge</b><br>{edge_version}<br><a href="https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel" style="text-decoration: none;"><small>Release Notes</small></a></td>
-    <td align="center"><a href="{safari_download}"><img src=".github/images/safari.png" alt="Safari" width="80"></a><br><b>Safari</b><br>{safari_version}<br><a href="https://developer.apple.com/documentation/safari-release-notes" style="text-decoration: none;"><small>Release Notes</small></a></td>
+    <td align="center"><a href="{chrome_download}"><img src=".github/images/chrome.png" alt="Chrome" width="80"></a><br><b>Chrome</b><br>{chrome_version}<br><br><small>Last Update:<br>{chrome_last_updated}</small><br><a href="https://chromereleases.googleblog.com/" style="text-decoration: none;"><small>Release Notes</small></a></td>
+    <td align="center"><a href="{firefox_download}"><img src=".github/images/firefox.png" alt="Firefox" width="80"></a><br><b>Firefox</b><br>{firefox_version}<br><br><small>Last Update:<br>{firefox_last_updated}</small><br><a href="https://www.mozilla.org/en-US/firefox/notes/" style="text-decoration: none;"><small>Release Notes</small></a></td>
+    <td align="center"><a href="{edge_download}"><img src=".github/images/edge.png" alt="Edge" width="80"></a><br><b>Edge</b><br>{edge_version}<br><br><small>Last Update:<br>{edge_last_updated}</small><br><a href="https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel" style="text-decoration: none;"><small>Release Notes</small></a></td>
+    <td align="center"><a href="{safari_download}"><img src=".github/images/safari.png" alt="Safari" width="80"></a><br><b>Safari</b><br>{safari_version}<br><br><small>Last Update:<br>{safari_last_updated}</small><br><a href="https://developer.apple.com/documentation/safari-release-notes" style="text-decoration: none;"><small>Release Notes</small></a></td>
   </tr>
 </table>
 
 </div>
 """
-    
-    # Fetch versions and download URLs
-    chrome_version, chrome_download = fetch_chrome_details(xml_files['Chrome'], 'stable/version', 'stable/latest_download')
-    firefox_version, firefox_download = fetch_firefox_details(xml_files['Firefox'], 'latest_version', 'latest_download')
-    edge_version, edge_download = fetch_edge_details(xml_files['Edge'], 'current', 'current')
-    safari_version, safari_download = fetch_safari_details(xml_files['Safari'], 'Sonoma', 'URL')
-
-    readme_content = readme_content.format(
-        chrome_version=chrome_version,
-        chrome_download=chrome_download,
-        firefox_version=firefox_version,
-        firefox_download=firefox_download,
-        edge_version=edge_version,
-        edge_download=edge_download,
-        safari_version=safari_version,
-        safari_download=safari_download
-    )
 
     readme_content += f"""
 ## Browser Packages
@@ -322,9 +382,8 @@ We welcome community contributions—fork the repository, ask questions, or shar
 """
 
     readme_content += generate_browser_table(base_path)
-    readme_content += generate_settings_section()  # Add this line
+    readme_content += generate_settings_section()
 
-    # Write to README.md at repository root level
     readme_path = os.path.join(base_path, 'README.md')
     with open(readme_path, 'w', encoding='utf-8') as f:
         f.write(readme_content)
