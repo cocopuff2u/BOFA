@@ -1,11 +1,6 @@
 <?xml version="1.0" ?>
-<<<<<<< HEAD
 <EdgeInsiderVersions>
-  <last_updated>May 27, 2025 11:08 AM EDT</last_updated>
-=======
-<EdgeLatestVersions>
-  <last_updated>May 27, 2025 11:03 AM EDT</last_updated>
->>>>>>> 0830a1cc2221e69a2be571ceed5fddddcf1dd99d
+  <last_updated>May 27, 2025 11:38 AM EDT</last_updated>
   <Version>
     <Channel>current</Channel>
     <Date>May 23, 2025 04:43 PM EDT</Date>
