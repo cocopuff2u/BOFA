@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf8'?>
 <releases>
-  <last_updated>May 27, 2025 08:05 AM EDT</last_updated>
+  <last_updated>May 27, 2025 09:12 AM EDT</last_updated>
   <release>
     <key>firefox-1.0rc1</key>
     <build_number>1</build_number>
@@ -20330,5 +20330,45 @@
     <is_security_driven>False</is_security_driven>
     <product>firefox</product>
     <version>139.0b10</version>
+  </release>
+  <release>
+    <key>firefox-115.24.0esr</key>
+    <build_number>1</build_number>
+    <category>stability</category>
+    <date>2025-05-27</date>
+    <description />
+    <is_security_driven>False</is_security_driven>
+    <product>firefox</product>
+    <version>115.24.0</version>
+  </release>
+  <release>
+    <key>firefox-128.11.0esr</key>
+    <build_number>1</build_number>
+    <category>stability</category>
+    <date>2025-05-27</date>
+    <description />
+    <is_security_driven>False</is_security_driven>
+    <product>firefox</product>
+    <version>128.11.0</version>
+  </release>
+  <release>
+    <key>firefox-139.0</key>
+    <build_number>2</build_number>
+    <category>major</category>
+    <date>2025-05-27</date>
+    <description />
+    <is_security_driven>False</is_security_driven>
+    <product>firefox</product>
+    <version>139.0</version>
+  </release>
+  <release>
+    <key>firefox-140.0b1</key>
+    <build_number>1</build_number>
+    <category>dev</category>
+    <date>2025-05-27</date>
+    <description />
+    <is_security_driven>False</is_security_driven>
+    <product>firefox</product>
+    <version>140.0b1</version>
   </release>
 </releases>
