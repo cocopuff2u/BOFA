@@ -1,17 +1,6 @@
 <?xml version="1.0" ?>
-<<<<<<< HEAD
 <EdgeInsiderVersions>
-  <last_updated>May 27, 2025 11:08 AM EDT</last_updated>
-=======
-<EdgeLatestVersions>
   <last_updated>May 27, 2025 11:03 AM EDT</last_updated>
->>>>>>> 0830a1cc2221e69a2be571ceed5fddddcf1dd99d
-  <Version>
-    <Channel>current</Channel>
-    <Date>May 23, 2025 04:43 PM EDT</Date>
-    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0db7b32d-8b37-45ad-b2d9-b6b6cfcf91bd/MicrosoftEdge-136.0.3240.92.pkg</Location>
-    <Version>136.0.3240.92</Version>
-  </Version>
   <Version>
     <Channel>canary</Channel>
     <Date>May 26, 2025 12:49 PM EDT</Date>
