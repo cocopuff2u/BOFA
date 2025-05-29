@@ -1,4 +1,4 @@
-last_updated: May 29, 2025 02:04 PM EDT
+last_updated: May 29, 2025 03:02 PM EDT
 release:
 - type: major
   version: '1.0'
@@ -2055,3 +2055,6 @@ release:
 - type: stability
   version: 115.24.0
   date: '2025-05-27'
+- type: stability
+  version: 139.0.1
+  date: '2025-05-29'
