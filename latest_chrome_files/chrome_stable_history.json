@@ -1,6 +1,18 @@
 {
-  "last_updated": "June 17, 2025 01:03 PM EDT",
+  "last_updated": "June 17, 2025 02:04 PM EDT",
   "versions": [
+    {
+      "name": "chrome/platforms/win/channels/stable/versions/137.0.7151.120",
+      "version": "137.0.7151.120"
+    },
+    {
+      "name": "chrome/platforms/win/channels/stable/versions/137.0.7151.119",
+      "version": "137.0.7151.119"
+    },
+    {
+      "name": "chrome/platforms/win/channels/stable/versions/137.0.7151.105",
+      "version": "137.0.7151.105"
+    },
     {
       "name": "chrome/platforms/win/channels/stable/versions/137.0.7151.104",
       "version": "137.0.7151.104"
