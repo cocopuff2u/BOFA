@@ -1,6 +1,10 @@
 {
-  "last_updated": "June 30, 2025 04:03 PM EDT",
+  "last_updated": "June 30, 2025 05:03 PM EDT",
   "versions": [
+    {
+      "name": "chrome/platforms/win/channels/extended/versions/138.0.7204.97",
+      "version": "138.0.7204.97"
+    },
     {
       "name": "chrome/platforms/win/channels/extended/versions/138.0.7204.50",
       "version": "138.0.7204.50"
@@ -708,6 +712,18 @@
     {
       "name": "chrome/platforms/win/channels/extended/versions/91.0.4472.101",
       "version": "91.0.4472.101"
+    },
+    {
+      "name": "chrome/platforms/win/channels/stable/versions/138.0.7204.97",
+      "version": "138.0.7204.97"
+    },
+    {
+      "name": "chrome/platforms/win/channels/stable/versions/138.0.7204.96",
+      "version": "138.0.7204.96"
+    },
+    {
+      "name": "chrome/platforms/win/channels/stable/versions/138.0.7204.51",
+      "version": "138.0.7204.51"
     },
     {
       "name": "chrome/platforms/win/channels/stable/versions/138.0.7204.50",
@@ -27048,6 +27064,10 @@
     {
       "name": "chrome/platforms/win/channels/canary/versions/56.0.2895.0",
       "version": "56.0.2895.0"
+    },
+    {
+      "name": "chrome/platforms/win/channels/canary_asan/versions/140.0.7270.1",
+      "version": "140.0.7270.1"
     },
     {
       "name": "chrome/platforms/win/channels/canary_asan/versions/140.0.7269.1",
