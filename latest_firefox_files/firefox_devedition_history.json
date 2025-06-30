@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 30, 2025 01:02 PM EDT",
+  "last_updated": "June 30, 2025 02:04 PM EDT",
   "release": [
     {
       "key": "devedition-54.0b11",
@@ -8920,6 +8920,16 @@
       "is_security_driven": "False",
       "product": "devedition",
       "version": "141.0b3"
+    },
+    {
+      "key": "devedition-141.0b4",
+      "build_number": "1",
+      "category": "dev",
+      "date": "2025-06-30",
+      "description": null,
+      "is_security_driven": "False",
+      "product": "devedition",
+      "version": "141.0b4"
     }
   ]
 }
