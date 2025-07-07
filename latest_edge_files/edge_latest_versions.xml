@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <EdgeInsiderVersions>
-  <last_updated>July 07, 2025 03:03 PM EDT</last_updated>
+  <last_updated>July 07, 2025 04:03 PM EDT</last_updated>
   <Version>
     <Channel>current</Channel>
-    <Date>July 01, 2025 05:19 PM EDT</Date>
-    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/84bbc955-86c8-45ec-a520-da2c4026e2e1/MicrosoftEdge-138.0.3351.65.pkg</Location>
-    <Version>138.0.3351.65</Version>
+    <Date>July 07, 2025 07:12 PM EDT</Date>
+    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5d98b72a-4c14-4c48-a73a-35f6c2587eba/MicrosoftEdge-138.0.3351.77.pkg</Location>
+    <Version>138.0.3351.77</Version>
   </Version>
   <Version>
     <Channel>canary</Channel>
@@ -21,8 +21,8 @@
   </Version>
   <Version>
     <Channel>beta</Channel>
-    <Date>July 03, 2025 05:37 PM EDT</Date>
-    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/269344fa-2be7-4583-8926-309850dbc2f8/MicrosoftEdgeBeta-139.0.3405.13.pkg</Location>
-    <Version>139.0.3405.13</Version>
+    <Date>July 07, 2025 07:07 PM EDT</Date>
+    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/9bc43e61-0050-4218-bf17-c8eeb95fe481/MicrosoftEdgeBeta-139.0.3405.21.pkg</Location>
+    <Version>139.0.3405.21</Version>
   </Version>
 </EdgeInsiderVersions>
