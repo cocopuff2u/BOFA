@@ -1,5 +1,7 @@
-last_updated: July 09, 2025 12:03 PM EDT
+last_updated: July 09, 2025 01:04 PM EDT
 versions:
+- name: chrome/platforms/win/channels/beta/versions/139.0.7258.31
+  version: 139.0.7258.31
 - name: chrome/platforms/win/channels/beta/versions/139.0.7258.5
   version: 139.0.7258.5
 - name: chrome/platforms/win/channels/beta/versions/138.0.7204.35
