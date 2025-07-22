@@ -1,5 +1,5 @@
 {
-  "last_updated": "July 22, 2025 03:05 AM EDT",
+  "last_updated": "July 22, 2025 04:04 AM EDT",
   "versions": [
     {
       "name": "chrome/platforms/win/channels/extended/versions/138.0.7204.158",
@@ -7572,6 +7572,10 @@
     {
       "name": "chrome/platforms/win/channels/dev/versions/55.0.2883.19",
       "version": "55.0.2883.19"
+    },
+    {
+      "name": "chrome/platforms/win/channels/canary/versions/140.0.7311.0",
+      "version": "140.0.7311.0"
     },
     {
       "name": "chrome/platforms/win/channels/canary/versions/140.0.7310.0",
