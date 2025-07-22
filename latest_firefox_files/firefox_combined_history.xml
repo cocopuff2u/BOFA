@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf8'?>
 <combined_releases>
-  <last_updated>July 22, 2025 09:15 AM EDT</last_updated>
+  <last_updated>July 22, 2025 10:04 AM EDT</last_updated>
   <release>
     <type>major</type>
     <version>1.0</version>
@@ -3474,6 +3474,11 @@
   <release>
     <type>stability</type>
     <version>115.26.0</version>
+    <date>2025-07-22</date>
+  </release>
+  <release>
+    <type>stability</type>
+    <version>140.1.0</version>
     <date>2025-07-22</date>
   </release>
   <release>
