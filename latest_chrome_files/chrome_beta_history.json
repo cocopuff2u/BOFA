@@ -1,6 +1,10 @@
 {
-  "last_updated": "July 23, 2025 02:04 PM EDT",
+  "last_updated": "July 23, 2025 03:04 PM EDT",
   "versions": [
+    {
+      "name": "chrome/platforms/win/channels/beta/versions/139.0.7258.52",
+      "version": "139.0.7258.52"
+    },
     {
       "name": "chrome/platforms/win/channels/beta/versions/139.0.7258.42",
       "version": "139.0.7258.42"
