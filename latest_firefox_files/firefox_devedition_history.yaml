@@ -1,4 +1,4 @@
-last_updated: August 06, 2025 01:05 PM EDT
+last_updated: August 06, 2025 02:04 PM EDT
 release:
 - key: devedition-54.0b11
   build_number: '4'
@@ -7240,3 +7240,11 @@ release:
   is_security_driven: 'False'
   product: devedition
   version: 142.0b7
+- key: devedition-142.0b8
+  build_number: '1'
+  category: dev
+  date: '2025-08-06'
+  description: null
+  is_security_driven: 'False'
+  product: devedition
+  version: 142.0b8
