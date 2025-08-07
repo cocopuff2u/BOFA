@@ -1,5 +1,5 @@
 {
-  "last_updated": "August 07, 2025 08:05 AM EDT",
+  "last_updated": "August 07, 2025 09:16 AM EDT",
   "release": [
     {
       "type": "major",
@@ -3490,6 +3490,11 @@
       "type": "stability",
       "version": "141.0.2",
       "date": "2025-08-05"
+    },
+    {
+      "type": "stability",
+      "version": "141.0.3",
+      "date": "2025-08-07"
     }
   ]
 }
