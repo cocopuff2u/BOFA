@@ -1,10 +1,10 @@
 {
     "EdgeInsiderVersions": {
-        "last_updated": "August 17, 2025 03:03 AM EDT",
+        "last_updated": "August 17, 2025 04:03 AM EDT",
         "Version": [
             {
                 "Channel": "current",
-                "Date": "August 15, 2025 06:41 PM EDT",
+                "Date": "August 17, 2025 07:19 AM EDT",
                 "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4d599f34-3ef7-4f04-bd4b-6f35be25008c/MicrosoftEdge-139.0.3405.102.pkg",
                 "Version": "139.0.3405.102"
             },
