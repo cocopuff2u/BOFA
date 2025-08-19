@@ -1,5 +1,7 @@
-last_updated: August 19, 2025 04:03 PM EDT
+last_updated: August 19, 2025 05:03 PM EDT
 versions:
+- name: chrome/platforms/win/channels/canary/versions/141.0.7366.0
+  version: 141.0.7366.0
 - name: chrome/platforms/win/channels/canary/versions/141.0.7365.0
   version: 141.0.7365.0
 - name: chrome/platforms/win/channels/canary/versions/141.0.7364.0
