@@ -1,6 +1,10 @@
 {
-  "last_updated": "August 26, 2025 04:04 AM EDT",
+  "last_updated": "August 26, 2025 05:04 AM EDT",
   "versions": [
+    {
+      "name": "chrome/platforms/win/channels/canary/versions/141.0.7376.0",
+      "version": "141.0.7376.0"
+    },
     {
       "name": "chrome/platforms/win/channels/canary/versions/141.0.7375.3",
       "version": "141.0.7375.3"
