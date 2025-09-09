@@ -1,5 +1,11 @@
-last_updated: September 09, 2025 04:03 PM EDT
+last_updated: September 09, 2025 05:02 PM EDT
 versions:
+- name: chrome/platforms/win/channels/stable/versions/140.0.7339.128
+  version: 140.0.7339.128
+- name: chrome/platforms/win/channels/stable/versions/140.0.7339.127
+  version: 140.0.7339.127
+- name: chrome/platforms/win/channels/stable/versions/140.0.7339.82
+  version: 140.0.7339.82
 - name: chrome/platforms/win/channels/stable/versions/140.0.7339.81
   version: 140.0.7339.81
 - name: chrome/platforms/win/channels/stable/versions/140.0.7339.80

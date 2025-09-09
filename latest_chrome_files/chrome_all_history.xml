@@ -1,6 +1,10 @@
 <?xml version="1.0" ?>
 <versions>
-  <last_updated>September 09, 2025 04:03 PM EDT</last_updated>
+  <last_updated>September 09, 2025 05:03 PM EDT</last_updated>
+  <version>
+    <name>chrome/platforms/win/channels/extended/versions/140.0.7339.128</name>
+    <version>140.0.7339.128</version>
+  </version>
   <version>
     <name>chrome/platforms/win/channels/extended/versions/140.0.7339.81</name>
     <version>140.0.7339.81</version>
@@ -748,6 +752,18 @@
   <version>
     <name>chrome/platforms/win/channels/extended/versions/91.0.4472.101</name>
     <version>91.0.4472.101</version>
+  </version>
+  <version>
+    <name>chrome/platforms/win/channels/stable/versions/140.0.7339.128</name>
+    <version>140.0.7339.128</version>
+  </version>
+  <version>
+    <name>chrome/platforms/win/channels/stable/versions/140.0.7339.127</name>
+    <version>140.0.7339.127</version>
+  </version>
+  <version>
+    <name>chrome/platforms/win/channels/stable/versions/140.0.7339.82</name>
+    <version>140.0.7339.82</version>
   </version>
   <version>
     <name>chrome/platforms/win/channels/stable/versions/140.0.7339.81</name>
@@ -7764,6 +7780,10 @@
   <version>
     <name>chrome/platforms/win/channels/dev/versions/55.0.2883.19</name>
     <version>55.0.2883.19</version>
+  </version>
+  <version>
+    <name>chrome/platforms/win/channels/canary/versions/142.0.7404.0</name>
+    <version>142.0.7404.0</version>
   </version>
   <version>
     <name>chrome/platforms/win/channels/canary/versions/142.0.7403.0</name>
