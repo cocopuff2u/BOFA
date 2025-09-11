@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <mac_versions>
-  <last_updated>September 11, 2025 02:04 PM EDT</last_updated>
+  <last_updated>September 11, 2025 03:03 PM EDT</last_updated>
   <stable>
     <version>140.0.7339.82</version>
     <release_time>September 09, 2025 04:53 PM EDT</release_time>
@@ -17,8 +17,8 @@
     <dev_download>https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg</dev_download>
   </dev>
   <canary>
-    <version>142.0.7407.0</version>
-    <release_time>September 11, 2025 02:15 AM EDT</release_time>
+    <version>142.0.7408.0</version>
+    <release_time>September 11, 2025 02:17 PM EDT</release_time>
     <canary_download>https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg</canary_download>
   </canary>
 </mac_versions>
