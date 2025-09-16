@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf8'?>
 <latest>
-  <last_updated>September 16, 2025 07:02 AM EDT</last_updated>
+  <last_updated>September 16, 2025 08:05 AM EDT</last_updated>
   <package>
     <name>Firefox</name>
     <application_name>Mozilla Firefox</application_name>
@@ -14,9 +14,9 @@
     <latest_beta_download>https://download-installer.cdn.mozilla.net/pub/firefox/releases/143.0b9/mac/en-US/Firefox%20143.0b9.pkg</latest_beta_download>
     <esr_version>128.14.0esr</esr_version>
     <esr_next_version>140.2.0esr</esr_next_version>
-    <esr_download>https://download-installer.cdn.mozilla.net/pub/firefox/releases/128.14.0esr/mac/en-US/Firefox%20128.14.0esr.pkg</esr_download>
+    <esr_download>https://download-installer.cdn.mozilla.net/pub/firefox/releases/140.3.0esr/mac/en-US/Firefox%20140.3.0esr.pkg</esr_download>
     <esr115_version>115.27.0esr</esr115_version>
-    <esr115_download>https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.27.0esr/mac/en-US/Firefox%20115.27.0esr.pkg</esr115_download>
+    <esr115_download>https://download-installer.cdn.mozilla.net/pub/firefox/releases/115.28.0esr/mac/en-US/Firefox%20115.28.0esr.pkg</esr115_download>
     <devedition_version>143.0b9</devedition_version>
     <devedition_download>https://download-installer.cdn.mozilla.net/pub/devedition/releases/143.0b9/mac/en-US/Firefox%20143.0b9.dmg</devedition_download>
     <nightly_version>145.0a1</nightly_version>
