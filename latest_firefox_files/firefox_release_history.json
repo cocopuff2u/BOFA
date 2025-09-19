@@ -1,5 +1,5 @@
 {
-  "last_updated": "September 19, 2025 08:05 AM EDT",
+  "last_updated": "September 19, 2025 09:09 AM EDT",
   "release": [
     {
       "key": "firefox-1.0rc1",
@@ -20970,6 +20970,16 @@
       "is_security_driven": "False",
       "product": "firefox",
       "version": "144.0b2"
+    },
+    {
+      "key": "firefox-143.0.1",
+      "build_number": "1",
+      "category": "stability",
+      "date": "2025-09-19",
+      "description": null,
+      "is_security_driven": "False",
+      "product": "firefox",
+      "version": "143.0.1"
     }
   ]
 }
