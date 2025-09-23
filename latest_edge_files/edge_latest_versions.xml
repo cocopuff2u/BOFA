@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <EdgeInsiderVersions>
-  <last_updated>September 23, 2025 01:03 PM EDT</last_updated>
+  <last_updated>September 23, 2025 02:04 PM EDT</last_updated>
   <Version>
     <Channel>current</Channel>
     <Date>September 20, 2025 02:04 PM EDT</Date>
@@ -15,14 +15,14 @@
   </Version>
   <Version>
     <Channel>dev</Channel>
-    <Date>September 16, 2025 09:15 PM EDT</Date>
-    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/0da5d129-3770-4a26-aead-4cf68e394112/MicrosoftEdgeDev-142.0.3558.0.pkg</Location>
-    <Version>142.0.3558.0</Version>
+    <Date>September 23, 2025 05:03 PM EDT</Date>
+    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f5826418-fa52-425c-9e82-ed81a791ce33/MicrosoftEdgeDev-142.0.3568.0.pkg</Location>
+    <Version>142.0.3568.0</Version>
   </Version>
   <Version>
     <Channel>beta</Channel>
-    <Date>September 22, 2025 05:43 PM EDT</Date>
-    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/82a81a12-8aea-4f6c-a004-8345941ca1e6/MicrosoftEdgeBeta-141.0.3537.36.pkg</Location>
-    <Version>141.0.3537.36</Version>
+    <Date>September 23, 2025 05:25 PM EDT</Date>
+    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3f7d9f9f-7579-4324-963a-0af33de11f5e/MicrosoftEdgeBeta-141.0.3537.38.pkg</Location>
+    <Version>141.0.3537.38</Version>
   </Version>
 </EdgeInsiderVersions>
