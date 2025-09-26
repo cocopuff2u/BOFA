@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf8'?>
 <releases>
-  <last_updated>September 26, 2025 02:03 PM EDT</last_updated>
+  <last_updated>September 26, 2025 03:02 PM EDT</last_updated>
   <release>
     <key>firefox-1.0rc1</key>
     <build_number>1</build_number>
@@ -21020,5 +21020,15 @@
     <is_security_driven>False</is_security_driven>
     <product>firefox</product>
     <version>144.0b5</version>
+  </release>
+  <release>
+    <key>firefox-144.0b6</key>
+    <build_number>1</build_number>
+    <category>dev</category>
+    <date>2025-09-26</date>
+    <description />
+    <is_security_driven>False</is_security_driven>
+    <product>firefox</product>
+    <version>144.0b6</version>
   </release>
 </releases>
