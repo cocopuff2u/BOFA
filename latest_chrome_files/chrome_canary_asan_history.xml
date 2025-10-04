@@ -1,6 +1,10 @@
 <?xml version="1.0" ?>
 <versions>
-  <last_updated>October 03, 2025 10:24 PM EDT</last_updated>
+  <last_updated>October 03, 2025 11:08 PM EDT</last_updated>
+  <version>
+    <name>chrome/platforms/win/channels/canary_asan/versions/143.0.7450.5</name>
+    <version>143.0.7450.5</version>
+  </version>
   <version>
     <name>chrome/platforms/win/channels/canary_asan/versions/143.0.7449.1</name>
     <version>143.0.7449.1</version>
