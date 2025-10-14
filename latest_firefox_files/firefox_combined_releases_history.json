@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 14, 2025 08:05 AM EDT",
+  "last_updated": "October 14, 2025 09:11 AM EDT",
   "release": [
     {
       "type": "major",
@@ -3555,6 +3555,21 @@
       "type": "stability",
       "version": "143.0.4",
       "date": "2025-10-03"
+    },
+    {
+      "type": "major",
+      "version": "144.0",
+      "date": "2025-10-14"
+    },
+    {
+      "type": "stability",
+      "version": "140.4.0",
+      "date": "2025-10-14"
+    },
+    {
+      "type": "stability",
+      "version": "115.29.0",
+      "date": "2025-10-14"
     }
   ]
 }
