@@ -297,8 +297,8 @@ def generate_browser_table(base_path):
 
             channel_name = f"<sup>{channel['name']}</sup>" if channel['name'] else ""
             release_notes = f"<br><a href=\"{channel.get('release_notes', config.get('release_notes', '#'))}\" style=\"text-decoration: none;\"><small>_Release Notes_</small></a>" if 'release_notes' in channel or 'release_notes' in config else ""
-            # Always show per-channel Last Updated when available
-            last_updated_html = f"<br><br><b>Last Updated:<br>{last_updated}</b>" if last_updated else ""
+            # Always show per-channel Last Updated when available (date wrapped in backticks)
+            last_updated_html = f"<br><br><b>Last Updated:</b><br>*`{last_updated}`*" if last_updated else ""
             table_content += (
                 f"| **{channel['display']}** {channel_name} {release_notes}{last_updated_html} | "
                 f"`{version}` | "
