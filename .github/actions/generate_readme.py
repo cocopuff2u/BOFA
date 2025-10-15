@@ -297,8 +297,8 @@ def generate_browser_table(base_path):
 
             channel_name = f"<sup>{channel['name']}</sup>" if channel['name'] else ""
             release_notes = f"<br><a href=\"{channel.get('release_notes', config.get('release_notes', '#'))}\" style=\"text-decoration: none;\"><small>_Release Notes_</small></a>" if 'release_notes' in channel or 'release_notes' in config else ""
-            # Always show per-channel Last Updated when available (date wrapped in backticks)
-            last_updated_html = f"<br><br><b>Last Updated:</b><br>*`{last_updated}`*" if last_updated else ""
+            # Use <em><code>...</code></em> for italics + inline code
+            last_updated_html = f"<br><br><b>Last Updated:</b><br><em><code>{last_updated}</code></em>" if last_updated else ""
             table_content += (
                 f"| **{channel['display']}** {channel_name} {release_notes}{last_updated_html} | "
                 f"`{version}` | "
@@ -373,10 +373,10 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <table>
   <tr>
-    <td align="center"><a href="{chrome_download}"><img src=".github/images/chrome.png" alt="Chrome" width="80"></a><br><b>Chrome</b><br>{chrome_version}<br><br><small>Last Update:<br>{chrome_last_updated}</small><br><a href="https://chromereleases.googleblog.com/" style="text-decoration: none;"><small>Release Notes</small></a></td>
-    <td align="center"><a href="{firefox_download}"><img src=".github/images/firefox.png" alt="Firefox" width="80"></a><br><b>Firefox</b><br>{firefox_version}<br><br><small>Last Update:<br>{firefox_last_updated}</small><br><a href="https://www.mozilla.org/en-US/firefox/notes/" style="text-decoration: none;"><small>Release Notes</small></a></td>
-    <td align="center"><a href="{edge_download}"><img src=".github/images/edge.png" alt="Edge" width="80"></a><br><b>Edge</b><br>{edge_version}<br><br><small>Last Update:<br>{edge_last_updated}</small><br><a href="https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel" style="text-decoration: none;"><small>Release Notes</small></a></td>
-    <td align="center"><a href="{safari_download}"><img src=".github/images/safari.png" alt="Safari" width="80"></a><br><b>Safari</b><br>{safari_version}<br><br><small>Last Update:<br>{safari_last_updated}</small><br><a href="https://developer.apple.com/documentation/safari-release-notes" style="text-decoration: none;"><small>Release Notes</small></a></td>
+    <td align="center"><a href="{chrome_download}"><img src=".github/images/chrome.png" alt="Chrome" width="80"></a><br><b>Chrome</b><br><em><code>{chrome_version}</code></em><br><br><small>Last Update:<br><em><code>{chrome_last_updated}</code></em></small><br><a href="https://chromereleases.googleblog.com/" style="text-decoration: none;"><small>Release Notes</small></a></td>
+    <td align="center"><a href="{firefox_download}"><img src=".github/images/firefox.png" alt="Firefox" width="80"></a><br><b>Firefox</b><br><em><code>{firefox_version}</code></em><br><br><small>Last Update:<br><em><code>{firefox_last_updated}</code></em></small><br><a href="https://www.mozilla.org/en-US/firefox/notes/" style="text-decoration: none;"><small>Release Notes</small></a></td>
+    <td align="center"><a href="{edge_download}"><img src=".github/images/edge.png" alt="Edge" width="80"></a><br><b>Edge</b><br><em><code>{edge_version}</code></em><br><br><small>Last Update:<br><em><code>{edge_last_updated}</code></em></small><br><a href="https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel" style="text-decoration: none;"><small>Release Notes</small></a></td>
+    <td align="center"><a href="{safari_download}"><img src=".github/images/safari.png" alt="Safari" width="80"></a><br><b>Safari</b><br><em><code>{safari_version}</code></em><br><br><small>Last Update:<br><em><code>{safari_last_updated}</code></em></small><br><a href="https://developer.apple.com/documentation/safari-release-notes" style="text-decoration: none;"><small>Release Notes</small></a></td>
   </tr>
 </table>
 
