@@ -1,5 +1,5 @@
 safari_versions:
-  last_updated: October 15, 2025 04:03 PM EDT
+  last_updated: October 15, 2025 05:03 PM EDT
   BigSur:
     version: 16.6.1
     URL: https://swcdn.apple.com/content/downloads/47/04/042-27539-A_JOWCKWG03T/q1askvrrids8ykmi9ok73aqmj05kzskcya/Safari16.6.1BigSurAuto.pkg
@@ -10,11 +10,6 @@ safari_versions:
     URL: https://swcdn.apple.com/content/downloads/19/54/062-47822-A_BHCA3624RA/oixd7i5b8y3g67u6x0upt45m0u2xotc4eh/Safari17.6MontereyAuto.pkg
     Size: 148.80 MB
     PostDate: August 15, 2024 07:58 PM
-  Ventura:
-    version: '18.6'
-    URL: https://swcdn.apple.com/content/downloads/18/08/093-01291-A_8PAQLVAPMY/q858ihftlht01sdwcf9oqqzkuvm12laqlx/Safari18.6VenturaAuto.pkg
-    Size: 180.39 MB
-    PostDate: August 05, 2025 06:04 PM
   Sonoma:
   - version: '18.6'
     URL: https://swcdn.apple.com/content/downloads/52/08/093-01292-A_RB1WZOT879/679v9stbm7s0ccdcebzsfju4kp761uzgl7/Safari18.6SonomaAuto.pkg
@@ -24,6 +19,11 @@ safari_versions:
     URL: https://swcdn.apple.com/content/downloads/45/31/093-50482-A_2D5IJB50Z7/nz5hsjx5vd315wb8xv6rdxoi3lai2bvzlp/Safari26.0.1SonomaAuto.pkg
     Size: 206.80 MB
     PostDate: September 17, 2025 08:17 PM
+  Ventura:
+    version: '18.6'
+    URL: https://swcdn.apple.com/content/downloads/18/08/093-01291-A_8PAQLVAPMY/q858ihftlht01sdwcf9oqqzkuvm12laqlx/Safari18.6VenturaAuto.pkg
+    Size: 180.39 MB
+    PostDate: August 05, 2025 06:04 PM
   Sequoia:
     version: 26.0.1
     URL: https://swcdn.apple.com/content/downloads/35/40/093-50492-A_OT9YUTU4PT/rtuj63mmwz7z3ndpt78qi1y87xd916h9sw/Safari26.0.1SequoiaAuto.pkg
