@@ -221,24 +221,48 @@ def get_last_updated_from_xml(xml_path, browser, channel=None):
         tree = ET.parse(xml_path)
         root = tree.getroot()
         if browser == 'Chrome':
-            elem = root.find(f'.//{channel}/release_time')
-            if elem is not None and elem.text:
-                return format_date(elem.text)
+            # Use channel-specific release_time if available
+            if channel:
+                elem = root.find(f'.//{channel}/release_time')
+                if elem is not None and elem.text:
+                    return format_date(elem.text)
         elif browser == 'Firefox':
+            # Try to map per-channel release date fields; fallback to stable/current or global last_updated
+            tag = None
+            if channel:
+                firefox_date_map = {
+                    'latest_version': 'currentVersionReleaseDate',
+                    'latest_devel_version': 'betaReleaseDate',
+                    'devedition_version': 'deveditionReleaseDate',
+                    'esr_version': 'esrReleaseDate',
+                    'esr115_version': 'esr115ReleaseDate',
+                    'nightly_version': 'nightlyReleaseDate'
+                }
+                tag = firefox_date_map.get(channel)
+            if tag:
+                elem = root.find(f'.//package/{tag}')
+                if elem is not None and elem.text:
+                    return format_date(elem.text)
             elem = root.find('.//package/currentVersionReleaseDate')
             if elem is not None and elem.text:
                 return format_date(elem.text)
         elif browser == 'Edge':
+            # Match Date for the requested channel (stable->current)
+            channel_map = {'stable': 'current', 'beta': 'beta', 'dev': 'dev', 'canary': 'canary'}
+            wanted = channel_map.get(channel, channel) if channel else 'current'
             for version in root.findall('.//Version'):
-                channel_elem = version.find('Channel')
-                if channel_elem is not None and channel_elem.text == 'current':
+                ch = version.find('Channel')
+                if ch is not None and ch.text == wanted:
                     date_elem = version.find('Date')
                     if date_elem is not None and date_elem.text:
                         return format_date(date_elem.text)
         elif browser == 'Safari':
-            elem = root.find(f'.//{channel}/PostDate')
-            if elem is not None and elem.text:
-                return format_date(elem.text)
+            # Per-OS section post date (e.g., Sonoma, Ventura, etc.)
+            if channel:
+                elem = root.find(f'.//{channel}/PostDate')
+                if elem is not None and elem.text:
+                    return format_date(elem.text)
+        # Global fallbacks
         elem = root.find('.//last_updated')
         if elem is not None and elem.text:
             return format_date(elem.text)
@@ -254,36 +278,27 @@ def generate_browser_table(base_path):
     for browser, config in BROWSER_CONFIGS.items():
         xml_path = os.path.join(base_path, f'latest_{browser.lower()}_files/{browser.lower()}_latest_versions.xml')
         for channel in config['channels']:
-            # Fetch version and download as before
+            # Fetch version and download
             if browser == 'Safari':
                 version, download = config['fetch_details'](xml_path, channel['version_path'], 'URL')
-                # Only show release date for "Sequoia/Sonoma" (current)
-                show_release = channel['version_path'] == 'Sonoma'
-                last_updated = get_last_updated_from_xml(xml_path, browser, channel['version_path']) if show_release else None
+                last_updated = get_last_updated_from_xml(xml_path, browser, channel['version_path'])
             elif browser == 'Chrome':
                 version, download = config['fetch_details'](xml_path, channel['version_path'], channel['download_path'])
-                # Only show release date for "stable"
-                show_release = channel['version_path'].split('/')[0] == 'stable'
-                last_updated = get_last_updated_from_xml(xml_path, browser, channel['version_path'].split('/')[0]) if show_release else None
+                last_updated = get_last_updated_from_xml(xml_path, browser, channel['version_path'].split('/')[0])
             elif browser == 'Edge':
                 version, download = config['fetch_details'](xml_path, channel['version_path'], channel['download_path'])
-                # Only show release date for "stable"
-                show_release = channel['version_path'] == 'stable'
-                last_updated = get_last_updated_from_xml(xml_path, browser) if show_release else None
+                last_updated = get_last_updated_from_xml(xml_path, browser, channel['version_path'])
             elif browser == 'Firefox':
                 version, download = config['fetch_details'](xml_path, channel['version_path'], channel['download_path'])
-                # Only show release date for "latest_version"
-                show_release = channel['version_path'] == 'latest_version'
-                last_updated = get_last_updated_from_xml(xml_path, browser) if show_release else None
+                last_updated = get_last_updated_from_xml(xml_path, browser, channel['version_path'])
             else:
                 version, download = "N/A", "N/A"
                 last_updated = None
-                show_release = False
 
             channel_name = f"<sup>{channel['name']}</sup>" if channel['name'] else ""
             release_notes = f"<br><a href=\"{channel.get('release_notes', config.get('release_notes', '#'))}\" style=\"text-decoration: none;\"><small>_Release Notes_</small></a>" if 'release_notes' in channel or 'release_notes' in config else ""
-            # Add Last Updated below Release Notes only for current/stable
-            last_updated_html = f"<br><br><b>Last Updated:<br>{last_updated}</b>" if show_release and last_updated else ""
+            # Always show per-channel Last Updated when available
+            last_updated_html = f"<br><br><b>Last Updated:<br>{last_updated}</b>" if last_updated else ""
             table_content += (
                 f"| **{channel['display']}** {channel_name} {release_notes}{last_updated_html} | "
                 f"`{version}` | "
