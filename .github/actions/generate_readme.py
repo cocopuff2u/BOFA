@@ -3,12 +3,25 @@ import os
 from datetime import datetime
 from pytz import timezone
 
+def parse_xml_file(file_path):
+    """Parse XML file robustly, handling encoding and BOM issues."""
+    if not os.path.exists(file_path):
+        raise FileNotFoundError(file_path)
+    try:
+        # Try normal parse first
+        return ET.parse(file_path)
+    except ET.ParseError:
+        # Try reading as utf-8-sig to remove BOM if present
+        with open(file_path, 'r', encoding='utf-8-sig') as f:
+            content = f.read()
+        return ET.ElementTree(ET.fromstring(content))
+
 def read_xml_value(file_path, xpath):
     """Generic function to read any value from XML using xpath"""
     if not os.path.exists(file_path):
         return "N/A"
     try:
-        tree = ET.parse(file_path)
+        tree = parse_xml_file(file_path)
         root = tree.getroot()
         
         # For Edge specific handling
@@ -28,14 +41,9 @@ def read_xml_value(file_path, xpath):
                     return version_element.find('Location' if 'download' in xpath else 'Version').text
             return "N/A"
             
-        # For Firefox, new structure: <mac_versions>/<channel>/<field>
+        # For Firefox, look inside package element
         elif 'firefox' in file_path.lower():
-            parts = xpath.split('/')
-            if len(parts) == 2:
-                channel, field = parts
-                element = root.find(f'.//{channel}/{field}')
-            else:
-                element = root.find(f'.//{xpath}')
+            element = root.find(f'.//package/{xpath}')
         else:
             element = root.find(xpath)
             
@@ -48,7 +56,7 @@ def read_xml_version(file_path):
     if not os.path.exists(file_path):
         return "N/A"
     try:
-        tree = ET.parse(file_path)
+        tree = parse_xml_file(file_path)
         root = tree.getroot()
         
         # For Edge, get the first version
@@ -88,7 +96,7 @@ def get_browser_lines(file_path):
     if not os.path.exists(file_path):
         return []
     try:
-        tree = ET.parse(file_path)
+        tree = parse_xml_file(file_path)
         root = tree.getroot()
         lines = []
         
@@ -113,7 +121,7 @@ def get_browser_lines(file_path):
 def get_safari_detail(xml_path, os_version, detail_type):
     """Get Safari version/URL details by OS version"""
     try:
-        tree = ET.parse(xml_path)
+        tree = parse_xml_file(xml_path)
         root = tree.getroot()
         element = root.find(f'.//{os_version}/{detail_type}')
         return element.text if element is not None else "N/A"
@@ -126,14 +134,26 @@ def fetch_chrome_details(xml_path, version_path, download_path):
     return version, download
 
 def fetch_firefox_details(xml_path, version_path, download_path):
-    # version_path and download_path are like 'stable/version', 'stable/download'
-    version = read_xml_value(xml_path, version_path)
-    download = read_xml_value(xml_path, download_path)
-    return version, download
+    # version_path and download_path are now the channel names: 'stable', 'beta', 'dev', 'esr', 'nightly'
+    if not os.path.exists(xml_path):
+        return "N/A", "N/A"
+    try:
+        tree = parse_xml_file(xml_path)
+        root = tree.getroot()
+        channel_elem = root.find(f'.//{version_path}')
+        if channel_elem is not None:
+            version_elem = channel_elem.find('version')
+            download_elem = channel_elem.find('download')
+            version = version_elem.text if version_elem is not None else "N/A"
+            download = download_elem.text if download_elem is not None else "N/A"
+            return version, download
+        return "N/A", "N/A"
+    except Exception as e:
+        return f"Error: {str(e)}", f"Error: {str(e)}"
 
 def fetch_edge_details(xml_path, version_path, download_path):
     try:
-        tree = ET.parse(xml_path)
+        tree = parse_xml_file(xml_path)
         root = tree.getroot()
         # Use new channel mapping
         channel_map = {
@@ -154,7 +174,7 @@ def fetch_edge_details(xml_path, version_path, download_path):
 
 def fetch_safari_details(xml_path, os_version, detail_type):
     try:
-        tree = ET.parse(xml_path)
+        tree = parse_xml_file(xml_path)
         root = tree.getroot()
         version = root.find(f'.//{os_version}/version').text
         download = root.find(f'.//{os_version}/URL').text
@@ -176,11 +196,11 @@ BROWSER_CONFIGS = {
     'Firefox': {
         'fetch_details': fetch_firefox_details,
         'channels': [
-            {'name': '', 'display': 'Firefox', 'version_path': 'stable/version', 'download_path': 'stable/download', 'bundle_id': 'org.mozilla.firefox', 'image': 'firefox.png', 'release_notes': 'https://www.mozilla.org/en-US/firefox/notes/'},
-            {'name': 'Beta', 'display': 'Firefox', 'version_path': 'beta/version', 'download_path': 'beta/download', 'bundle_id': 'org.mozilla.firefoxbeta', 'image': 'firefox.png', 'release_notes': 'https://www.mozilla.org/en-US/firefox/beta/notes/'},
-            {'name': 'Developer', 'display': 'Firefox', 'version_path': 'dev/version', 'download_path': 'dev/download', 'bundle_id': 'org.mozilla.firefoxdev', 'image': 'firefox_developer.png', 'release_notes': 'https://www.mozilla.org/en-US/firefox/developer/notes/'},
-            {'name': 'ESR', 'display': 'Firefox', 'version_path': 'esr/version', 'download_path': 'esr/download', 'bundle_id': 'org.mozilla.firefoxesr', 'image': 'firefox.png','release_notes': 'https://www.mozilla.org/en-US/firefox/organizations/notes/'},
-            {'name': 'Nightly', 'display': 'Firefox', 'version_path': 'nightly/version', 'download_path': 'nightly/download', 'bundle_id': 'org.mozilla.nightly', 'image': 'firefox_nightly.png', 'release_notes': 'https://www.mozilla.org/en-US/firefox/nightly/notes/'}
+            {'name': '', 'display': 'Firefox', 'version_path': 'stable', 'download_path': 'stable', 'bundle_id': 'org.mozilla.firefox', 'image': 'firefox.png', 'release_notes': 'https://www.mozilla.org/en-US/firefox/notes/'},
+            {'name': 'Beta', 'display': 'Firefox', 'version_path': 'beta', 'download_path': 'beta', 'bundle_id': 'org.mozilla.firefoxbeta', 'image': 'firefox.png', 'release_notes': 'https://www.mozilla.org/en-US/firefox/beta/notes/'},
+            {'name': 'Developer', 'display': 'Firefox', 'version_path': 'dev', 'download_path': 'dev', 'bundle_id': 'org.mozilla.firefoxdev', 'image': 'firefox_developer.png', 'release_notes': 'https://www.mozilla.org/en-US/firefox/developer/notes/'},
+            {'name': 'ESR', 'display': 'Firefox', 'version_path': 'esr', 'download_path': 'esr', 'bundle_id': 'org.mozilla.firefoxesr', 'image': 'firefox.png','release_notes': 'https://www.mozilla.org/en-US/firefox/organizations/notes/'},
+            {'name': 'Nightly', 'display': 'Firefox', 'version_path': 'nightly', 'download_path': 'nightly', 'bundle_id': 'org.mozilla.nightly', 'image': 'firefox_nightly.png', 'release_notes': 'https://www.mozilla.org/en-US/firefox/nightly/notes/'}
         ]
     },
     'Edge': {
@@ -224,7 +244,7 @@ def get_last_updated_from_xml(xml_path, browser, channel=None):
         return date_str  # fallback: return as-is
 
     try:
-        tree = ET.parse(xml_path)
+        tree = parse_xml_file(xml_path)
         root = tree.getroot()
         if browser == 'Chrome':
             # Use channel-specific release_time if available
@@ -233,14 +253,13 @@ def get_last_updated_from_xml(xml_path, browser, channel=None):
                 if elem is not None and elem.text:
                     return format_date(elem.text)
         elif browser == 'Firefox':
-            # New structure: <mac_versions>/<channel>/<release_time>
-            tag = None
+            # New Firefox XML: channel is one of 'stable', 'beta', 'dev', 'esr', 'nightly'
             if channel:
-                # channel is like 'stable/version', want 'stable/release_time'
-                channel_name = channel.split('/')[0]
-                elem = root.find(f'.//{channel_name}/release_time')
-                if elem is not None and elem.text:
-                    return format_date(elem.text)
+                channel_elem = root.find(f'.//{channel}')
+                if channel_elem is not None:
+                    release_elem = channel_elem.find('release_time')
+                    if release_elem is not None and release_elem.text:
+                        return format_date(release_elem.text)
             # fallback to <last_updated>
             elem = root.find('.//last_updated')
             if elem is not None and elem.text:
@@ -348,14 +367,13 @@ def generate_readme():
 
     # Fetch versions and download URLs with new Edge mapping
     chrome_version, chrome_download = fetch_chrome_details(xml_files['Chrome'], 'stable/version', 'stable/latest_download')
-    # Firefox: use new structure
-    firefox_version, firefox_download = fetch_firefox_details(xml_files['Firefox'], 'stable/version', 'stable/download')
+    firefox_version, firefox_download = fetch_firefox_details(xml_files['Firefox'], 'stable', 'stable')
     edge_version, edge_download = fetch_edge_details(xml_files['Edge'], 'stable', 'stable')
     safari_version, safari_download = fetch_safari_details(xml_files['Safari'], 'Sonoma', 'URL')
 
     # Fetch last updated dates from XMLs (browser-specific, channel-specific)
     chrome_last_updated = get_last_updated_from_xml(xml_files['Chrome'], 'Chrome', 'stable')
-    firefox_last_updated = get_last_updated_from_xml(xml_files['Firefox'], 'Firefox', 'stable/version')
+    firefox_last_updated = get_last_updated_from_xml(xml_files['Firefox'], 'Firefox', 'stable')
     edge_last_updated = get_last_updated_from_xml(xml_files['Edge'], 'Edge')
     safari_last_updated = get_last_updated_from_xml(xml_files['Safari'], 'Safari', 'Sonoma')
 
