@@ -302,6 +302,10 @@ def generate_browser_table(base_path):
                 last_updated = get_last_updated_from_xml(xml_path, browser, channel['version_path'])
             elif browser == 'Chrome':
                 version, download = config['fetch_details'](xml_path, channel['version_path'], channel['download_path'])
+                # For Extended Stable, use the same download as Stable
+                if channel.get('name') == 'Extended Stable':
+                    _, stable_download = config['fetch_details'](xml_path, 'stable/version', 'stable/latest_download')
+                    download = stable_download
                 last_updated = get_last_updated_from_xml(xml_path, browser, channel['version_path'].split('/')[0])
             elif browser == 'Edge':
                 version, download = config['fetch_details'](xml_path, channel['version_path'], channel['download_path'])
