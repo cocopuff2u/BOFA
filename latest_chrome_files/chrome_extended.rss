@@ -1,24 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
-<channel>
-  <title>Chrome Extended for Mac - Latest Releases</title>
-  <link>https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg</link>
-  <description>Latest Chrome Extended releases for Mac</description>
-  <lastBuildDate>October 16, 2025 07:16 PM EDT</lastBuildDate>
-  <item>
-    <title>140.0.7339.249</title>
-    <description>Version 140.0.7339.249 released October 16, 2025 07:16 PM EDT</description>
-    <link>https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg</link>
-    <pubDate>October 16, 2025 07:16 PM EDT</pubDate>
-    <guid>140.0.7339.249</guid>
-  </item>
-<item>
-    <title>139.0.7339.249</title>
-    <description>Version 139.0.7339.249 released October 16, 2025 07:16 PM EDT</description>
-    <link>https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg</link>
-    <pubDate>October 16, 2025 07:16 PM EDT</pubDate>
-    <guid>139.0.7339.249</guid>
-  </item>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>BOFA - Chrome Extended RSS Feed</title>
+    <link>https://bofa.cocolabs.dev/</link>
+    <description>Browser Overview Feed for Apple - Chrome Extended RSS Feed</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <atom:link href="https://bofa.cocolabs.dev/latest_chrome_files/chrome_extended.rss" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <ttl>60</ttl>
+    <lastBuildDate>Thu, 16 Oct 2025 19:16:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bofa.cocolabs.dev/.github/images/chrome.png</url>
+      <title>BOFA - Chrome Extended RSS Feed</title>
+      <link>https://bofa.cocolabs.dev/</link>
+    </image>
+    <item>
+      <title>New Chrome Extended Release</title>
+      <link>https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg</link>
+      <description>Google Chrome<br>Version: 140.0.7339.249<br>Release Notes: <a href="https://chromereleases.googleblog.com/">Release Notes</a></description>
+      <pubDate>Thu, 16 Oct 2025 19:16:00 +0000</pubDate>
+      <guid isPermaLink="false">https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg</guid>
+    </item>
 
-</channel>
+  </channel>
 </rss>
