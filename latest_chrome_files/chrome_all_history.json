@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 27, 2025 04:03 PM EDT",
+  "last_updated": "October 27, 2025 05:03 PM EDT",
   "versions": [
     {
       "name": "chrome/platforms/mac/channels/extended/versions/140.0.7339.249",
@@ -7028,6 +7028,10 @@
     {
       "name": "chrome/platforms/mac/channels/dev/versions/55.0.2883.18",
       "version": "55.0.2883.18"
+    },
+    {
+      "name": "chrome/platforms/mac/channels/canary/versions/143.0.7498.2",
+      "version": "143.0.7498.2"
     },
     {
       "name": "chrome/platforms/mac/channels/canary/versions/143.0.7497.0",
