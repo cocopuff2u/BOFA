@@ -28,9 +28,14 @@ def read_xml_value(file_path, xpath):
                     return version_element.find('Location' if 'download' in xpath else 'Version').text
             return "N/A"
             
-        # For Firefox, look inside package element
+        # For Firefox, new structure: <mac_versions>/<channel>/<field>
         elif 'firefox' in file_path.lower():
-            element = root.find(f'.//package/{xpath}')
+            parts = xpath.split('/')
+            if len(parts) == 2:
+                channel, field = parts
+                element = root.find(f'.//{channel}/{field}')
+            else:
+                element = root.find(f'.//{xpath}')
         else:
             element = root.find(xpath)
             
@@ -121,6 +126,7 @@ def fetch_chrome_details(xml_path, version_path, download_path):
     return version, download
 
 def fetch_firefox_details(xml_path, version_path, download_path):
+    # version_path and download_path are like 'stable/version', 'stable/download'
     version = read_xml_value(xml_path, version_path)
     download = read_xml_value(xml_path, download_path)
     return version, download
@@ -170,12 +176,11 @@ BROWSER_CONFIGS = {
     'Firefox': {
         'fetch_details': fetch_firefox_details,
         'channels': [
-            {'name': '', 'display': 'Firefox', 'version_path': 'latest_version', 'download_path': 'latest_download', 'bundle_id': 'org.mozilla.firefox', 'image': 'firefox.png', 'release_notes': 'https://www.mozilla.org/en-US/firefox/notes/'},
-            {'name': 'Beta', 'display': 'Firefox', 'version_path': 'latest_devel_version', 'download_path': 'latest_beta_download', 'bundle_id': 'org.mozilla.firefoxbeta', 'image': 'firefox.png', 'release_notes': 'https://www.mozilla.org/en-US/firefox/beta/notes/'},
-            {'name': 'Developer', 'display': 'Firefox', 'version_path': 'devedition_version', 'download_path': 'devedition_download', 'bundle_id': 'org.mozilla.firefoxdev', 'image': 'firefox_developer.png', 'release_notes': 'https://www.mozilla.org/en-US/firefox/developer/notes/'},
-            {'name': 'ESR', 'display': 'Firefox', 'version_path': 'esr_version', 'download_path': 'esr_download', 'bundle_id': 'org.mozilla.firefoxesr', 'image': 'firefox.png','release_notes': 'https://www.mozilla.org/en-US/firefox/organizations/notes/'},
-            {'name': 'ESR 115', 'display': 'Firefox', 'version_path': 'esr115_version', 'download_path': 'esr115_download', 'bundle_id': 'org.mozilla.firefoxesr', 'image': 'firefox.png'},
-            {'name': 'Nightly', 'display': 'Firefox', 'version_path': 'nightly_version', 'download_path': 'nightly_download', 'bundle_id': 'org.mozilla.nightly', 'image': 'firefox_nightly.png', 'release_notes': 'https://www.mozilla.org/en-US/firefox/nightly/notes/'}
+            {'name': '', 'display': 'Firefox', 'version_path': 'stable/version', 'download_path': 'stable/download', 'bundle_id': 'org.mozilla.firefox', 'image': 'firefox.png', 'release_notes': 'https://www.mozilla.org/en-US/firefox/notes/'},
+            {'name': 'Beta', 'display': 'Firefox', 'version_path': 'beta/version', 'download_path': 'beta/download', 'bundle_id': 'org.mozilla.firefoxbeta', 'image': 'firefox.png', 'release_notes': 'https://www.mozilla.org/en-US/firefox/beta/notes/'},
+            {'name': 'Developer', 'display': 'Firefox', 'version_path': 'dev/version', 'download_path': 'dev/download', 'bundle_id': 'org.mozilla.firefoxdev', 'image': 'firefox_developer.png', 'release_notes': 'https://www.mozilla.org/en-US/firefox/developer/notes/'},
+            {'name': 'ESR', 'display': 'Firefox', 'version_path': 'esr/version', 'download_path': 'esr/download', 'bundle_id': 'org.mozilla.firefoxesr', 'image': 'firefox.png','release_notes': 'https://www.mozilla.org/en-US/firefox/organizations/notes/'},
+            {'name': 'Nightly', 'display': 'Firefox', 'version_path': 'nightly/version', 'download_path': 'nightly/download', 'bundle_id': 'org.mozilla.nightly', 'image': 'firefox_nightly.png', 'release_notes': 'https://www.mozilla.org/en-US/firefox/nightly/notes/'}
         ]
     },
     'Edge': {
@@ -228,23 +233,16 @@ def get_last_updated_from_xml(xml_path, browser, channel=None):
                 if elem is not None and elem.text:
                     return format_date(elem.text)
         elif browser == 'Firefox':
-            # Try to map per-channel release date fields; fallback to stable/current or global last_updated
+            # New structure: <mac_versions>/<channel>/<release_time>
             tag = None
             if channel:
-                firefox_date_map = {
-                    'latest_version': 'currentVersionReleaseDate',
-                    'latest_devel_version': 'betaReleaseDate',
-                    'devedition_version': 'deveditionReleaseDate',
-                    'esr_version': 'esrReleaseDate',
-                    'esr115_version': 'esr115ReleaseDate',
-                    'nightly_version': 'nightlyReleaseDate'
-                }
-                tag = firefox_date_map.get(channel)
-            if tag:
-                elem = root.find(f'.//package/{tag}')
+                # channel is like 'stable/version', want 'stable/release_time'
+                channel_name = channel.split('/')[0]
+                elem = root.find(f'.//{channel_name}/release_time')
                 if elem is not None and elem.text:
                     return format_date(elem.text)
-            elem = root.find('.//package/currentVersionReleaseDate')
+            # fallback to <last_updated>
+            elem = root.find('.//last_updated')
             if elem is not None and elem.text:
                 return format_date(elem.text)
         elif browser == 'Edge':
@@ -350,13 +348,14 @@ def generate_readme():
 
     # Fetch versions and download URLs with new Edge mapping
     chrome_version, chrome_download = fetch_chrome_details(xml_files['Chrome'], 'stable/version', 'stable/latest_download')
-    firefox_version, firefox_download = fetch_firefox_details(xml_files['Firefox'], 'latest_version', 'latest_download')
+    # Firefox: use new structure
+    firefox_version, firefox_download = fetch_firefox_details(xml_files['Firefox'], 'stable/version', 'stable/download')
     edge_version, edge_download = fetch_edge_details(xml_files['Edge'], 'stable', 'stable')
     safari_version, safari_download = fetch_safari_details(xml_files['Safari'], 'Sonoma', 'URL')
 
     # Fetch last updated dates from XMLs (browser-specific, channel-specific)
     chrome_last_updated = get_last_updated_from_xml(xml_files['Chrome'], 'Chrome', 'stable')
-    firefox_last_updated = get_last_updated_from_xml(xml_files['Firefox'], 'Firefox')
+    firefox_last_updated = get_last_updated_from_xml(xml_files['Firefox'], 'Firefox', 'stable/version')
     edge_last_updated = get_last_updated_from_xml(xml_files['Edge'], 'Edge')
     safari_last_updated = get_last_updated_from_xml(xml_files['Safari'], 'Safari', 'Sonoma')
 
