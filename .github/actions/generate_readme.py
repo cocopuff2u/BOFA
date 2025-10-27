@@ -161,6 +161,7 @@ BROWSER_CONFIGS = {
         'fetch_details': fetch_chrome_details,
         'channels': [
             {'name': '', 'display': 'Chrome', 'version_path': 'stable/version', 'download_path': 'stable/latest_download', 'bundle_id': 'com.google.Chrome', 'image': 'chrome.png', 'release_notes': 'https://chromereleases.googleblog.com/'},
+            {'name': 'Extended Stable', 'display': 'Chrome', 'version_path': 'extended/version', 'download_path': 'extended/latest_download', 'bundle_id': 'com.google.Chrome', 'image': 'chrome.png', 'release_notes_comment': '_Requires `TargetChannel` policy; link is for Stable._'},
             {'name': 'Beta', 'display': 'Chrome', 'version_path': 'beta/version', 'download_path': 'beta/beta_download', 'bundle_id': 'com.google.Chrome.beta', 'image': 'chrome_beta.png', 'release_notes': 'https://chromereleases.googleblog.com/search/label/Beta%20updates'},
             {'name': 'Dev', 'display': 'Chrome', 'version_path': 'dev/version', 'download_path': 'dev/dev_download', 'bundle_id': 'com.google.Chrome.dev', 'image': 'chrome_dev.png', 'release_notes': 'https://chromereleases.googleblog.com/search/label/Dev%20updates'},
             {'name': 'Canary', 'display': 'Chrome', 'version_path': 'canary/version', 'download_path': 'canary/canary_download', 'bundle_id': 'com.google.Chrome.canary', 'image': 'chrome_canary.png'}
@@ -296,8 +297,11 @@ def generate_browser_table(base_path):
                 last_updated = None
 
             channel_name = f"<sup>{channel['name']}</sup>" if channel['name'] else ""
-            release_notes = f"<br><a href=\"{channel.get('release_notes', config.get('release_notes', '#'))}\" style=\"text-decoration: none;\"><small>_Release Notes_</small></a>" if 'release_notes' in channel or 'release_notes' in config else ""
-            # Use <em><code>...</code></em> for italics + inline code
+            # For Extended Stable, show comment instead of release notes
+            if 'release_notes_comment' in channel:
+                release_notes = f"<br><small>{channel['release_notes_comment']}</small>"
+            else:
+                release_notes = f"<br><a href=\"{channel.get('release_notes', config.get('release_notes', '#'))}\" style=\"text-decoration: none;\"><small>_Release Notes_</small></a>" if 'release_notes' in channel or 'release_notes' in config else ""
             last_updated_html = f"<br><br><b>Last Updated:</b><br><em><code>{last_updated}</code></em>" if last_updated else ""
             table_content += (
                 f"| **{channel['display']}** {channel_name} {release_notes}{last_updated_html} | "

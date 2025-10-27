@@ -16,20 +16,37 @@ def fetch_chrome_versions(channel):
 
 def fetch_mac_version(channel):
     print(f"Fetching latest Mac version for channel: {channel}")
-    url = f"https://chromiumdash.appspot.com/fetch_releases?platform=Mac&channel={channel}"
+    # Use the new Version History API endpoint
+    url = f"https://versionhistory.googleapis.com/v1/chrome/platforms/mac/channels/{channel.lower()}/versions/all/releases?filter=endtime=none"
     result = subprocess.run(["curl", "-s", url], capture_output=True, text=True)
     if not result.stdout:
         return {"version": "N/A", "time": "N/A", "timestamp": "N/A"}
     try:
         data = json.loads(result.stdout)
-        if data:
-            version = data[0]["version"]
-            timestamp = int(data[0]["time"])
-            release_time = datetime.fromtimestamp(timestamp / 1000, timezone('US/Eastern')).strftime("%B %d, %Y %I:%M %p %Z")
-            return {"version": version, "time": release_time, "timestamp": timestamp}
-    except json.JSONDecodeError:
+        releases = data.get("releases", [])
+        if not releases:
+            return {"version": "N/A", "time": "N/A", "timestamp": "N/A"}
+        # Find the release with the highest fraction, or the most recent startTime
+        latest_release = max(
+            releases,
+            key=lambda r: (
+                r.get("fraction", 0),
+                r.get("serving", {}).get("startTime", "")
+            )
+        )
+        version = latest_release.get("version", "N/A")
+        start_time_str = latest_release.get("serving", {}).get("startTime", None)
+        if start_time_str:
+            dt = datetime.strptime(start_time_str, "%Y-%m-%dT%H:%M:%S.%fZ")
+            dt = timezone('US/Eastern').localize(dt)
+            release_time = dt.strftime("%B %d, %Y %I:%M %p %Z")
+            timestamp = int(dt.timestamp() * 1000)
+        else:
+            release_time = "N/A"
+            timestamp = "N/A"
+        return {"version": version, "time": release_time, "timestamp": timestamp}
+    except Exception:
         return {"version": "N/A", "time": "N/A", "timestamp": "N/A"}
-    return {"version": "N/A", "time": "N/A", "timestamp": "N/A"}
 
 def convert_to_xml(json_data):
     root = ET.Element("versions")
