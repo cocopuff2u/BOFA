@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+  <title>Chrome Extended for Mac - Latest Releases</title>
+  <link>https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg</link>
+  <description>Latest Chrome Extended releases for Mac</description>
+  <lastBuildDate>October 16, 2025 07:16 PM EDT</lastBuildDate>
+  <item>
+    <title>140.0.7339.249</title>
+    <description>Version 140.0.7339.249 released October 16, 2025 07:16 PM EDT</description>
+    <link>https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg</link>
+    <pubDate>October 16, 2025 07:16 PM EDT</pubDate>
+    <guid>140.0.7339.249</guid>
+  </item>
+<item>
+    <title>139.0.7339.249</title>
+    <description>Version 139.0.7339.249 released October 16, 2025 07:16 PM EDT</description>
+    <link>https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg</link>
+    <pubDate>October 16, 2025 07:16 PM EDT</pubDate>
+    <guid>139.0.7339.249</guid>
+  </item>
+
+</channel>
+</rss>
