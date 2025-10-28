@@ -129,8 +129,13 @@ def get_safari_detail(xml_path, os_version, detail_type):
         return f"Error: {str(e)}"
 
 def fetch_chrome_details(xml_path, version_path, download_path):
+    # Adjust to use 'download_link' instead of 'latest_download'
     version = read_xml_value(xml_path, version_path)
-    download = read_xml_value(xml_path, download_path)
+    # Map download_path to the new tag
+    # download_path is like 'stable/latest_download' or 'beta/beta_download'
+    # We want to use the same parent as version_path, but always 'download_link'
+    parent = version_path.split('/')[0]
+    download = read_xml_value(xml_path, f"{parent}/download_link")
     return version, download
 
 def fetch_firefox_details(xml_path, version_path, download_path):
@@ -186,11 +191,12 @@ BROWSER_CONFIGS = {
     'Chrome': {
         'fetch_details': fetch_chrome_details,
         'channels': [
-            {'name': '', 'display': 'Chrome', 'version_path': 'stable/version', 'download_path': 'stable/latest_download', 'bundle_id': 'com.google.Chrome', 'image': 'chrome.png', 'release_notes': 'https://chromereleases.googleblog.com/'},
-            {'name': 'Extended Stable', 'display': 'Chrome', 'version_path': 'extended/version', 'download_path': 'extended/latest_download', 'bundle_id': 'com.google.Chrome', 'image': 'chrome.png', 'release_notes_comment': '<br>_<sup>Requires `TargetChannel` policy; link is for Stable.</sup>_'},
-            {'name': 'Beta', 'display': 'Chrome', 'version_path': 'beta/version', 'download_path': 'beta/beta_download', 'bundle_id': 'com.google.Chrome.beta', 'image': 'chrome_beta.png', 'release_notes': 'https://chromereleases.googleblog.com/search/label/Beta%20updates'},
-            {'name': 'Dev', 'display': 'Chrome', 'version_path': 'dev/version', 'download_path': 'dev/dev_download', 'bundle_id': 'com.google.Chrome.dev', 'image': 'chrome_dev.png', 'release_notes': 'https://chromereleases.googleblog.com/search/label/Dev%20updates'},
-            {'name': 'Canary', 'display': 'Chrome', 'version_path': 'canary/version', 'download_path': 'canary/canary_download', 'bundle_id': 'com.google.Chrome.canary', 'image': 'chrome_canary.png'}
+            {'name': '', 'display': 'Chrome', 'version_path': 'stable/version', 'download_path': 'stable/download_link', 'bundle_id': 'com.google.Chrome', 'image': 'chrome.png', 'release_notes': 'https://chromereleases.googleblog.com/'},
+            {'name': 'Extended Stable', 'display': 'Chrome', 'version_path': 'extended/version', 'download_path': 'extended/download_link', 'bundle_id': 'com.google.Chrome', 'image': 'chrome.png', 'release_notes_comment': '<br>_<sup>Requires `TargetChannel` policy; link is for Stable.</sup>_'},
+            {'name': 'Beta', 'display': 'Chrome', 'version_path': 'beta/version', 'download_path': 'beta/download_link', 'bundle_id': 'com.google.Chrome.beta', 'image': 'chrome_beta.png', 'release_notes': 'https://chromereleases.googleblog.com/search/label/Beta%20updates'},
+            {'name': 'Dev', 'display': 'Chrome', 'version_path': 'dev/version', 'download_path': 'dev/download_link', 'bundle_id': 'com.google.Chrome.dev', 'image': 'chrome_dev.png', 'release_notes': 'https://chromereleases.googleblog.com/search/label/Dev%20updates'},
+            {'name': 'Canary', 'display': 'Chrome', 'version_path': 'canary/version', 'download_path': 'canary/download_link', 'bundle_id': 'com.google.Chrome.canary', 'image': 'chrome_canary.png'},
+            {'name': 'Canary ASAN', 'display': 'Chrome', 'version_path': 'canary_asan/version', 'download_path': 'canary_asan/download_link', 'bundle_id': 'com.google.Chrome.canary', 'image': 'chrome_canary.png'}
         ]
     },
     'Firefox': {
@@ -304,7 +310,7 @@ def generate_browser_table(base_path):
                 version, download = config['fetch_details'](xml_path, channel['version_path'], channel['download_path'])
                 # For Extended Stable, use the same download as Stable
                 if channel.get('name') == 'Extended Stable':
-                    _, stable_download = config['fetch_details'](xml_path, 'stable/version', 'stable/latest_download')
+                    _, stable_download = config['fetch_details'](xml_path, 'stable/version', 'stable/download_link')
                     download = stable_download
                 last_updated = get_last_updated_from_xml(xml_path, browser, channel['version_path'].split('/')[0])
             elif browser == 'Edge':
@@ -370,7 +376,7 @@ def generate_readme():
     global_last_updated = current_time
 
     # Fetch versions and download URLs with new Edge mapping
-    chrome_version, chrome_download = fetch_chrome_details(xml_files['Chrome'], 'stable/version', 'stable/latest_download')
+    chrome_version, chrome_download = fetch_chrome_details(xml_files['Chrome'], 'stable/version', 'stable/download_link')
     firefox_version, firefox_download = fetch_firefox_details(xml_files['Firefox'], 'stable', 'stable')
     edge_version, edge_download = fetch_edge_details(xml_files['Edge'], 'stable', 'stable')
     safari_version, safari_download = fetch_safari_details(xml_files['Safari'], 'Sonoma', 'URL')
