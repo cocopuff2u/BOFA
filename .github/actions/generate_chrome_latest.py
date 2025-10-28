@@ -143,7 +143,7 @@ def convert_mac_versions_to_xml(stable, extended, beta, dev, canary, canary_asan
     time_element = ET.SubElement(canary_asan_element, "release_time")
     time_element.text = canary_asan["time"]
     download_url = ET.SubElement(canary_asan_element, "download_link")
-    download_url.text = "https://dl.google.com/chrome/mac/universal/canary-asan/googlechromecanaryasan.dmg"
+    download_url.text = "https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg"
 
     return minidom.parseString(ET.tostring(root)).toprettyxml(indent="  ")
 
