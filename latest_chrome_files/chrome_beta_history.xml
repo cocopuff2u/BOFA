@@ -1,1992 +1,3553 @@
 <?xml version="1.0" ?>
-<versions>
-  <last_updated>October 28, 2025 08:05 AM EDT</last_updated>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/142.0.7444.53</name>
+<releases>
+  <last_updated>October 28, 2025 08:40 AM EDT</last_updated>
+  <release>
     <version>142.0.7444.53</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/142.0.7444.34</name>
+    <release_date>October 22, 2025 08:44 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>142.0.7444.34</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/142.0.7444.23</name>
+    <release_date>October 15, 2025 04:36 PM</release_date>
+    <end_date>October 22, 2025 08:44 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>142.0.7444.23</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/142.0.7444.3</name>
+    <release_date>October 08, 2025 05:02 PM</release_date>
+    <end_date>October 15, 2025 04:36 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>142.0.7444.3</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/141.0.7390.37</name>
+    <release_date>October 01, 2025 04:32 PM</release_date>
+    <end_date>October 08, 2025 05:02 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>141.0.7390.37</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/141.0.7390.30</name>
+    <release_date>September 24, 2025 06:02 PM</release_date>
+    <end_date>October 01, 2025 04:32 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>141.0.7390.30</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/141.0.7390.16</name>
+    <release_date>September 18, 2025 05:33 PM</release_date>
+    <end_date>September 24, 2025 06:02 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>141.0.7390.16</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/141.0.7390.7</name>
+    <release_date>September 10, 2025 05:43 PM</release_date>
+    <end_date>September 18, 2025 05:33 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>141.0.7390.7</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/140.0.7339.41</name>
+    <release_date>September 04, 2025 05:39 PM</release_date>
+    <end_date>September 10, 2025 05:43 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>140.0.7339.41</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/140.0.7339.24</name>
+    <release_date>August 27, 2025 04:58 PM</release_date>
+    <end_date>September 04, 2025 05:39 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>140.0.7339.24</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/140.0.7339.16</name>
+    <release_date>August 20, 2025 05:32 PM</release_date>
+    <end_date>August 27, 2025 04:58 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>140.0.7339.16</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/140.0.7339.5</name>
+    <release_date>August 13, 2025 04:39 PM</release_date>
+    <end_date>August 20, 2025 05:32 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>140.0.7339.5</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/139.0.7258.66</name>
+    <release_date>August 06, 2025 06:23 PM</release_date>
+    <end_date>August 13, 2025 04:39 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>139.0.7258.66</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/139.0.7258.52</name>
+    <release_date>July 30, 2025 04:46 PM</release_date>
+    <end_date>August 06, 2025 06:23 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>139.0.7258.52</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/139.0.7258.42</name>
+    <release_date>July 23, 2025 06:35 PM</release_date>
+    <end_date>July 30, 2025 04:46 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>139.0.7258.42</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/139.0.7258.31</name>
+    <release_date>July 16, 2025 04:54 PM</release_date>
+    <end_date>July 23, 2025 06:35 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>139.0.7258.31</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/139.0.7258.5</name>
+    <release_date>July 09, 2025 04:22 PM</release_date>
+    <end_date>July 16, 2025 04:54 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>139.0.7258.5</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/138.0.7204.35</name>
+    <release_date>June 25, 2025 05:33 PM</release_date>
+    <end_date>July 09, 2025 04:22 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>138.0.7204.35</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/138.0.7204.23</name>
+    <release_date>June 18, 2025 03:58 PM</release_date>
+    <end_date>June 25, 2025 05:33 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>138.0.7204.23</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/138.0.7204.15</name>
+    <release_date>June 11, 2025 08:17 PM</release_date>
+    <end_date>June 18, 2025 03:58 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>138.0.7204.15</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/138.0.7204.4</name>
+    <release_date>June 04, 2025 04:39 PM</release_date>
+    <end_date>June 11, 2025 08:17 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>138.0.7204.4</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/137.0.7151.40</name>
+    <release_date>May 28, 2025 05:22 PM</release_date>
+    <end_date>June 04, 2025 04:39 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>137.0.7151.40</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/137.0.7151.32</name>
+    <release_date>May 21, 2025 05:14 PM</release_date>
+    <end_date>May 28, 2025 05:22 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>137.0.7151.32</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/137.0.7151.27</name>
+    <release_date>May 20, 2025 04:43 PM</release_date>
+    <end_date>May 21, 2025 05:14 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>137.0.7151.27</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/137.0.7151.15</name>
+    <release_date>May 15, 2025 05:31 PM</release_date>
+    <end_date>May 20, 2025 04:43 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>137.0.7151.15</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/137.0.7151.6</name>
+    <release_date>May 07, 2025 04:01 PM</release_date>
+    <end_date>May 15, 2025 05:31 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>137.0.7151.6</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/136.0.7103.48</name>
+    <release_date>May 01, 2025 09:49 PM</release_date>
+    <end_date>May 07, 2025 04:01 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>136.0.7103.48</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/136.0.7103.33</name>
+    <release_date>April 23, 2025 04:29 PM</release_date>
+    <end_date>May 01, 2025 09:49 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>136.0.7103.33</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/136.0.7103.25</name>
+    <release_date>April 16, 2025 04:24 PM</release_date>
+    <end_date>April 23, 2025 04:29 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>136.0.7103.25</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/136.0.7103.17</name>
+    <release_date>April 09, 2025 05:27 PM</release_date>
+    <end_date>April 16, 2025 04:24 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>136.0.7103.17</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/135.0.7049.41</name>
+    <release_date>April 03, 2025 05:42 PM</release_date>
+    <end_date>April 09, 2025 05:27 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>135.0.7049.41</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/135.0.7049.28</name>
+    <release_date>March 26, 2025 06:00 PM</release_date>
+    <end_date>April 03, 2025 05:42 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>135.0.7049.28</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/135.0.7049.17</name>
+    <release_date>March 20, 2025 06:16 PM</release_date>
+    <end_date>March 26, 2025 06:00 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>135.0.7049.17</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/135.0.7049.3</name>
+    <release_date>March 12, 2025 08:22 PM</release_date>
+    <end_date>March 20, 2025 06:16 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>135.0.7049.3</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/134.0.6998.44</name>
+    <release_date>March 05, 2025 06:47 PM</release_date>
+    <end_date>March 12, 2025 08:22 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>134.0.6998.44</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/134.0.6998.23</name>
+    <release_date>February 27, 2025 10:59 PM</release_date>
+    <end_date>March 05, 2025 06:47 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>134.0.6998.23</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/134.0.6998.15</name>
+    <release_date>February 19, 2025 07:26 PM</release_date>
+    <end_date>February 27, 2025 10:59 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>134.0.6998.15</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/134.0.6998.3</name>
+    <release_date>February 12, 2025 07:13 PM</release_date>
+    <end_date>February 19, 2025 07:26 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>134.0.6998.3</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/133.0.6943.35</name>
+    <release_date>February 05, 2025 04:34 PM</release_date>
+    <end_date>February 12, 2025 07:13 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>133.0.6943.35</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/133.0.6943.27</name>
+    <release_date>January 29, 2025 05:23 PM</release_date>
+    <end_date>February 05, 2025 04:34 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>133.0.6943.27</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/133.0.6943.16</name>
+    <release_date>January 23, 2025 06:30 PM</release_date>
+    <end_date>January 29, 2025 05:23 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>133.0.6943.16</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/132.0.6834.83</name>
+    <release_date>January 15, 2025 05:38 PM</release_date>
+    <end_date>January 23, 2025 06:30 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>132.0.6834.83</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/132.0.6834.57</name>
+    <release_date>January 08, 2025 07:09 PM</release_date>
+    <end_date>January 15, 2025 05:38 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>132.0.6834.57</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/132.0.6834.46</name>
+    <release_date>December 19, 2024 06:11 PM</release_date>
+    <end_date>January 08, 2025 07:09 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>132.0.6834.46</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/132.0.6834.32</name>
+    <release_date>December 11, 2024 07:19 PM</release_date>
+    <end_date>December 19, 2024 06:11 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>132.0.6834.32</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/132.0.6834.15</name>
+    <release_date>December 04, 2024 03:37 PM</release_date>
+    <end_date>December 11, 2024 07:19 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>132.0.6834.15</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/132.0.6834.6</name>
+    <release_date>November 20, 2024 07:21 PM</release_date>
+    <end_date>December 04, 2024 03:37 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>132.0.6834.6</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/131.0.6778.33</name>
+    <release_date>November 13, 2024 06:52 PM</release_date>
+    <end_date>November 20, 2024 07:21 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>131.0.6778.33</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/131.0.6778.24</name>
+    <release_date>November 06, 2024 04:58 PM</release_date>
+    <end_date>November 13, 2024 06:52 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>131.0.6778.24</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/131.0.6778.13</name>
+    <release_date>October 30, 2024 04:57 PM</release_date>
+    <end_date>November 06, 2024 04:58 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>131.0.6778.13</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/131.0.6778.3</name>
+    <release_date>October 23, 2024 04:16 PM</release_date>
+    <end_date>October 30, 2024 04:57 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>131.0.6778.3</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/130.0.6723.44</name>
+    <release_date>October 16, 2024 06:16 PM</release_date>
+    <end_date>October 23, 2024 04:16 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>130.0.6723.44</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/130.0.6723.31</name>
+    <release_date>October 10, 2024 05:44 PM</release_date>
+    <end_date>October 16, 2024 06:16 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>130.0.6723.31</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/130.0.6723.19</name>
+    <release_date>October 03, 2024 02:36 PM</release_date>
+    <end_date>October 10, 2024 05:44 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>130.0.6723.19</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/130.0.6723.6</name>
+    <release_date>September 25, 2024 04:24 PM</release_date>
+    <end_date>October 03, 2024 02:36 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>130.0.6723.6</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/129.0.6668.42</name>
+    <release_date>September 18, 2024 02:25 PM</release_date>
+    <end_date>September 25, 2024 04:24 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>129.0.6668.42</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/129.0.6668.29</name>
+    <release_date>September 11, 2024 04:18 PM</release_date>
+    <end_date>September 18, 2024 02:25 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>129.0.6668.29</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/129.0.6668.22</name>
+    <release_date>September 04, 2024 03:18 PM</release_date>
+    <end_date>September 11, 2024 04:18 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>129.0.6668.22</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/129.0.6668.12</name>
+    <release_date>August 29, 2024 04:50 PM</release_date>
+    <end_date>September 04, 2024 03:18 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>129.0.6668.12</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/128.0.6613.36</name>
+    <release_date>August 22, 2024 04:30 PM</release_date>
+    <end_date>August 29, 2024 04:50 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>128.0.6613.36</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/128.0.6613.27</name>
+    <release_date>August 14, 2024 07:39 PM</release_date>
+    <end_date>August 22, 2024 04:30 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>128.0.6613.27</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/128.0.6613.18</name>
+    <release_date>August 07, 2024 08:08 PM</release_date>
+    <end_date>August 14, 2024 07:39 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>128.0.6613.18</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/128.0.6613.5</name>
+    <release_date>July 31, 2024 04:22 PM</release_date>
+    <end_date>August 07, 2024 08:08 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>128.0.6613.5</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/127.0.6533.57</name>
+    <release_date>July 24, 2024 06:13 PM</release_date>
+    <end_date>July 31, 2024 04:22 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>127.0.6533.57</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/127.0.6533.43</name>
+    <release_date>July 17, 2024 05:31 PM</release_date>
+    <end_date>July 24, 2024 06:13 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>127.0.6533.43</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/127.0.6533.26</name>
+    <release_date>July 10, 2024 08:07 PM</release_date>
+    <end_date>July 17, 2024 05:31 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>127.0.6533.26</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/127.0.6533.17</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>July 10, 2024 08:07 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>127.0.6533.17</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/127.0.6533.4</name>
+    <release_date>June 20, 2024 09:16 PM</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>127.0.6533.4</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/126.0.6478.36</name>
+    <release_date>June 12, 2024 08:13 PM</release_date>
+    <end_date>June 20, 2024 09:16 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>126.0.6478.36</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/126.0.6478.26</name>
+    <release_date>June 05, 2024 07:39 PM</release_date>
+    <end_date>June 12, 2024 08:13 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>126.0.6478.26</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/126.0.6478.17</name>
+    <release_date>May 29, 2024 03:59 PM</release_date>
+    <end_date>June 05, 2024 07:39 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>126.0.6478.17</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/126.0.6478.8</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>May 29, 2024 03:59 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>126.0.6478.8</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/125.0.6422.41</name>
+    <release_date>May 16, 2024 04:51 PM</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>125.0.6422.41</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/125.0.6422.26</name>
+    <release_date>May 08, 2024 05:54 PM</release_date>
+    <end_date>May 16, 2024 04:51 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>125.0.6422.26</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/125.0.6422.14</name>
+    <release_date>May 02, 2024 07:51 PM</release_date>
+    <end_date>May 08, 2024 05:54 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>125.0.6422.14</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/125.0.6422.4</name>
+    <release_date>April 24, 2024 06:14 PM</release_date>
+    <end_date>May 02, 2024 07:51 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>125.0.6422.4</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/124.0.6367.60</name>
+    <release_date>April 17, 2024 05:13 PM</release_date>
+    <end_date>April 24, 2024 06:14 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>124.0.6367.60</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/124.0.6367.49</name>
+    <release_date>April 15, 2024 06:03 PM</release_date>
+    <end_date>April 17, 2024 05:13 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>124.0.6367.49</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/124.0.6367.29</name>
+    <release_date>April 12, 2024 05:43 PM</release_date>
+    <end_date>April 15, 2024 06:03 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>124.0.6367.29</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/124.0.6367.18</name>
+    <release_date>April 03, 2024 04:34 PM</release_date>
+    <end_date>April 12, 2024 05:43 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>124.0.6367.18</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/124.0.6367.8</name>
+    <release_date>March 27, 2024 03:38 PM</release_date>
+    <end_date>April 03, 2024 04:34 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>124.0.6367.8</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/123.0.6312.46</name>
+    <release_date>March 20, 2024 09:28 PM</release_date>
+    <end_date>March 27, 2024 03:38 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>123.0.6312.46</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/123.0.6312.28</name>
+    <release_date>March 13, 2024 06:36 PM</release_date>
+    <end_date>March 20, 2024 09:28 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>123.0.6312.28</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/123.0.6312.22</name>
+    <release_date>March 06, 2024 06:53 PM</release_date>
+    <end_date>March 13, 2024 06:36 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>123.0.6312.22</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/123.0.6312.4</name>
+    <release_date>February 29, 2024 05:32 PM</release_date>
+    <end_date>March 06, 2024 06:53 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>123.0.6312.4</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/122.0.6261.57</name>
+    <release_date>February 21, 2024 06:15 PM</release_date>
+    <end_date>February 29, 2024 05:32 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>122.0.6261.57</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/122.0.6261.49</name>
+    <release_date>February 20, 2024 09:34 PM</release_date>
+    <end_date>February 21, 2024 06:15 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>122.0.6261.49</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/122.0.6261.29</name>
+    <release_date>February 14, 2024 06:58 PM</release_date>
+    <end_date>February 20, 2024 09:34 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>122.0.6261.29</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/122.0.6261.18</name>
+    <release_date>February 07, 2024 06:14 PM</release_date>
+    <end_date>February 14, 2024 06:58 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>122.0.6261.18</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/122.0.6261.6</name>
+    <release_date>January 31, 2024 08:30 PM</release_date>
+    <end_date>February 07, 2024 06:14 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>122.0.6261.6</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/121.0.6167.85</name>
+    <release_date>January 24, 2024 09:16 PM</release_date>
+    <end_date>January 31, 2024 08:30 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>121.0.6167.85</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/121.0.6167.75</name>
+    <release_date>January 22, 2024 04:14 PM</release_date>
+    <end_date>January 24, 2024 09:16 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>121.0.6167.75</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/121.0.6167.57</name>
+    <release_date>January 17, 2024 07:26 PM</release_date>
+    <end_date>January 22, 2024 04:14 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>121.0.6167.57</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/121.0.6167.47</name>
+    <release_date>January 10, 2024 03:31 PM</release_date>
+    <end_date>January 17, 2024 07:26 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>121.0.6167.47</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/121.0.6167.16</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>January 10, 2024 03:31 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>121.0.6167.16</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/121.0.6167.8</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>121.0.6167.8</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/120.0.6099.62</name>
+    <release_date>December 07, 2023 06:42 PM</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>120.0.6099.62</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/120.0.6099.56</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>December 07, 2023 06:42 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>120.0.6099.56</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/120.0.6099.35</name>
+    <release_date>November 29, 2023 09:27 PM</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>120.0.6099.35</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/120.0.6099.28</name>
+    <release_date>November 22, 2023 05:01 PM</release_date>
+    <end_date>November 29, 2023 09:27 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>120.0.6099.28</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/120.0.6099.18</name>
+    <release_date>November 15, 2023 06:02 PM</release_date>
+    <end_date>November 22, 2023 05:01 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>120.0.6099.18</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/120.0.6099.5</name>
+    <release_date>November 08, 2023 08:20 PM</release_date>
+    <end_date>November 15, 2023 06:02 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>120.0.6099.5</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/119.0.6045.105</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>November 08, 2023 08:20 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>119.0.6045.105</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/119.0.6045.59</name>
+    <release_date>October 31, 2023 08:30 PM</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>119.0.6045.59</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/119.0.6045.33</name>
+    <release_date>October 26, 2023 02:48 PM</release_date>
+    <end_date>October 31, 2023 08:30 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>119.0.6045.33</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/119.0.6045.21</name>
+    <release_date>October 18, 2023 04:57 PM</release_date>
+    <end_date>October 26, 2023 02:48 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>119.0.6045.21</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/119.0.6045.10</name>
+    <release_date>October 12, 2023 03:05 PM</release_date>
+    <end_date>October 18, 2023 04:57 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>119.0.6045.10</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/118.0.5993.54</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>October 12, 2023 03:05 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>118.0.5993.54</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/118.0.5993.32</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>118.0.5993.32</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/118.0.5993.21</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>118.0.5993.21</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/118.0.5993.11</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>118.0.5993.11</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/117.0.5938.62</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>117.0.5938.62</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/117.0.5938.48</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>117.0.5938.48</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/117.0.5938.35</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>117.0.5938.35</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/117.0.5938.22</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>117.0.5938.22</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/117.0.5938.11</name>
+    <release_date>August 23, 2023 04:13 PM</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>117.0.5938.11</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/116.0.5845.96</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>August 23, 2023 04:13 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>116.0.5845.96</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/116.0.5845.82</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>116.0.5845.82</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/116.0.5845.62</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>116.0.5845.62</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/116.0.5845.50</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>116.0.5845.50</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/116.0.5845.42</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>116.0.5845.42</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/115.0.5790.98</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>115.0.5790.98</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/115.0.5790.90</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>115.0.5790.90</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/115.0.5790.75</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>115.0.5790.75</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/115.0.5790.56</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>115.0.5790.56</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/115.0.5790.40</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>115.0.5790.40</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/115.0.5790.32</name>
+    <release_date>June 21, 2023 06:57 PM</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>115.0.5790.32</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/115.0.5790.24</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>June 21, 2023 06:57 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>115.0.5790.24</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/115.0.5790.13</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>115.0.5790.13</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/114.0.5735.45</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>114.0.5735.45</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/114.0.5735.35</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>114.0.5735.35</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/114.0.5735.26</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>114.0.5735.26</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/114.0.5735.16</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>114.0.5735.16</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/113.0.5672.63</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>113.0.5672.63</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/113.0.5672.53</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>113.0.5672.53</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/113.0.5672.35</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>113.0.5672.35</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/113.0.5672.24</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>113.0.5672.24</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/112.0.5615.49</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>112.0.5615.49</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/112.0.5615.39</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>112.0.5615.39</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/112.0.5615.28</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>112.0.5615.28</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/112.0.5615.20</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>112.0.5615.20</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/111.0.5563.64</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>111.0.5563.64</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/111.0.5563.50</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>111.0.5563.50</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/111.0.5563.41</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>111.0.5563.41</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/111.0.5563.33</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>111.0.5563.33</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/111.0.5563.19</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>111.0.5563.19</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/110.0.5481.77</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>110.0.5481.77</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/110.0.5481.52</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>110.0.5481.52</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/110.0.5481.38</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>110.0.5481.38</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/110.0.5481.30</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>110.0.5481.30</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/109.0.5414.87</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>109.0.5414.87</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/109.0.5414.74</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>109.0.5414.74</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/109.0.5414.61</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>109.0.5414.61</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/109.0.5414.46</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>109.0.5414.46</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/109.0.5414.36</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>109.0.5414.36</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/109.0.5414.25</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>109.0.5414.25</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/108.0.5359.71</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>108.0.5359.71</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/108.0.5359.62</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>108.0.5359.62</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/108.0.5359.48</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>108.0.5359.48</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/108.0.5359.40</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>108.0.5359.40</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/108.0.5359.30</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>108.0.5359.30</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/108.0.5359.22</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>108.0.5359.22</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/107.0.5304.62</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>107.0.5304.62</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/107.0.5304.36</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>107.0.5304.36</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/107.0.5304.29</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>107.0.5304.29</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/107.0.5304.18</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>107.0.5304.18</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/106.0.5249.61</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>106.0.5249.61</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/106.0.5249.51</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>106.0.5249.51</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/106.0.5249.40</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>106.0.5249.40</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/106.0.5249.30</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>106.0.5249.30</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/106.0.5249.21</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>106.0.5249.21</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/105.0.5195.52</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>105.0.5195.52</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/105.0.5195.37</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>105.0.5195.37</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/105.0.5195.28</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>105.0.5195.28</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/105.0.5195.19</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>105.0.5195.19</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/104.0.5112.79</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>13</fraction_group>
+  </release>
+  <release>
     <version>104.0.5112.79</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/104.0.5112.65</name>
+    <release_date>August 05, 2022 04:11 PM</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>12</fraction_group>
+  </release>
+  <release>
+    <version>104.0.5112.79</version>
+    <release_date>August 05, 2022 04:11 PM</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>13</fraction_group>
+  </release>
+  <release>
+    <version>104.0.5112.79</version>
+    <release_date>Invalid Time</release_date>
+    <end_date>August 05, 2022 04:11 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>104.0.5112.65</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/104.0.5112.57</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>104.0.5112.57</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/104.0.5112.48</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>104.0.5112.48</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/104.0.5112.39</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>104.0.5112.39</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/104.0.5112.29</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>104.0.5112.29</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/104.0.5112.20</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>104.0.5112.20</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/103.0.5060.53</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>103.0.5060.53</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/103.0.5060.42</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>103.0.5060.42</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/103.0.5060.33</name>
+    <release_date>June 08, 2022 07:46 PM</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>103.0.5060.33</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/103.0.5060.24</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>June 08, 2022 07:46 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>103.0.5060.24</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/102.0.5005.61</name>
+    <release_date>May 26, 2022 09:21 PM</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>102.0.5005.61</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/102.0.5005.49</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>May 26, 2022 09:21 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>102.0.5005.49</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/102.0.5005.40</name>
+    <release_date>May 11, 2022 07:04 PM</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>102.0.5005.40</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/102.0.5005.27</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>May 11, 2022 07:04 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>102.0.5005.27</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/101.0.4951.41</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>101.0.4951.41</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/101.0.4951.34</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>101.0.4951.34</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/101.0.4951.26</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>101.0.4951.26</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/101.0.4951.15</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>101.0.4951.15</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/100.0.4896.60</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>100.0.4896.60</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/100.0.4896.56</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>100.0.4896.56</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/100.0.4896.45</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>100.0.4896.45</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/100.0.4896.30</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>100.0.4896.30</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/100.0.4896.20</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>100.0.4896.20</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/99.0.4844.51</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>99.0.4844.51</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/99.0.4844.45</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>99.0.4844.45</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/99.0.4844.35</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>99.0.4844.35</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/99.0.4844.27</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>99.0.4844.27</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/99.0.4844.15</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>99.0.4844.15</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/98.0.4758.80</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>98.0.4758.80</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/98.0.4758.74</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>98.0.4758.74</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/98.0.4758.66</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>11</fraction_group>
+  </release>
+  <release>
     <version>98.0.4758.66</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/98.0.4758.55</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>98.0.4758.55</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/98.0.4758.48</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>98.0.4758.48</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/97.0.4692.71</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>97.0.4692.71</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/97.0.4692.56</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>97.0.4692.56</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/97.0.4692.45</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>97.0.4692.45</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/97.0.4692.36</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>97.0.4692.36</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/97.0.4692.20</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>97.0.4692.20</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/96.0.4664.45</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>96.0.4664.45</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/96.0.4664.35</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>96.0.4664.35</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/96.0.4664.27</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>96.0.4664.27</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/96.0.4664.18</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>96.0.4664.18</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/95.0.4638.54</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>95.0.4638.54</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/95.0.4638.49</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>95.0.4638.49</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/95.0.4638.40</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>95.0.4638.40</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/95.0.4638.32</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>95.0.4638.32</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/95.0.4638.17</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>95.0.4638.17</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/94.0.4606.54</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>94.0.4606.54</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/94.0.4606.51</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>94.0.4606.51</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/94.0.4606.41</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>94.0.4606.41</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/94.0.4606.30</name>
+    <release_date>September 08, 2021 04:58 PM</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>94.0.4606.30</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/94.0.4606.20</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>September 08, 2021 04:58 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>94.0.4606.20</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/93.0.4577.58</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>93.0.4577.58</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/93.0.4577.51</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>93.0.4577.51</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/93.0.4577.42</name>
+    <release_date>August 18, 2021 08:29 PM</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>93.0.4577.42</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/93.0.4577.25</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>August 18, 2021 08:29 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>93.0.4577.25</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/93.0.4577.18</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>93.0.4577.18</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/92.0.4515.107</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>92.0.4515.107</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/92.0.4515.101</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>92.0.4515.101</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/92.0.4515.93</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>92.0.4515.93</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/92.0.4515.80</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>92.0.4515.80</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/92.0.4515.69</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>92.0.4515.69</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/92.0.4515.59</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>92.0.4515.59</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/92.0.4515.51</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>92.0.4515.51</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/92.0.4515.39</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>92.0.4515.39</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/91.0.4472.77</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>91.0.4472.77</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/91.0.4472.69</name>
+    <release_date>May 24, 2021 08:04 PM</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>91.0.4472.69</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/91.0.4472.57</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>May 24, 2021 08:04 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>91.0.4472.57</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/91.0.4472.38</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>91.0.4472.38</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/91.0.4472.27</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>91.0.4472.27</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/91.0.4472.19</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>91.0.4472.19</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/90.0.4430.85</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>90.0.4430.85</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/90.0.4430.72</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>90.0.4430.72</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/90.0.4430.70</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>90.0.4430.70</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/90.0.4430.61</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>90.0.4430.61</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/90.0.4430.51</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>90.0.4430.51</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/90.0.4430.40</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>90.0.4430.40</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/90.0.4430.30</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
     <version>90.0.4430.30</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/90.0.4430.19</name>
+    <release_date>March 17, 2021 07:16 PM</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>10</fraction_group>
+  </release>
+  <release>
+    <version>90.0.4430.30</version>
+    <release_date>Invalid Time</release_date>
+    <end_date>March 17, 2021 07:16 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>9</fraction_group>
+  </release>
+  <release>
     <version>90.0.4430.19</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/89.0.4389.72</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>9</fraction_group>
+  </release>
+  <release>
     <version>89.0.4389.72</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/89.0.4389.69</name>
+    <release_date>March 09, 2021 06:39 PM</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>9</fraction_group>
+  </release>
+  <release>
+    <version>89.0.4389.72</version>
+    <release_date>Invalid Time</release_date>
+    <end_date>March 09, 2021 06:39 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>8</fraction_group>
+  </release>
+  <release>
     <version>89.0.4389.69</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/89.0.4389.58</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>8</fraction_group>
+  </release>
+  <release>
     <version>89.0.4389.58</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/89.0.4389.47</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>8</fraction_group>
+  </release>
+  <release>
     <version>89.0.4389.47</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/89.0.4389.40</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>8</fraction_group>
+  </release>
+  <release>
     <version>89.0.4389.40</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/89.0.4389.23</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>8</fraction_group>
+  </release>
+  <release>
     <version>89.0.4389.23</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/88.0.4324.96</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>8</fraction_group>
+  </release>
+  <release>
     <version>88.0.4324.96</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/88.0.4324.87</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>8</fraction_group>
+  </release>
+  <release>
     <version>88.0.4324.87</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/88.0.4324.77</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>8</fraction_group>
+  </release>
+  <release>
     <version>88.0.4324.77</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/88.0.4324.50</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>8</fraction_group>
+  </release>
+  <release>
     <version>88.0.4324.50</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/88.0.4324.41</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>8</fraction_group>
+  </release>
+  <release>
     <version>88.0.4324.41</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/88.0.4324.27</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>8</fraction_group>
+  </release>
+  <release>
     <version>88.0.4324.27</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/87.0.4280.67</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>8</fraction_group>
+  </release>
+  <release>
     <version>87.0.4280.67</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/87.0.4280.66</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>8</fraction_group>
+  </release>
+  <release>
+    <version>87.0.4280.67</version>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>87.0.4280.66</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/87.0.4280.63</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>87.0.4280.63</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/87.0.4280.60</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>87.0.4280.60</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/87.0.4280.47</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>87.0.4280.47</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/87.0.4280.40</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>87.0.4280.40</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/87.0.4280.27</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>87.0.4280.27</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/87.0.4280.20</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>87.0.4280.20</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/86.0.4240.75</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>86.0.4240.75</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/86.0.4240.72</name>
+    <release_date>October 06, 2020 04:51 PM</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>86.0.4240.72</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/86.0.4240.68</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>October 06, 2020 04:51 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>86.0.4240.68</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/86.0.4240.55</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>86.0.4240.55</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/86.0.4240.42</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>86.0.4240.42</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/86.0.4240.30</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>86.0.4240.30</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/86.0.4240.22</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>86.0.4240.22</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/85.0.4183.83</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>85.0.4183.83</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/85.0.4183.76</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>85.0.4183.76</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/85.0.4183.69</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>85.0.4183.69</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/85.0.4183.59</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>85.0.4183.59</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/85.0.4183.48</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>85.0.4183.48</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/85.0.4183.38</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>85.0.4183.38</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/84.0.4147.89</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>84.0.4147.89</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/84.0.4147.85</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>84.0.4147.85</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/84.0.4147.68</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>84.0.4147.68</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/84.0.4147.56</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>84.0.4147.56</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/84.0.4147.45</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>84.0.4147.45</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/84.0.4147.38</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>84.0.4147.38</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/84.0.4147.30</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>84.0.4147.30</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/83.0.4103.61</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>83.0.4103.61</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/83.0.4103.56</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>83.0.4103.56</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/83.0.4103.44</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>83.0.4103.44</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/83.0.4103.34</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>83.0.4103.34</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/83.0.4103.23</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>83.0.4103.23</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/83.0.4103.14</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>83.0.4103.14</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/81.0.4044.113</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>81.0.4044.113</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/81.0.4044.92</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>81.0.4044.92</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/81.0.4044.83</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>81.0.4044.83</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/81.0.4044.69</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>81.0.4044.69</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/81.0.4044.62</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>81.0.4044.62</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/81.0.4044.43</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>81.0.4044.43</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/81.0.4044.34</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>81.0.4044.34</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/81.0.4044.26</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>81.0.4044.26</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/81.0.4044.17</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>81.0.4044.17</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/80.0.3987.100</name>
+    <release_date>February 13, 2020 07:28 PM</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>80.0.3987.100</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/80.0.3987.87</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>February 13, 2020 07:28 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>80.0.3987.87</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/80.0.3987.85</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>80.0.3987.85</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/80.0.3987.78</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>80.0.3987.78</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/80.0.3987.66</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>80.0.3987.66</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/80.0.3987.53</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>80.0.3987.53</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/80.0.3987.42</name>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>80.0.3987.42</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/80.0.3987.16</name>
+    <release_date>January 08, 2020 06:14 PM</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>80.0.3987.16</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/79.0.3945.88</name>
+    <release_date>December 19, 2019 06:50 PM</release_date>
+    <end_date>January 08, 2020 06:14 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>79.0.3945.88</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/79.0.3945.79</name>
+    <release_date>December 16, 2019 08:15 PM</release_date>
+    <end_date>December 19, 2019 06:50 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>79.0.3945.79</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/79.0.3945.74</name>
+    <release_date>December 09, 2019 06:49 PM</release_date>
+    <end_date>December 16, 2019 08:15 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>79.0.3945.74</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/79.0.3945.70</name>
+    <release_date>December 05, 2019 06:26 PM</release_date>
+    <end_date>December 09, 2019 06:49 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>79.0.3945.70</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/79.0.3945.56</name>
+    <release_date>December 04, 2019 08:01 PM</release_date>
+    <end_date>December 05, 2019 06:26 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>79.0.3945.56</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/79.0.3945.45</name>
+    <release_date>November 26, 2019 06:21 PM</release_date>
+    <end_date>December 04, 2019 08:01 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>79.0.3945.45</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/79.0.3945.36</name>
+    <release_date>November 20, 2019 06:18 PM</release_date>
+    <end_date>November 26, 2019 06:21 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>79.0.3945.36</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/79.0.3945.29</name>
+    <release_date>November 13, 2019 06:21 PM</release_date>
+    <end_date>November 20, 2019 06:18 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>79.0.3945.29</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/79.0.3945.16</name>
+    <release_date>November 07, 2019 06:51 PM</release_date>
+    <end_date>November 13, 2019 06:21 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>79.0.3945.16</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/78.0.3904.85</name>
+    <release_date>October 31, 2019 07:16 PM</release_date>
+    <end_date>November 07, 2019 06:51 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>78.0.3904.85</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/78.0.3904.70</name>
+    <release_date>October 30, 2019 08:51 PM</release_date>
+    <end_date>October 31, 2019 07:16 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>78.0.3904.70</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/78.0.3904.63</name>
+    <release_date>October 21, 2019 06:19 PM</release_date>
+    <end_date>October 30, 2019 08:51 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>78.0.3904.63</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/78.0.3904.50</name>
+    <release_date>October 16, 2019 07:25 PM</release_date>
+    <end_date>October 21, 2019 06:19 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>78.0.3904.50</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/78.0.3904.44</name>
+    <release_date>October 09, 2019 07:05 PM</release_date>
+    <end_date>October 16, 2019 07:25 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>78.0.3904.44</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/78.0.3904.34</name>
+    <release_date>October 03, 2019 06:45 PM</release_date>
+    <end_date>October 09, 2019 07:05 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>78.0.3904.34</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/78.0.3904.21</name>
+    <release_date>September 25, 2019 05:41 PM</release_date>
+    <end_date>October 03, 2019 06:45 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>78.0.3904.21</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/77.0.3865.90</name>
+    <release_date>September 19, 2019 05:17 PM</release_date>
+    <end_date>September 25, 2019 05:41 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>77.0.3865.90</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/77.0.3865.75</name>
+    <release_date>September 18, 2019 06:51 PM</release_date>
+    <end_date>September 19, 2019 05:17 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>77.0.3865.75</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/77.0.3865.70</name>
+    <release_date>September 09, 2019 09:21 PM</release_date>
+    <end_date>September 18, 2019 06:51 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>77.0.3865.70</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/77.0.3865.65</name>
+    <release_date>September 06, 2019 06:36 PM</release_date>
+    <end_date>September 09, 2019 09:21 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>77.0.3865.65</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/77.0.3865.56</name>
+    <release_date>September 04, 2019 08:40 PM</release_date>
+    <end_date>September 06, 2019 06:36 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>77.0.3865.56</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/77.0.3865.42</name>
+    <release_date>August 29, 2019 10:21 PM</release_date>
+    <end_date>September 04, 2019 08:40 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>77.0.3865.42</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/77.0.3865.35</name>
+    <release_date>August 21, 2019 10:31 PM</release_date>
+    <end_date>August 29, 2019 10:21 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>77.0.3865.35</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/77.0.3865.19</name>
+    <release_date>August 14, 2019 06:36 PM</release_date>
+    <end_date>August 21, 2019 10:31 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>77.0.3865.19</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/76.0.3809.100</name>
+    <release_date>August 08, 2019 05:32 PM</release_date>
+    <end_date>August 14, 2019 06:36 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>76.0.3809.100</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/76.0.3809.87</name>
+    <release_date>August 06, 2019 05:03 PM</release_date>
+    <end_date>August 08, 2019 05:32 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>76.0.3809.87</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/76.0.3809.80</name>
+    <release_date>July 29, 2019 05:38 PM</release_date>
+    <end_date>August 06, 2019 05:03 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>76.0.3809.80</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/76.0.3809.72</name>
-    <version>76.0.3809.72</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/76.0.3809.71</name>
+    <release_date>July 24, 2019 05:48 PM</release_date>
+    <end_date>July 29, 2019 05:38 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>76.0.3809.71</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/76.0.3809.62</name>
+    <release_date>July 24, 2019 05:38 PM</release_date>
+    <end_date>July 24, 2019 05:48 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
+    <version>76.0.3809.71</version>
+    <release_date>July 18, 2019 07:01 PM</release_date>
+    <end_date>July 24, 2019 05:38 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>7</fraction_group>
+  </release>
+  <release>
     <version>76.0.3809.62</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/76.0.3809.46</name>
+    <release_date>July 18, 2019 07:00 PM</release_date>
+    <end_date>July 18, 2019 07:01 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>7</fraction_group>
+  </release>
+  <release>
+    <version>76.0.3809.72</version>
+    <release_date>July 18, 2019 07:00 PM</release_date>
+    <end_date>July 24, 2019 05:38 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>6</fraction_group>
+  </release>
+  <release>
+    <version>76.0.3809.62</version>
+    <release_date>July 10, 2019 06:09 PM</release_date>
+    <end_date>July 18, 2019 07:00 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>76.0.3809.46</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/76.0.3809.36</name>
+    <release_date>June 27, 2019 07:03 PM</release_date>
+    <end_date>July 10, 2019 06:09 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>76.0.3809.36</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/76.0.3809.25</name>
+    <release_date>June 19, 2019 06:44 PM</release_date>
+    <end_date>June 27, 2019 07:03 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>76.0.3809.25</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/75.0.3770.90</name>
+    <release_date>June 13, 2019 05:36 PM</release_date>
+    <end_date>June 19, 2019 06:44 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>75.0.3770.90</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/75.0.3770.87</name>
+    <release_date>June 12, 2019 11:55 PM</release_date>
+    <end_date>June 13, 2019 05:36 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>75.0.3770.87</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/75.0.3770.80</name>
+    <release_date>June 10, 2019 03:02 PM</release_date>
+    <end_date>June 12, 2019 11:55 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>75.0.3770.80</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/75.0.3770.75</name>
+    <release_date>June 04, 2019 05:17 PM</release_date>
+    <end_date>June 10, 2019 03:02 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>75.0.3770.75</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/75.0.3770.66</name>
+    <release_date>June 03, 2019 04:52 PM</release_date>
+    <end_date>June 04, 2019 05:17 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>75.0.3770.66</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/75.0.3770.51</name>
+    <release_date>May 29, 2019 05:34 PM</release_date>
+    <end_date>June 03, 2019 04:52 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>75.0.3770.51</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/75.0.3770.38</name>
+    <release_date>May 22, 2019 06:05 PM</release_date>
+    <end_date>May 29, 2019 05:34 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>75.0.3770.38</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/75.0.3770.27</name>
+    <release_date>May 15, 2019 08:08 PM</release_date>
+    <end_date>May 22, 2019 06:05 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>75.0.3770.27</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/75.0.3770.18</name>
+    <release_date>May 08, 2019 05:41 PM</release_date>
+    <end_date>May 15, 2019 08:08 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>75.0.3770.18</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/74.0.3729.131</name>
+    <release_date>May 02, 2019 07:31 PM</release_date>
+    <end_date>May 08, 2019 05:41 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>74.0.3729.131</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/74.0.3729.108</name>
+    <release_date>April 30, 2019 07:05 PM</release_date>
+    <end_date>May 02, 2019 07:31 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>74.0.3729.108</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/74.0.3729.108</name>
+    <release_date>April 24, 2019 03:06 PM</release_date>
+    <end_date>April 30, 2019 07:05 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>74.0.3729.108</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/74.0.3729.91</name>
+    <release_date>April 22, 2019 05:45 PM</release_date>
+    <end_date>April 24, 2019 03:06 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>3</fraction_group>
+  </release>
+  <release>
+    <version>74.0.3729.108</version>
+    <release_date>April 22, 2019 05:45 PM</release_date>
+    <end_date>April 24, 2019 03:06 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>5</fraction_group>
+  </release>
+  <release>
+    <version>74.0.3729.108</version>
+    <release_date>April 22, 2019 05:45 PM</release_date>
+    <end_date>April 24, 2019 03:06 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>4</fraction_group>
+  </release>
+  <release>
     <version>74.0.3729.91</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/74.0.3729.75</name>
+    <release_date>April 17, 2019 06:16 PM</release_date>
+    <end_date>April 22, 2019 05:45 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>74.0.3729.75</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/74.0.3729.61</name>
+    <release_date>April 10, 2019 06:00 PM</release_date>
+    <end_date>April 17, 2019 06:16 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>74.0.3729.61</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/74.0.3729.40</name>
+    <release_date>April 03, 2019 08:50 PM</release_date>
+    <end_date>April 10, 2019 06:00 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>74.0.3729.40</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/74.0.3729.28</name>
+    <release_date>March 27, 2019 05:40 PM</release_date>
+    <end_date>April 03, 2019 08:50 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>74.0.3729.28</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/73.0.3683.86</name>
+    <release_date>March 22, 2019 05:53 PM</release_date>
+    <end_date>March 27, 2019 05:40 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>73.0.3683.86</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/73.0.3683.75</name>
+    <release_date>March 20, 2019 07:42 PM</release_date>
+    <end_date>March 22, 2019 05:53 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>73.0.3683.75</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/73.0.3683.67</name>
+    <release_date>March 11, 2019 07:20 PM</release_date>
+    <end_date>March 20, 2019 07:42 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>73.0.3683.67</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/73.0.3683.56</name>
+    <release_date>March 06, 2019 09:05 PM</release_date>
+    <end_date>March 11, 2019 07:20 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>73.0.3683.56</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/73.0.3683.46</name>
+    <release_date>February 27, 2019 08:42 PM</release_date>
+    <end_date>March 06, 2019 09:05 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>73.0.3683.46</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/73.0.3683.39</name>
+    <release_date>February 20, 2019 08:07 PM</release_date>
+    <end_date>February 27, 2019 08:42 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>73.0.3683.39</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/73.0.3683.27</name>
+    <release_date>February 14, 2019 10:00 PM</release_date>
+    <end_date>February 20, 2019 08:07 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>73.0.3683.27</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/72.0.3626.96</name>
+    <release_date>February 08, 2019 08:16 PM</release_date>
+    <end_date>February 14, 2019 10:00 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>72.0.3626.96</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/72.0.3626.81</name>
+    <release_date>February 06, 2019 07:37 PM</release_date>
+    <end_date>February 08, 2019 08:16 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>72.0.3626.81</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/72.0.3626.77</name>
+    <release_date>January 29, 2019 07:26 PM</release_date>
+    <end_date>February 06, 2019 07:37 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>72.0.3626.77</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/72.0.3626.71</name>
+    <release_date>January 28, 2019 08:53 PM</release_date>
+    <end_date>January 29, 2019 07:26 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>72.0.3626.71</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/72.0.3626.64</name>
+    <release_date>January 23, 2019 10:11 PM</release_date>
+    <end_date>January 28, 2019 08:53 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>72.0.3626.64</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/72.0.3626.53</name>
+    <release_date>January 16, 2019 08:11 PM</release_date>
+    <end_date>January 23, 2019 10:11 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>72.0.3626.53</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/72.0.3626.28</name>
+    <release_date>January 09, 2019 06:45 PM</release_date>
+    <end_date>January 16, 2019 08:11 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>72.0.3626.28</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/72.0.3626.17</name>
+    <release_date>December 19, 2018 06:51 PM</release_date>
+    <end_date>January 09, 2019 06:45 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>72.0.3626.17</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/71.0.3578.98</name>
+    <release_date>December 13, 2018 07:29 PM</release_date>
+    <end_date>December 19, 2018 06:51 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>71.0.3578.98</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/71.0.3578.80</name>
+    <release_date>December 12, 2018 07:21 PM</release_date>
+    <end_date>December 13, 2018 07:29 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>71.0.3578.80</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/71.0.3578.75</name>
+    <release_date>December 03, 2018 06:33 PM</release_date>
+    <end_date>December 12, 2018 07:21 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>71.0.3578.75</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/71.0.3578.62</name>
+    <release_date>November 28, 2018 06:31 PM</release_date>
+    <end_date>December 03, 2018 06:33 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>71.0.3578.62</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/71.0.3578.53</name>
+    <release_date>November 20, 2018 07:01 PM</release_date>
+    <end_date>November 28, 2018 06:31 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>71.0.3578.53</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/71.0.3578.44</name>
+    <release_date>November 14, 2018 06:57 PM</release_date>
+    <end_date>November 20, 2018 07:01 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>71.0.3578.44</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/71.0.3578.30</name>
+    <release_date>November 08, 2018 07:21 PM</release_date>
+    <end_date>November 14, 2018 06:57 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>71.0.3578.30</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/71.0.3578.20</name>
+    <release_date>October 31, 2018 06:03 PM</release_date>
+    <end_date>November 08, 2018 07:21 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>71.0.3578.20</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/70.0.3538.77</name>
+    <release_date>October 25, 2018 02:37 PM</release_date>
+    <end_date>October 31, 2018 06:03 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>70.0.3538.77</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/70.0.3538.67</name>
+    <release_date>October 24, 2018 07:20 PM</release_date>
+    <end_date>October 25, 2018 02:37 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>70.0.3538.67</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/70.0.3538.54</name>
+    <release_date>October 16, 2018 06:35 PM</release_date>
+    <end_date>October 24, 2018 07:20 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>70.0.3538.54</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/70.0.3538.45</name>
+    <release_date>October 10, 2018 06:58 PM</release_date>
+    <end_date>October 16, 2018 06:35 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>70.0.3538.45</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/70.0.3538.35</name>
+    <release_date>October 03, 2018 06:45 PM</release_date>
+    <end_date>October 10, 2018 06:58 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>70.0.3538.35</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/70.0.3538.22</name>
+    <release_date>September 26, 2018 07:08 PM</release_date>
+    <end_date>October 03, 2018 06:45 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>70.0.3538.22</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/70.0.3538.16</name>
+    <release_date>September 19, 2018 07:34 PM</release_date>
+    <end_date>September 26, 2018 07:08 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>70.0.3538.16</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/69.0.3497.92</name>
+    <release_date>September 13, 2018 06:39 PM</release_date>
+    <end_date>September 19, 2018 07:34 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>69.0.3497.92</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/69.0.3497.81</name>
+    <release_date>September 11, 2018 05:32 PM</release_date>
+    <end_date>September 13, 2018 06:39 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>69.0.3497.81</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/69.0.3497.72</name>
+    <release_date>September 04, 2018 06:04 PM</release_date>
+    <end_date>September 11, 2018 05:32 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>69.0.3497.72</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/69.0.3497.57</name>
+    <release_date>August 29, 2018 05:32 PM</release_date>
+    <end_date>September 04, 2018 06:04 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>69.0.3497.57</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/69.0.3497.42</name>
+    <release_date>August 23, 2018 06:52 PM</release_date>
+    <end_date>August 29, 2018 05:32 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>69.0.3497.42</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/69.0.3497.32</name>
+    <release_date>August 16, 2018 08:22 PM</release_date>
+    <end_date>August 23, 2018 06:52 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>69.0.3497.32</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/69.0.3497.23</name>
+    <release_date>August 09, 2018 06:05 PM</release_date>
+    <end_date>August 16, 2018 08:22 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>69.0.3497.23</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/68.0.3440.75</name>
+    <release_date>August 02, 2018 05:40 PM</release_date>
+    <end_date>August 09, 2018 06:05 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>68.0.3440.75</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/68.0.3440.68</name>
+    <release_date>July 26, 2018 09:21 PM</release_date>
+    <end_date>August 02, 2018 05:40 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>68.0.3440.68</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/68.0.3440.59</name>
+    <release_date>July 18, 2018 06:23 PM</release_date>
+    <end_date>July 26, 2018 09:21 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>68.0.3440.59</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/68.0.3440.42</name>
+    <release_date>July 11, 2018 07:42 PM</release_date>
+    <end_date>July 18, 2018 06:23 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>68.0.3440.42</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/68.0.3440.33</name>
+    <release_date>June 27, 2018 05:27 PM</release_date>
+    <end_date>July 11, 2018 07:42 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>68.0.3440.33</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/68.0.3440.25</name>
+    <release_date>June 20, 2018 09:38 PM</release_date>
+    <end_date>June 27, 2018 05:27 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>68.0.3440.25</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/68.0.3440.17</name>
+    <release_date>June 13, 2018 05:54 PM</release_date>
+    <end_date>June 20, 2018 09:38 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>68.0.3440.17</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/67.0.3396.62</name>
+    <release_date>June 07, 2018 06:05 PM</release_date>
+    <end_date>June 13, 2018 05:54 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>67.0.3396.62</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/67.0.3396.56</name>
+    <release_date>May 29, 2018 05:37 PM</release_date>
+    <end_date>June 07, 2018 06:05 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>67.0.3396.56</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/67.0.3396.48</name>
+    <release_date>May 23, 2018 06:08 PM</release_date>
+    <end_date>May 29, 2018 05:37 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>67.0.3396.48</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/67.0.3396.40</name>
+    <release_date>May 16, 2018 05:47 PM</release_date>
+    <end_date>May 23, 2018 06:08 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>67.0.3396.40</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/67.0.3396.30</name>
+    <release_date>May 09, 2018 05:47 PM</release_date>
+    <end_date>May 16, 2018 05:47 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>2</fraction_group>
+  </release>
+  <release>
     <version>67.0.3396.30</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/67.0.3396.18</name>
+    <release_date>May 02, 2018 06:40 PM</release_date>
+    <end_date>May 09, 2018 05:47 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>1</fraction_group>
+  </release>
+  <release>
     <version>67.0.3396.18</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/66.0.3359.117</name>
+    <release_date>April 26, 2018 06:54 PM</release_date>
+    <end_date>May 02, 2018 06:40 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>1</fraction_group>
+  </release>
+  <release>
     <version>66.0.3359.117</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/66.0.3359.106</name>
+    <release_date>April 19, 2018 12:24 AM</release_date>
+    <end_date>April 26, 2018 06:54 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>1</fraction_group>
+  </release>
+  <release>
+    <version>66.0.3359.117</version>
+    <release_date>April 17, 2018 10:45 PM</release_date>
+    <end_date>April 19, 2018 12:24 AM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>66.0.3359.106</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/66.0.3359.81</name>
+    <release_date>April 12, 2018 06:00 PM</release_date>
+    <end_date>April 17, 2018 10:45 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>66.0.3359.81</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/66.0.3359.66</name>
+    <release_date>April 04, 2018 05:50 PM</release_date>
+    <end_date>April 12, 2018 06:00 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>66.0.3359.66</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/66.0.3359.45</name>
+    <release_date>March 28, 2018 06:30 PM</release_date>
+    <end_date>April 04, 2018 05:50 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>66.0.3359.45</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/66.0.3359.33</name>
+    <release_date>March 21, 2018 06:35 PM</release_date>
+    <end_date>March 28, 2018 06:30 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>66.0.3359.33</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/65.0.3325.124</name>
+    <release_date>March 15, 2018 06:21 PM</release_date>
+    <end_date>March 21, 2018 06:35 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>65.0.3325.124</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/65.0.3325.106</name>
+    <release_date>March 07, 2018 11:12 PM</release_date>
+    <end_date>March 15, 2018 06:21 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>65.0.3325.106</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/65.0.3325.88</name>
+    <release_date>February 28, 2018 09:13 PM</release_date>
+    <end_date>March 07, 2018 11:12 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>65.0.3325.88</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/65.0.3325.73</name>
+    <release_date>February 21, 2018 06:15 PM</release_date>
+    <end_date>February 28, 2018 09:13 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>65.0.3325.73</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/65.0.3325.51</name>
+    <release_date>February 14, 2018 07:16 PM</release_date>
+    <end_date>February 21, 2018 06:15 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>65.0.3325.51</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/64.0.3282.140</name>
+    <release_date>February 08, 2018 07:44 PM</release_date>
+    <end_date>February 14, 2018 07:16 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>64.0.3282.140</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/64.0.3282.119</name>
+    <release_date>February 01, 2018 08:41 PM</release_date>
+    <end_date>February 08, 2018 07:44 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>64.0.3282.119</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/64.0.3282.113</name>
+    <release_date>January 24, 2018 06:46 PM</release_date>
+    <end_date>February 01, 2018 08:41 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>64.0.3282.113</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/64.0.3282.99</name>
+    <release_date>January 23, 2018 06:37 PM</release_date>
+    <end_date>January 24, 2018 06:46 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>64.0.3282.99</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/64.0.3282.85</name>
+    <release_date>January 17, 2018 06:53 PM</release_date>
+    <end_date>January 23, 2018 06:37 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>64.0.3282.85</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/64.0.3282.71</name>
+    <release_date>January 10, 2018 08:49 PM</release_date>
+    <end_date>January 17, 2018 06:53 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>64.0.3282.71</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/64.0.3282.39</name>
+    <release_date>January 03, 2018 09:40 PM</release_date>
+    <end_date>January 10, 2018 08:49 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>64.0.3282.39</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/64.0.3282.24</name>
+    <release_date>December 20, 2017 06:59 PM</release_date>
+    <end_date>January 03, 2018 09:40 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>64.0.3282.24</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/63.0.3239.90</name>
+    <release_date>December 14, 2017 07:24 PM</release_date>
+    <end_date>December 20, 2017 06:59 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>63.0.3239.90</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/63.0.3239.84</name>
+    <release_date>December 11, 2017 08:42 PM</release_date>
+    <end_date>December 14, 2017 07:24 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>63.0.3239.84</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/63.0.3239.70</name>
+    <release_date>December 06, 2017 06:42 PM</release_date>
+    <end_date>December 11, 2017 08:42 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>63.0.3239.70</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/63.0.3239.59</name>
+    <release_date>November 29, 2017 06:43 PM</release_date>
+    <end_date>December 06, 2017 06:42 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>63.0.3239.59</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/63.0.3239.52</name>
+    <release_date>November 21, 2017 06:49 PM</release_date>
+    <end_date>November 29, 2017 06:43 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>63.0.3239.52</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/63.0.3239.40</name>
+    <release_date>November 15, 2017 06:20 PM</release_date>
+    <end_date>November 21, 2017 06:49 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>63.0.3239.40</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/63.0.3239.30</name>
+    <release_date>November 08, 2017 06:24 PM</release_date>
+    <end_date>November 15, 2017 06:20 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>63.0.3239.30</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/63.0.3239.18</name>
+    <release_date>November 01, 2017 05:43 PM</release_date>
+    <end_date>November 08, 2017 06:24 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>63.0.3239.18</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/62.0.3202.62</name>
+    <release_date>October 26, 2017 05:32 PM</release_date>
+    <end_date>November 01, 2017 05:43 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>62.0.3202.62</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/62.0.3202.52</name>
+    <release_date>October 17, 2017 06:45 PM</release_date>
+    <end_date>October 26, 2017 05:32 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>62.0.3202.52</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/62.0.3202.45</name>
+    <release_date>October 11, 2017 06:26 PM</release_date>
+    <end_date>October 17, 2017 06:45 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>62.0.3202.45</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/62.0.3202.38</name>
+    <release_date>October 04, 2017 08:33 PM</release_date>
+    <end_date>October 11, 2017 06:26 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>62.0.3202.38</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/62.0.3202.29</name>
+    <release_date>September 27, 2017 06:18 PM</release_date>
+    <end_date>October 04, 2017 08:33 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>62.0.3202.29</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/62.0.3202.18</name>
+    <release_date>September 20, 2017 07:24 PM</release_date>
+    <end_date>September 27, 2017 06:18 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>62.0.3202.18</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/61.0.3163.79</name>
+    <release_date>September 14, 2017 05:35 PM</release_date>
+    <end_date>September 20, 2017 07:24 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>61.0.3163.79</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/61.0.3163.71</name>
+    <release_date>September 05, 2017 05:47 PM</release_date>
+    <end_date>September 14, 2017 05:35 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>61.0.3163.71</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/61.0.3163.59</name>
+    <release_date>August 30, 2017 05:35 PM</release_date>
+    <end_date>September 05, 2017 05:47 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>61.0.3163.59</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/61.0.3163.49</name>
+    <release_date>August 23, 2017 06:19 PM</release_date>
+    <end_date>August 30, 2017 05:35 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>61.0.3163.49</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/61.0.3163.39</name>
+    <release_date>August 16, 2017 06:55 PM</release_date>
+    <end_date>August 23, 2017 06:19 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>61.0.3163.39</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/61.0.3163.31</name>
+    <release_date>August 09, 2017 06:02 PM</release_date>
+    <end_date>August 16, 2017 06:55 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>61.0.3163.31</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/60.0.3112.78</name>
+    <release_date>August 04, 2017 05:27 PM</release_date>
+    <end_date>August 09, 2017 06:02 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>60.0.3112.78</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/60.0.3112.72</name>
+    <release_date>July 25, 2017 05:27 PM</release_date>
+    <end_date>August 04, 2017 05:27 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>60.0.3112.72</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/60.0.3112.66</name>
+    <release_date>July 19, 2017 05:38 PM</release_date>
+    <end_date>July 25, 2017 05:27 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>60.0.3112.66</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/60.0.3112.50</name>
+    <release_date>July 12, 2017 06:02 PM</release_date>
+    <end_date>July 19, 2017 05:38 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>60.0.3112.50</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/60.0.3112.40</name>
+    <release_date>June 28, 2017 08:04 PM</release_date>
+    <end_date>July 12, 2017 06:02 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>60.0.3112.40</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/60.0.3112.32</name>
+    <release_date>June 21, 2017 06:42 PM</release_date>
+    <end_date>June 28, 2017 08:04 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>60.0.3112.32</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/60.0.3112.24</name>
+    <release_date>June 15, 2017 08:02 PM</release_date>
+    <end_date>June 21, 2017 06:42 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>60.0.3112.24</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/59.0.3071.86</name>
+    <release_date>June 08, 2017 05:47 PM</release_date>
+    <end_date>June 15, 2017 08:02 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>59.0.3071.86</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/59.0.3071.82</name>
+    <release_date>June 05, 2017 06:00 PM</release_date>
+    <end_date>June 08, 2017 05:47 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>59.0.3071.82</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/59.0.3071.71</name>
+    <release_date>May 31, 2017 06:45 PM</release_date>
+    <end_date>June 05, 2017 06:00 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>59.0.3071.71</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/59.0.3071.61</name>
+    <release_date>May 24, 2017 06:05 PM</release_date>
+    <end_date>May 31, 2017 06:45 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>59.0.3071.61</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/59.0.3071.47</name>
+    <release_date>May 17, 2017 07:39 PM</release_date>
+    <end_date>May 24, 2017 06:05 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>59.0.3071.47</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/59.0.3071.36</name>
+    <release_date>May 10, 2017 06:14 PM</release_date>
+    <end_date>May 17, 2017 07:39 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>59.0.3071.36</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/59.0.3071.29</name>
+    <release_date>May 03, 2017 07:03 PM</release_date>
+    <end_date>May 10, 2017 06:14 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>59.0.3071.29</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/58.0.3029.81</name>
+    <release_date>April 27, 2017 06:50 PM</release_date>
+    <end_date>May 03, 2017 07:03 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>58.0.3029.81</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/58.0.3029.68</name>
+    <release_date>April 19, 2017 05:30 PM</release_date>
+    <end_date>April 27, 2017 06:50 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>58.0.3029.68</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/58.0.3029.54</name>
+    <release_date>April 12, 2017 05:34 PM</release_date>
+    <end_date>April 19, 2017 05:30 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>58.0.3029.54</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/58.0.3029.41</name>
+    <release_date>April 05, 2017 05:48 PM</release_date>
+    <end_date>April 12, 2017 05:34 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>58.0.3029.41</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/58.0.3029.33</name>
+    <release_date>March 29, 2017 04:45 PM</release_date>
+    <end_date>April 05, 2017 05:48 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>58.0.3029.33</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/58.0.3029.19</name>
+    <release_date>March 22, 2017 04:50 PM</release_date>
+    <end_date>March 29, 2017 04:45 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>58.0.3029.19</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/57.0.2987.98</name>
+    <release_date>March 16, 2017 09:12 PM</release_date>
+    <end_date>March 22, 2017 04:50 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>57.0.2987.98</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/57.0.2987.88</name>
+    <release_date>March 09, 2017 06:45 PM</release_date>
+    <end_date>March 16, 2017 09:12 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>57.0.2987.88</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/57.0.2987.74</name>
+    <release_date>March 01, 2017 08:15 PM</release_date>
+    <end_date>March 09, 2017 06:45 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>57.0.2987.74</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/57.0.2987.54</name>
+    <release_date>February 22, 2017 07:56 PM</release_date>
+    <end_date>March 01, 2017 08:15 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>57.0.2987.54</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/57.0.2987.37</name>
+    <release_date>February 15, 2017 07:52 PM</release_date>
+    <end_date>February 22, 2017 07:56 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>57.0.2987.37</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/57.0.2987.21</name>
+    <release_date>February 08, 2017 10:02 PM</release_date>
+    <end_date>February 15, 2017 07:52 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>57.0.2987.21</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/56.0.2924.76</name>
+    <release_date>February 02, 2017 08:05 PM</release_date>
+    <end_date>February 08, 2017 10:02 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>56.0.2924.76</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/56.0.2924.67</name>
+    <release_date>January 25, 2017 08:30 PM</release_date>
+    <end_date>February 02, 2017 08:05 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>56.0.2924.67</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/56.0.2924.59</name>
+    <release_date>January 18, 2017 06:39 PM</release_date>
+    <end_date>January 25, 2017 08:30 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>56.0.2924.59</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/56.0.2924.51</name>
+    <release_date>January 11, 2017 06:34 PM</release_date>
+    <end_date>January 18, 2017 06:39 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>56.0.2924.51</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/56.0.2924.28</name>
+    <release_date>January 04, 2017 06:34 PM</release_date>
+    <end_date>January 11, 2017 06:34 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>56.0.2924.28</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/56.0.2924.21</name>
+    <release_date>December 14, 2016 10:34 PM</release_date>
+    <end_date>January 04, 2017 06:34 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>56.0.2924.21</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/55.0.2883.75</name>
+    <release_date>December 08, 2016 09:44 PM</release_date>
+    <end_date>December 14, 2016 10:34 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>55.0.2883.75</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/55.0.2883.59</name>
+    <release_date>December 01, 2016 10:24 PM</release_date>
+    <end_date>December 08, 2016 09:44 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>55.0.2883.59</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/55.0.2883.52</name>
+    <release_date>November 21, 2016 07:12 PM</release_date>
+    <end_date>December 01, 2016 10:24 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>55.0.2883.52</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/55.0.2883.44</name>
+    <release_date>November 16, 2016 08:00 PM</release_date>
+    <end_date>November 21, 2016 07:12 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>55.0.2883.44</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/55.0.2883.35</name>
+    <release_date>November 10, 2016 12:05 AM</release_date>
+    <end_date>November 16, 2016 08:00 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>55.0.2883.35</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/55.0.2883.28</name>
+    <release_date>November 02, 2016 05:35 PM</release_date>
+    <end_date>November 10, 2016 12:05 AM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>55.0.2883.28</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/55.0.2883.21</name>
+    <release_date>October 26, 2016 06:16 PM</release_date>
+    <end_date>November 02, 2016 05:35 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>55.0.2883.21</version>
-  </version>
-  <version>
-    <name>chrome/platforms/mac/channels/beta/versions/54.0.2840.59</name>
+    <release_date>October 20, 2016 10:20 PM</release_date>
+    <end_date>October 26, 2016 06:16 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
     <version>54.0.2840.59</version>
-  </version>
-</versions>
+    <release_date>October 20, 2016 09:21 PM</release_date>
+    <end_date>October 20, 2016 10:20 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+</releases>

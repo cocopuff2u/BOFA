@@ -1,777 +1,5682 @@
 {
-  "last_updated": "October 28, 2025 08:05 AM EDT",
-  "versions": [
+  "last_updated": "October 28, 2025 08:40 AM EDT",
+  "releases": [
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/140.0.7339.249",
-      "version": "140.0.7339.249"
+      "version": "140.0.7339.249",
+      "release_date": "October 16, 2025 07:16 PM",
+      "end_date": "N/A",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/140.0.7339.240",
-      "version": "140.0.7339.240"
+      "version": "140.0.7339.240",
+      "release_date": "October 14, 2025 07:02 PM",
+      "end_date": "October 16, 2025 07:16 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/140.0.7339.230",
-      "version": "140.0.7339.230"
+      "version": "140.0.7339.249",
+      "release_date": "October 14, 2025 07:02 PM",
+      "end_date": "October 16, 2025 07:16 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/140.0.7339.214",
-      "version": "140.0.7339.214"
+      "version": "140.0.7339.240",
+      "release_date": "October 09, 2025 08:09 PM",
+      "end_date": "October 14, 2025 07:02 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/140.0.7339.208",
-      "version": "140.0.7339.208"
+      "version": "140.0.7339.230",
+      "release_date": "October 07, 2025 07:40 PM",
+      "end_date": "October 09, 2025 08:09 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/140.0.7339.186",
-      "version": "140.0.7339.186"
+      "version": "140.0.7339.240",
+      "release_date": "October 07, 2025 07:40 PM",
+      "end_date": "October 09, 2025 08:09 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/140.0.7339.133",
-      "version": "140.0.7339.133"
+      "version": "140.0.7339.230",
+      "release_date": "October 02, 2025 09:03 PM",
+      "end_date": "October 07, 2025 07:40 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/140.0.7339.81",
-      "version": "140.0.7339.81"
+      "version": "140.0.7339.214",
+      "release_date": "September 30, 2025 08:30 PM",
+      "end_date": "October 02, 2025 09:03 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/138.0.7204.251",
-      "version": "138.0.7204.251"
+      "version": "140.0.7339.230",
+      "release_date": "September 30, 2025 08:30 PM",
+      "end_date": "October 02, 2025 09:03 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/138.0.7204.243",
-      "version": "138.0.7204.243"
+      "version": "140.0.7339.214",
+      "release_date": "September 30, 2025 07:50 PM",
+      "end_date": "September 30, 2025 08:30 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/138.0.7204.235",
-      "version": "138.0.7204.235"
+      "version": "140.0.7339.208",
+      "release_date": "September 25, 2025 07:57 PM",
+      "end_date": "September 30, 2025 07:50 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/138.0.7204.224",
-      "version": "138.0.7204.224"
+      "version": "140.0.7339.214",
+      "release_date": "September 25, 2025 07:57 PM",
+      "end_date": "September 30, 2025 07:50 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/138.0.7204.184",
-      "version": "138.0.7204.184"
+      "version": "140.0.7339.208",
+      "release_date": "September 25, 2025 06:56 PM",
+      "end_date": "September 25, 2025 07:57 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/138.0.7204.169",
-      "version": "138.0.7204.169"
+      "version": "140.0.7339.186",
+      "release_date": "September 23, 2025 06:48 PM",
+      "end_date": "September 25, 2025 06:56 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/138.0.7204.158",
-      "version": "138.0.7204.158"
+      "version": "140.0.7339.208",
+      "release_date": "September 23, 2025 06:48 PM",
+      "end_date": "September 25, 2025 06:56 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/138.0.7204.101",
-      "version": "138.0.7204.101"
+      "version": "140.0.7339.186",
+      "release_date": "September 23, 2025 06:06 PM",
+      "end_date": "September 23, 2025 06:48 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/138.0.7204.93",
-      "version": "138.0.7204.93"
+      "version": "140.0.7339.133",
+      "release_date": "September 17, 2025 11:11 PM",
+      "end_date": "September 23, 2025 06:06 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/138.0.7204.50",
-      "version": "138.0.7204.50"
+      "version": "140.0.7339.186",
+      "release_date": "September 17, 2025 11:11 PM",
+      "end_date": "September 23, 2025 06:06 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/136.0.7103.177",
-      "version": "136.0.7103.177"
+      "version": "140.0.7339.133",
+      "release_date": "September 11, 2025 07:45 PM",
+      "end_date": "September 17, 2025 11:11 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/136.0.7103.168",
-      "version": "136.0.7103.168"
+      "version": "140.0.7339.133",
+      "release_date": "September 09, 2025 08:53 PM",
+      "end_date": "September 11, 2025 07:45 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/136.0.7103.156",
-      "version": "136.0.7103.156"
+      "version": "138.0.7204.251",
+      "release_date": "September 04, 2025 08:53 PM",
+      "end_date": "September 11, 2025 07:45 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/136.0.7103.149",
-      "version": "136.0.7103.149"
+      "version": "140.0.7339.81",
+      "release_date": "September 04, 2025 08:53 PM",
+      "end_date": "September 09, 2025 08:53 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/136.0.7103.114",
-      "version": "136.0.7103.114"
+      "version": "138.0.7204.251",
+      "release_date": "September 02, 2025 09:00 PM",
+      "end_date": "September 04, 2025 08:53 PM",
+      "fraction": "90%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/136.0.7103.93",
-      "version": "136.0.7103.93"
+      "version": "140.0.7339.81",
+      "release_date": "September 02, 2025 09:00 PM",
+      "end_date": "September 04, 2025 08:53 PM",
+      "fraction": "10%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/136.0.7103.49",
-      "version": "136.0.7103.49"
+      "version": "138.0.7204.251",
+      "release_date": "August 28, 2025 08:35 PM",
+      "end_date": "September 02, 2025 09:00 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/134.0.6998.205",
-      "version": "134.0.6998.205"
+      "version": "138.0.7204.243",
+      "release_date": "August 26, 2025 06:17 PM",
+      "end_date": "August 28, 2025 08:35 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/134.0.6998.196",
-      "version": "134.0.6998.196"
+      "version": "138.0.7204.251",
+      "release_date": "August 26, 2025 06:17 PM",
+      "end_date": "August 28, 2025 08:35 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/134.0.6998.166",
-      "version": "134.0.6998.166"
+      "version": "138.0.7204.243",
+      "release_date": "August 21, 2025 09:08 PM",
+      "end_date": "August 26, 2025 06:17 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/134.0.6998.118",
-      "version": "134.0.6998.118"
+      "version": "138.0.7204.235",
+      "release_date": "August 19, 2025 08:17 PM",
+      "end_date": "August 21, 2025 09:08 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/134.0.6998.89",
-      "version": "134.0.6998.89"
+      "version": "138.0.7204.243",
+      "release_date": "August 19, 2025 08:17 PM",
+      "end_date": "August 21, 2025 09:08 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/134.0.6998.45",
-      "version": "134.0.6998.45"
+      "version": "138.0.7204.235",
+      "release_date": "August 14, 2025 10:13 PM",
+      "end_date": "August 19, 2025 08:17 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/132.0.6834.210",
-      "version": "132.0.6834.210"
+      "version": "138.0.7204.224",
+      "release_date": "August 12, 2025 08:23 PM",
+      "end_date": "August 14, 2025 10:13 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/132.0.6834.209",
-      "version": "132.0.6834.209"
+      "version": "138.0.7204.235",
+      "release_date": "August 12, 2025 08:23 PM",
+      "end_date": "August 14, 2025 10:13 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/132.0.6834.207",
-      "version": "132.0.6834.207"
+      "version": "138.0.7204.224",
+      "release_date": "August 07, 2025 09:14 PM",
+      "end_date": "August 12, 2025 08:23 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/132.0.6834.194",
-      "version": "132.0.6834.194"
+      "version": "138.0.7204.184",
+      "release_date": "August 05, 2025 06:37 PM",
+      "end_date": "August 07, 2025 09:14 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/132.0.6834.160",
-      "version": "132.0.6834.160"
+      "version": "138.0.7204.224",
+      "release_date": "August 05, 2025 06:37 PM",
+      "end_date": "August 07, 2025 09:14 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/132.0.6834.111",
-      "version": "132.0.6834.111"
+      "version": "138.0.7204.184",
+      "release_date": "July 31, 2025 08:24 PM",
+      "end_date": "August 05, 2025 06:37 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/132.0.6834.84",
-      "version": "132.0.6834.84"
+      "version": "138.0.7204.169",
+      "release_date": "July 29, 2025 08:25 PM",
+      "end_date": "July 31, 2025 08:24 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/130.0.6723.191",
-      "version": "130.0.6723.191"
+      "version": "138.0.7204.184",
+      "release_date": "July 29, 2025 08:25 PM",
+      "end_date": "July 31, 2025 08:24 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/130.0.6723.170",
-      "version": "130.0.6723.170"
+      "version": "138.0.7204.169",
+      "release_date": "July 24, 2025 07:08 PM",
+      "end_date": "July 29, 2025 08:25 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/130.0.6723.160",
-      "version": "130.0.6723.160"
+      "version": "138.0.7204.158",
+      "release_date": "July 22, 2025 08:06 PM",
+      "end_date": "July 24, 2025 07:08 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/130.0.6723.152",
-      "version": "130.0.6723.152"
+      "version": "138.0.7204.169",
+      "release_date": "July 22, 2025 08:06 PM",
+      "end_date": "July 24, 2025 07:08 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/130.0.6723.137",
-      "version": "130.0.6723.137"
+      "version": "138.0.7204.158",
+      "release_date": "July 17, 2025 08:49 PM",
+      "end_date": "July 22, 2025 08:06 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/130.0.6723.127",
-      "version": "130.0.6723.127"
+      "version": "138.0.7204.101",
+      "release_date": "July 15, 2025 05:06 PM",
+      "end_date": "July 17, 2025 08:49 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/130.0.6723.117",
-      "version": "130.0.6723.117"
+      "version": "138.0.7204.158",
+      "release_date": "July 15, 2025 05:06 PM",
+      "end_date": "July 17, 2025 08:49 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/130.0.6723.92",
-      "version": "130.0.6723.92"
+      "version": "138.0.7204.101",
+      "release_date": "July 10, 2025 06:22 PM",
+      "end_date": "July 15, 2025 05:06 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/130.0.6723.70",
-      "version": "130.0.6723.70"
+      "version": "138.0.7204.101",
+      "release_date": "July 08, 2025 04:53 PM",
+      "end_date": "July 10, 2025 06:22 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/130.0.6723.59",
-      "version": "130.0.6723.59"
+      "version": "138.0.7204.93",
+      "release_date": "July 08, 2025 04:53 PM",
+      "end_date": "July 10, 2025 06:22 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/128.0.6613.186",
-      "version": "128.0.6613.186"
+      "version": "138.0.7204.93",
+      "release_date": "July 07, 2025 06:35 PM",
+      "end_date": "July 08, 2025 04:53 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/128.0.6613.178",
-      "version": "128.0.6613.178"
+      "version": "138.0.7204.93",
+      "release_date": "June 30, 2025 08:47 PM",
+      "end_date": "July 07, 2025 06:35 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/128.0.6613.170",
-      "version": "128.0.6613.170"
+      "version": "136.0.7103.177",
+      "release_date": "June 26, 2025 07:19 PM",
+      "end_date": "July 07, 2025 06:35 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/128.0.6613.162",
-      "version": "128.0.6613.162"
+      "version": "138.0.7204.50",
+      "release_date": "June 26, 2025 07:19 PM",
+      "end_date": "June 30, 2025 08:47 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/128.0.6613.138",
-      "version": "128.0.6613.138"
+      "version": "136.0.7103.177",
+      "release_date": "June 24, 2025 06:00 PM",
+      "end_date": "June 26, 2025 07:19 PM",
+      "fraction": "90%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/128.0.6613.120",
-      "version": "128.0.6613.120"
+      "version": "138.0.7204.50",
+      "release_date": "June 24, 2025 06:00 PM",
+      "end_date": "June 26, 2025 07:19 PM",
+      "fraction": "10%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/128.0.6613.114",
-      "version": "128.0.6613.114"
+      "version": "136.0.7103.177",
+      "release_date": "June 23, 2025 11:53 AM",
+      "end_date": "June 24, 2025 06:00 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/128.0.6613.85",
-      "version": "128.0.6613.85"
+      "version": "136.0.7103.168",
+      "release_date": "June 17, 2025 05:43 PM",
+      "end_date": "June 23, 2025 11:53 AM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/126.0.6478.234",
-      "version": "126.0.6478.234"
+      "version": "136.0.7103.177",
+      "release_date": "June 17, 2025 05:43 PM",
+      "end_date": "June 23, 2025 11:53 AM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/126.0.6478.226",
-      "version": "126.0.6478.226"
+      "version": "136.0.7103.168",
+      "release_date": "June 12, 2025 07:17 PM",
+      "end_date": "June 17, 2025 05:43 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/126.0.6478.183",
-      "version": "126.0.6478.183"
+      "version": "136.0.7103.156",
+      "release_date": "June 10, 2025 08:56 PM",
+      "end_date": "June 12, 2025 07:17 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/126.0.6478.182",
-      "version": "126.0.6478.182"
+      "version": "136.0.7103.168",
+      "release_date": "June 10, 2025 08:56 PM",
+      "end_date": "June 12, 2025 07:17 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/126.0.6478.127",
-      "version": "126.0.6478.127"
+      "version": "136.0.7103.156",
+      "release_date": "June 04, 2025 09:06 PM",
+      "end_date": "June 10, 2025 08:56 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/126.0.6478.126",
-      "version": "126.0.6478.126"
+      "version": "136.0.7103.149",
+      "release_date": "June 03, 2025 01:12 PM",
+      "end_date": "June 04, 2025 09:06 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/126.0.6478.115",
-      "version": "126.0.6478.115"
+      "version": "136.0.7103.156",
+      "release_date": "June 03, 2025 01:12 PM",
+      "end_date": "June 04, 2025 09:06 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/126.0.6478.114",
-      "version": "126.0.6478.114"
+      "version": "136.0.7103.149",
+      "release_date": "May 29, 2025 08:43 PM",
+      "end_date": "June 03, 2025 01:12 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/126.0.6478.62",
-      "version": "126.0.6478.62"
+      "version": "136.0.7103.114",
+      "release_date": "May 28, 2025 05:44 PM",
+      "end_date": "May 29, 2025 08:43 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/126.0.6478.61",
-      "version": "126.0.6478.61"
+      "version": "136.0.7103.149",
+      "release_date": "May 28, 2025 05:44 PM",
+      "end_date": "May 29, 2025 08:43 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/126.0.6478.56",
-      "version": "126.0.6478.56"
+      "version": "136.0.7103.114",
+      "release_date": "May 15, 2025 07:02 PM",
+      "end_date": "May 28, 2025 05:44 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/124.0.6367.243",
-      "version": "124.0.6367.243"
+      "version": "136.0.7103.114",
+      "release_date": "May 14, 2025 04:40 PM",
+      "end_date": "May 15, 2025 07:02 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/124.0.6367.233",
-      "version": "124.0.6367.233"
+      "version": "136.0.7103.93",
+      "release_date": "May 14, 2025 04:40 PM",
+      "end_date": "May 15, 2025 07:02 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/124.0.6367.230",
-      "version": "124.0.6367.230"
+      "version": "136.0.7103.93",
+      "release_date": "May 08, 2025 07:28 PM",
+      "end_date": "May 14, 2025 04:40 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/124.0.6367.221",
-      "version": "124.0.6367.221"
+      "version": "136.0.7103.93",
+      "release_date": "May 06, 2025 05:50 PM",
+      "end_date": "May 08, 2025 07:28 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/124.0.6367.208",
-      "version": "124.0.6367.208"
+      "version": "134.0.6998.205",
+      "release_date": "May 01, 2025 08:10 PM",
+      "end_date": "May 08, 2025 07:28 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/124.0.6367.207",
-      "version": "124.0.6367.207"
+      "version": "136.0.7103.49",
+      "release_date": "May 01, 2025 08:10 PM",
+      "end_date": "May 06, 2025 05:50 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/124.0.6367.202",
-      "version": "124.0.6367.202"
+      "version": "134.0.6998.205",
+      "release_date": "April 29, 2025 06:21 PM",
+      "end_date": "May 01, 2025 08:10 PM",
+      "fraction": "90%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/124.0.6367.201",
-      "version": "124.0.6367.201"
+      "version": "136.0.7103.49",
+      "release_date": "April 29, 2025 06:21 PM",
+      "end_date": "May 01, 2025 08:10 PM",
+      "fraction": "10%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/124.0.6367.156",
-      "version": "124.0.6367.156"
+      "version": "134.0.6998.205",
+      "release_date": "April 17, 2025 08:27 PM",
+      "end_date": "April 29, 2025 06:21 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/124.0.6367.155",
-      "version": "124.0.6367.155"
+      "version": "134.0.6998.196",
+      "release_date": "April 15, 2025 08:31 PM",
+      "end_date": "April 17, 2025 08:27 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/124.0.6367.119",
-      "version": "124.0.6367.119"
+      "version": "134.0.6998.205",
+      "release_date": "April 15, 2025 08:31 PM",
+      "end_date": "April 17, 2025 08:27 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/124.0.6367.118",
-      "version": "124.0.6367.118"
+      "version": "134.0.6998.196",
+      "release_date": "April 10, 2025 07:52 PM",
+      "end_date": "April 15, 2025 08:31 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/124.0.6367.93",
-      "version": "124.0.6367.93"
+      "version": "134.0.6998.166",
+      "release_date": "April 08, 2025 05:22 PM",
+      "end_date": "April 10, 2025 07:52 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/124.0.6367.91",
-      "version": "124.0.6367.91"
+      "version": "134.0.6998.196",
+      "release_date": "April 08, 2025 05:22 PM",
+      "end_date": "April 10, 2025 07:52 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/124.0.6367.78",
-      "version": "124.0.6367.78"
+      "version": "134.0.6998.166",
+      "release_date": "March 25, 2025 08:46 PM",
+      "end_date": "April 08, 2025 05:22 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/124.0.6367.62",
-      "version": "124.0.6367.62"
+      "version": "134.0.6998.118",
+      "release_date": "March 24, 2025 09:14 PM",
+      "end_date": "March 25, 2025 08:46 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/124.0.6367.61",
-      "version": "124.0.6367.61"
+      "version": "134.0.6998.166",
+      "release_date": "March 24, 2025 09:14 PM",
+      "end_date": "March 25, 2025 08:46 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/122.0.6261.156",
-      "version": "122.0.6261.156"
+      "version": "134.0.6998.118",
+      "release_date": "March 21, 2025 04:42 PM",
+      "end_date": "March 24, 2025 09:14 PM",
+      "fraction": "90%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/122.0.6261.148",
-      "version": "122.0.6261.148"
+      "version": "134.0.6998.166",
+      "release_date": "March 21, 2025 04:42 PM",
+      "end_date": "March 24, 2025 09:14 PM",
+      "fraction": "10%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/122.0.6261.139",
-      "version": "122.0.6261.139"
+      "version": "134.0.6998.118",
+      "release_date": "March 20, 2025 07:25 PM",
+      "end_date": "March 21, 2025 04:42 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/122.0.6261.129",
-      "version": "122.0.6261.129"
+      "version": "134.0.6998.118",
+      "release_date": "March 19, 2025 06:04 PM",
+      "end_date": "March 20, 2025 07:25 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/122.0.6261.112",
-      "version": "122.0.6261.112"
+      "version": "134.0.6998.89",
+      "release_date": "March 19, 2025 06:04 PM",
+      "end_date": "March 20, 2025 07:25 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/122.0.6261.94",
-      "version": "122.0.6261.94"
+      "version": "134.0.6998.89",
+      "release_date": "March 12, 2025 07:49 PM",
+      "end_date": "March 19, 2025 06:04 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/122.0.6261.69",
-      "version": "122.0.6261.69"
+      "version": "134.0.6998.45",
+      "release_date": "March 10, 2025 07:59 PM",
+      "end_date": "March 12, 2025 07:49 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/122.0.6261.57",
-      "version": "122.0.6261.57"
+      "version": "134.0.6998.89",
+      "release_date": "March 10, 2025 07:59 PM",
+      "end_date": "March 12, 2025 07:49 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/120.0.6099.291",
-      "version": "120.0.6099.291"
+      "version": "134.0.6998.45",
+      "release_date": "March 10, 2025 07:27 PM",
+      "end_date": "March 10, 2025 07:59 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/120.0.6099.283",
-      "version": "120.0.6099.283"
+      "version": "132.0.6834.210",
+      "release_date": "March 06, 2025 08:11 PM",
+      "end_date": "March 10, 2025 07:27 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/120.0.6099.276",
-      "version": "120.0.6099.276"
+      "version": "134.0.6998.45",
+      "release_date": "March 06, 2025 08:11 PM",
+      "end_date": "March 10, 2025 07:27 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/120.0.6099.268",
-      "version": "120.0.6099.268"
+      "version": "132.0.6834.210",
+      "release_date": "March 04, 2025 08:54 PM",
+      "end_date": "March 06, 2025 08:11 PM",
+      "fraction": "90%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/120.0.6099.234",
-      "version": "120.0.6099.234"
+      "version": "134.0.6998.45",
+      "release_date": "March 04, 2025 08:54 PM",
+      "end_date": "March 06, 2025 08:11 PM",
+      "fraction": "10%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/120.0.6099.216",
-      "version": "120.0.6099.216"
+      "version": "132.0.6834.210",
+      "release_date": "February 27, 2025 07:59 PM",
+      "end_date": "March 04, 2025 08:54 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/120.0.6099.199",
-      "version": "120.0.6099.199"
+      "version": "132.0.6834.209",
+      "release_date": "February 25, 2025 06:52 PM",
+      "end_date": "February 27, 2025 07:59 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/120.0.6099.129",
-      "version": "120.0.6099.129"
+      "version": "132.0.6834.210",
+      "release_date": "February 25, 2025 06:52 PM",
+      "end_date": "February 27, 2025 07:59 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/120.0.6099.109",
-      "version": "120.0.6099.109"
+      "version": "132.0.6834.209",
+      "release_date": "February 20, 2025 09:10 PM",
+      "end_date": "February 25, 2025 06:52 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/120.0.6099.71",
-      "version": "120.0.6099.71"
+      "version": "132.0.6834.207",
+      "release_date": "February 18, 2025 11:50 PM",
+      "end_date": "February 20, 2025 09:10 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/120.0.6099.62",
-      "version": "120.0.6099.62"
+      "version": "132.0.6834.209",
+      "release_date": "February 18, 2025 11:50 PM",
+      "end_date": "February 20, 2025 09:10 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/118.0.5993.159",
-      "version": "118.0.5993.159"
+      "version": "132.0.6834.207",
+      "release_date": "February 18, 2025 09:30 PM",
+      "end_date": "February 18, 2025 11:50 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/118.0.5993.144",
-      "version": "118.0.5993.144"
+      "version": "132.0.6834.194",
+      "release_date": "February 12, 2025 06:57 PM",
+      "end_date": "February 18, 2025 09:30 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/118.0.5993.136",
-      "version": "118.0.5993.136"
+      "version": "132.0.6834.207",
+      "release_date": "February 12, 2025 06:57 PM",
+      "end_date": "February 18, 2025 09:30 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/118.0.5993.129",
-      "version": "118.0.5993.129"
+      "version": "132.0.6834.194",
+      "release_date": "February 11, 2025 03:51 PM",
+      "end_date": "February 12, 2025 06:57 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/118.0.5993.117",
-      "version": "118.0.5993.117"
+      "version": "132.0.6834.160",
+      "release_date": "February 04, 2025 06:15 PM",
+      "end_date": "February 11, 2025 03:51 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/118.0.5993.96",
-      "version": "118.0.5993.96"
+      "version": "132.0.6834.194",
+      "release_date": "February 04, 2025 06:15 PM",
+      "end_date": "February 11, 2025 03:51 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/118.0.5993.88",
-      "version": "118.0.5993.88"
+      "version": "132.0.6834.160",
+      "release_date": "January 30, 2025 07:56 PM",
+      "end_date": "February 04, 2025 06:15 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/118.0.5993.70",
-      "version": "118.0.5993.70"
+      "version": "132.0.6834.111",
+      "release_date": "January 28, 2025 07:50 PM",
+      "end_date": "January 30, 2025 07:56 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/116.0.5845.228",
-      "version": "116.0.5845.228"
+      "version": "132.0.6834.160",
+      "release_date": "January 28, 2025 07:50 PM",
+      "end_date": "January 30, 2025 07:56 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/116.0.5845.187",
-      "version": "116.0.5845.187"
+      "version": "132.0.6834.111",
+      "release_date": "January 27, 2025 08:47 PM",
+      "end_date": "January 28, 2025 07:50 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/116.0.5845.179",
-      "version": "116.0.5845.179"
+      "version": "132.0.6834.111",
+      "release_date": "January 22, 2025 06:10 PM",
+      "end_date": "January 27, 2025 08:47 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/116.0.5845.140",
-      "version": "116.0.5845.140"
+      "version": "130.0.6723.191",
+      "release_date": "January 16, 2025 07:36 PM",
+      "end_date": "January 27, 2025 08:47 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/116.0.5845.110",
-      "version": "116.0.5845.110"
+      "version": "132.0.6834.84",
+      "release_date": "January 16, 2025 07:36 PM",
+      "end_date": "January 22, 2025 06:10 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/116.0.5845.96",
-      "version": "116.0.5845.96"
+      "version": "130.0.6723.191",
+      "release_date": "January 14, 2025 09:38 PM",
+      "end_date": "January 16, 2025 07:36 PM",
+      "fraction": "90%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/114.0.5735.289",
-      "version": "114.0.5735.289"
+      "version": "132.0.6834.84",
+      "release_date": "January 14, 2025 09:38 PM",
+      "end_date": "January 16, 2025 07:36 PM",
+      "fraction": "10%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/114.0.5735.248",
-      "version": "114.0.5735.248"
+      "version": "130.0.6723.191",
+      "release_date": "January 09, 2025 09:43 PM",
+      "end_date": "January 14, 2025 09:38 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/114.0.5735.243",
-      "version": "114.0.5735.243"
+      "version": "130.0.6723.170",
+      "release_date": "January 07, 2025 07:13 PM",
+      "end_date": "January 09, 2025 09:43 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/114.0.5735.198",
-      "version": "114.0.5735.198"
+      "version": "130.0.6723.191",
+      "release_date": "January 07, 2025 07:13 PM",
+      "end_date": "January 09, 2025 09:43 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/114.0.5735.133",
-      "version": "114.0.5735.133"
+      "version": "130.0.6723.170",
+      "release_date": "December 19, 2024 07:53 PM",
+      "end_date": "January 07, 2025 07:13 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/114.0.5735.106",
-      "version": "114.0.5735.106"
+      "version": "130.0.6723.160",
+      "release_date": "December 18, 2024 09:56 PM",
+      "end_date": "December 19, 2024 07:53 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/114.0.5735.90",
-      "version": "114.0.5735.90"
+      "version": "130.0.6723.170",
+      "release_date": "December 18, 2024 09:56 PM",
+      "end_date": "December 19, 2024 07:53 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/112.0.5615.204",
-      "version": "112.0.5615.204"
+      "version": "130.0.6723.160",
+      "release_date": "December 12, 2024 09:54 PM",
+      "end_date": "December 18, 2024 09:56 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/112.0.5615.183",
-      "version": "112.0.5615.183"
+      "version": "130.0.6723.152",
+      "release_date": "December 10, 2024 10:24 PM",
+      "end_date": "December 12, 2024 09:54 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/112.0.5615.179",
-      "version": "112.0.5615.179"
+      "version": "130.0.6723.160",
+      "release_date": "December 10, 2024 10:24 PM",
+      "end_date": "December 12, 2024 09:54 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/112.0.5615.137",
-      "version": "112.0.5615.137"
+      "version": "130.0.6723.152",
+      "release_date": "December 06, 2024 12:00 AM",
+      "end_date": "December 10, 2024 10:24 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/112.0.5615.121",
-      "version": "112.0.5615.121"
+      "version": "130.0.6723.137",
+      "release_date": "December 05, 2024 11:21 PM",
+      "end_date": "December 06, 2024 12:00 AM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/112.0.5615.49",
-      "version": "112.0.5615.49"
+      "version": "130.0.6723.152",
+      "release_date": "December 05, 2024 11:21 PM",
+      "end_date": "December 06, 2024 12:00 AM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/110.0.5481.208",
-      "version": "110.0.5481.208"
+      "version": "130.0.6723.137",
+      "release_date": "December 03, 2024 04:49 PM",
+      "end_date": "December 05, 2024 11:21 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/110.0.5481.192",
-      "version": "110.0.5481.192"
+      "version": "130.0.6723.152",
+      "release_date": "December 03, 2024 04:49 PM",
+      "end_date": "December 05, 2024 11:21 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/110.0.5481.177",
-      "version": "110.0.5481.177"
+      "version": "130.0.6723.137",
+      "release_date": "December 03, 2024 03:59 PM",
+      "end_date": "December 03, 2024 04:49 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/110.0.5481.100",
-      "version": "110.0.5481.100"
+      "version": "130.0.6723.127",
+      "release_date": "November 21, 2024 10:41 PM",
+      "end_date": "December 03, 2024 03:59 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/110.0.5481.96",
-      "version": "110.0.5481.96"
+      "version": "130.0.6723.137",
+      "release_date": "November 21, 2024 10:41 PM",
+      "end_date": "December 03, 2024 03:59 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/110.0.5481.77",
-      "version": "110.0.5481.77"
+      "version": "130.0.6723.127",
+      "release_date": "November 20, 2024 10:52 PM",
+      "end_date": "November 21, 2024 10:41 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/108.0.5359.215",
-      "version": "108.0.5359.215"
+      "version": "130.0.6723.137",
+      "release_date": "November 20, 2024 10:52 PM",
+      "end_date": "November 21, 2024 10:41 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/108.0.5359.179",
-      "version": "108.0.5359.179"
+      "version": "130.0.6723.127",
+      "release_date": "November 19, 2024 12:56 AM",
+      "end_date": "November 20, 2024 10:52 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/108.0.5359.124",
-      "version": "108.0.5359.124"
+      "version": "130.0.6723.117",
+      "release_date": "November 15, 2024 01:14 AM",
+      "end_date": "November 19, 2024 12:56 AM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/108.0.5359.98",
-      "version": "108.0.5359.98"
+      "version": "130.0.6723.127",
+      "release_date": "November 15, 2024 01:14 AM",
+      "end_date": "November 19, 2024 12:56 AM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/108.0.5359.94",
-      "version": "108.0.5359.94"
+      "version": "130.0.6723.117",
+      "release_date": "November 12, 2024 06:18 PM",
+      "end_date": "November 15, 2024 01:14 AM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/108.0.5359.71",
-      "version": "108.0.5359.71"
+      "version": "130.0.6723.127",
+      "release_date": "November 12, 2024 06:18 PM",
+      "end_date": "November 15, 2024 01:14 AM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/106.0.5249.199",
-      "version": "106.0.5249.199"
+      "version": "130.0.6723.117",
+      "release_date": "November 07, 2024 09:34 PM",
+      "end_date": "November 12, 2024 06:18 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/106.0.5249.181",
-      "version": "106.0.5249.181"
+      "version": "130.0.6723.117",
+      "release_date": "November 07, 2024 09:28 PM",
+      "end_date": "November 07, 2024 09:34 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/106.0.5249.168",
-      "version": "106.0.5249.168"
+      "version": "130.0.6723.92",
+      "release_date": "November 07, 2024 09:28 PM",
+      "end_date": "November 07, 2024 09:34 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/106.0.5249.165",
-      "version": "106.0.5249.165"
+      "version": "130.0.6723.117",
+      "release_date": "November 05, 2024 06:08 PM",
+      "end_date": "November 07, 2024 09:28 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/106.0.5249.119",
-      "version": "106.0.5249.119"
+      "version": "130.0.6723.92",
+      "release_date": "November 05, 2024 06:08 PM",
+      "end_date": "November 07, 2024 09:28 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/106.0.5249.103",
-      "version": "106.0.5249.103"
+      "version": "130.0.6723.92",
+      "release_date": "October 31, 2024 07:54 PM",
+      "end_date": "November 05, 2024 06:08 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/106.0.5249.91",
-      "version": "106.0.5249.91"
+      "version": "130.0.6723.70",
+      "release_date": "October 31, 2024 07:46 PM",
+      "end_date": "October 31, 2024 07:54 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/106.0.5249.61",
-      "version": "106.0.5249.61"
+      "version": "130.0.6723.92",
+      "release_date": "October 31, 2024 07:46 PM",
+      "end_date": "October 31, 2024 07:54 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/104.0.5112.123",
-      "version": "104.0.5112.123"
+      "version": "130.0.6723.70",
+      "release_date": "October 29, 2024 06:44 PM",
+      "end_date": "October 31, 2024 07:46 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/104.0.5112.114",
-      "version": "104.0.5112.114"
+      "version": "130.0.6723.92",
+      "release_date": "October 29, 2024 06:44 PM",
+      "end_date": "October 31, 2024 07:46 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/104.0.5112.111",
-      "version": "104.0.5112.111"
+      "version": "130.0.6723.70",
+      "release_date": "October 24, 2024 08:22 PM",
+      "end_date": "October 29, 2024 06:44 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/104.0.5112.101",
-      "version": "104.0.5112.101"
+      "version": "130.0.6723.59",
+      "release_date": "October 24, 2024 08:08 PM",
+      "end_date": "October 24, 2024 08:22 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/104.0.5112.79",
-      "version": "104.0.5112.79"
+      "version": "130.0.6723.70",
+      "release_date": "October 24, 2024 08:08 PM",
+      "end_date": "October 24, 2024 08:22 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/103.0.5060.53",
-      "version": "103.0.5060.53"
+      "version": "130.0.6723.59",
+      "release_date": "October 22, 2024 08:33 PM",
+      "end_date": "October 24, 2024 08:08 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/102.0.5005.167",
-      "version": "102.0.5005.167"
+      "version": "130.0.6723.70",
+      "release_date": "October 22, 2024 08:33 PM",
+      "end_date": "October 24, 2024 08:08 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/102.0.5005.148",
-      "version": "102.0.5005.148"
+      "version": "130.0.6723.59",
+      "release_date": "October 22, 2024 08:21 PM",
+      "end_date": "October 22, 2024 08:33 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/102.0.5005.134",
-      "version": "102.0.5005.134"
+      "version": "128.0.6613.186",
+      "release_date": "October 22, 2024 08:13 PM",
+      "end_date": "October 22, 2024 08:21 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/102.0.5005.115",
-      "version": "102.0.5005.115"
+      "version": "130.0.6723.59",
+      "release_date": "October 22, 2024 08:13 PM",
+      "end_date": "October 22, 2024 08:21 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/102.0.5005.61",
-      "version": "102.0.5005.61"
+      "version": "128.0.6613.186",
+      "release_date": "October 21, 2024 10:09 AM",
+      "end_date": "October 22, 2024 08:13 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/100.0.4896.160",
-      "version": "100.0.4896.160"
+      "version": "130.0.6723.59",
+      "release_date": "October 21, 2024 10:09 AM",
+      "end_date": "October 22, 2024 08:13 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/100.0.4896.143",
-      "version": "100.0.4896.143"
+      "version": "128.0.6613.186",
+      "release_date": "October 15, 2024 06:03 PM",
+      "end_date": "October 21, 2024 10:09 AM",
+      "fraction": "90%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/100.0.4896.127",
-      "version": "100.0.4896.127"
+      "version": "130.0.6723.59",
+      "release_date": "October 15, 2024 06:03 PM",
+      "end_date": "October 21, 2024 10:09 AM",
+      "fraction": "10%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/100.0.4896.88",
-      "version": "100.0.4896.88"
+      "version": "128.0.6613.186",
+      "release_date": "October 10, 2024 08:39 PM",
+      "end_date": "October 15, 2024 06:03 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/100.0.4896.75",
-      "version": "100.0.4896.75"
+      "version": "128.0.6613.178",
+      "release_date": "October 09, 2024 08:31 PM",
+      "end_date": "October 10, 2024 08:39 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/100.0.4896.60",
-      "version": "100.0.4896.60"
+      "version": "128.0.6613.186",
+      "release_date": "October 09, 2024 08:31 PM",
+      "end_date": "October 10, 2024 08:39 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/98.0.4758.141",
-      "version": "98.0.4758.141"
+      "version": "128.0.6613.178",
+      "release_date": "October 08, 2024 07:35 PM",
+      "end_date": "October 09, 2024 08:31 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/98.0.4758.132",
-      "version": "98.0.4758.132"
+      "version": "128.0.6613.186",
+      "release_date": "October 08, 2024 07:35 PM",
+      "end_date": "October 09, 2024 08:31 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/98.0.4758.119",
-      "version": "98.0.4758.119"
+      "version": "128.0.6613.178",
+      "release_date": "October 03, 2024 07:59 PM",
+      "end_date": "October 08, 2024 07:35 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/98.0.4758.109",
-      "version": "98.0.4758.109"
+      "version": "128.0.6613.170",
+      "release_date": "October 02, 2024 08:23 PM",
+      "end_date": "October 03, 2024 07:59 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/98.0.4758.102",
-      "version": "98.0.4758.102"
+      "version": "128.0.6613.178",
+      "release_date": "October 02, 2024 08:23 PM",
+      "end_date": "October 03, 2024 07:59 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/98.0.4758.80",
-      "version": "98.0.4758.80"
+      "version": "128.0.6613.170",
+      "release_date": "October 01, 2024 09:55 PM",
+      "end_date": "October 02, 2024 08:23 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/96.0.4664.174",
-      "version": "96.0.4664.174"
+      "version": "128.0.6613.178",
+      "release_date": "October 01, 2024 09:55 PM",
+      "end_date": "October 02, 2024 08:23 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/96.0.4664.131",
-      "version": "96.0.4664.131"
+      "version": "128.0.6613.170",
+      "release_date": "September 26, 2024 08:12 PM",
+      "end_date": "October 01, 2024 09:55 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/96.0.4664.110",
-      "version": "96.0.4664.110"
+      "version": "128.0.6613.162",
+      "release_date": "September 25, 2024 08:54 PM",
+      "end_date": "September 26, 2024 08:12 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/96.0.4664.93",
-      "version": "96.0.4664.93"
+      "version": "128.0.6613.170",
+      "release_date": "September 25, 2024 08:54 PM",
+      "end_date": "September 26, 2024 08:12 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/96.0.4664.55",
-      "version": "96.0.4664.55"
+      "version": "128.0.6613.162",
+      "release_date": "September 24, 2024 05:33 PM",
+      "end_date": "September 25, 2024 08:54 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/96.0.4664.45",
-      "version": "96.0.4664.45"
+      "version": "128.0.6613.170",
+      "release_date": "September 24, 2024 05:33 PM",
+      "end_date": "September 25, 2024 08:54 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/94.0.4606.113",
-      "version": "94.0.4606.113"
+      "version": "128.0.6613.162",
+      "release_date": "September 23, 2024 07:30 PM",
+      "end_date": "September 24, 2024 05:33 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/94.0.4606.101",
-      "version": "94.0.4606.101"
+      "version": "128.0.6613.138",
+      "release_date": "September 19, 2024 08:53 PM",
+      "end_date": "September 23, 2024 07:30 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/94.0.4606.81",
-      "version": "94.0.4606.81"
+      "version": "128.0.6613.162",
+      "release_date": "September 19, 2024 08:53 PM",
+      "end_date": "September 23, 2024 07:30 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/94.0.4606.71",
-      "version": "94.0.4606.71"
+      "version": "128.0.6613.138",
+      "release_date": "September 17, 2024 07:57 PM",
+      "end_date": "September 19, 2024 08:53 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/94.0.4606.61",
-      "version": "94.0.4606.61"
+      "version": "128.0.6613.162",
+      "release_date": "September 17, 2024 07:57 PM",
+      "end_date": "September 19, 2024 08:53 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/94.0.4606.54",
-      "version": "94.0.4606.54"
+      "version": "128.0.6613.138",
+      "release_date": "September 12, 2024 09:53 PM",
+      "end_date": "September 17, 2024 07:57 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/93.0.4577.82",
-      "version": "93.0.4577.82"
+      "version": "128.0.6613.120",
+      "release_date": "September 11, 2024 08:08 PM",
+      "end_date": "September 12, 2024 09:53 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/93.0.4577.63",
-      "version": "93.0.4577.63"
+      "version": "128.0.6613.138",
+      "release_date": "September 11, 2024 08:08 PM",
+      "end_date": "September 12, 2024 09:53 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/92.0.4515.176",
-      "version": "92.0.4515.176"
+      "version": "128.0.6613.120",
+      "release_date": "September 10, 2024 09:55 PM",
+      "end_date": "September 11, 2024 08:08 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/91.0.4472.169",
-      "version": "91.0.4472.169"
+      "version": "128.0.6613.138",
+      "release_date": "September 10, 2024 09:55 PM",
+      "end_date": "September 11, 2024 08:08 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/91.0.4472.164",
-      "version": "91.0.4472.164"
+      "version": "128.0.6613.120",
+      "release_date": "September 05, 2024 11:56 PM",
+      "end_date": "September 10, 2024 09:55 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/91.0.4472.114",
-      "version": "91.0.4472.114"
+      "version": "128.0.6613.114",
+      "release_date": "September 04, 2024 07:45 PM",
+      "end_date": "September 05, 2024 11:56 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/91.0.4472.106",
-      "version": "91.0.4472.106"
+      "version": "128.0.6613.120",
+      "release_date": "September 04, 2024 07:45 PM",
+      "end_date": "September 05, 2024 11:56 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
     },
     {
-      "name": "chrome/platforms/mac/channels/extended/versions/91.0.4472.101",
-      "version": "91.0.4472.101"
+      "version": "128.0.6613.114",
+      "release_date": "September 03, 2024 08:27 PM",
+      "end_date": "September 04, 2024 07:45 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "128.0.6613.120",
+      "release_date": "September 03, 2024 08:27 PM",
+      "end_date": "September 04, 2024 07:45 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "128.0.6613.114",
+      "release_date": "Invalid Time",
+      "end_date": "September 03, 2024 08:27 PM",
+      "fraction": "95%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "128.0.6613.120",
+      "release_date": "Invalid Time",
+      "end_date": "September 03, 2024 08:27 PM",
+      "fraction": "5%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "128.0.6613.114",
+      "release_date": "September 02, 2024 04:11 PM",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "128.0.6613.114",
+      "release_date": "August 29, 2024 10:46 PM",
+      "end_date": "September 02, 2024 04:11 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "128.0.6613.85",
+      "release_date": "August 29, 2024 10:46 PM",
+      "end_date": "September 02, 2024 04:11 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "128.0.6613.114",
+      "release_date": "August 28, 2024 06:38 PM",
+      "end_date": "August 29, 2024 10:46 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "128.0.6613.85",
+      "release_date": "August 28, 2024 06:38 PM",
+      "end_date": "August 29, 2024 10:46 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "128.0.6613.85",
+      "release_date": "August 27, 2024 07:22 PM",
+      "end_date": "August 28, 2024 06:38 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.234",
+      "release_date": "August 26, 2024 08:24 PM",
+      "end_date": "August 27, 2024 07:22 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "128.0.6613.85",
+      "release_date": "August 26, 2024 08:24 PM",
+      "end_date": "August 27, 2024 07:22 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.234",
+      "release_date": "August 22, 2024 11:06 PM",
+      "end_date": "August 26, 2024 08:24 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "128.0.6613.85",
+      "release_date": "August 22, 2024 11:06 PM",
+      "end_date": "August 26, 2024 08:24 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.234",
+      "release_date": "August 21, 2024 07:08 PM",
+      "end_date": "August 22, 2024 11:06 PM",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "128.0.6613.85",
+      "release_date": "August 21, 2024 07:08 PM",
+      "end_date": "August 22, 2024 11:06 PM",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.234",
+      "release_date": "August 08, 2024 08:29 PM",
+      "end_date": "August 21, 2024 07:08 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.226",
+      "release_date": "Invalid Time",
+      "end_date": "August 08, 2024 08:29 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.234",
+      "release_date": "Invalid Time",
+      "end_date": "August 08, 2024 08:29 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.226",
+      "release_date": "August 06, 2024 07:10 PM",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.234",
+      "release_date": "August 06, 2024 07:10 PM",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.226",
+      "release_date": "Invalid Time",
+      "end_date": "August 06, 2024 07:10 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.183",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.226",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.183",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.226",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.183",
+      "release_date": "July 18, 2024 08:58 PM",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.127",
+      "release_date": "July 17, 2024 08:35 PM",
+      "end_date": "July 18, 2024 08:58 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.182",
+      "release_date": "July 17, 2024 08:35 PM",
+      "end_date": "July 18, 2024 08:58 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.127",
+      "release_date": "July 16, 2024 08:36 PM",
+      "end_date": "July 17, 2024 08:35 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.182",
+      "release_date": "July 16, 2024 08:36 PM",
+      "end_date": "July 17, 2024 08:35 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.127",
+      "release_date": "June 26, 2024 06:27 PM",
+      "end_date": "July 16, 2024 08:36 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.115",
+      "release_date": "June 25, 2024 07:39 PM",
+      "end_date": "June 26, 2024 06:27 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.126",
+      "release_date": "June 25, 2024 07:39 PM",
+      "end_date": "June 26, 2024 06:27 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.115",
+      "release_date": "June 24, 2024 08:11 PM",
+      "end_date": "June 25, 2024 07:39 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.126",
+      "release_date": "June 24, 2024 08:11 PM",
+      "end_date": "June 25, 2024 07:39 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.115",
+      "release_date": "June 24, 2024 06:33 PM",
+      "end_date": "June 24, 2024 08:11 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.114",
+      "release_date": "June 20, 2024 09:17 PM",
+      "end_date": "June 24, 2024 06:33 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.62",
+      "release_date": "June 20, 2024 09:17 PM",
+      "end_date": "June 24, 2024 06:33 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.114",
+      "release_date": "June 20, 2024 04:42 PM",
+      "end_date": "June 20, 2024 09:17 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.62",
+      "release_date": "June 20, 2024 04:42 PM",
+      "end_date": "June 20, 2024 09:17 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.62",
+      "release_date": "June 18, 2024 06:53 PM",
+      "end_date": "June 20, 2024 04:42 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.243",
+      "release_date": "June 17, 2024 09:17 PM",
+      "end_date": "June 18, 2024 06:53 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.61",
+      "release_date": "June 17, 2024 09:17 PM",
+      "end_date": "June 18, 2024 06:53 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.61",
+      "release_date": "June 13, 2024 07:09 PM",
+      "end_date": "June 17, 2024 09:17 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.243",
+      "release_date": "June 12, 2024 10:35 PM",
+      "end_date": "June 17, 2024 09:17 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.56",
+      "release_date": "June 12, 2024 10:35 PM",
+      "end_date": "June 13, 2024 07:09 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.243",
+      "release_date": "June 11, 2024 07:11 PM",
+      "end_date": "June 12, 2024 10:35 PM",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "126.0.6478.56",
+      "release_date": "June 11, 2024 07:11 PM",
+      "end_date": "June 12, 2024 10:35 PM",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.243",
+      "release_date": "June 04, 2024 06:57 PM",
+      "end_date": "June 11, 2024 07:11 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.233",
+      "release_date": "Invalid Time",
+      "end_date": "June 04, 2024 06:57 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.243",
+      "release_date": "Invalid Time",
+      "end_date": "June 04, 2024 06:57 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.233",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.243",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.233",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.221",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.233",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.233",
+      "release_date": "May 23, 2024 11:00 PM",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.221",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.230",
+      "release_date": "Invalid Time",
+      "end_date": "May 23, 2024 11:00 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.208",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "37.5%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.230",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "12.5%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.208",
+      "release_date": "May 22, 2024 10:01 AM",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.221",
+      "release_date": "May 22, 2024 10:01 AM",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.208",
+      "release_date": "May 16, 2024 09:32 PM",
+      "end_date": "May 22, 2024 10:01 AM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.221",
+      "release_date": "May 16, 2024 09:32 PM",
+      "end_date": "May 22, 2024 10:01 AM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.208",
+      "release_date": "May 15, 2024 08:18 PM",
+      "end_date": "May 16, 2024 09:32 PM",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.221",
+      "release_date": "May 15, 2024 08:18 PM",
+      "end_date": "May 16, 2024 09:32 PM",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.208",
+      "release_date": "May 15, 2024 07:52 PM",
+      "end_date": "May 15, 2024 08:18 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.202",
+      "release_date": "May 14, 2024 11:08 PM",
+      "end_date": "May 15, 2024 07:52 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.207",
+      "release_date": "May 14, 2024 11:08 PM",
+      "end_date": "May 15, 2024 07:52 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.202",
+      "release_date": "May 13, 2024 08:47 PM",
+      "end_date": "May 14, 2024 11:08 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.207",
+      "release_date": "May 13, 2024 08:47 PM",
+      "end_date": "May 14, 2024 11:08 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.202",
+      "release_date": "May 13, 2024 08:14 PM",
+      "end_date": "May 13, 2024 08:47 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.156",
+      "release_date": "May 10, 2024 08:25 PM",
+      "end_date": "May 13, 2024 08:14 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.201",
+      "release_date": "May 10, 2024 08:25 PM",
+      "end_date": "May 13, 2024 08:14 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.156",
+      "release_date": "May 09, 2024 08:45 PM",
+      "end_date": "May 10, 2024 08:25 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.201",
+      "release_date": "May 09, 2024 08:45 PM",
+      "end_date": "May 10, 2024 08:25 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.156",
+      "release_date": "May 09, 2024 07:52 PM",
+      "end_date": "May 09, 2024 08:45 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.119",
+      "release_date": "May 08, 2024 07:30 PM",
+      "end_date": "May 09, 2024 07:52 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.155",
+      "release_date": "May 08, 2024 07:30 PM",
+      "end_date": "May 09, 2024 07:52 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.119",
+      "release_date": "May 07, 2024 05:59 PM",
+      "end_date": "May 08, 2024 07:30 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.155",
+      "release_date": "May 07, 2024 05:59 PM",
+      "end_date": "May 08, 2024 07:30 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.119",
+      "release_date": "May 02, 2024 06:24 PM",
+      "end_date": "May 07, 2024 05:59 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.118",
+      "release_date": "May 01, 2024 07:46 PM",
+      "end_date": "May 02, 2024 06:24 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.93",
+      "release_date": "May 01, 2024 07:46 PM",
+      "end_date": "May 02, 2024 06:24 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.118",
+      "release_date": "April 30, 2024 08:46 PM",
+      "end_date": "May 01, 2024 07:46 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.93",
+      "release_date": "April 30, 2024 08:46 PM",
+      "end_date": "May 01, 2024 07:46 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.93",
+      "release_date": "April 30, 2024 07:38 PM",
+      "end_date": "April 30, 2024 08:46 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.62",
+      "release_date": "April 29, 2024 07:52 PM",
+      "end_date": "April 30, 2024 07:38 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.91",
+      "release_date": "April 29, 2024 07:52 PM",
+      "end_date": "April 30, 2024 07:38 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.62",
+      "release_date": "April 25, 2024 07:21 PM",
+      "end_date": "April 29, 2024 07:52 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.91",
+      "release_date": "April 25, 2024 07:21 PM",
+      "end_date": "April 29, 2024 07:52 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.62",
+      "release_date": "April 24, 2024 07:10 PM",
+      "end_date": "April 25, 2024 07:21 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.78",
+      "release_date": "April 24, 2024 07:10 PM",
+      "end_date": "April 25, 2024 07:21 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.62",
+      "release_date": "April 23, 2024 10:19 PM",
+      "end_date": "April 24, 2024 07:10 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.78",
+      "release_date": "April 23, 2024 10:19 PM",
+      "end_date": "April 24, 2024 07:10 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.62",
+      "release_date": "April 22, 2024 07:20 PM",
+      "end_date": "April 23, 2024 10:19 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.156",
+      "release_date": "April 18, 2024 08:06 PM",
+      "end_date": "April 22, 2024 07:20 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.61",
+      "release_date": "April 18, 2024 08:06 PM",
+      "end_date": "April 22, 2024 07:20 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.156",
+      "release_date": "April 17, 2024 07:47 PM",
+      "end_date": "April 18, 2024 08:06 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.61",
+      "release_date": "April 17, 2024 07:47 PM",
+      "end_date": "April 18, 2024 08:06 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.156",
+      "release_date": "April 16, 2024 09:25 PM",
+      "end_date": "April 17, 2024 07:47 PM",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "124.0.6367.61",
+      "release_date": "April 16, 2024 09:25 PM",
+      "end_date": "April 17, 2024 07:47 PM",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.156",
+      "release_date": "April 04, 2024 06:17 PM",
+      "end_date": "April 16, 2024 09:25 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.148",
+      "release_date": "April 03, 2024 06:29 PM",
+      "end_date": "April 04, 2024 06:17 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.156",
+      "release_date": "April 03, 2024 06:29 PM",
+      "end_date": "April 04, 2024 06:17 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.148",
+      "release_date": "April 02, 2024 08:11 PM",
+      "end_date": "April 03, 2024 06:29 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.156",
+      "release_date": "April 02, 2024 08:11 PM",
+      "end_date": "April 03, 2024 06:29 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.148",
+      "release_date": "March 28, 2024 09:14 PM",
+      "end_date": "April 02, 2024 08:11 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.139",
+      "release_date": "March 27, 2024 07:53 PM",
+      "end_date": "March 28, 2024 09:14 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.148",
+      "release_date": "March 27, 2024 07:53 PM",
+      "end_date": "March 28, 2024 09:14 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.139",
+      "release_date": "March 26, 2024 05:50 PM",
+      "end_date": "March 27, 2024 07:53 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.148",
+      "release_date": "March 26, 2024 05:50 PM",
+      "end_date": "March 27, 2024 07:53 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.139",
+      "release_date": "March 25, 2024 08:30 PM",
+      "end_date": "March 26, 2024 05:50 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.129",
+      "release_date": "March 21, 2024 06:12 PM",
+      "end_date": "March 25, 2024 08:30 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.139",
+      "release_date": "March 21, 2024 06:12 PM",
+      "end_date": "March 25, 2024 08:30 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.129",
+      "release_date": "March 20, 2024 10:22 PM",
+      "end_date": "March 21, 2024 06:12 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.139",
+      "release_date": "March 20, 2024 10:22 PM",
+      "end_date": "March 21, 2024 06:12 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.129",
+      "release_date": "March 19, 2024 08:40 PM",
+      "end_date": "March 20, 2024 10:22 PM",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.139",
+      "release_date": "March 19, 2024 08:40 PM",
+      "end_date": "March 20, 2024 10:22 PM",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.129",
+      "release_date": "March 14, 2024 08:08 PM",
+      "end_date": "March 19, 2024 08:40 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.112",
+      "release_date": "March 13, 2024 06:20 PM",
+      "end_date": "March 14, 2024 08:08 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.129",
+      "release_date": "March 13, 2024 06:20 PM",
+      "end_date": "March 14, 2024 08:08 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.112",
+      "release_date": "March 12, 2024 09:32 PM",
+      "end_date": "March 13, 2024 06:20 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.129",
+      "release_date": "March 12, 2024 09:32 PM",
+      "end_date": "March 13, 2024 06:20 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.112",
+      "release_date": "March 07, 2024 07:30 PM",
+      "end_date": "March 12, 2024 09:32 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.112",
+      "release_date": "March 06, 2024 08:51 PM",
+      "end_date": "March 07, 2024 07:30 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.94",
+      "release_date": "March 06, 2024 08:51 PM",
+      "end_date": "March 07, 2024 07:30 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.112",
+      "release_date": "March 05, 2024 09:08 PM",
+      "end_date": "March 06, 2024 08:51 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.94",
+      "release_date": "March 05, 2024 09:08 PM",
+      "end_date": "March 06, 2024 08:51 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.94",
+      "release_date": "February 29, 2024 08:47 PM",
+      "end_date": "March 05, 2024 09:08 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.69",
+      "release_date": "February 28, 2024 09:49 PM",
+      "end_date": "February 29, 2024 08:47 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.94",
+      "release_date": "February 28, 2024 09:49 PM",
+      "end_date": "February 29, 2024 08:47 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.69",
+      "release_date": "February 27, 2024 06:59 PM",
+      "end_date": "February 28, 2024 09:49 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.94",
+      "release_date": "February 27, 2024 06:59 PM",
+      "end_date": "February 28, 2024 09:49 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.69",
+      "release_date": "Invalid Time",
+      "end_date": "February 27, 2024 06:59 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.291",
+      "release_date": "February 22, 2024 08:54 PM",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.69",
+      "release_date": "February 22, 2024 08:54 PM",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.291",
+      "release_date": "February 21, 2024 08:13 PM",
+      "end_date": "February 22, 2024 08:54 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.57",
+      "release_date": "February 21, 2024 08:13 PM",
+      "end_date": "February 22, 2024 08:54 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.291",
+      "release_date": "February 20, 2024 09:34 PM",
+      "end_date": "February 21, 2024 08:13 PM",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "122.0.6261.57",
+      "release_date": "February 20, 2024 09:34 PM",
+      "end_date": "February 21, 2024 08:13 PM",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.291",
+      "release_date": "February 15, 2024 09:44 PM",
+      "end_date": "February 20, 2024 09:34 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.283",
+      "release_date": "February 14, 2024 07:30 PM",
+      "end_date": "February 15, 2024 09:44 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.291",
+      "release_date": "February 14, 2024 07:30 PM",
+      "end_date": "February 15, 2024 09:44 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.283",
+      "release_date": "February 13, 2024 07:04 PM",
+      "end_date": "February 14, 2024 07:30 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.291",
+      "release_date": "February 13, 2024 07:04 PM",
+      "end_date": "February 14, 2024 07:30 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.283",
+      "release_date": "February 08, 2024 07:14 PM",
+      "end_date": "February 13, 2024 07:04 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.276",
+      "release_date": "February 07, 2024 08:23 PM",
+      "end_date": "February 08, 2024 07:14 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.283",
+      "release_date": "February 07, 2024 08:23 PM",
+      "end_date": "February 08, 2024 07:14 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.276",
+      "release_date": "February 06, 2024 08:49 PM",
+      "end_date": "February 07, 2024 08:23 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.283",
+      "release_date": "February 06, 2024 08:49 PM",
+      "end_date": "February 07, 2024 08:23 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.276",
+      "release_date": "February 01, 2024 09:46 PM",
+      "end_date": "February 06, 2024 08:49 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.268",
+      "release_date": "January 31, 2024 07:17 PM",
+      "end_date": "February 01, 2024 09:46 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.276",
+      "release_date": "January 31, 2024 07:17 PM",
+      "end_date": "February 01, 2024 09:46 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.268",
+      "release_date": "January 30, 2024 06:21 PM",
+      "end_date": "January 31, 2024 07:17 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.276",
+      "release_date": "January 30, 2024 06:21 PM",
+      "end_date": "January 31, 2024 07:17 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.268",
+      "release_date": "Invalid Time",
+      "end_date": "January 30, 2024 06:21 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.234",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.268",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.234",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.268",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.234",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.268",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.234",
+      "release_date": "January 18, 2024 09:08 PM",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.216",
+      "release_date": "January 17, 2024 08:04 PM",
+      "end_date": "January 18, 2024 09:08 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.234",
+      "release_date": "January 17, 2024 08:04 PM",
+      "end_date": "January 18, 2024 09:08 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.216",
+      "release_date": "January 16, 2024 06:01 PM",
+      "end_date": "January 17, 2024 08:04 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.234",
+      "release_date": "January 16, 2024 06:01 PM",
+      "end_date": "January 17, 2024 08:04 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.216",
+      "release_date": "January 11, 2024 07:02 PM",
+      "end_date": "January 16, 2024 06:01 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.199",
+      "release_date": "January 10, 2024 08:00 PM",
+      "end_date": "January 11, 2024 07:02 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.216",
+      "release_date": "January 10, 2024 08:00 PM",
+      "end_date": "January 11, 2024 07:02 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.199",
+      "release_date": "January 09, 2024 06:41 PM",
+      "end_date": "January 10, 2024 08:00 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.216",
+      "release_date": "January 09, 2024 06:41 PM",
+      "end_date": "January 10, 2024 08:00 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.199",
+      "release_date": "January 08, 2024 07:55 PM",
+      "end_date": "January 09, 2024 06:41 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.129",
+      "release_date": "January 04, 2024 09:32 PM",
+      "end_date": "January 08, 2024 07:55 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.199",
+      "release_date": "January 04, 2024 09:32 PM",
+      "end_date": "January 08, 2024 07:55 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.129",
+      "release_date": "January 03, 2024 07:05 PM",
+      "end_date": "January 04, 2024 09:32 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.199",
+      "release_date": "January 03, 2024 07:05 PM",
+      "end_date": "January 04, 2024 09:32 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.129",
+      "release_date": "December 26, 2023 07:17 PM",
+      "end_date": "January 03, 2024 07:05 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.109",
+      "release_date": "December 21, 2023 07:21 PM",
+      "end_date": "December 26, 2023 07:17 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.129",
+      "release_date": "December 21, 2023 07:21 PM",
+      "end_date": "December 26, 2023 07:17 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.109",
+      "release_date": "Invalid Time",
+      "end_date": "December 21, 2023 07:21 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.129",
+      "release_date": "Invalid Time",
+      "end_date": "December 21, 2023 07:21 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.109",
+      "release_date": "December 14, 2023 07:49 PM",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.109",
+      "release_date": "December 13, 2023 08:06 PM",
+      "end_date": "December 14, 2023 07:49 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.71",
+      "release_date": "December 13, 2023 08:06 PM",
+      "end_date": "December 14, 2023 07:49 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.109",
+      "release_date": "December 12, 2023 08:01 PM",
+      "end_date": "December 13, 2023 08:06 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.71",
+      "release_date": "December 12, 2023 08:01 PM",
+      "end_date": "December 13, 2023 08:06 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.71",
+      "release_date": "Invalid Time",
+      "end_date": "December 12, 2023 08:01 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.159",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.71",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.159",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.71",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.159",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "120.0.6099.62",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.159",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.144",
+      "release_date": "November 29, 2023 09:27 PM",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.159",
+      "release_date": "November 29, 2023 09:27 PM",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.144",
+      "release_date": "November 28, 2023 07:29 PM",
+      "end_date": "November 29, 2023 09:27 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.159",
+      "release_date": "November 28, 2023 07:29 PM",
+      "end_date": "November 29, 2023 09:27 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.144",
+      "release_date": "Invalid Time",
+      "end_date": "November 28, 2023 07:29 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.136",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.144",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.136",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.144",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.136",
+      "release_date": "November 09, 2023 11:28 PM",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.129",
+      "release_date": "November 08, 2023 09:54 PM",
+      "end_date": "November 09, 2023 11:28 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.136",
+      "release_date": "November 08, 2023 09:54 PM",
+      "end_date": "November 09, 2023 11:28 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.129",
+      "release_date": "November 07, 2023 10:20 PM",
+      "end_date": "November 08, 2023 09:54 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.136",
+      "release_date": "November 07, 2023 10:20 PM",
+      "end_date": "November 08, 2023 09:54 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.129",
+      "release_date": "November 06, 2023 09:11 PM",
+      "end_date": "November 07, 2023 10:20 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.117",
+      "release_date": "Invalid Time",
+      "end_date": "November 06, 2023 09:11 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.129",
+      "release_date": "Invalid Time",
+      "end_date": "November 06, 2023 09:11 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.117",
+      "release_date": "November 01, 2023 04:10 PM",
+      "end_date": "Invalid Time",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.129",
+      "release_date": "November 01, 2023 04:10 PM",
+      "end_date": "Invalid Time",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.117",
+      "release_date": "October 26, 2023 08:23 PM",
+      "end_date": "November 01, 2023 04:10 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.117",
+      "release_date": "October 26, 2023 02:35 PM",
+      "end_date": "October 26, 2023 08:23 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.88",
+      "release_date": "October 26, 2023 02:35 PM",
+      "end_date": "October 26, 2023 08:23 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.117",
+      "release_date": "October 26, 2023 02:31 PM",
+      "end_date": "October 26, 2023 02:35 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.88",
+      "release_date": "October 26, 2023 02:31 PM",
+      "end_date": "October 26, 2023 02:35 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.117",
+      "release_date": "October 25, 2023 08:33 PM",
+      "end_date": "October 26, 2023 02:31 PM",
+      "fraction": "5%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.96",
+      "release_date": "October 25, 2023 08:33 PM",
+      "end_date": "October 26, 2023 02:31 PM",
+      "fraction": "5%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.117",
+      "release_date": "October 24, 2023 08:58 PM",
+      "end_date": "October 25, 2023 08:33 PM",
+      "fraction": "2.5%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.96",
+      "release_date": "October 24, 2023 08:58 PM",
+      "end_date": "October 25, 2023 08:33 PM",
+      "fraction": "7.5%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.88",
+      "release_date": "October 19, 2023 06:13 PM",
+      "end_date": "October 26, 2023 02:31 PM",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.96",
+      "release_date": "October 19, 2023 06:13 PM",
+      "end_date": "October 24, 2023 08:58 PM",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.70",
+      "release_date": "October 18, 2023 07:04 PM",
+      "end_date": "October 19, 2023 06:13 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.88",
+      "release_date": "October 18, 2023 07:04 PM",
+      "end_date": "October 19, 2023 06:13 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.70",
+      "release_date": "October 17, 2023 09:39 PM",
+      "end_date": "October 18, 2023 07:04 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.88",
+      "release_date": "October 17, 2023 09:39 PM",
+      "end_date": "October 18, 2023 07:04 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.70",
+      "release_date": "October 16, 2023 07:43 PM",
+      "end_date": "October 17, 2023 09:39 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.228",
+      "release_date": "October 12, 2023 08:26 PM",
+      "end_date": "October 16, 2023 07:43 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.70",
+      "release_date": "October 12, 2023 08:26 PM",
+      "end_date": "October 16, 2023 07:43 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.228",
+      "release_date": "October 11, 2023 07:56 PM",
+      "end_date": "October 12, 2023 08:26 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.70",
+      "release_date": "October 11, 2023 07:56 PM",
+      "end_date": "October 12, 2023 08:26 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.228",
+      "release_date": "October 10, 2023 09:08 PM",
+      "end_date": "October 11, 2023 07:56 PM",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "118.0.5993.70",
+      "release_date": "October 10, 2023 09:08 PM",
+      "end_date": "October 11, 2023 07:56 PM",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.228",
+      "release_date": "Invalid Time",
+      "end_date": "October 10, 2023 09:08 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.187",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.228",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.187",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.228",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.187",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.179",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.187",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.179",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.187",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.179",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.140",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.179",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.140",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.179",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.140",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.110",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.140",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.110",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.140",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.110",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.110",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.96",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.96",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.289",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.96",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.289",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.96",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.289",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "116.0.5845.96",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.289",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.248",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.289",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.248",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.289",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.248",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.198",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.248",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.248",
+      "release_date": "July 20, 2023 11:54 PM",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.198",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.243",
+      "release_date": "Invalid Time",
+      "end_date": "July 20, 2023 11:54 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.198",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.243",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.198",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.133",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.198",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.133",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.198",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.133",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.106",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.133",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.106",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.204",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.106",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.204",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.106",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.204",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.90",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.204",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.90",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.204",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "114.0.5735.90",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.204",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.183",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.204",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.183",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.204",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.183",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.137",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.183",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.183",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.137",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.179",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.137",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.179",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.137",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.121",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.137",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.121",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.137",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.121",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.121",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.49",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.121",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.49",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.49",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.208",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.49",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.208",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.49",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.208",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "112.0.5615.49",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.208",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.192",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.208",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.192",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.208",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.192",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.177",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.192",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.177",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.192",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.177",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.192",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.177",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.100",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.177",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.100",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.177",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.100",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.215",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.100",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.100",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.96",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.215",
+      "release_date": "February 08, 2023 10:27 PM",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.77",
+      "release_date": "February 08, 2023 10:27 PM",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.215",
+      "release_date": "Invalid Time",
+      "end_date": "February 08, 2023 10:27 PM",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "110.0.5481.77",
+      "release_date": "Invalid Time",
+      "end_date": "February 08, 2023 10:27 PM",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.215",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.179",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.215",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.179",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.215",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.179",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.124",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.179",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.124",
+      "release_date": "January 11, 2023 09:12 PM",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.179",
+      "release_date": "January 11, 2023 09:12 PM",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.124",
+      "release_date": "Invalid Time",
+      "end_date": "January 11, 2023 09:12 PM",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.179",
+      "release_date": "Invalid Time",
+      "end_date": "January 11, 2023 09:12 PM",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.124",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.124",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.98",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.124",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.98",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.98",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.94",
+      "release_date": "December 07, 2022 05:09 PM",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.98",
+      "release_date": "December 07, 2022 05:09 PM",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.94",
+      "release_date": "Invalid Time",
+      "end_date": "December 07, 2022 05:09 PM",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.199",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.94",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.199",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.94",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.199",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.71",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.199",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.71",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.199",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "108.0.5359.71",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.199",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.181",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.199",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.181",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.199",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.181",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.168",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.181",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.168",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.181",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.168",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.119",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.168",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.168",
+      "release_date": "October 27, 2022 08:27 PM",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.119",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.165",
+      "release_date": "Invalid Time",
+      "end_date": "October 27, 2022 08:27 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.119",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.103",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.119",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.103",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.119",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.103",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.123",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.103",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.123",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.103",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.123",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "95%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.103",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "5%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.123",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.123",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.91",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.123",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.91",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.123",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.123",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.61",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.123",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "106.0.5249.61",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.123",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.114",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.123",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.114",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.123",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.114",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.101",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.114",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.114",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.101",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.111",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.101",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.111",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.101",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.101",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.79",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.101",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.79",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.79",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.167",
+      "release_date": "August 04, 2022 09:16 PM",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.79",
+      "release_date": "August 04, 2022 09:16 PM",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.167",
+      "release_date": "Invalid Time",
+      "end_date": "August 04, 2022 09:16 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.79",
+      "release_date": "Invalid Time",
+      "end_date": "August 04, 2022 09:16 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.167",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "104.0.5112.79",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.167",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.148",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.167",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.148",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.167",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.148",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.134",
+      "release_date": "July 05, 2022 04:21 PM",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.148",
+      "release_date": "July 05, 2022 04:21 PM",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.134",
+      "release_date": "Invalid Time",
+      "end_date": "July 05, 2022 04:21 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.148",
+      "release_date": "Invalid Time",
+      "end_date": "July 05, 2022 04:21 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.134",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.115",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.134",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.115",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.134",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.134",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.115",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "103.0.5060.53",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.115",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.115",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.61",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.115",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.61",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.61",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.160",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.61",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.160",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.61",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.160",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "102.0.5005.61",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.160",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.143",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.160",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.143",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.160",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.143",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.127",
+      "release_date": "April 27, 2022 08:53 PM",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.143",
+      "release_date": "April 27, 2022 08:53 PM",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.127",
+      "release_date": "Invalid Time",
+      "end_date": "April 27, 2022 08:53 PM",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.143",
+      "release_date": "Invalid Time",
+      "end_date": "April 27, 2022 08:53 PM",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.127",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.127",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.88",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.127",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.88",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.88",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.75",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.88",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.75",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.88",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.75",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.75",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "98.0.4758.141",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.75",
+      "release_date": "April 04, 2022 07:44 PM",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "98.0.4758.141",
+      "release_date": "April 04, 2022 07:44 PM",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.60",
+      "release_date": "Invalid Time",
+      "end_date": "April 04, 2022 07:44 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "98.0.4758.141",
+      "release_date": "Invalid Time",
+      "end_date": "April 04, 2022 07:44 PM",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.60",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "98.0.4758.141",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "100.0.4896.60",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "10%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "98.0.4758.141",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "90%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "98.0.4758.141",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "98.0.4758.132",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "98.0.4758.141",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "98.0.4758.132",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "98.0.4758.141",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "98.0.4758.132",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "98.0.4758.119",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "98.0.4758.132",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "98.0.4758.119",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "75%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "98.0.4758.132",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "98.0.4758.119",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "18"
+    },
+    {
+      "version": "98.0.4758.132",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "17"
+    },
+    {
+      "version": "98.0.4758.119",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "98.0.4758.109",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "20"
+    },
+    {
+      "version": "98.0.4758.119",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "19"
+    },
+    {
+      "version": "98.0.4758.109",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "18"
+    },
+    {
+      "version": "98.0.4758.119",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "17"
+    },
+    {
+      "version": "98.0.4758.109",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "98.0.4758.102",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "20"
+    },
+    {
+      "version": "98.0.4758.109",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "19"
+    },
+    {
+      "version": "98.0.4758.102",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "18"
+    },
+    {
+      "version": "98.0.4758.109",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "17"
+    },
+    {
+      "version": "98.0.4758.102",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "98.0.4758.102",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "15"
+    },
+    {
+      "version": "98.0.4758.80",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "16"
+    },
+    {
+      "version": "98.0.4758.102",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "7"
+    },
+    {
+      "version": "98.0.4758.80",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "8"
+    },
+    {
+      "version": "98.0.4758.80",
+      "release_date": "February 07, 2022 08:57 PM",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "96.0.4664.174",
+      "release_date": "Invalid Time",
+      "end_date": "February 07, 2022 08:57 PM",
+      "fraction": "100%",
+      "fraction_group": "16"
+    },
+    {
+      "version": "98.0.4758.80",
+      "release_date": "Invalid Time",
+      "end_date": "February 07, 2022 08:57 PM",
+      "fraction": "100%",
+      "fraction_group": "15"
+    },
+    {
+      "version": "96.0.4664.174",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "14"
+    },
+    {
+      "version": "98.0.4758.80",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "13"
+    },
+    {
+      "version": "96.0.4664.174",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "12"
+    },
+    {
+      "version": "98.0.4758.80",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "11"
+    },
+    {
+      "version": "96.0.4664.174",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "96.0.4664.131",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "4"
+    },
+    {
+      "version": "96.0.4664.174",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "3"
+    },
+    {
+      "version": "96.0.4664.131",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "8"
+    },
+    {
+      "version": "96.0.4664.174",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "7"
+    },
+    {
+      "version": "96.0.4664.131",
+      "release_date": "January 06, 2022 09:51 PM",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "96.0.4664.110",
+      "release_date": "Invalid Time",
+      "end_date": "January 06, 2022 09:51 PM",
+      "fraction": "100%",
+      "fraction_group": "4"
+    },
+    {
+      "version": "96.0.4664.131",
+      "release_date": "Invalid Time",
+      "end_date": "January 06, 2022 09:51 PM",
+      "fraction": "100%",
+      "fraction_group": "3"
+    },
+    {
+      "version": "96.0.4664.110",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "8"
+    },
+    {
+      "version": "96.0.4664.131",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "7"
+    },
+    {
+      "version": "96.0.4664.110",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "96.0.4664.110",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "3"
+    },
+    {
+      "version": "96.0.4664.93",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "4"
+    },
+    {
+      "version": "96.0.4664.110",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "7"
+    },
+    {
+      "version": "96.0.4664.93",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "8"
+    },
+    {
+      "version": "96.0.4664.93",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "96.0.4664.55",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "4"
+    },
+    {
+      "version": "96.0.4664.93",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "3"
+    },
+    {
+      "version": "96.0.4664.55",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "8"
+    },
+    {
+      "version": "96.0.4664.93",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "7"
+    },
+    {
+      "version": "96.0.4664.55",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "94.0.4606.113",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "10"
+    },
+    {
+      "version": "96.0.4664.55",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "9"
+    },
+    {
+      "version": "94.0.4606.113",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "4"
+    },
+    {
+      "version": "96.0.4664.55",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "3"
+    },
+    {
+      "version": "94.0.4606.113",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "2"
+    },
+    {
+      "version": "96.0.4664.55",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "1"
+    },
+    {
+      "version": "94.0.4606.113",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "4"
+    },
+    {
+      "version": "96.0.4664.45",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "3"
+    },
+    {
+      "version": "94.0.4606.113",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "2"
+    },
+    {
+      "version": "96.0.4664.45",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "1"
+    },
+    {
+      "version": "94.0.4606.113",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "6"
+    },
+    {
+      "version": "96.0.4664.45",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "5"
+    },
+    {
+      "version": "94.0.4606.113",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "94.0.4606.101",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "4"
+    },
+    {
+      "version": "94.0.4606.113",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "3"
+    },
+    {
+      "version": "94.0.4606.101",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "2"
+    },
+    {
+      "version": "94.0.4606.113",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "1"
+    },
+    {
+      "version": "94.0.4606.101",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "94.0.4606.101",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "3"
+    },
+    {
+      "version": "94.0.4606.81",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "4"
+    },
+    {
+      "version": "94.0.4606.101",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "1"
+    },
+    {
+      "version": "94.0.4606.81",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "2"
+    },
+    {
+      "version": "94.0.4606.81",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "94.0.4606.71",
+      "release_date": "October 11, 2021 07:19 PM",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "4"
+    },
+    {
+      "version": "94.0.4606.81",
+      "release_date": "October 11, 2021 07:19 PM",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "3"
+    },
+    {
+      "version": "94.0.4606.71",
+      "release_date": "Invalid Time",
+      "end_date": "October 11, 2021 07:19 PM",
+      "fraction": "100%",
+      "fraction_group": "8"
+    },
+    {
+      "version": "94.0.4606.81",
+      "release_date": "Invalid Time",
+      "end_date": "October 11, 2021 07:19 PM",
+      "fraction": "100%",
+      "fraction_group": "7"
+    },
+    {
+      "version": "94.0.4606.71",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "94.0.4606.61",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "4"
+    },
+    {
+      "version": "94.0.4606.71",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "3"
+    },
+    {
+      "version": "94.0.4606.61",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "2"
+    },
+    {
+      "version": "94.0.4606.71",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "1"
+    },
+    {
+      "version": "94.0.4606.61",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "93.0.4577.82",
+      "release_date": "September 27, 2021 07:48 PM",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "4"
+    },
+    {
+      "version": "94.0.4606.61",
+      "release_date": "September 27, 2021 07:48 PM",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "3"
+    },
+    {
+      "version": "94.0.4606.61",
+      "release_date": "Invalid Time",
+      "end_date": "September 27, 2021 07:48 PM",
+      "fraction": "100%",
+      "fraction_group": "1"
+    },
+    {
+      "version": "93.0.4577.82",
+      "release_date": "Invalid Time",
+      "end_date": "September 27, 2021 07:48 PM",
+      "fraction": "100%",
+      "fraction_group": "2"
+    },
+    {
+      "version": "94.0.4606.54",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "1"
+    },
+    {
+      "version": "93.0.4577.82",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "6"
+    },
+    {
+      "version": "94.0.4606.54",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "5"
+    },
+    {
+      "version": "93.0.4577.82",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "93.0.4577.63",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "4"
+    },
+    {
+      "version": "93.0.4577.82",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "3"
+    },
+    {
+      "version": "93.0.4577.63",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "2"
+    },
+    {
+      "version": "93.0.4577.82",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "1"
+    },
+    {
+      "version": "93.0.4577.63",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "92.0.4515.176",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "91.0.4472.169",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "91.0.4472.164",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "91.0.4472.114",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "91.0.4472.106",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
+    },
+    {
+      "version": "91.0.4472.101",
+      "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "0"
     }
   ]
 }
