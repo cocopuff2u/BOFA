@@ -1,5 +1,7 @@
-last_updated: October 28, 2025 07:03 AM EDT
+last_updated: October 28, 2025 08:05 AM EDT
 versions:
+- name: chrome/platforms/mac/channels/canary/versions/143.0.7499.0
+  version: 143.0.7499.0
 - name: chrome/platforms/mac/channels/canary/versions/143.0.7498.2
   version: 143.0.7498.2
 - name: chrome/platforms/mac/channels/canary/versions/143.0.7497.0
