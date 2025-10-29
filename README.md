@@ -32,7 +32,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <sup>**Edge**: [**_Raw XML_**](latest_edge_files/edge_latest_versions.xml) [**_Raw YAML_**](latest_edge_files/edge_latest_versions.yaml) [**_Raw JSON_**](latest_edge_files/edge_latest_versions.json) | **Safari**: [**_Raw XML_**](latest_safari_files/safari_latest_versions.xml) [**_Raw YAML_**](latest_safari_files/safari_latest_versions.yaml) [**_Raw JSON_**](latest_safari_files/safari_latest_versions.json)</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">October 29, 2025 10:10 AM EDT</code> (Automatically Updated every hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">October 29, 2025 10:24 AM EDT</code> (Automatically Updated every hour)_</sup>
 
 | **Browser** | **CFBundle Version** | **CFBundle Identifier** | **Download** |
 |------------|-------------------|---------------------|------------|
@@ -51,7 +51,10 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **Edge** <sup>Beta</sup> <br><a href="https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-beta-channel" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br><b>Last Updated:</b><br><em><code>October 27, 2025</code></em> | `142.0.3595.41` | `com.microsoft.edgemac.beta` | <a href="https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/36330368-9013-479f-bc82-74852252de3c/MicrosoftEdgeBeta-142.0.3595.41.pkg"><img src=".github/images/edge_beta.png" alt="Download Edge" width="80"></a> |
 | **Edge** <sup>Developer</sup> <br><br><b>Last Updated:</b><br><em><code>October 21, 2025</code></em> | `143.0.3624.0` | `com.microsoft.edgemac.dev` | <a href="https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/17b2fb39-fd72-4551-bd20-80e225a0de08/MicrosoftEdgeDev-143.0.3624.0.pkg"><img src=".github/images/edge_dev.png" alt="Download Edge" width="80"></a> |
 | **Edge** <sup>Canary</sup> <br><br><b>Last Updated:</b><br><em><code>October 29, 2025</code></em> | `143.0.3647.0` | `com.microsoft.edgemac.canary` | <a href="https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/61f01781-b673-4abf-bf96-0c355b911ba4/MicrosoftEdgeCanary-143.0.3647.0.pkg"><img src=".github/images/edge_canary.png" alt="Download Edge" width="80"></a> |
-| **Browser** | **CFBundle Version** | **CFBundle Identifier** | **Release Notes** |
+
+
+| **Browser** | **Version** | **CFBundle Identifier** | **Release Notes** |
+|------------|-------------------|---------------------|------------|
 | **Safari** <br><br><b>Released:</b><br><em><code>September 15, 2025</code></em> | `26.0 (20622.1.22)` | `com.apple.Safari` | <a href="https://developer.apple.com/documentation/safari-release-notes/safari-26-release-notes"><img src=".github/images/safari.png" alt="Safari Release Notes" width="80"></a> |
 | Safari <sup>Beta</sup> <br><br><b>Released:</b><br><em><code>September 22, 2025</code></em> | `26.1 beta (20622.2.5)` | `com.apple.Safari` | <a href="https://developer.apple.com/documentation/safari-release-notes/safari-26_1-release-notes"><img src=".github/images/safari.png" alt="Safari Release Notes" width="80"></a> |
 | **Safari** <br><br><b>Released:</b><br><em><code>July 29, 2025</code></em> | `18.6 (20621.3.11)` | `com.apple.Safari` | <a href="https://developer.apple.com/documentation/safari-release-notes/safari-18_6-release-notes"><img src=".github/images/safari.png" alt="Safari Release Notes" width="80"></a> |

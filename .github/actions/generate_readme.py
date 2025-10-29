@@ -285,8 +285,9 @@ def generate_safari_releases_table(base_path, xml_path):
     releases = fetch_all_safari_releases(xml_path)
     if not releases:
         return ""
-
-    table = "| **Browser** | **CFBundle Version** | **CFBundle Identifier** | **Release Notes** |\n"
+    # header + separator so Markdown renders this as a proper table
+    table = "| **Browser** | **Version** | **CFBundle Identifier** | **Release Notes** |\n"
+    table += "|------------|-------------------|---------------------|------------|\n"
     for r in releases:
         full_version = r['full_version']
         # If version contains 'beta', mark as beta (but do NOT make the beta label bold)
@@ -487,7 +488,8 @@ def generate_browser_table(base_path):
                 f"<a href=\"{download}\"><img src=\".github/images/{channel['image']}\" "
                 f"alt=\"Download {channel['display']}\" width=\"80\"></a> |\n"
             )
-    return table_content
+    # Ensure the table is followed by blank lines so subsequent sections/tables render separately
+    return table_content + "\n\n"
 
 def generate_settings_section():
     return """
