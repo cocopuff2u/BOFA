@@ -187,6 +187,148 @@ def fetch_safari_details(xml_path, os_version, detail_type):
     except Exception as e:
         return f"Error: {str(e)}", f"Error: {str(e)}"
 
+# --- NEW functions for Safari (releases + tech previews) ---
+def fetch_safari_release(xml_path, *args, **kwargs):
+    """Return the latest <release> entry's full_version and a link (release_notes or fallback)."""
+    if not os.path.exists(xml_path):
+        return "N/A", "#"
+    try:
+        tree = parse_xml_file(xml_path)
+        root = tree.getroot()
+        release = root.find('release')  # first release is the latest in the file format
+        if release is None:
+            return "N/A", "#"
+        # prefer explicit checks to avoid DeprecationWarning for element truth testing
+        full_elem = release.find('full_version')
+        major_elem = release.find('major_version')
+        version = (
+            full_elem.text if (full_elem is not None and full_elem.text)
+            else (major_elem.text if (major_elem is not None and major_elem.text) else "N/A")
+        )
+        notes_elem = release.find('release_notes')
+        notes = notes_elem.text if (notes_elem is not None and notes_elem.text) else "#"
+        # If notes is a doc:// link, keep it; otherwise use it as-is.
+        return version, notes
+    except Exception as e:
+        return f"Error: {str(e)}", "#"
+
+def fetch_safari_tech_previews(xml_path):
+    """Return a list of tech preview dicts: [{'macos','version','PostDate','URL','ReleaseNotes'}, ...]"""
+    previews = []
+    if not os.path.exists(xml_path):
+        return previews
+    try:
+        tree = parse_xml_file(xml_path)
+        root = tree.getroot()
+        for tp in root.findall('Safari_Technology_Preview'):
+            previews.append({
+                'macos': tp.findtext('macos', default='N/A'),
+                'version': tp.findtext('version', default='N/A'),
+                'post_date': tp.findtext('PostDate', default='N/A'),
+                'url': tp.findtext('URL', default='#'),
+                'release_notes': tp.findtext('ReleaseNotes', default='#')
+            })
+    except Exception:
+        pass
+    return previews
+
+def generate_safari_tech_table(base_path, xml_path):
+    """Generate a markdown table for Safari Technology Previews that matches other browser rows."""
+    previews = fetch_safari_tech_previews(xml_path)
+    if not previews:
+        return ""
+
+    table = "| **Browser** | **Version** | **CFBundle Identifier** | **Download** |\n"
+    table += "|------------|-------------------|---------------------|------------|\n"
+    for p in previews:
+        display = f"Safari Technology Preview <sup>({p['macos']})</sup>"
+        version = p['version']
+        bundle_id = "com.apple.SafariTechnologyPreview"
+        # Use a technology-specific image if available
+        image = "safari_technology.png"
+        download = p['url'] if p['url'] and p['url'] != 'N/A' else p['release_notes']
+        last_updated_html = f"<br><br><b>Post Date:</b><br><em><code>{p['post_date']}</code></em>"
+        table += (
+            f"| **{display}** {last_updated_html} | "
+            f"`{version}` | "
+            f"`{bundle_id}` | "
+            f"<a href=\"{download}\"><img src=\".github/images/{image}\" "
+            f"alt=\"Download {display}\" width=\"80\"></a> |\n"
+        )
+    table += "\n"
+    return table
+
+# --- NEW: fetch_all_safari_releases + generator (table matches other browsers) ---
+def fetch_all_safari_releases(xml_path):
+    """Return list of all <release> dicts from the Safari XML (preserves file order)."""
+    releases = []
+    if not os.path.exists(xml_path):
+        return releases
+    try:
+        tree = parse_xml_file(xml_path)
+        root = tree.getroot()
+        for rel in root.findall('release'):
+            releases.append({
+                'major_version': rel.findtext('major_version', default='N/A'),
+                'full_version': rel.findtext('full_version', default='N/A'),
+                'released': rel.findtext('released', default='N/A'),
+                # Prefer an explicit release_notes_url child when present; otherwise use release_notes text
+                'release_notes': rel.findtext('release_notes', default='#'),
+                'release_notes_url': rel.findtext('release_notes_url', default=None)
+            })
+    except Exception:
+        pass
+    return releases
+
+def generate_safari_releases_table(base_path, xml_path):
+    """Render a dedicated markdown table listing all Safari <release> entries using the same layout as other browsers."""
+    releases = fetch_all_safari_releases(xml_path)
+    if not releases:
+        return ""
+
+    table = "| **Browser** | **CFBundle Version** | **CFBundle Identifier** | **Release Notes** |\n"
+    for r in releases:
+        full_version = r['full_version']
+        # If version contains 'beta', mark as beta (but do NOT make the beta label bold)
+        is_beta = 'beta' in (full_version or "").lower()
+        display_base = "Safari"
+        # non-bold for beta: show as plain text with a superscript; stable stays bold
+        if is_beta:
+            display_cell = f"{display_base} <sup>Beta</sup>"
+        else:
+            display_cell = f"**{display_base}**"
+        version = full_version
+        bundle_id = "com.apple.Safari" if is_beta else "com.apple.Safari"
+        # Use the same Safari logo for both stable and beta
+        image = "safari.png"
+
+        # Prefer explicit URL node, otherwise fall back to release_notes text
+        notes_url = r.get('release_notes_url') or r.get('release_notes') or '#'
+        # Normalize relative developer links to a full URL
+        if isinstance(notes_url, str) and notes_url and not notes_url.startswith('http'):
+            if notes_url.startswith('/'):
+                notes_url = 'https://developer.apple.com' + notes_url
+            else:
+                if notes_url.startswith('doc://') or notes_url == '#':
+                    notes_url = '#'
+
+        # Render a Safari-logo icon linking to the release notes (fallback to text if no URL)
+        if notes_url and notes_url != '#':
+            note_link_html = f'<a href="{notes_url}"><img src=".github/images/{image}" alt="Safari Release Notes" width="80"></a>'
+        else:
+            note_link_html = '<small>N/A</small>'
+
+        last_updated_html = f"<br><br><b>Released:</b><br><em><code>{r['released']}</code></em>"
+        table += (
+            f"| {display_cell} {last_updated_html} | "
+            f"`{version}` | "
+            f"`{bundle_id}` | "
+            f"{note_link_html} |\n"
+        )
+    table += "\n"
+    return table
+# --- END NEW functions ---
+
 BROWSER_CONFIGS = {
     'Chrome': {
         'fetch_details': fetch_chrome_details,
@@ -219,12 +361,10 @@ BROWSER_CONFIGS = {
         ]
     },
     'Safari': {
-        'fetch_details': fetch_safari_details,
+        # Use the new release-level fetcher and a single "release" channel
+        'fetch_details': fetch_safari_release,
         'channels': [
-            {'name': 'Sequoia/Sonoma', 'display': 'Safari', 'version_path': 'Sonoma', 'download_path': 'Sonoma', 'bundle_id': 'com.apple.Safari', 'image': 'safari.png', 'release_notes': 'https://developer.apple.com/documentation/safari-release-notes'},
-            {'name': 'Ventura', 'display': 'Safari', 'version_path': 'Ventura', 'download_path': 'Ventura', 'bundle_id': 'com.apple.Safari', 'image': 'safari.png'},
-            {'name': 'Monterey', 'display': 'Safari', 'version_path': 'Monterey', 'download_path': 'Monterey', 'bundle_id': 'com.apple.Safari', 'image': 'safari.png'},
-            {'name': 'BigSur', 'display': 'Safari', 'version_path': 'BigSur', 'download_path': 'BigSur', 'bundle_id': 'com.apple.Safari', 'image': 'safari.png'}
+            {'name': '', 'display': 'Safari', 'version_path': 'release', 'download_path': 'release', 'bundle_id': 'com.apple.Safari', 'image': 'safari.png', 'release_notes': 'https://developer.apple.com/documentation/safari-release-notes'}
         ]
     }
 }
@@ -281,11 +421,17 @@ def get_last_updated_from_xml(xml_path, browser, channel=None):
                     if date_elem is not None and date_elem.text:
                         return format_date(date_elem.text)
         elif browser == 'Safari':
-            # Per-OS section post date (e.g., Sonoma, Ventura, etc.)
+            # New Safari XML uses <release> elements with <released>;
+            # Technology previews use <Safari_Technology_Preview> with <PostDate>.
             if channel:
-                elem = root.find(f'.//{channel}/PostDate')
+                # try both PostDate (tech previews) and released (release entries)
+                elem = root.find(f'.//{channel}/PostDate') or root.find(f'.//{channel}/released')
                 if elem is not None and elem.text:
                     return format_date(elem.text)
+            # fallback: if there are <release> entries use the first <release>/<released>
+            release_released = root.find('.//release/released')
+            if release_released is not None and release_released.text:
+                return format_date(release_released.text)
         # Global fallbacks
         elem = root.find('.//last_updated')
         if elem is not None and elem.text:
@@ -300,6 +446,10 @@ def generate_browser_table(base_path):
 |------------|-------------------|---------------------|------------|
 """
     for browser, config in BROWSER_CONFIGS.items():
+        # Skip Safari in the main browser table (we render a dedicated Safari releases section)
+        if browser == 'Safari':
+            continue
+
         xml_path = os.path.join(base_path, f'latest_{browser.lower()}_files/{browser.lower()}_latest_versions.xml')
         for channel in config['channels']:
             # Fetch version and download
@@ -379,13 +529,14 @@ def generate_readme():
     chrome_version, chrome_download = fetch_chrome_details(xml_files['Chrome'], 'stable/version', 'stable/download_link')
     firefox_version, firefox_download = fetch_firefox_details(xml_files['Firefox'], 'stable', 'stable')
     edge_version, edge_download = fetch_edge_details(xml_files['Edge'], 'stable', 'stable')
-    safari_version, safari_download = fetch_safari_details(xml_files['Safari'], 'Sonoma', 'URL')
+    # Use the new release-based Safari fetcher (main browser tile)
+    safari_version, safari_download = fetch_safari_release(xml_files['Safari'])
 
     # Fetch last updated dates from XMLs (browser-specific, channel-specific)
     chrome_last_updated = get_last_updated_from_xml(xml_files['Chrome'], 'Chrome', 'stable')
     firefox_last_updated = get_last_updated_from_xml(xml_files['Firefox'], 'Firefox', 'stable')
     edge_last_updated = get_last_updated_from_xml(xml_files['Edge'], 'Edge')
-    safari_last_updated = get_last_updated_from_xml(xml_files['Safari'], 'Safari', 'Sonoma')
+    safari_last_updated = get_last_updated_from_xml(xml_files['Safari'], 'Safari')
 
     readme_content = f"""# **BOFA**
 **B**rowser **O**verview **F**eed for **A**pple
@@ -428,6 +579,10 @@ We welcome community contributions—fork the repository, ask questions, or shar
 """
 
     readme_content += generate_browser_table(base_path)
+    # Add a dedicated Safari releases table (all <release> entries)
+    readme_content += generate_safari_releases_table(base_path, xml_files['Safari'])
+    # Append the new Safari Technology Preview table (if any)
+    readme_content += generate_safari_tech_table(base_path, xml_files['Safari'])
     readme_content += generate_settings_section()
 
     readme_path = os.path.join(base_path, 'README.md')

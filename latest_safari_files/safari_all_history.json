@@ -1,0 +1,282 @@
+[
+  {
+    "major_version": "26",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-26_1-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-26_1-release-notes",
+    "title": "Safari 26.1 Beta Release Notes",
+    "released": "September 22, 2025",
+    "version": "26.1 beta (20622.2.5)"
+  },
+  {
+    "major_version": "26",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-26-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-26-release-notes",
+    "title": "Safari 26.0 Release Notes",
+    "released": "September 15, 2025",
+    "version": "26.0 (20622.1.22)"
+  },
+  {
+    "major_version": "18",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-18_6-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-18_6-release-notes",
+    "title": "Safari 18.6 Release Notes",
+    "released": "July 29, 2025",
+    "version": "18.6 (20621.3.11)"
+  },
+  {
+    "major_version": "18",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-18_5-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-18_5-release-notes",
+    "title": "Safari 18.5 Release Notes",
+    "released": "May 12, 2025",
+    "version": "18.5 (20621.2.5)"
+  },
+  {
+    "major_version": "18",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-18_4-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-18_4-release-notes",
+    "title": "Safari 18.4 Release Notes",
+    "released": "March 31, 2025",
+    "version": "18.4 (20621.1.15)"
+  },
+  {
+    "major_version": "18",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-18_3-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-18_3-release-notes",
+    "title": "Safari 18.3 Release Notes",
+    "released": "January 27, 2025",
+    "version": "18.3 (20620.2.4)"
+  },
+  {
+    "major_version": "18",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-18_2-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-18_2-release-notes",
+    "title": "Safari 18.2 Release Notes",
+    "released": "December 11, 2024",
+    "version": "18.2 (20620.1.16)"
+  },
+  {
+    "major_version": "18",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-18_1-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-18_1-release-notes",
+    "title": "Safari 18.1 Release Notes",
+    "released": "October 28, 2024",
+    "version": "18.1 (20619.2.8)"
+  },
+  {
+    "major_version": "18",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-18_0_1-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-18_0_1-release-notes",
+    "title": "Safari 18.0.1 Release Notes",
+    "released": "October 3, 2024",
+    "version": "18.0.1 (20619.1.26.30)"
+  },
+  {
+    "major_version": "18",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-18-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-18-release-notes",
+    "title": "Safari 18.0 Release Notes",
+    "released": "September 16, 2024",
+    "version": "18.0 (20619.1.26)"
+  },
+  {
+    "major_version": "17",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-17_6-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-17_6-release-notes",
+    "title": "Safari 17.6 Release Notes",
+    "released": "July 29, 2024",
+    "version": "17.6 (19618.3.11)"
+  },
+  {
+    "major_version": "17",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-17_5-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-17_5-release-notes",
+    "title": "Safari 17.5 Release Notes",
+    "released": "May 13, 2024",
+    "version": "17.5 (19618.2.12)"
+  },
+  {
+    "major_version": "17",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-17_4-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-17_4-release-notes",
+    "title": "Safari 17.4 Release Notes",
+    "released": "March 5, 2024",
+    "version": "17.4  (19618.1.15)"
+  },
+  {
+    "major_version": "17",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-17_3-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-17_3-release-notes",
+    "title": "Safari 17.3 Release Notes",
+    "released": "January 22, 2024",
+    "version": "17.3 (19617.2.4)"
+  },
+  {
+    "major_version": "17",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-17_2-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-17_2-release-notes",
+    "title": "Safari 17.2 Release Notes",
+    "released": "December 11, 2023",
+    "version": "17.2 (19617.1.17)"
+  },
+  {
+    "major_version": "17",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-17_1-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-17_1-release-notes",
+    "title": "Safari 17.1 Release Notes",
+    "released": "October 25, 2023",
+    "version": "17.1 (19616.2.9)"
+  },
+  {
+    "major_version": "17",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-17-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-17-release-notes",
+    "title": "Safari 17 Release Notes",
+    "released": "September 18, 2023",
+    "version": "17 (19616.1.27)"
+  },
+  {
+    "major_version": "16",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-16_6-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-16_6-release-notes",
+    "title": "Safari 16.6 Release Notes",
+    "released": "July 24, 2023",
+    "version": "16.6 (18615.3.12)"
+  },
+  {
+    "major_version": "16",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-16_5-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-16_5-release-notes",
+    "title": "Safari 16.5 Release Notes",
+    "released": "May 18, 2023",
+    "version": "16.5 (18615.2.9)"
+  },
+  {
+    "major_version": "16",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-16_4-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-16_4-release-notes",
+    "title": "Safari 16.4 Release Notes",
+    "released": "March 27, 2023",
+    "version": "16.4 (18615.1.26)"
+  },
+  {
+    "major_version": "16",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-16_3-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-16_3-release-notes",
+    "title": "Safari 16.3 Release Notes",
+    "released": "January 23, 2023",
+    "version": "16.3 (18614.4.6)"
+  },
+  {
+    "major_version": "16",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-16_2-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-16_2-release-notes",
+    "title": "Safari 16.2 Release Notes",
+    "released": "December 13, 2022",
+    "version": "16.2 (18614.3.7)"
+  },
+  {
+    "major_version": "16",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-16_1-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-16_1-release-notes",
+    "title": "Safari 16.1 Release Notes",
+    "released": "October 24, 2022",
+    "version": "16.1 (18614.2.9)"
+  },
+  {
+    "major_version": "16",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-16-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-16-release-notes",
+    "title": "Safari 16 Release Notes",
+    "released": "September 12, 2022",
+    "version": "16 (18614.1.25)"
+  },
+  {
+    "major_version": "15",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-15_6-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-15_6-release-notes",
+    "title": "Safari 15.6 Release Notes",
+    "released": "July 20, 2022",
+    "version": "15.6 (17613.3.9)"
+  },
+  {
+    "major_version": "15",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-15_5-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-15_5-release-notes",
+    "title": "Safari 15.5 Release Notes",
+    "released": "May 16, 2022",
+    "version": "15.5 (17613.2.7)"
+  },
+  {
+    "major_version": "15",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-15_4-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-15_4-release-notes",
+    "title": "Safari 15.4 Release Notes",
+    "released": "March 14, 2022",
+    "version": "15.4 (17613.1.17)"
+  },
+  {
+    "major_version": "15",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-15_2-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-15_2-release-notes",
+    "title": "Safari 15.2 Release Notes",
+    "released": "December 13, 2021",
+    "version": "15.2 (17612.3.6)"
+  },
+  {
+    "major_version": "15",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-15-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-15-release-notes",
+    "title": "Safari 15 Release Notes",
+    "released": "September 20, 2021",
+    "version": "15 (17612.1.27)"
+  },
+  {
+    "major_version": "14",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-14_1-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-14_1-release-notes",
+    "title": "Safari 14.1 Release Notes",
+    "released": "April 26, 2021",
+    "version": "14.1 (16611.1.21)"
+  },
+  {
+    "major_version": "14",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-14-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-14-release-notes",
+    "title": "Safari 14 Release Notes",
+    "released": "September 16, 2020",
+    "version": "14 (16610.1.28)"
+  },
+  {
+    "major_version": "13",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-13_1-release_notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-13_1-release_notes",
+    "title": "Safari 13.1 Release Notes",
+    "released": "March 24, 2020",
+    "version": "13.1 (15609.1.20)"
+  },
+  {
+    "major_version": "13",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-13-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-13-release-notes",
+    "title": "Safari 13 Release Notes",
+    "released": "September 19, 2019",
+    "version": "13 (15608.2.11)"
+  },
+  {
+    "major_version": "12",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-12_1-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-12_1-release-notes",
+    "title": "Safari 12.1 Release Notes",
+    "released": "March 25, 2019",
+    "version": "12.1 (14607.1.40)"
+  },
+  {
+    "major_version": "12",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-12-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-12-release-notes",
+    "title": "Safari 12 Release Notes",
+    "released": "September 17, 2018",
+    "version": "12 (14606.1.36)"
+  }
+]
