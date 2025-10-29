@@ -248,12 +248,13 @@ def generate_safari_tech_table(base_path, xml_path):
         image = "safari_technology.png"
         download = p['url'] if p['url'] and p['url'] != 'N/A' else p['release_notes']
         last_updated_html = f"<br><br><b>Post Date:</b><br><em><code>{p['post_date']}</code></em>"
+        # center the image/link inside the table cell
+        image_html = f'<div align="center"><a href="{download}"><img src=".github/images/{image}" alt="Download {display}" width="80"></a></div>'
         table += (
             f"| **{display}** {last_updated_html} | "
             f"`{version}` | "
             f"`{bundle_id}` | "
-            f"<a href=\"{download}\"><img src=\".github/images/{image}\" "
-            f"alt=\"Download {display}\" width=\"80\"></a> |\n"
+            f"{image_html} |\n"
         )
     table += "\n"
     return table
@@ -315,7 +316,8 @@ def generate_safari_releases_table(base_path, xml_path):
 
         # Render a Safari-logo icon linking to the release notes (fallback to text if no URL)
         if notes_url and notes_url != '#':
-            note_link_html = f'<a href="{notes_url}"><img src=".github/images/{image}" alt="Safari Release Notes" width="80"></a>'
+            # center the image/link inside the table cell
+            note_link_html = f'<div align="center"><a href="{notes_url}"><img src=".github/images/{image}" alt="Safari Release Notes" width="80"></a>'
         else:
             note_link_html = '<small>N/A</small>'
 
