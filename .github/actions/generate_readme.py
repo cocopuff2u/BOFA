@@ -553,7 +553,22 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <div align="center">
 
-### [bofa.cocolabs.dev](https://bofa.cocolabs.dev)
+<table>
+  <tr>
+    <th>🌟 Explore the BOFA Website 🌟</th>
+    <th>⭐ Support the Project – Give it a Star! ⭐</th>
+  </tr>
+  <tr>
+    <td align="center">🌐 <strong>Visit:</strong> <a href="https://bofa.cocolabs.dev">bofa.cocolabs.dev</a> 🌐</td>
+    <td align="center">
+      <a href="https://github.com/cocopuff2u/bofa">
+        <img src="https://img.shields.io/github/stars/cocopuff2u/bofa" alt="GitHub Repo Stars">
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## Latest Stable Browser Versions
 

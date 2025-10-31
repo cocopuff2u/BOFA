@@ -9,7 +9,22 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <div align="center">
 
-### [bofa.cocolabs.dev](https://bofa.cocolabs.dev)
+<table>
+  <tr>
+    <th>🌟 Explore the BOFA Website 🌟</th>
+    <th>⭐ Support the Project – Give it a Star! ⭐</th>
+  </tr>
+  <tr>
+    <td align="center">🌐 <strong>Visit:</strong> <a href="https://bofa.cocolabs.dev">bofa.cocolabs.dev</a> 🌐</td>
+    <td align="center">
+      <a href="https://github.com/cocopuff2u/bofa">
+        <img src="https://img.shields.io/github/stars/cocopuff2u/bofa" alt="GitHub Repo Stars">
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 ## Latest Stable Browser Versions
 
@@ -32,7 +47,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <sup>**Edge**: [**_Raw XML_**](latest_edge_files/edge_latest_versions.xml) [**_Raw YAML_**](latest_edge_files/edge_latest_versions.yaml) [**_Raw JSON_**](latest_edge_files/edge_latest_versions.json) | **Safari**: [**_Raw XML_**](latest_safari_files/safari_latest_versions.xml) [**_Raw YAML_**](latest_safari_files/safari_latest_versions.yaml) [**_Raw JSON_**](latest_safari_files/safari_latest_versions.json)</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">October 31, 2025 07:03 AM EDT</code> (Automatically Updated every hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">October 31, 2025 07:33 AM EDT</code> (Automatically Updated every hour)_</sup>
 
 | **Browser** | **CFBundle Version** | **CFBundle Identifier** | **Download** |
 |------------|-------------------|---------------------|------------|
