@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='utf8'?>
 <firefox_all_history>
-  <last_updated>October 31, 2025 12:04 PM EDT</last_updated>
+  <last_updated>October 31, 2025 01:03 PM EDT</last_updated>
+  <release>
+    <key>firefox-145.0b9</key>
+    <build_number>1</build_number>
+    <category>dev</category>
+    <date>2025-10-31</date>
+    <description>None</description>
+    <is_security_driven>False</is_security_driven>
+    <product>firefox</product>
+    <version>145.0b9</version>
+    <download_pkg>https://ftp.mozilla.org/pub/firefox/releases/145.0b9/mac/en-US/Firefox%20145.0b9.pkg</download_pkg>
+    <download_dmg>https://ftp.mozilla.org/pub/firefox/releases/145.0b9/mac/en-US/Firefox%20145.0b9.dmg</download_dmg>
+  </release>
   <release>
     <key>firefox-145.0b8</key>
     <build_number>1</build_number>
