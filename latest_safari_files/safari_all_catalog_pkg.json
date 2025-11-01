@@ -1,6 +1,6 @@
 {
     "safari_versions": {
-        "last_updated": "October 31, 2025 11:21 PM EDT",
+        "last_updated": "November 01, 2025 12:03 AM EDT",
         "release": [
             {
                 "os": "BigSur",
@@ -17,17 +17,17 @@
                 "PostDate": "August 15, 2024 07:58 PM"
             },
             {
-                "os": "Sonoma",
-                "version": "18.6",
-                "URL": "https://swcdn.apple.com/content/downloads/52/08/093-01292-A_RB1WZOT879/679v9stbm7s0ccdcebzsfju4kp761uzgl7/Safari18.6SonomaAuto.pkg",
-                "Size": "184.83 MB",
-                "PostDate": "August 05, 2025 06:04 PM"
-            },
-            {
                 "os": "Ventura",
                 "version": "18.6",
                 "URL": "https://swcdn.apple.com/content/downloads/18/08/093-01291-A_8PAQLVAPMY/q858ihftlht01sdwcf9oqqzkuvm12laqlx/Safari18.6VenturaAuto.pkg",
                 "Size": "180.39 MB",
+                "PostDate": "August 05, 2025 06:04 PM"
+            },
+            {
+                "os": "Sonoma",
+                "version": "18.6",
+                "URL": "https://swcdn.apple.com/content/downloads/52/08/093-01292-A_RB1WZOT879/679v9stbm7s0ccdcebzsfju4kp761uzgl7/Safari18.6SonomaAuto.pkg",
+                "Size": "184.83 MB",
                 "PostDate": "August 05, 2025 06:04 PM"
             },
             {
