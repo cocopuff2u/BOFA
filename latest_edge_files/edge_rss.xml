@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>BOFA - Edge RSS Feed</title>
+    <link>https://bofa.cocolabs.dev/</link>
+    <description>Microsoft Edge for Mac</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <atom:link href="" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <ttl>60</ttl>
+    <lastBuildDate>Sun, 02 Nov 2025 05:35:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bofa.cocolabs.dev/images/bofa_logo.png</url>
+      <title>BOFA - Edge RSS Feed</title>
+      <link>https://bofa.cocolabs.dev/</link>
+    </image>
+    <item>
+      <title>New Edge Release</title>
+      <link>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f6ef0103-7312-4ec8-975b-c69a480b52c2/MicrosoftEdge-142.0.3595.53.pkg</link>
+      <description>&lt;br&gt;Version: 142.0.3595.53&lt;br&gt;Release Notes: &lt;a href="https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel"&gt;Release Notes&lt;/a&gt;</description>
+      <pubDate>Sun, 02 Nov 2025 05:35:00 +0000</pubDate>
+      <guid isPermaLink="false">https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f6ef0103-7312-4ec8-975b-c69a480b52c2/MicrosoftEdge-142.0.3595.53.pkg</guid>
+    </item>
+  </channel>
+</rss>

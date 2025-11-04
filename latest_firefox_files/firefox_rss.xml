@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>BOFA - Firefox RSS Feed</title>
+    <link>https://bofa.cocolabs.dev/</link>
+    <description>Mozilla Firefox for Mac</description>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <atom:link href="" rel="self" type="application/rss+xml" />
+    <language>en-US</language>
+    <ttl>60</ttl>
+    <lastBuildDate>Tue, 28 Oct 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://bofa.cocolabs.dev/images/bofa_logo.png</url>
+      <title>BOFA - Firefox RSS Feed</title>
+      <link>https://bofa.cocolabs.dev/</link>
+    </image>
+    <item>
+      <title>New Firefox Release</title>
+      <link>https://download-installer.cdn.mozilla.net/pub/firefox/releases/144.0.2/mac/en-US/Firefox%20144.0.2.pkg</link>
+      <description>&lt;br&gt;Version: 144.0.2&lt;br&gt;Release Notes: &lt;a href="https://www.mozilla.org/en-US/firefox/notes/"&gt;Release Notes&lt;/a&gt;</description>
+      <pubDate>Tue, 28 Oct 2025 00:00:00 +0000</pubDate>
+      <guid isPermaLink="false">https://download-installer.cdn.mozilla.net/pub/firefox/releases/144.0.2/mac/en-US/Firefox%20144.0.2.pkg</guid>
+    </item>
+  </channel>
+</rss>
