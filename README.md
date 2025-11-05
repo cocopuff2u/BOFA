@@ -45,7 +45,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <sup>**Edge**: [**_Raw XML_**](latest_edge_files/edge_latest_versions.xml) [**_Raw YAML_**](latest_edge_files/edge_latest_versions.yaml) [**_Raw JSON_**](latest_edge_files/edge_latest_versions.json) | **Safari**: [**_Raw XML_**](latest_safari_files/safari_latest_versions.xml) [**_Raw YAML_**](latest_safari_files/safari_latest_versions.yaml) [**_Raw JSON_**](latest_safari_files/safari_latest_versions.json)</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">November 04, 2025 06:04 PM EST</code> (Automatically Updated every hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">November 04, 2025 07:13 PM EST</code> (Automatically Updated every hour)_</sup>
 
 </div>
 
@@ -71,6 +71,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **Browser** | **Version** | **CFBundle Identifier** | **Release Notes** |
 |------------|-------------------|---------------------|------------|
 | **Safari** <br><br><b>Released:</b><br><em><code>November 3, 2025</code></em> | `26.1 (20622.2.11)` | `com.apple.Safari` | <div align="center"><a href="https://developer.apple.com/documentation/safari-release-notes/safari-26_1-release-notes"><img src=".github/images/safari.png" alt="Safari Release Notes" width="80"></a> |
+| Safari <sup>Beta</sup> <br><br><b>Released:</b><br><em><code>November 4, 2025</code></em> | `26.2 beta (20623.1.12)` | `com.apple.Safari` | <div align="center"><a href="https://developer.apple.com/documentation/safari-release-notes/safari-26_2-release-notes"><img src=".github/images/safari.png" alt="Safari Release Notes" width="80"></a> |
 | **Safari** <br><br><b>Released:</b><br><em><code>July 29, 2025</code></em> | `18.6 (20621.3.11)` | `com.apple.Safari` | <div align="center"><a href="https://developer.apple.com/documentation/safari-release-notes/safari-18_6-release-notes"><img src=".github/images/safari.png" alt="Safari Release Notes" width="80"></a> |
 | **Safari** <br><br><b>Released:</b><br><em><code>July 29, 2024</code></em> | `17.6 (19618.3.11)` | `com.apple.Safari` | <div align="center"><a href="https://developer.apple.com/documentation/safari-release-notes/safari-17_6-release-notes"><img src=".github/images/safari.png" alt="Safari Release Notes" width="80"></a> |
 | **Safari** <br><br><b>Released:</b><br><em><code>July 24, 2023</code></em> | `16.6 (18615.3.12)` | `com.apple.Safari` | <div align="center"><a href="https://developer.apple.com/documentation/safari-release-notes/safari-16_6-release-notes"><img src=".github/images/safari.png" alt="Safari Release Notes" width="80"></a> |

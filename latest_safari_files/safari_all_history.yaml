@@ -1,4 +1,10 @@
 - major_version: '26'
+  release_notes: doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-26_2-release-notes
+  release_notes_url: https://developer.apple.com/documentation/safari-release-notes/safari-26_2-release-notes
+  title: Safari 26.2 Beta Release Notes
+  released: November 4, 2025
+  version: 26.2 beta (20623.1.12)
+- major_version: '26'
   release_notes: doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-26_1-release-notes
   release_notes_url: https://developer.apple.com/documentation/safari-release-notes/safari-26_1-release-notes
   title: Safari 26.1 Release Notes

@@ -1,5 +1,5 @@
 safari_versions:
-  last_updated: November 04, 2025 06:03 PM EST
+  last_updated: November 04, 2025 07:12 PM EST
   Safari_Technology_Preview:
   - macos: Tahoe
     version: '231'
@@ -16,6 +16,10 @@ safari_versions:
     full_version: 26.1 (20622.2.11)
     released: November 3, 2025
     release_notes: https://developer.apple.com/documentation/safari-release-notes/safari-26_1-release-notes
+  - major_version: '26'
+    full_version: 26.2 beta (20623.1.12)
+    released: November 4, 2025
+    release_notes: https://developer.apple.com/documentation/safari-release-notes/safari-26_2-release-notes
   - major_version: '18'
     full_version: 18.6 (20621.3.11)
     released: July 29, 2025
