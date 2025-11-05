@@ -8,12 +8,19 @@
     <atom:link href="" rel="self" type="application/rss+xml" />
     <language>en-US</language>
     <ttl>60</ttl>
-    <lastBuildDate>Mon, 03 Nov 2025 21:18:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 05 Nov 2025 19:58:00 +0000</lastBuildDate>
     <image>
       <url>https://bofa.cocolabs.dev/images/bofa_logo.png</url>
       <title>BOFA - Chrome RSS Feed</title>
       <link>https://bofa.cocolabs.dev/</link>
     </image>
+    <item>
+      <title>New Chrome Release</title>
+      <link>https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg</link>
+      <description>&lt;br&gt;Version: 142.0.7444.135&lt;br&gt;Release Notes: &lt;a href="https://chromereleases.googleblog.com/"&gt;Release Notes&lt;/a&gt;</description>
+      <pubDate>Wed, 05 Nov 2025 19:58:00 +0000</pubDate>
+      <guid isPermaLink="false">https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg</guid>
+    </item>
     <item>
       <title>New Chrome Release</title>
       <link>https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg</link>
