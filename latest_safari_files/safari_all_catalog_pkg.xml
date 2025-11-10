@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <safari_versions>
-  <last_updated>November 10, 2025 02:03 PM EST</last_updated>
+  <last_updated>November 10, 2025 03:04 PM EST</last_updated>
   <release>
     <os>BigSur</os>
     <version>16.6.1</version>
@@ -16,6 +16,13 @@
     <PostDate>August 15, 2024 07:58 PM</PostDate>
   </release>
   <release>
+    <os>Sonoma</os>
+    <version>18.6</version>
+    <URL>https://swcdn.apple.com/content/downloads/52/08/093-01292-A_RB1WZOT879/679v9stbm7s0ccdcebzsfju4kp761uzgl7/Safari18.6SonomaAuto.pkg</URL>
+    <Size>184.83 MB</Size>
+    <PostDate>August 05, 2025 06:04 PM</PostDate>
+  </release>
+  <release>
     <os>Ventura</os>
     <version>18.6</version>
     <URL>https://swcdn.apple.com/content/downloads/18/08/093-01291-A_8PAQLVAPMY/q858ihftlht01sdwcf9oqqzkuvm12laqlx/Safari18.6VenturaAuto.pkg</URL>
@@ -24,23 +31,16 @@
   </release>
   <release>
     <os>Sonoma</os>
-    <version>18.6</version>
-    <URL>https://swcdn.apple.com/content/downloads/52/08/093-01292-A_RB1WZOT879/679v9stbm7s0ccdcebzsfju4kp761uzgl7/Safari18.6SonomaAuto.pkg</URL>
-    <Size>184.83 MB</Size>
-    <PostDate>August 05, 2025 06:04 PM</PostDate>
-  </release>
-  <release>
-    <os>Sonoma</os>
     <version>26.1</version>
     <URL>https://swcdn.apple.com/content/downloads/00/14/093-27129-A_GQ7GCQGT2T/l197znzyc2y10f4pgggvsyyup6uothc0vy/Safari26.1SonomaAuto.pkg</URL>
     <Size>207.07 MB</Size>
-    <PostDate>November 03, 2025 10:18 PM</PostDate>
+    <PostDate>November 10, 2025 07:00 PM</PostDate>
   </release>
   <release>
     <os>Sequoia</os>
     <version>26.1</version>
     <URL>https://swcdn.apple.com/content/downloads/54/62/093-27777-A_Q4BW7BO062/ryihcoyx7uvif9dcpszpwofuanw13l46zy/Safari26.1SequoiaAuto.pkg</URL>
     <Size>215.58 MB</Size>
-    <PostDate>November 03, 2025 10:19 PM</PostDate>
+    <PostDate>November 10, 2025 07:01 PM</PostDate>
   </release>
 </safari_versions>
