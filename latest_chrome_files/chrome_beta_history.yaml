@@ -1,4 +1,4 @@
-last_updated: November 14, 2025 01:05 AM EST
+last_updated: November 14, 2025 02:04 AM EST
 releases:
 - version: 143.0.7499.25
   release_date: November 12, 2025 06:09 PM
@@ -894,12 +894,12 @@ releases:
   release_date: August 05, 2022 04:11 PM
   end_date: Invalid Time
   fraction: 100%
-  fraction_group: '13'
+  fraction_group: '12'
 - version: 104.0.5112.79
   release_date: August 05, 2022 04:11 PM
   end_date: Invalid Time
   fraction: 100%
-  fraction_group: '12'
+  fraction_group: '13'
 - version: 104.0.5112.79
   release_date: Invalid Time
   end_date: August 05, 2022 04:11 PM
