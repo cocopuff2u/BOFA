@@ -1,8 +1,13 @@
-last_updated: November 14, 2025 03:04 AM EST
+last_updated: November 14, 2025 04:04 AM EST
 releases:
+- version: 144.0.7527.0
+  release_date: November 14, 2025 08:43 AM
+  end_date: N/A
+  fraction: 100%
+  fraction_group: '2'
 - version: 144.0.7526.3
   release_date: November 14, 2025 02:55 AM
-  end_date: N/A
+  end_date: November 14, 2025 08:43 AM
   fraction: 100%
   fraction_group: '2'
 - version: 144.0.7526.0
