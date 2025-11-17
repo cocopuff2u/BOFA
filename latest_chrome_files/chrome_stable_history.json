@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 17, 2025 02:04 AM EST",
+  "last_updated": "November 17, 2025 03:04 AM EST",
   "releases": [
     {
       "version": "142.0.7444.162",
@@ -102,9 +102,9 @@
     {
       "version": "142.0.7444.60",
       "release_date": "October 28, 2025 09:24 PM",
-      "end_date": "November 05, 2025 07:58 PM",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "end_date": "November 03, 2025 09:18 PM",
+      "fraction": "0.5%",
+      "fraction_group": "195"
     },
     {
       "version": "142.0.7444.60",
@@ -116,9 +116,9 @@
     {
       "version": "142.0.7444.60",
       "release_date": "October 28, 2025 09:24 PM",
-      "end_date": "November 03, 2025 09:18 PM",
-      "fraction": "0.5%",
-      "fraction_group": "195"
+      "end_date": "November 05, 2025 07:58 PM",
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "141.0.7390.123",
@@ -529,16 +529,16 @@
     {
       "version": "140.0.7339.133",
       "release_date": "September 09, 2025 08:53 PM",
-      "end_date": "September 11, 2025 07:45 PM",
-      "fraction": "0.5%",
-      "fraction_group": "195"
+      "end_date": "September 17, 2025 11:11 PM",
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "140.0.7339.133",
       "release_date": "September 09, 2025 08:53 PM",
-      "end_date": "September 17, 2025 11:11 PM",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "end_date": "September 11, 2025 07:45 PM",
+      "fraction": "0.5%",
+      "fraction_group": "195"
     },
     {
       "version": "140.0.7339.82",
@@ -1005,16 +1005,16 @@
     {
       "version": "138.0.7204.93",
       "release_date": "June 30, 2025 08:47 PM",
-      "end_date": "July 07, 2025 06:35 PM",
-      "fraction": "0.5%",
-      "fraction_group": "195"
+      "end_date": "July 08, 2025 04:53 PM",
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "138.0.7204.93",
       "release_date": "June 30, 2025 08:47 PM",
-      "end_date": "July 08, 2025 04:53 PM",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "end_date": "July 07, 2025 06:35 PM",
+      "fraction": "0.5%",
+      "fraction_group": "195"
     },
     {
       "version": "138.0.7204.93",
@@ -1069,15 +1069,15 @@
       "version": "138.0.7204.50",
       "release_date": "June 24, 2025 06:00 PM",
       "end_date": "June 30, 2025 08:47 PM",
-      "fraction": "0.5%",
-      "fraction_group": "195"
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "138.0.7204.50",
       "release_date": "June 24, 2025 06:00 PM",
       "end_date": "June 30, 2025 08:47 PM",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "fraction": "0.5%",
+      "fraction_group": "195"
     },
     {
       "version": "137.0.7151.120",
@@ -1271,16 +1271,16 @@
     {
       "version": "137.0.7151.56",
       "release_date": "May 27, 2025 05:17 PM",
-      "end_date": "June 02, 2025 10:50 PM",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "end_date": "June 02, 2025 08:59 PM",
+      "fraction": "0.5%",
+      "fraction_group": "195"
     },
     {
       "version": "137.0.7151.56",
       "release_date": "May 27, 2025 05:17 PM",
-      "end_date": "June 02, 2025 08:59 PM",
-      "fraction": "0.5%",
-      "fraction_group": "195"
+      "end_date": "June 02, 2025 10:50 PM",
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "136.0.7103.114",
@@ -5009,16 +5009,16 @@
     {
       "version": "122.0.6261.112",
       "release_date": "March 05, 2024 09:08 PM",
-      "end_date": "March 12, 2024 09:32 PM",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "end_date": "March 06, 2024 08:51 PM",
+      "fraction": "25%",
+      "fraction_group": "195"
     },
     {
       "version": "122.0.6261.112",
       "release_date": "March 05, 2024 09:08 PM",
-      "end_date": "March 06, 2024 08:51 PM",
-      "fraction": "25%",
-      "fraction_group": "195"
+      "end_date": "March 12, 2024 09:32 PM",
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "122.0.6261.94",
@@ -5086,16 +5086,16 @@
     {
       "version": "122.0.6261.69",
       "release_date": "February 22, 2024 08:54 PM",
-      "end_date": "Invalid Time",
-      "fraction": "50%",
-      "fraction_group": "195"
+      "end_date": "February 27, 2024 06:59 PM",
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "122.0.6261.69",
       "release_date": "February 22, 2024 08:54 PM",
-      "end_date": "February 27, 2024 06:59 PM",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "end_date": "Invalid Time",
+      "fraction": "50%",
+      "fraction_group": "195"
     },
     {
       "version": "121.0.6167.184",
@@ -5233,16 +5233,16 @@
     {
       "version": "121.0.6167.160",
       "release_date": "February 06, 2024 08:49 PM",
-      "end_date": "February 13, 2024 07:04 PM",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "end_date": "February 07, 2024 08:23 PM",
+      "fraction": "25%",
+      "fraction_group": "195"
     },
     {
       "version": "121.0.6167.160",
       "release_date": "February 06, 2024 08:49 PM",
-      "end_date": "February 07, 2024 08:23 PM",
-      "fraction": "25%",
-      "fraction_group": "195"
+      "end_date": "February 13, 2024 07:04 PM",
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "121.0.6167.139",
@@ -5485,16 +5485,16 @@
     {
       "version": "120.0.6099.199",
       "release_date": "January 03, 2024 07:05 PM",
-      "end_date": "January 04, 2024 09:32 PM",
-      "fraction": "25%",
-      "fraction_group": "195"
+      "end_date": "January 09, 2024 06:41 PM",
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "120.0.6099.199",
       "release_date": "January 03, 2024 07:05 PM",
-      "end_date": "January 09, 2024 06:41 PM",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "end_date": "January 04, 2024 09:32 PM",
+      "fraction": "25%",
+      "fraction_group": "195"
     },
     {
       "version": "120.0.6099.129",
@@ -5562,16 +5562,16 @@
     {
       "version": "120.0.6099.109",
       "release_date": "December 12, 2023 08:01 PM",
-      "end_date": "December 13, 2023 08:06 PM",
-      "fraction": "25%",
-      "fraction_group": "195"
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "120.0.6099.109",
       "release_date": "December 12, 2023 08:01 PM",
-      "end_date": "Invalid Time",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "end_date": "December 13, 2023 08:06 PM",
+      "fraction": "25%",
+      "fraction_group": "195"
     },
     {
       "version": "120.0.6099.71",
@@ -5786,16 +5786,16 @@
     {
       "version": "119.0.6045.123",
       "release_date": "November 07, 2023 10:20 PM",
-      "end_date": "November 14, 2023 07:20 PM",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "end_date": "November 08, 2023 09:54 PM",
+      "fraction": "25%",
+      "fraction_group": "195"
     },
     {
       "version": "119.0.6045.123",
       "release_date": "November 07, 2023 10:20 PM",
-      "end_date": "November 08, 2023 09:54 PM",
-      "fraction": "25%",
-      "fraction_group": "195"
+      "end_date": "November 14, 2023 07:20 PM",
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "119.0.6045.105",
@@ -5898,16 +5898,16 @@
     {
       "version": "118.0.5993.117",
       "release_date": "October 24, 2023 08:58 PM",
-      "end_date": "October 25, 2023 08:33 PM",
-      "fraction": "25%",
-      "fraction_group": "195"
+      "end_date": "October 31, 2023 08:30 PM",
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "118.0.5993.117",
       "release_date": "October 24, 2023 08:58 PM",
-      "end_date": "October 31, 2023 08:30 PM",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "end_date": "October 25, 2023 08:33 PM",
+      "fraction": "25%",
+      "fraction_group": "195"
     },
     {
       "version": "118.0.5993.88",
@@ -6227,16 +6227,16 @@
     {
       "version": "117.0.5938.88",
       "release_date": "Invalid Time",
-      "end_date": "Invalid Time",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "end_date": "September 18, 2023 05:42 PM",
+      "fraction": "5%",
+      "fraction_group": "195"
     },
     {
       "version": "117.0.5938.88",
       "release_date": "Invalid Time",
-      "end_date": "September 18, 2023 05:42 PM",
-      "fraction": "5%",
-      "fraction_group": "195"
+      "end_date": "Invalid Time",
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "116.0.5845.187",
@@ -6270,15 +6270,15 @@
       "version": "117.0.5938.62",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "10%",
-      "fraction_group": "195"
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "117.0.5938.62",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "fraction": "10%",
+      "fraction_group": "195"
     },
     {
       "version": "116.0.5845.187",
@@ -6403,15 +6403,15 @@
       "version": "116.0.5845.140",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "25%",
-      "fraction_group": "195"
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "116.0.5845.140",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "fraction": "25%",
+      "fraction_group": "195"
     },
     {
       "version": "116.0.5845.110",
@@ -6564,15 +6564,15 @@
       "version": "115.0.5790.170",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "25%",
-      "fraction_group": "195"
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "115.0.5790.170",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "fraction": "25%",
+      "fraction_group": "195"
     },
     {
       "version": "115.0.5790.114",
@@ -6634,15 +6634,15 @@
       "version": "115.0.5790.102",
       "release_date": "Invalid Time",
       "end_date": "July 25, 2023 11:01 PM",
-      "fraction": "25%",
-      "fraction_group": "195"
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "115.0.5790.102",
       "release_date": "Invalid Time",
       "end_date": "July 25, 2023 11:01 PM",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "fraction": "25%",
+      "fraction_group": "195"
     },
     {
       "version": "114.0.5735.198",
@@ -6914,15 +6914,15 @@
       "version": "113.0.5672.126",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "fraction": "25%",
+      "fraction_group": "195"
     },
     {
       "version": "113.0.5672.126",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "25%",
-      "fraction_group": "195"
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "113.0.5672.92",
@@ -6991,15 +6991,15 @@
       "version": "113.0.5672.63",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "10%",
-      "fraction_group": "195"
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "113.0.5672.63",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "fraction": "10%",
+      "fraction_group": "195"
     },
     {
       "version": "112.0.5615.137",
@@ -7201,15 +7201,15 @@
       "version": "111.0.5563.146",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "fraction": "25%",
+      "fraction_group": "195"
     },
     {
       "version": "111.0.5563.146",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "25%",
-      "fraction_group": "195"
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "111.0.5563.110",
@@ -7236,15 +7236,15 @@
       "version": "111.0.5563.110",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "fraction": "25%",
+      "fraction_group": "195"
     },
     {
       "version": "111.0.5563.110",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "25%",
-      "fraction_group": "195"
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "111.0.5563.64",
@@ -7669,18 +7669,18 @@
     {
       "version": "108.0.5359.94",
       "release_date": "Invalid Time",
+      "end_date": "Invalid Time",
+      "fraction": "25%",
+      "fraction_group": "195"
+    },
+    {
+      "version": "108.0.5359.94",
+      "release_date": "Invalid Time",
       "end_date": "December 07, 2022 05:09 PM",
       "fraction": "100%",
       "fraction_group": "194"
     },
     {
-      "version": "108.0.5359.94",
-      "release_date": "Invalid Time",
-      "end_date": "Invalid Time",
-      "fraction": "25%",
-      "fraction_group": "195"
-    },
-    {
       "version": "107.0.5304.121",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
@@ -7872,16 +7872,16 @@
     {
       "version": "107.0.5304.62",
       "release_date": "Invalid Time",
-      "end_date": "Invalid Time",
-      "fraction": "10%",
-      "fraction_group": "195"
+      "end_date": "October 27, 2022 08:27 PM",
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "107.0.5304.62",
       "release_date": "Invalid Time",
-      "end_date": "October 27, 2022 08:27 PM",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "end_date": "Invalid Time",
+      "fraction": "10%",
+      "fraction_group": "195"
     },
     {
       "version": "106.0.5249.119",
@@ -7915,15 +7915,15 @@
       "version": "106.0.5249.119",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "fraction": "25%",
+      "fraction_group": "195"
     },
     {
       "version": "106.0.5249.119",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "25%",
-      "fraction_group": "195"
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "106.0.5249.103",
@@ -8132,15 +8132,15 @@
       "version": "105.0.5195.102",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "25%",
-      "fraction_group": "195"
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "105.0.5195.102",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "fraction": "25%",
+      "fraction_group": "195"
     },
     {
       "version": "104.0.5112.101",
@@ -8167,15 +8167,15 @@
       "version": "105.0.5195.52",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "fraction": "10%",
+      "fraction_group": "195"
     },
     {
       "version": "105.0.5195.52",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "10%",
-      "fraction_group": "195"
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "104.0.5112.101",
@@ -8405,15 +8405,15 @@
       "version": "103.0.5060.53",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "fraction": "10%",
+      "fraction_group": "195"
     },
     {
       "version": "103.0.5060.53",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "10%",
-      "fraction_group": "195"
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "102.0.5005.115",
@@ -8545,15 +8545,15 @@
       "version": "101.0.4951.64",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "25%",
-      "fraction_group": "195"
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "101.0.4951.64",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "fraction": "25%",
+      "fraction_group": "195"
     },
     {
       "version": "101.0.4951.54",
@@ -8594,15 +8594,15 @@
       "version": "101.0.4951.54",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "fraction": "10%",
+      "fraction_group": "195"
     },
     {
       "version": "101.0.4951.54",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "10%",
-      "fraction_group": "195"
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "100.0.4896.127",
@@ -8615,15 +8615,15 @@
       "version": "101.0.4951.41",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "10%",
-      "fraction_group": "195"
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "101.0.4951.41",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "fraction": "10%",
+      "fraction_group": "195"
     },
     {
       "version": "100.0.4896.127",
@@ -8832,15 +8832,15 @@
       "version": "99.0.4844.84",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "100%",
-      "fraction_group": "194"
+      "fraction": "25%",
+      "fraction_group": "195"
     },
     {
       "version": "99.0.4844.84",
       "release_date": "Invalid Time",
       "end_date": "Invalid Time",
-      "fraction": "25%",
-      "fraction_group": "195"
+      "fraction": "100%",
+      "fraction_group": "194"
     },
     {
       "version": "99.0.4844.83",
@@ -13080,16 +13080,16 @@
     {
       "version": "74.0.3729.108",
       "release_date": "April 23, 2019 08:54 PM",
-      "end_date": "April 24, 2019 03:07 PM",
+      "end_date": "April 24, 2019 03:06 PM",
       "fraction": "100%",
-      "fraction_group": "73"
+      "fraction_group": "75"
     },
     {
       "version": "74.0.3729.108",
       "release_date": "April 23, 2019 08:54 PM",
-      "end_date": "April 24, 2019 03:06 PM",
+      "end_date": "April 24, 2019 03:07 PM",
       "fraction": "100%",
-      "fraction_group": "75"
+      "fraction_group": "73"
     },
     {
       "version": "74.0.3729.108",
