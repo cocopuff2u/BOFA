@@ -1,6 +1,12 @@
 {
-  "last_updated": "November 17, 2025 02:12 PM EST",
+  "last_updated": "November 17, 2025 03:03 PM EST",
   "releases": [
+    {
+      "version": "146.0b4",
+      "date": "2025-11-17",
+      "download_pkg": "https://ftp.mozilla.org/pub/firefox/releases/146.0b4/mac/en-US/Firefox%20146.0b4.pkg",
+      "download_dmg": "https://ftp.mozilla.org/pub/firefox/releases/146.0b4/mac/en-US/Firefox%20146.0b4.dmg"
+    },
     {
       "version": "146.0b3",
       "date": "2025-11-14",
