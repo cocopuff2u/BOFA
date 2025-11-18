@@ -1,6 +1,18 @@
 {
-  "last_updated": "November 18, 2025 09:03 AM EST",
+  "last_updated": "November 18, 2025 10:03 AM EST",
   "releases": [
+    {
+      "key": "firefox-145.0.1",
+      "build_number": 1,
+      "category": "stability",
+      "date": "2025-11-18",
+      "description": null,
+      "is_security_driven": false,
+      "product": "firefox",
+      "version": "145.0.1",
+      "download_pkg": "https://ftp.mozilla.org/pub/firefox/releases/145.0.1/mac/en-US/Firefox%20145.0.1.pkg",
+      "download_dmg": "https://ftp.mozilla.org/pub/firefox/releases/145.0.1/mac/en-US/Firefox%20145.0.1.dmg"
+    },
     {
       "key": "firefox-146.0b4",
       "build_number": 1,
