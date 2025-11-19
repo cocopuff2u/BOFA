@@ -1,5 +1,15 @@
-last_updated: November 19, 2025 12:03 PM EST
+last_updated: November 19, 2025 01:04 PM EST
 releases:
+- key: firefox-146.0b5
+  build_number: 1
+  category: dev
+  date: '2025-11-19'
+  description: null
+  is_security_driven: false
+  product: firefox
+  version: 146.0b5
+  download_pkg: https://ftp.mozilla.org/pub/firefox/releases/146.0b5/mac/en-US/Firefox%20146.0b5.pkg
+  download_dmg: https://ftp.mozilla.org/pub/firefox/releases/146.0b5/mac/en-US/Firefox%20146.0b5.dmg
 - key: firefox-145.0.1
   build_number: 1
   category: stability

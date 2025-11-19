@@ -1,5 +1,9 @@
-last_updated: November 19, 2025 12:03 PM EST
+last_updated: November 19, 2025 01:04 PM EST
 releases:
+- version: 146.0b5
+  date: '2025-11-19'
+  download_pkg: https://ftp.mozilla.org/pub/firefox/releases/146.0b5/mac/en-US/Firefox%20146.0b5.pkg
+  download_dmg: https://ftp.mozilla.org/pub/firefox/releases/146.0b5/mac/en-US/Firefox%20146.0b5.dmg
 - version: 146.0b4
   date: '2025-11-17'
   download_pkg: https://ftp.mozilla.org/pub/firefox/releases/146.0b4/mac/en-US/Firefox%20146.0b4.pkg
