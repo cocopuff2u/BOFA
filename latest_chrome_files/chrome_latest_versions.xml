@@ -1,14 +1,14 @@
 <?xml version="1.0" ?>
 <mac_versions>
-  <last_updated>November 19, 2025 03:03 PM EST</last_updated>
+  <last_updated>November 19, 2025 04:03 PM EST</last_updated>
   <stable>
     <version>142.0.7444.176</version>
-    <release_time>November 17, 2025 08:46 PM EST</release_time>
+    <release_time>November 19, 2025 08:24 PM EST</release_time>
     <download_link>https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg</download_link>
   </stable>
   <extended>
-    <version>142.0.7444.162</version>
-    <release_time>November 17, 2025 08:46 PM EST</release_time>
+    <version>142.0.7444.176</version>
+    <release_time>November 19, 2025 08:24 PM EST</release_time>
     <download_link>https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg</download_link>
   </extended>
   <beta>
