@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf8'?>
 <mac_versions>
-  <last_updated>November 19, 2025 11:04 AM EST</last_updated>
+  <last_updated>November 19, 2025 12:03 PM EST</last_updated>
   <stable>
     <version>145.0.1</version>
     <release_time>November 18, 2025 12:00 AM EST</release_time>
@@ -12,9 +12,9 @@
     <download>https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0b4/mac/en-US/Firefox%20146.0b4.pkg</download>
   </beta>
   <dev>
-    <version>146.0b4</version>
-    <release_time>November 18, 2025 12:00 AM EST</release_time>
-    <download>https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b4/mac/en-US/Firefox%20146.0b4.dmg</download>
+    <version>146.0b5</version>
+    <release_time>November 19, 2025 12:00 AM EST</release_time>
+    <download>https://download-installer.cdn.mozilla.net/pub/devedition/releases/146.0b5/mac/en-US/Firefox%20146.0b5.dmg</download>
   </dev>
   <esr>
     <version>140.5.0</version>
