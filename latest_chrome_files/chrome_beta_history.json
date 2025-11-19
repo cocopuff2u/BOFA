@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 18, 2025 10:22 PM EST",
+  "last_updated": "November 18, 2025 11:05 PM EST",
   "releases": [
     {
       "version": "143.0.7499.25",
@@ -1252,14 +1252,14 @@
       "release_date": "August 05, 2022 04:11 PM",
       "end_date": "Invalid Time",
       "fraction": "100%",
-      "fraction_group": "12"
+      "fraction_group": "13"
     },
     {
       "version": "104.0.5112.79",
       "release_date": "August 05, 2022 04:11 PM",
       "end_date": "Invalid Time",
       "fraction": "100%",
-      "fraction_group": "13"
+      "fraction_group": "12"
     },
     {
       "version": "104.0.5112.79",
