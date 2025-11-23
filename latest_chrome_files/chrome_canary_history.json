@@ -1,10 +1,17 @@
 {
-  "last_updated": "November 23, 2025 03:04 PM EST",
+  "last_updated": "November 23, 2025 04:03 PM EST",
   "releases": [
+    {
+      "version": "144.0.7542.0",
+      "release_date": "November 23, 2025 08:55 PM",
+      "end_date": "N/A",
+      "fraction": "100%",
+      "fraction_group": "2"
+    },
     {
       "version": "144.0.7541.0",
       "release_date": "November 23, 2025 09:01 AM",
-      "end_date": "N/A",
+      "end_date": "November 23, 2025 08:55 PM",
       "fraction": "100%",
       "fraction_group": "2"
     },
