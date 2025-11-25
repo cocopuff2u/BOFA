@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='utf8'?>
 <firefox_all_history>
-  <last_updated>November 25, 2025 08:13 AM EST</last_updated>
+  <last_updated>November 25, 2025 09:03 AM EST</last_updated>
+  <release>
+    <key>firefox-145.0.2</key>
+    <build_number>1</build_number>
+    <category>stability</category>
+    <date>2025-11-25</date>
+    <description>None</description>
+    <is_security_driven>False</is_security_driven>
+    <product>firefox</product>
+    <version>145.0.2</version>
+    <download_pkg>https://ftp.mozilla.org/pub/firefox/releases/145.0.2/mac/en-US/Firefox%20145.0.2.pkg</download_pkg>
+    <download_dmg>https://ftp.mozilla.org/pub/firefox/releases/145.0.2/mac/en-US/Firefox%20145.0.2.dmg</download_dmg>
+  </release>
   <release>
     <key>firefox-146.0b7</key>
     <build_number>1</build_number>
