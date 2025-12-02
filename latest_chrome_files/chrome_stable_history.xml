@@ -1,24 +1,52 @@
 <?xml version="1.0" ?>
 <releases>
-  <last_updated>December 02, 2025 01:04 PM EST</last_updated>
+  <last_updated>December 02, 2025 02:04 PM EST</last_updated>
+  <release>
+    <version>142.0.7444.176</version>
+    <release_date>December 02, 2025 06:33 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>80%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
+  <release>
+    <version>142.0.7444.177</version>
+    <release_date>December 02, 2025 06:33 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>10%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
+  <release>
+    <version>143.0.7499.40</version>
+    <release_date>December 02, 2025 06:33 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>10%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
+  <release>
+    <version>143.0.7499.41</version>
+    <release_date>December 02, 2025 06:33 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
+  </release>
   <release>
     <version>142.0.7444.176</version>
     <release_date>November 20, 2025 07:44 PM</release_date>
-    <end_date>N/A</end_date>
+    <end_date>December 02, 2025 06:33 PM</end_date>
     <fraction>99%</fraction>
     <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>142.0.7444.177</version>
     <release_date>November 20, 2025 07:44 PM</release_date>
-    <end_date>N/A</end_date>
+    <end_date>December 02, 2025 06:33 PM</end_date>
     <fraction>0.5%</fraction>
     <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>143.0.7499.40</version>
     <release_date>November 20, 2025 07:44 PM</release_date>
-    <end_date>N/A</end_date>
+    <end_date>December 02, 2025 06:33 PM</end_date>
     <fraction>0.5%</fraction>
     <fraction_group>195</fraction_group>
   </release>
@@ -46,7 +74,7 @@
   <release>
     <version>142.0.7444.176</version>
     <release_date>November 17, 2025 08:46 PM</release_date>
-    <end_date>N/A</end_date>
+    <end_date>December 02, 2025 06:33 PM</end_date>
     <fraction>100%</fraction>
     <fraction_group>194</fraction_group>
   </release>

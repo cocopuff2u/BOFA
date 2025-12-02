@@ -1,24 +1,52 @@
 {
-  "last_updated": "December 02, 2025 01:04 PM EST",
+  "last_updated": "December 02, 2025 02:04 PM EST",
   "releases": [
     {
       "version": "142.0.7444.176",
-      "release_date": "November 20, 2025 07:44 PM",
+      "release_date": "December 02, 2025 06:33 PM",
       "end_date": "N/A",
+      "fraction": "80%",
+      "fraction_group": "195"
+    },
+    {
+      "version": "142.0.7444.177",
+      "release_date": "December 02, 2025 06:33 PM",
+      "end_date": "N/A",
+      "fraction": "10%",
+      "fraction_group": "195"
+    },
+    {
+      "version": "143.0.7499.40",
+      "release_date": "December 02, 2025 06:33 PM",
+      "end_date": "N/A",
+      "fraction": "10%",
+      "fraction_group": "195"
+    },
+    {
+      "version": "143.0.7499.41",
+      "release_date": "December 02, 2025 06:33 PM",
+      "end_date": "N/A",
+      "fraction": "100%",
+      "fraction_group": "194"
+    },
+    {
+      "version": "142.0.7444.176",
+      "release_date": "November 20, 2025 07:44 PM",
+      "end_date": "December 02, 2025 06:33 PM",
       "fraction": "99%",
       "fraction_group": "195"
     },
     {
       "version": "142.0.7444.177",
       "release_date": "November 20, 2025 07:44 PM",
-      "end_date": "N/A",
+      "end_date": "December 02, 2025 06:33 PM",
       "fraction": "0.5%",
       "fraction_group": "195"
     },
     {
       "version": "143.0.7499.40",
       "release_date": "November 20, 2025 07:44 PM",
-      "end_date": "N/A",
+      "end_date": "December 02, 2025 06:33 PM",
       "fraction": "0.5%",
       "fraction_group": "195"
     },
@@ -46,7 +74,7 @@
     {
       "version": "142.0.7444.176",
       "release_date": "November 17, 2025 08:46 PM",
-      "end_date": "N/A",
+      "end_date": "December 02, 2025 06:33 PM",
       "fraction": "100%",
       "fraction_group": "194"
     },
