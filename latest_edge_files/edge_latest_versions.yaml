@@ -1,14 +1,14 @@
 EdgeInsiderVersions:
-  last_updated: December 08, 2025 06:03 PM EST
+  last_updated: December 08, 2025 07:13 PM EST
   Version:
   - Channel: current
     Date: December 06, 2025 12:21 PM EST
     Location: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d45a1a8b-e452-454b-8e78-5f6103c85ea4/MicrosoftEdge-143.0.3650.66.pkg
     Version: 143.0.3650.66
   - Channel: canary
-    Date: December 08, 2025 01:29 PM EST
-    Location: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/bfd65c85-d305-49ef-81f3-167b85381407/MicrosoftEdgeCanary-145.0.3725.0.pkg
-    Version: 145.0.3725.0
+    Date: December 09, 2025 12:12 AM EST
+    Location: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/50498847-aba7-4035-9cc8-831c630fd6f7/MicrosoftEdgeCanary-145.0.3726.0.pkg
+    Version: 145.0.3726.0
   - Channel: dev
     Date: December 02, 2025 11:17 PM EST
     Location: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5c46eae1-1d65-4e59-b5c2-a2bb65b4d66a/MicrosoftEdgeDev-144.0.3705.0.pkg
