@@ -1,5 +1,9 @@
-last_updated: December 12, 2025 11:03 AM EST
+last_updated: December 12, 2025 12:03 PM EST
 releases:
+- version: 147.0b3
+  date: '2025-12-12'
+  download_pkg: https://ftp.mozilla.org/pub/firefox/releases/147.0b3/mac/en-US/Firefox%20147.0b3.pkg
+  download_dmg: https://ftp.mozilla.org/pub/firefox/releases/147.0b3/mac/en-US/Firefox%20147.0b3.dmg
 - version: 147.0b2
   date: '2025-12-10'
   download_pkg: https://ftp.mozilla.org/pub/firefox/releases/147.0b2/mac/en-US/Firefox%20147.0b2.pkg
