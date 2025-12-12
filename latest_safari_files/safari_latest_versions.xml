@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <safari_versions>
-  <last_updated>December 12, 2025 03:03 PM EST</last_updated>
+  <last_updated>December 12, 2025 04:03 PM EST</last_updated>
   <Safari_Technology_Preview>
     <macos>Tahoe</macos>
     <version>233</version>
@@ -18,7 +18,7 @@
   <release>
     <major_version>26</major_version>
     <full_version>26.2 (20623.1.14)</full_version>
-    <released>December 8, 2025</released>
+    <released>December 12, 2025</released>
     <release_notes>https://developer.apple.com/documentation/safari-release-notes/safari-26_2-release-notes</release_notes>
   </release>
   <release>
