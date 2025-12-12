@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <releases>
-  <last_updated>December 12, 2025 01:04 PM EST</last_updated>
+  <last_updated>December 12, 2025 02:03 PM EST</last_updated>
   <release>
     <version>143.0.7499.109</version>
     <release_date>December 10, 2025 06:11 PM</release_date>
@@ -123,16 +123,16 @@
   <release>
     <version>142.0.7444.176</version>
     <release_date>November 17, 2025 08:46 PM</release_date>
-    <end_date>November 19, 2025 08:24 PM</end_date>
-    <fraction>25%</fraction>
-    <fraction_group>195</fraction_group>
+    <end_date>December 02, 2025 06:33 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>142.0.7444.176</version>
     <release_date>November 17, 2025 08:46 PM</release_date>
-    <end_date>December 02, 2025 06:33 PM</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <end_date>November 19, 2025 08:24 PM</end_date>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>142.0.7444.162</version>
@@ -186,16 +186,16 @@
   <release>
     <version>142.0.7444.135</version>
     <release_date>November 05, 2025 07:58 PM</release_date>
-    <end_date>November 10, 2025 09:31 PM</end_date>
-    <fraction>25%</fraction>
-    <fraction_group>195</fraction_group>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>142.0.7444.135</version>
     <release_date>November 05, 2025 07:58 PM</release_date>
-    <end_date>Invalid Time</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <end_date>November 10, 2025 09:31 PM</end_date>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>142.0.7444.60</version>
@@ -235,9 +235,9 @@
   <release>
     <version>142.0.7444.60</version>
     <release_date>October 28, 2025 09:24 PM</release_date>
-    <end_date>October 31, 2025 12:06 PM</end_date>
-    <fraction>9.9%</fraction>
-    <fraction_group>195</fraction_group>
+    <end_date>November 05, 2025 07:58 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>142.0.7444.60</version>
@@ -249,9 +249,9 @@
   <release>
     <version>142.0.7444.60</version>
     <release_date>October 28, 2025 09:24 PM</release_date>
-    <end_date>November 05, 2025 07:58 PM</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <end_date>October 31, 2025 12:06 PM</end_date>
+    <fraction>9.9%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>141.0.7390.123</version>
@@ -655,9 +655,9 @@
   <release>
     <version>140.0.7339.133</version>
     <release_date>September 09, 2025 08:53 PM</release_date>
-    <end_date>September 17, 2025 11:11 PM</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <end_date>September 11, 2025 07:45 PM</end_date>
+    <fraction>0.5%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>140.0.7339.133</version>
@@ -669,9 +669,9 @@
   <release>
     <version>140.0.7339.133</version>
     <release_date>September 09, 2025 08:53 PM</release_date>
-    <end_date>September 11, 2025 07:45 PM</end_date>
-    <fraction>0.5%</fraction>
-    <fraction_group>195</fraction_group>
+    <end_date>September 17, 2025 11:11 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>140.0.7339.82</version>
@@ -726,15 +726,15 @@
     <version>140.0.7339.81</version>
     <release_date>September 02, 2025 09:00 PM</release_date>
     <end_date>September 09, 2025 08:53 PM</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <fraction>0.5%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>140.0.7339.81</version>
     <release_date>September 02, 2025 09:00 PM</release_date>
     <end_date>September 09, 2025 08:53 PM</end_date>
-    <fraction>0.5%</fraction>
-    <fraction_group>195</fraction_group>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>139.0.7258.155</version>
@@ -1145,16 +1145,16 @@
   <release>
     <version>138.0.7204.93</version>
     <release_date>June 30, 2025 08:47 PM</release_date>
-    <end_date>July 08, 2025 04:53 PM</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <end_date>July 07, 2025 06:35 PM</end_date>
+    <fraction>0.5%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>138.0.7204.93</version>
     <release_date>June 30, 2025 08:47 PM</release_date>
-    <end_date>July 07, 2025 06:35 PM</end_date>
-    <fraction>0.5%</fraction>
-    <fraction_group>195</fraction_group>
+    <end_date>July 08, 2025 04:53 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>137.0.7151.120</version>
@@ -1202,15 +1202,15 @@
     <version>138.0.7204.50</version>
     <release_date>June 24, 2025 06:00 PM</release_date>
     <end_date>June 30, 2025 08:47 PM</end_date>
-    <fraction>0.5%</fraction>
-    <fraction_group>195</fraction_group>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>138.0.7204.50</version>
     <release_date>June 24, 2025 06:00 PM</release_date>
     <end_date>June 30, 2025 08:47 PM</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <fraction>0.5%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>137.0.7151.120</version>
@@ -1404,16 +1404,16 @@
   <release>
     <version>137.0.7151.56</version>
     <release_date>May 27, 2025 05:17 PM</release_date>
-    <end_date>June 02, 2025 10:50 PM</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <end_date>June 02, 2025 08:59 PM</end_date>
+    <fraction>0.5%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>137.0.7151.56</version>
     <release_date>May 27, 2025 05:17 PM</release_date>
-    <end_date>June 02, 2025 08:59 PM</end_date>
-    <fraction>0.5%</fraction>
-    <fraction_group>195</fraction_group>
+    <end_date>June 02, 2025 10:50 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>136.0.7103.114</version>
@@ -1509,16 +1509,16 @@
   <release>
     <version>136.0.7103.93</version>
     <release_date>May 06, 2025 05:50 PM</release_date>
-    <end_date>May 08, 2025 07:28 PM</end_date>
-    <fraction>25%</fraction>
-    <fraction_group>195</fraction_group>
+    <end_date>May 14, 2025 04:40 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>136.0.7103.93</version>
     <release_date>May 06, 2025 05:50 PM</release_date>
-    <end_date>May 14, 2025 04:40 PM</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <end_date>May 08, 2025 07:28 PM</end_date>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>135.0.7049.115</version>
@@ -4492,14 +4492,14 @@
     <version>124.0.6367.119</version>
     <release_date>May 07, 2024 05:59 PM</release_date>
     <end_date>May 08, 2024 05:59 PM</end_date>
-    <fraction>25%</fraction>
+    <fraction>50%</fraction>
     <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>124.0.6367.119</version>
     <release_date>May 07, 2024 05:59 PM</release_date>
     <end_date>May 08, 2024 05:59 PM</end_date>
-    <fraction>50%</fraction>
+    <fraction>25%</fraction>
     <fraction_group>195</fraction_group>
   </release>
   <release>
@@ -4939,16 +4939,16 @@
   <release>
     <version>123.0.6312.87</version>
     <release_date>March 26, 2024 05:50 PM</release_date>
-    <end_date>April 02, 2024 08:11 PM</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <end_date>March 27, 2024 07:53 PM</end_date>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>123.0.6312.87</version>
     <release_date>March 26, 2024 05:50 PM</release_date>
-    <end_date>March 27, 2024 07:53 PM</end_date>
-    <fraction>25%</fraction>
-    <fraction_group>195</fraction_group>
+    <end_date>April 02, 2024 08:11 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>123.0.6312.59</version>
@@ -5142,16 +5142,16 @@
   <release>
     <version>122.0.6261.112</version>
     <release_date>March 05, 2024 09:08 PM</release_date>
-    <end_date>March 06, 2024 08:51 PM</end_date>
-    <fraction>25%</fraction>
-    <fraction_group>195</fraction_group>
+    <end_date>March 12, 2024 09:32 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>122.0.6261.112</version>
     <release_date>March 05, 2024 09:08 PM</release_date>
-    <end_date>March 12, 2024 09:32 PM</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <end_date>March 06, 2024 08:51 PM</end_date>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>122.0.6261.94</version>
@@ -5191,16 +5191,16 @@
   <release>
     <version>122.0.6261.94</version>
     <release_date>February 27, 2024 06:59 PM</release_date>
-    <end_date>March 05, 2024 09:08 PM</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <end_date>February 28, 2024 09:49 PM</end_date>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>122.0.6261.94</version>
     <release_date>February 27, 2024 06:59 PM</release_date>
-    <end_date>February 28, 2024 09:49 PM</end_date>
-    <fraction>25%</fraction>
-    <fraction_group>195</fraction_group>
+    <end_date>March 05, 2024 09:08 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>122.0.6261.69</version>
@@ -5324,16 +5324,16 @@
   <release>
     <version>121.0.6167.184</version>
     <release_date>February 13, 2024 07:04 PM</release_date>
-    <end_date>February 20, 2024 10:50 PM</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <end_date>February 14, 2024 07:12 PM</end_date>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>121.0.6167.184</version>
     <release_date>February 13, 2024 07:04 PM</release_date>
-    <end_date>February 14, 2024 07:12 PM</end_date>
-    <fraction>25%</fraction>
-    <fraction_group>195</fraction_group>
+    <end_date>February 20, 2024 10:50 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>121.0.6167.160</version>
@@ -5366,16 +5366,16 @@
   <release>
     <version>121.0.6167.160</version>
     <release_date>February 06, 2024 08:49 PM</release_date>
-    <end_date>February 13, 2024 07:04 PM</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <end_date>February 07, 2024 08:23 PM</end_date>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>121.0.6167.160</version>
     <release_date>February 06, 2024 08:49 PM</release_date>
-    <end_date>February 07, 2024 08:23 PM</end_date>
-    <fraction>25%</fraction>
-    <fraction_group>195</fraction_group>
+    <end_date>February 13, 2024 07:04 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>121.0.6167.139</version>
@@ -5618,16 +5618,16 @@
   <release>
     <version>120.0.6099.199</version>
     <release_date>January 03, 2024 07:05 PM</release_date>
-    <end_date>January 09, 2024 06:41 PM</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <end_date>January 04, 2024 09:32 PM</end_date>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>120.0.6099.199</version>
     <release_date>January 03, 2024 07:05 PM</release_date>
-    <end_date>January 04, 2024 09:32 PM</end_date>
-    <fraction>25%</fraction>
-    <fraction_group>195</fraction_group>
+    <end_date>January 09, 2024 06:41 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>120.0.6099.129</version>
@@ -6060,15 +6060,15 @@
     <version>118.0.5993.96</version>
     <release_date>October 19, 2023 06:13 PM</release_date>
     <end_date>October 24, 2023 08:58 PM</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <fraction>10%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>118.0.5993.96</version>
     <release_date>October 19, 2023 06:13 PM</release_date>
     <end_date>October 24, 2023 08:58 PM</end_date>
-    <fraction>10%</fraction>
-    <fraction_group>195</fraction_group>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>118.0.5993.70</version>
@@ -6360,16 +6360,16 @@
   <release>
     <version>117.0.5938.88</version>
     <release_date>Invalid Time</release_date>
-    <end_date>Invalid Time</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <end_date>September 18, 2023 05:42 PM</end_date>
+    <fraction>5%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>117.0.5938.88</version>
     <release_date>Invalid Time</release_date>
-    <end_date>September 18, 2023 05:42 PM</end_date>
-    <fraction>5%</fraction>
-    <fraction_group>195</fraction_group>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>116.0.5845.187</version>
@@ -6403,15 +6403,15 @@
     <version>117.0.5938.62</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <fraction>10%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>117.0.5938.62</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>10%</fraction>
-    <fraction_group>195</fraction_group>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>116.0.5845.187</version>
@@ -6732,15 +6732,15 @@
     <version>115.0.5790.114</version>
     <release_date>July 25, 2023 11:01 PM</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>115.0.5790.114</version>
     <release_date>July 25, 2023 11:01 PM</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>25%</fraction>
-    <fraction_group>195</fraction_group>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>114.0.5735.248</version>
@@ -6816,15 +6816,15 @@
     <version>115.0.5790.98</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>10%</fraction>
-    <fraction_group>195</fraction_group>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>115.0.5790.98</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <fraction>10%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>115.0.5790.98</version>
@@ -7047,15 +7047,15 @@
     <version>113.0.5672.126</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>25%</fraction>
-    <fraction_group>195</fraction_group>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>113.0.5672.126</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>113.0.5672.92</version>
@@ -7180,15 +7180,15 @@
     <version>112.0.5615.137</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>25%</fraction>
-    <fraction_group>195</fraction_group>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>112.0.5615.137</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>112.0.5615.121</version>
@@ -7334,15 +7334,15 @@
     <version>111.0.5563.146</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>25%</fraction>
-    <fraction_group>195</fraction_group>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>111.0.5563.146</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>111.0.5563.110</version>
@@ -7495,15 +7495,15 @@
     <version>110.0.5481.177</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>110.0.5481.177</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>25%</fraction>
-    <fraction_group>195</fraction_group>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>110.0.5481.100</version>
@@ -7802,18 +7802,18 @@
   <release>
     <version>108.0.5359.94</version>
     <release_date>Invalid Time</release_date>
-    <end_date>Invalid Time</end_date>
-    <fraction>25%</fraction>
-    <fraction_group>195</fraction_group>
-  </release>
-  <release>
-    <version>108.0.5359.94</version>
-    <release_date>Invalid Time</release_date>
     <end_date>December 07, 2022 05:09 PM</end_date>
     <fraction>100%</fraction>
     <fraction_group>194</fraction_group>
   </release>
   <release>
+    <version>108.0.5359.94</version>
+    <release_date>Invalid Time</release_date>
+    <end_date>Invalid Time</end_date>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
+  <release>
     <version>107.0.5304.121</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
@@ -7894,15 +7894,15 @@
     <version>107.0.5304.121</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>25%</fraction>
-    <fraction_group>195</fraction_group>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>107.0.5304.121</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>107.0.5304.110</version>
@@ -7929,15 +7929,15 @@
     <version>107.0.5304.110</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>25%</fraction>
-    <fraction_group>195</fraction_group>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>107.0.5304.110</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>107.0.5304.87</version>
@@ -8048,15 +8048,15 @@
     <version>106.0.5249.119</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>25%</fraction>
-    <fraction_group>195</fraction_group>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>106.0.5249.119</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>106.0.5249.103</version>
@@ -8104,15 +8104,15 @@
     <version>106.0.5249.103</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>5%</fraction>
-    <fraction_group>195</fraction_group>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>106.0.5249.103</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <fraction>5%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>105.0.5195.125</version>
@@ -8188,15 +8188,15 @@
     <version>106.0.5249.61</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <fraction>10%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>106.0.5249.61</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>10%</fraction>
-    <fraction_group>195</fraction_group>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>105.0.5195.125</version>
@@ -8398,15 +8398,15 @@
     <version>104.0.5112.79</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>10%</fraction>
-    <fraction_group>195</fraction_group>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>104.0.5112.79</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <fraction>10%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>103.0.5060.134</version>
@@ -8474,16 +8474,16 @@
   <release>
     <version>103.0.5060.114</version>
     <release_date>Invalid Time</release_date>
-    <end_date>Invalid Time</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <end_date>July 05, 2022 04:21 PM</end_date>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>103.0.5060.114</version>
     <release_date>Invalid Time</release_date>
-    <end_date>July 05, 2022 04:21 PM</end_date>
-    <fraction>25%</fraction>
-    <fraction_group>195</fraction_group>
+    <end_date>Invalid Time</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>103.0.5060.53</version>
@@ -8538,15 +8538,15 @@
     <version>103.0.5060.53</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <fraction>10%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>103.0.5060.53</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>10%</fraction>
-    <fraction_group>195</fraction_group>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>102.0.5005.115</version>
@@ -8727,15 +8727,15 @@
     <version>101.0.4951.54</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <fraction>10%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>101.0.4951.54</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>10%</fraction>
-    <fraction_group>195</fraction_group>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>100.0.4896.127</version>
@@ -8915,16 +8915,16 @@
   <release>
     <version>100.0.4896.60</version>
     <release_date>Invalid Time</release_date>
-    <end_date>April 04, 2022 07:44 PM</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <end_date>Invalid Time</end_date>
+    <fraction>10%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>100.0.4896.60</version>
     <release_date>Invalid Time</release_date>
-    <end_date>Invalid Time</end_date>
-    <fraction>10%</fraction>
-    <fraction_group>195</fraction_group>
+    <end_date>April 04, 2022 07:44 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>99.0.4844.84</version>
@@ -8965,15 +8965,15 @@
     <version>99.0.4844.84</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>25%</fraction>
-    <fraction_group>195</fraction_group>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>99.0.4844.84</version>
     <release_date>Invalid Time</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>99.0.4844.83</version>
@@ -9007,15 +9007,15 @@
     <version>99.0.4844.83</version>
     <release_date>March 20, 2022 03:37 PM</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>25%</fraction>
-    <fraction_group>195</fraction_group>
+    <fraction>100%</fraction>
+    <fraction_group>194</fraction_group>
   </release>
   <release>
     <version>99.0.4844.83</version>
     <release_date>March 20, 2022 03:37 PM</release_date>
     <end_date>Invalid Time</end_date>
-    <fraction>100%</fraction>
-    <fraction_group>194</fraction_group>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>99.0.4844.74</version>
