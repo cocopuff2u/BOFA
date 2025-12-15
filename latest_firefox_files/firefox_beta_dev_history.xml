@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='utf8'?>
 <firefox_beta_dev_history>
-  <last_updated>December 15, 2025 11:05 AM EST</last_updated>
+  <last_updated>December 15, 2025 12:06 PM EST</last_updated>
+  <release>
+    <version>147.0b4</version>
+    <date>2025-12-15</date>
+    <download_pkg>https://ftp.mozilla.org/pub/firefox/releases/147.0b4/mac/en-US/Firefox%20147.0b4.pkg</download_pkg>
+    <download_dmg>https://ftp.mozilla.org/pub/firefox/releases/147.0b4/mac/en-US/Firefox%20147.0b4.dmg</download_dmg>
+  </release>
   <release>
     <version>147.0b3</version>
     <date>2025-12-12</date>

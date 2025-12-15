@@ -1,6 +1,18 @@
 {
-  "last_updated": "December 15, 2025 11:05 AM EST",
+  "last_updated": "December 15, 2025 12:06 PM EST",
   "releases": [
+    {
+      "key": "firefox-147.0b4",
+      "build_number": 1,
+      "category": "dev",
+      "date": "2025-12-15",
+      "description": null,
+      "is_security_driven": false,
+      "product": "firefox",
+      "version": "147.0b4",
+      "download_pkg": "https://ftp.mozilla.org/pub/firefox/releases/147.0b4/mac/en-US/Firefox%20147.0b4.pkg",
+      "download_dmg": "https://ftp.mozilla.org/pub/firefox/releases/147.0b4/mac/en-US/Firefox%20147.0b4.dmg"
+    },
     {
       "key": "firefox-147.0b3",
       "build_number": 1,
