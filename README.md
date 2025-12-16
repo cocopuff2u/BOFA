@@ -32,7 +32,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
     <td align="center"><a href="https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg"><img src=".github/images/chrome.png" alt="Chrome" width="80"></a><br><b>Chrome</b><br><em><code>143.0.7499.110</code></em><br><br><small>Last Update:<br><em><code>December 15, 2025</code></em></small><br><a href="https://chromereleases.googleblog.com/" style="text-decoration: none;"><small>Release Notes</small></a></td>
     <td align="center"><a href="https://download-installer.cdn.mozilla.net/pub/firefox/releases/146.0/mac/en-US/Firefox%20146.0.pkg"><img src=".github/images/firefox.png" alt="Firefox" width="80"></a><br><b>Firefox</b><br><em><code>146.0</code></em><br><br><small>Last Update:<br><em><code>December 09, 2025</code></em></small><br><a href="https://www.mozilla.org/en-US/firefox/notes/" style="text-decoration: none;"><small>Release Notes</small></a></td>
     <td align="center"><a href="https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a266e4b4-62a7-4b4e-91c2-ec8be69d5031/MicrosoftEdge-143.0.3650.80.pkg"><img src=".github/images/edge.png" alt="Edge" width="80"></a><br><b>Edge</b><br><em><code>143.0.3650.80</code></em><br><br><small>Last Update:<br><em><code>December 13, 2025</code></em></small><br><a href="https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel" style="text-decoration: none;"><small>Release Notes</small></a></td>
-    <td align="center"><a href="https://developer.apple.com/documentation/safari-release-notes/safari-26_2-release-notes"><img src=".github/images/safari.png" alt="Safari" width="80"></a><br><b>Safari</b><br><em><code>26.2 (20623.1.14)</code></em><br><br><small>Last Update:<br><em><code>December 12, 2025</code></em></small><br><a href="https://developer.apple.com/documentation/safari-release-notes" style="text-decoration: none;"><small>Release Notes</small></a></td>
+    <td align="center"><a href="https://developer.apple.com/documentation/safari-release-notes/safari-26_3-release-notes"><img src=".github/images/safari.png" alt="Safari" width="80"></a><br><b>Safari</b><br><em><code>26.3 (20623.2.2)</code></em><br><br><small>Last Update:<br><em><code>December 15, 2025</code></em></small><br><a href="https://developer.apple.com/documentation/safari-release-notes" style="text-decoration: none;"><small>Release Notes</small></a></td>
   </tr>
 </table>
 
@@ -45,7 +45,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <sup>**Edge**: [**_Raw XML_**](latest_edge_files/edge_latest_versions.xml) [**_Raw YAML_**](latest_edge_files/edge_latest_versions.yaml) [**_Raw JSON_**](latest_edge_files/edge_latest_versions.json) | **Safari**: [**_Raw XML_**](latest_safari_files/safari_latest_versions.xml) [**_Raw YAML_**](latest_safari_files/safari_latest_versions.yaml) [**_Raw JSON_**](latest_safari_files/safari_latest_versions.json)</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">December 16, 2025 11:04 AM EST</code> (Automatically Updated every hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">December 16, 2025 12:06 PM EST</code> (Automatically Updated every hour)_</sup>
 
 </div>
 
@@ -70,7 +70,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 | **Browser** | **Version** | **CFBundle Identifier** | **Release Notes** |
 |------------|-------------------|---------------------|------------|
-| **Safari** <br><br><b>Released:</b><br><em><code>December 12, 2025</code></em> | `26.2 (20623.1.14)` | `com.apple.Safari` | <div align="center"><a href="https://developer.apple.com/documentation/safari-release-notes/safari-26_2-release-notes"><img src=".github/images/safari.png" alt="Safari Release Notes" width="80"></a> |
+| **Safari** <br><br><b>Released:</b><br><em><code>December 15, 2025</code></em> | `26.3 (20623.2.2)` | `com.apple.Safari` | <div align="center"><a href="https://developer.apple.com/documentation/safari-release-notes/safari-26_3-release-notes"><img src=".github/images/safari.png" alt="Safari Release Notes" width="80"></a> |
 | **Safari** <br><br><b>Released:</b><br><em><code>July 29, 2025</code></em> | `18.6 (20621.3.11)` | `com.apple.Safari` | <div align="center"><a href="https://developer.apple.com/documentation/safari-release-notes/safari-18_6-release-notes"><img src=".github/images/safari.png" alt="Safari Release Notes" width="80"></a> |
 | **Safari** <br><br><b>Released:</b><br><em><code>July 29, 2024</code></em> | `17.6 (19618.3.11)` | `com.apple.Safari` | <div align="center"><a href="https://developer.apple.com/documentation/safari-release-notes/safari-17_6-release-notes"><img src=".github/images/safari.png" alt="Safari Release Notes" width="80"></a> |
 | **Safari** <br><br><b>Released:</b><br><em><code>July 24, 2023</code></em> | `16.6 (18615.3.12)` | `com.apple.Safari` | <div align="center"><a href="https://developer.apple.com/documentation/safari-release-notes/safari-16_6-release-notes"><img src=".github/images/safari.png" alt="Safari Release Notes" width="80"></a> |
