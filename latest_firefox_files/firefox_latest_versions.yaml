@@ -1,4 +1,4 @@
-last_updated: December 19, 2025 12:03 PM EST
+last_updated: December 19, 2025 01:04 PM EST
 stable:
   version: 146.0.1
   release_time: December 18, 2025 12:00 AM EST
@@ -8,9 +8,9 @@ beta:
   release_time: December 19, 2025 12:00 AM EST
   download: https://download-installer.cdn.mozilla.net/pub/firefox/releases/147.0b6/mac/en-US/Firefox%20147.0b6.pkg
 dev:
-  version: 147.0b5
-  release_time: December 17, 2025 12:00 AM EST
-  download: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b5/mac/en-US/Firefox%20147.0b5.dmg
+  version: 147.0b6
+  release_time: December 19, 2025 12:00 AM EST
+  download: https://download-installer.cdn.mozilla.net/pub/devedition/releases/147.0b6/mac/en-US/Firefox%20147.0b6.dmg
 esr:
   version: 140.6.0
   release_time: December 09, 2025 12:00 AM EST
