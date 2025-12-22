@@ -1,8 +1,8 @@
 {
-  "last_updated": "December 22, 2025 02:03 PM EST",
+  "last_updated": "December 22, 2025 03:03 PM EST",
   "stable": {
     "version": "143.0.7499.170",
-    "time": "December 18, 2025 08:08 PM EST",
+    "time": "December 22, 2025 07:32 PM EST",
     "download_link": "https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg"
   },
   "extended": {
@@ -16,13 +16,13 @@
     "download_link": "https://dl.google.com/chrome/mac/beta/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg"
   },
   "dev": {
-    "version": "145.0.7572.2",
-    "time": "December 11, 2025 07:26 PM EST",
+    "version": "145.0.7587.4",
+    "time": "December 22, 2025 07:42 PM EST",
     "download_link": "https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg"
   },
   "canary": {
-    "version": "145.0.7592.0",
-    "time": "December 22, 2025 07:34 AM EST",
+    "version": "145.0.7593.0",
+    "time": "December 22, 2025 07:35 PM EST",
     "download_link": "https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg"
   },
   "canary_asan": {
