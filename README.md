@@ -45,7 +45,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <sup>**Edge**: [**_Raw XML_**](latest_edge_files/edge_latest_versions.xml) [**_Raw YAML_**](latest_edge_files/edge_latest_versions.yaml) [**_Raw JSON_**](latest_edge_files/edge_latest_versions.json) | **Safari**: [**_Raw XML_**](latest_safari_files/safari_latest_versions.xml) [**_Raw YAML_**](latest_safari_files/safari_latest_versions.yaml) [**_Raw JSON_**](latest_safari_files/safari_latest_versions.json)</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">January 09, 2026 10:04 AM EST</code> (Automatically Updated every hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">January 09, 2026 11:04 AM EST</code> (Automatically Updated every hour)_</sup>
 
 </div>
 
@@ -65,7 +65,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **Edge**  <br><a href="https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br><b>Last Updated:</b><br><em><code>January 09, 2026</code></em> | `143.0.3650.139` | `com.microsoft.edgemac` | <a href="https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/154ecf14-a4ec-4db2-b067-dfadc9975380/MicrosoftEdge-143.0.3650.139.pkg"><img src=".github/images/edge.png" alt="Download Edge" width="80"></a> |
 | **Edge** <sup>Beta</sup> <br><a href="https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-beta-channel" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br><b>Last Updated:</b><br><em><code>January 05, 2026</code></em> | `144.0.3719.59` | `com.microsoft.edgemac.beta` | <a href="https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/988bd302-a88f-4377-8e4d-2ac3ab07f5ca/MicrosoftEdgeBeta-144.0.3719.59.pkg"><img src=".github/images/edge_beta.png" alt="Download Edge" width="80"></a> |
 | **Edge** <sup>Developer</sup> <br><br><b>Last Updated:</b><br><em><code>January 06, 2026</code></em> | `145.0.3775.0` | `com.microsoft.edgemac.dev` | <a href="https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a7bf79a9-e7a8-4577-9505-36853673bc75/MicrosoftEdgeDev-145.0.3775.0.pkg"><img src=".github/images/edge_dev.png" alt="Download Edge" width="80"></a> |
-| **Edge** <sup>Canary</sup> <br><br><b>Last Updated:</b><br><em><code>January 09, 2026</code></em> | `145.0.3789.0` | `com.microsoft.edgemac.canary` | <a href="N/A"><img src=".github/images/edge_canary.png" alt="Download Edge" width="80"></a> |
+| **Edge** <sup>Canary</sup> <br><br><b>Last Updated:</b><br><em><code>January 09, 2026</code></em> | `145.0.3789.0` | `com.microsoft.edgemac.canary` | <a href="https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/99c64e0c-5498-4f1e-a1e4-d143e4cf127f/MicrosoftEdgeCanary-145.0.3789.0.pkg"><img src=".github/images/edge_canary.png" alt="Download Edge" width="80"></a> |
 
 
 | **Browser** | **Version** | **CFBundle Identifier** | **Release Notes** |
