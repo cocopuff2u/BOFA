@@ -1,18 +1,18 @@
 <?xml version="1.0" ?>
 <safari_versions>
-  <last_updated>January 14, 2026 05:03 PM EST</last_updated>
+  <last_updated>January 14, 2026 06:03 PM EST</last_updated>
   <Safari_Technology_Preview>
     <macos>Tahoe</macos>
-    <version>234</version>
-    <PostDate>December 19, 2025</PostDate>
-    <URL>https://secure-appldnld.apple.com/STP/089-90716-20251219-01965ddc-c14d-467b-be0c-fcd0ac21afe6/SafariTechnologyPreview.dmg</URL>
+    <version>235</version>
+    <PostDate>January 14, 2026</PostDate>
+    <URL>https://secure-appldnld.apple.com/STP/047-13724-20260114-ba19b299-e1aa-4a1f-adcb-01bf838fbcff/SafariTechnologyPreview.dmg</URL>
     <ReleaseNotes>https://developer.apple.com/documentation/safari-technology-preview-release-notes</ReleaseNotes>
   </Safari_Technology_Preview>
   <Safari_Technology_Preview>
     <macos>Sequoia</macos>
-    <version>234</version>
-    <PostDate>December 19, 2025</PostDate>
-    <URL>https://secure-appldnld.apple.com/STP/089-91901-20251219-292738a2-5cb9-4a4f-957c-b4056231d091/SafariTechnologyPreview.dmg</URL>
+    <version>235</version>
+    <PostDate>January 14, 2026</PostDate>
+    <URL>https://secure-appldnld.apple.com/STP/047-13739-20260114-5d6c0f76-26ef-4d2a-8f5e-96113211bbc9/SafariTechnologyPreview.dmg</URL>
     <ReleaseNotes>https://developer.apple.com/documentation/safari-technology-preview-release-notes</ReleaseNotes>
   </Safari_Technology_Preview>
   <release>
