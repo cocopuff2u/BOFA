@@ -1,5 +1,25 @@
-last_updated: January 16, 2026 11:04 AM EST
+last_updated: January 16, 2026 12:06 PM EST
 releases:
+- key: firefox-147.0.1
+  build_number: 1
+  category: stability
+  date: '2026-01-16'
+  description: null
+  is_security_driven: false
+  product: firefox
+  version: 147.0.1
+  download_pkg: https://ftp.mozilla.org/pub/firefox/releases/147.0.1/mac/en-US/Firefox%20147.0.1.pkg
+  download_dmg: https://ftp.mozilla.org/pub/firefox/releases/147.0.1/mac/en-US/Firefox%20147.0.1.dmg
+- key: firefox-148.0b3
+  build_number: 1
+  category: dev
+  date: '2026-01-16'
+  description: null
+  is_security_driven: false
+  product: firefox
+  version: 148.0b3
+  download_pkg: https://ftp.mozilla.org/pub/firefox/releases/148.0b3/mac/en-US/Firefox%20148.0b3.pkg
+  download_dmg: https://ftp.mozilla.org/pub/firefox/releases/148.0b3/mac/en-US/Firefox%20148.0b3.dmg
 - key: firefox-148.0b2
   build_number: 1
   category: dev
