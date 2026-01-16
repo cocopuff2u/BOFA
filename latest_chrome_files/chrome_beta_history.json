@@ -1,5 +1,5 @@
 {
-  "last_updated": "January 15, 2026 07:14 PM EST",
+  "last_updated": "January 15, 2026 08:32 PM EST",
   "releases": [
     {
       "version": "145.0.7632.5",
@@ -1294,14 +1294,14 @@
       "release_date": "August 05, 2022 04:11 PM",
       "end_date": "Invalid Time",
       "fraction": "100%",
-      "fraction_group": "12"
+      "fraction_group": "13"
     },
     {
       "version": "104.0.5112.79",
       "release_date": "August 05, 2022 04:11 PM",
       "end_date": "Invalid Time",
       "fraction": "100%",
-      "fraction_group": "13"
+      "fraction_group": "12"
     },
     {
       "version": "104.0.5112.79",
@@ -2652,14 +2652,14 @@
       "release_date": "April 22, 2019 05:45 PM",
       "end_date": "April 24, 2019 03:06 PM",
       "fraction": "100%",
-      "fraction_group": "3"
+      "fraction_group": "5"
     },
     {
       "version": "74.0.3729.108",
       "release_date": "April 22, 2019 05:45 PM",
       "end_date": "April 24, 2019 03:06 PM",
       "fraction": "100%",
-      "fraction_group": "5"
+      "fraction_group": "3"
     },
     {
       "version": "74.0.3729.108",
