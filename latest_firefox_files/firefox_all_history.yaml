@@ -1,5 +1,15 @@
-last_updated: January 23, 2026 10:05 AM EST
+last_updated: January 23, 2026 11:05 AM EST
 releases:
+- key: firefox-148.0b6
+  build_number: 1
+  category: dev
+  date: '2026-01-23'
+  description: null
+  is_security_driven: false
+  product: firefox
+  version: 148.0b6
+  download_pkg: https://ftp.mozilla.org/pub/firefox/releases/148.0b6/mac/en-US/Firefox%20148.0b6.pkg
+  download_dmg: https://ftp.mozilla.org/pub/firefox/releases/148.0b6/mac/en-US/Firefox%20148.0b6.dmg
 - key: firefox-148.0b5
   build_number: 1
   category: dev
