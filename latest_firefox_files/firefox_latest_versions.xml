@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='utf8'?>
 <mac_versions>
-  <last_updated>January 26, 2026 10:06 AM EST</last_updated>
+  <last_updated>January 26, 2026 11:06 AM EST</last_updated>
   <stable>
     <version>147.0.1</version>
     <release_time>January 16, 2026 12:00 AM EST</release_time>
     <download>https://download-installer.cdn.mozilla.net/pub/firefox/releases/147.0.1/mac/en-US/Firefox%20147.0.1.pkg</download>
   </stable>
   <beta>
-    <version>148.0b6</version>
-    <release_time>January 23, 2026 12:00 AM EST</release_time>
-    <download>https://download-installer.cdn.mozilla.net/pub/firefox/releases/148.0b6/mac/en-US/Firefox%20148.0b6.pkg</download>
+    <version>148.0b7</version>
+    <release_time>January 26, 2026 12:00 AM EST</release_time>
+    <download>https://download-installer.cdn.mozilla.net/pub/firefox/releases/148.0b7/mac/en-US/Firefox%20148.0b7.pkg</download>
   </beta>
   <dev>
     <version>148.0b6</version>
