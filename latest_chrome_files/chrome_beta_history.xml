@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <releases>
-  <last_updated>February 07, 2026 01:06 PM EST</last_updated>
+  <last_updated>February 07, 2026 02:07 PM EST</last_updated>
   <release>
     <version>145.0.7632.45</version>
     <release_date>February 04, 2026 05:30 PM</release_date>
@@ -1315,14 +1315,14 @@
     <release_date>August 05, 2022 04:11 PM</release_date>
     <end_date>Invalid Time</end_date>
     <fraction>100%</fraction>
-    <fraction_group>13</fraction_group>
+    <fraction_group>12</fraction_group>
   </release>
   <release>
     <version>104.0.5112.79</version>
     <release_date>August 05, 2022 04:11 PM</release_date>
     <end_date>Invalid Time</end_date>
     <fraction>100%</fraction>
-    <fraction_group>12</fraction_group>
+    <fraction_group>13</fraction_group>
   </release>
   <release>
     <version>104.0.5112.79</version>
