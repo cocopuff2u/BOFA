@@ -1,9 +1,9 @@
 - major_version: '26'
   release_notes: doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-26_3-release-notes
   release_notes_url: https://developer.apple.com/documentation/safari-release-notes/safari-26_3-release-notes
-  title: Safari 26.3 Beta Release Notes
-  released: January 26, 2026
-  version: 26.3 (20623.2.4)
+  title: Safari 26.3 Release Notes
+  released: February 11, 2026
+  version: 26.3 (20623.2.7)
 - major_version: '26'
   release_notes: doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-26_2-release-notes
   release_notes_url: https://developer.apple.com/documentation/safari-release-notes/safari-26_2-release-notes
