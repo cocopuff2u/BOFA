@@ -1,15 +1,15 @@
 safari_versions:
-  last_updated: February 12, 2026 12:21 PM EST
+  last_updated: February 12, 2026 01:18 PM EST
   Safari_Technology_Preview:
   - macos: Tahoe
-    version: '236'
-    PostDate: February 2, 2026
-    URL: https://secure-appldnld.apple.com/STP/047-52789-20260202-08289780-d174-442a-aa23-e64b2797b58f/SafariTechnologyPreview.dmg
+    version: '237'
+    PostDate: February 11, 2026
+    URL: https://secure-appldnld.apple.com/STP/047-57314-20260211-f74ad72d-cdb5-4c8b-9136-72e6724eddf1/SafariTechnologyPreview.dmg
     ReleaseNotes: https://developer.apple.com/documentation/safari-technology-preview-release-notes
   - macos: Sequoia
-    version: '236'
-    PostDate: February 2, 2026
-    URL: https://secure-appldnld.apple.com/STP/047-52790-20260202-5d2132ef-160f-4e19-a44a-b14b0e8046e3/SafariTechnologyPreview.dmg
+    version: '237'
+    PostDate: February 11, 2026
+    URL: https://secure-appldnld.apple.com/STP/047-57364-20260211-c743bdf6-1cd6-40a6-a12b-d4be08fbd305/SafariTechnologyPreview.dmg
     ReleaseNotes: https://developer.apple.com/documentation/safari-technology-preview-release-notes
   release:
   - major_version: '26'
