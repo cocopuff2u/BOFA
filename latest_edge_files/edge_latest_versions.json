@@ -1,6 +1,6 @@
 {
     "EdgeInsiderVersions": {
-        "last_updated": "February 11, 2026 07:17 PM EST",
+        "last_updated": "February 11, 2026 08:34 PM EST",
         "Version": [
             {
                 "Channel": "current",
@@ -22,9 +22,9 @@
             },
             {
                 "Channel": "beta",
-                "Date": "February 09, 2026 11:26 PM EST",
-                "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3c61f42b-59e3-4236-a027-924460a37be2/MicrosoftEdgeBeta-145.0.3800.47.pkg",
-                "Version": "145.0.3800.47"
+                "Date": "February 12, 2026 01:08 AM EST",
+                "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/13260529-0c0e-4fe3-8fac-04fa0f7932f7/MicrosoftEdgeBeta-145.0.3800.53.pkg",
+                "Version": "145.0.3800.53"
             }
         ]
     }
