@@ -1,4 +1,10 @@
 - major_version: '26'
+  release_notes: doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-26_4-release-notes
+  release_notes_url: https://developer.apple.com/documentation/safari-release-notes/safari-26_4-release-notes
+  title: Safari 26.4 Beta Release Notes
+  released: February 16, 2026
+  version: 26.4 beta (20624.11.11)
+- major_version: '26'
   release_notes: doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-26_3-release-notes
   release_notes_url: https://developer.apple.com/documentation/safari-release-notes/safari-26_3-release-notes
   title: Safari 26.3 Release Notes
