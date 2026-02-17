@@ -1,4 +1,4 @@
-last_updated: February 17, 2026 02:20 PM EST
+last_updated: February 17, 2026 03:10 PM EST
 releases:
 - version: 146.0.7680.0
   release_date: February 11, 2026 05:39 PM
@@ -944,12 +944,12 @@ releases:
   release_date: August 05, 2022 04:11 PM
   end_date: Invalid Time
   fraction: 100%
-  fraction_group: '13'
+  fraction_group: '12'
 - version: 104.0.5112.79
   release_date: August 05, 2022 04:11 PM
   end_date: Invalid Time
   fraction: 100%
-  fraction_group: '12'
+  fraction_group: '13'
 - version: 104.0.5112.79
   release_date: Invalid Time
   end_date: August 05, 2022 04:11 PM
@@ -1914,12 +1914,12 @@ releases:
   release_date: April 22, 2019 05:45 PM
   end_date: April 24, 2019 03:06 PM
   fraction: 100%
-  fraction_group: '3'
+  fraction_group: '5'
 - version: 74.0.3729.108
   release_date: April 22, 2019 05:45 PM
   end_date: April 24, 2019 03:06 PM
   fraction: 100%
-  fraction_group: '5'
+  fraction_group: '3'
 - version: 74.0.3729.108
   release_date: April 22, 2019 05:45 PM
   end_date: April 24, 2019 03:06 PM
