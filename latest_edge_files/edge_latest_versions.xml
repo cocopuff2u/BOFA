@@ -1,10 +1,10 @@
 <?xml version="1.0" ?>
 <EdgeInsiderVersions>
-  <last_updated>February 20, 2026 04:04 PM EST</last_updated>
+  <last_updated>February 20, 2026 05:03 PM EST</last_updated>
   <Version>
     <Channel>current</Channel>
     <Date>February 20, 2026 08:29 PM EST</Date>
-    <Location>N/A</Location>
+    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d4760825-3164-457a-9c5d-4d762678c105/MicrosoftEdge-145.0.3800.70.pkg</Location>
     <Version>145.0.3800.70</Version>
   </Version>
   <Version>
