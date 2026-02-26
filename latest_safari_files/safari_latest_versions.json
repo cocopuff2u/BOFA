@@ -1,19 +1,19 @@
 {
     "safari_versions": {
-        "last_updated": "February 26, 2026 05:07 PM EST",
+        "last_updated": "February 26, 2026 06:07 PM EST",
         "Safari_Technology_Preview": [
             {
                 "macos": "Tahoe",
                 "version": "1",
-                "PostDate": "February 11, 2026",
-                "URL": "https://secure-appldnld.apple.com/STP/047-57314-20260211-f74ad72d-cdb5-4c8b-9136-72e6724eddf1/SafariTechnologyPreview.dmg",
+                "PostDate": "February 26, 2026",
+                "URL": "https://secure-appldnld.apple.com/STP/047-88657-20260226-647cb08c-d13a-47cc-8958-e911db19e20e/SafariTechnologyPreview.dmg",
                 "ReleaseNotes": "https://developer.apple.com/documentation/ios-ipados-release-notes"
             },
             {
                 "macos": "Sequoia",
                 "version": "1",
-                "PostDate": "February 11, 2026",
-                "URL": "https://secure-appldnld.apple.com/STP/047-57364-20260211-c743bdf6-1cd6-40a6-a12b-d4be08fbd305/SafariTechnologyPreview.dmg",
+                "PostDate": "February 26, 2026",
+                "URL": "https://secure-appldnld.apple.com/STP/047-88659-20260226-e9112de2-f4e9-4906-89a4-e05f13a13be0/SafariTechnologyPreview.dmg",
                 "ReleaseNotes": "https://developer.apple.com/documentation/ios-ipados-release-notes"
             }
         ],
