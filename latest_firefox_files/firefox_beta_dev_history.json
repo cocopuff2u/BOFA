@@ -1,6 +1,12 @@
 {
-  "last_updated": "March 06, 2026 11:09 AM EST",
+  "last_updated": "March 06, 2026 12:12 PM EST",
   "releases": [
+    {
+      "version": "149.0b5",
+      "date": "2026-03-06",
+      "download_pkg": "https://ftp.mozilla.org/pub/firefox/releases/149.0b5/mac/en-US/Firefox%20149.0b5.pkg",
+      "download_dmg": "https://ftp.mozilla.org/pub/firefox/releases/149.0b5/mac/en-US/Firefox%20149.0b5.dmg"
+    },
     {
       "version": "149.0b4",
       "date": "2026-03-04",
