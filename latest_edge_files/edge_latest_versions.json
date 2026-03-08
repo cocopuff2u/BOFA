@@ -1,10 +1,10 @@
 {
     "EdgeInsiderVersions": {
-        "last_updated": "March 08, 2026 04:05 AM EDT",
+        "last_updated": "March 08, 2026 05:06 AM EDT",
         "Version": [
             {
                 "Channel": "current",
-                "Date": "March 06, 2026 07:16 PM EST",
+                "Date": "March 08, 2026 08:17 AM EDT",
                 "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/99e9a53e-4987-4ced-b408-2832d8a3e50a/MicrosoftEdge-145.0.3800.97.pkg",
                 "Version": "145.0.3800.97"
             },
