@@ -1,8 +1,38 @@
-last_updated: March 10, 2026 02:15 PM EDT
+last_updated: March 10, 2026 03:15 PM EDT
 releases:
 - version: 145.0.7632.160
-  release_date: March 05, 2026 09:16 PM
+  release_date: March 10, 2026 06:40 PM
   end_date: N/A
+  fraction: 78.41%
+  fraction_group: '195'
+- version: 145.0.7632.162
+  release_date: March 10, 2026 06:40 PM
+  end_date: N/A
+  fraction: 9.8%
+  fraction_group: '195'
+- version: 146.0.7680.71
+  release_date: March 10, 2026 06:40 PM
+  end_date: N/A
+  fraction: 9.8%
+  fraction_group: '195'
+- version: 146.0.7680.72
+  release_date: March 10, 2026 06:40 PM
+  end_date: N/A
+  fraction: 0.5%
+  fraction_group: '195'
+- version: 146.0.7680.72
+  release_date: March 10, 2026 06:40 PM
+  end_date: N/A
+  fraction: 100%
+  fraction_group: '194'
+- version: 146.0.7680.72
+  release_date: March 10, 2026 06:40 PM
+  end_date: N/A
+  fraction: 0.5%
+  fraction_group: '195'
+- version: 145.0.7632.160
+  release_date: March 05, 2026 09:16 PM
+  end_date: March 10, 2026 06:40 PM
   fraction: 98.01%
   fraction_group: '195'
 - version: 145.0.7632.161
@@ -12,12 +42,12 @@ releases:
   fraction_group: '195'
 - version: 146.0.7680.65
   release_date: March 05, 2026 09:16 PM
-  end_date: N/A
+  end_date: March 10, 2026 06:40 PM
   fraction: 0.5%
   fraction_group: '195'
 - version: 146.0.7680.66
   release_date: March 05, 2026 09:16 PM
-  end_date: N/A
+  end_date: March 10, 2026 06:40 PM
   fraction: 0.5%
   fraction_group: '195'
 - version: 145.0.7632.160
@@ -42,7 +72,7 @@ releases:
   fraction_group: '195'
 - version: 145.0.7632.160
   release_date: March 03, 2026 06:55 PM
-  end_date: N/A
+  end_date: March 10, 2026 06:40 PM
   fraction: 100%
   fraction_group: '194'
 - version: 145.0.7632.117
