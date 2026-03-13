@@ -1,12 +1,12 @@
 {
     "EdgeInsiderVersions": {
-        "last_updated": "March 13, 2026 01:12 PM EDT",
+        "last_updated": "March 13, 2026 02:10 PM EDT",
         "Version": [
             {
                 "Channel": "current",
-                "Date": "March 08, 2026 08:17 AM EDT",
-                "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/99e9a53e-4987-4ced-b408-2832d8a3e50a/MicrosoftEdge-145.0.3800.97.pkg",
-                "Version": "145.0.3800.97"
+                "Date": "March 13, 2026 05:41 PM EDT",
+                "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/dc685bcc-2586-489e-b189-e46eb4708977/MicrosoftEdge-146.0.3856.59.pkg",
+                "Version": "146.0.3856.59"
             },
             {
                 "Channel": "canary",
@@ -22,9 +22,9 @@
             },
             {
                 "Channel": "beta",
-                "Date": "March 11, 2026 09:07 PM EDT",
-                "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/aa47ddeb-2e86-440a-a4a2-211237d9a6c5/MicrosoftEdgeBeta-146.0.3856.54.pkg",
-                "Version": "146.0.3856.54"
+                "Date": "March 13, 2026 05:50 PM EDT",
+                "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/460c6525-f151-4356-911b-4a5c89f13f5b/MicrosoftEdgeBeta-146.0.3856.59.pkg",
+                "Version": "146.0.3856.59"
             }
         ]
     }
