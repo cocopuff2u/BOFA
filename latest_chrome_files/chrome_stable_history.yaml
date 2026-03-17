@@ -1,13 +1,18 @@
-last_updated: March 17, 2026 02:18 PM EDT
+last_updated: March 17, 2026 03:23 PM EDT
 releases:
+- version: 146.0.7680.80
+  release_date: March 17, 2026 06:59 PM
+  end_date: N/A
+  fraction: 100%
+  fraction_group: '195'
 - version: 145.0.7632.160
   release_date: March 16, 2026 10:28 PM
-  end_date: N/A
+  end_date: March 17, 2026 06:59 PM
   fraction: 47.04%
   fraction_group: '195'
 - version: 146.0.7680.80
   release_date: March 16, 2026 10:28 PM
-  end_date: N/A
+  end_date: March 17, 2026 06:59 PM
   fraction: 15.68%
   fraction_group: '195'
 - version: 145.0.7632.160
@@ -22,22 +27,22 @@ releases:
   fraction_group: '195'
 - version: 146.0.7680.80
   release_date: March 14, 2026 01:08 AM
-  end_date: N/A
+  end_date: March 17, 2026 06:59 PM
   fraction: 7.84%
   fraction_group: '195'
 - version: 146.0.7680.80
   release_date: March 14, 2026 01:08 AM
-  end_date: N/A
+  end_date: March 17, 2026 06:59 PM
   fraction: 0.5%
   fraction_group: '195'
 - version: 146.0.7680.80
   release_date: March 14, 2026 01:08 AM
-  end_date: N/A
+  end_date: March 17, 2026 06:59 PM
   fraction: 0.5%
   fraction_group: '195'
 - version: 146.0.7680.80
   release_date: March 14, 2026 01:08 AM
-  end_date: N/A
+  end_date: March 17, 2026 06:59 PM
   fraction: 9.8%
   fraction_group: '195'
 - version: 146.0.7680.80
@@ -52,7 +57,7 @@ releases:
   fraction_group: '195'
 - version: 145.0.7632.162
   release_date: March 12, 2026 09:08 PM
-  end_date: N/A
+  end_date: March 17, 2026 06:59 PM
   fraction: 7.84%
   fraction_group: '195'
 - version: 146.0.7680.75
@@ -87,7 +92,7 @@ releases:
   fraction_group: '195'
 - version: 145.0.7632.162
   release_date: March 10, 2026 06:40 PM
-  end_date: N/A
+  end_date: March 17, 2026 06:59 PM
   fraction: 9.8%
   fraction_group: '195'
 - version: 146.0.7680.71
@@ -117,7 +122,7 @@ releases:
   fraction_group: '195'
 - version: 145.0.7632.161
   release_date: March 05, 2026 09:16 PM
-  end_date: N/A
+  end_date: March 17, 2026 06:59 PM
   fraction: 0.5%
   fraction_group: '195'
 - version: 146.0.7680.65
@@ -162,7 +167,7 @@ releases:
   fraction_group: '195'
 - version: 145.0.7632.118
   release_date: February 25, 2026 09:02 PM
-  end_date: N/A
+  end_date: March 17, 2026 06:59 PM
   fraction: 0.5%
   fraction_group: '195'
 - version: 146.0.7680.31
