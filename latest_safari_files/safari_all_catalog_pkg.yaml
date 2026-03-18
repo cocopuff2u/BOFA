@@ -1,5 +1,5 @@
 safari_versions:
-  last_updated: March 18, 2026 12:22 PM EDT
+  last_updated: March 18, 2026 01:22 PM EDT
   release:
   - os: BigSur
     version: 16.6.1
@@ -31,3 +31,13 @@ safari_versions:
     URL: https://swcdn.apple.com/content/downloads/14/05/089-65716-A_AVTNR0UQGA/p5t2tv7n6hpiw2zuwsrcgdkp6x32ybrixt/Safari26.3SequoiaAuto.pkg
     Size: 219.55 MB
     PostDate: February 18, 2026 11:38 PM
+  - os: Sequoia
+    version: 26.3.1
+    URL: https://swcdn.apple.com/content/downloads/48/30/047-86763-A_ZY2ZOT2X7K/dbu4d20uvgihojvemx9gwdozaa3emkvlvj/Safari26.3.1SequoiaAuto.pkg
+    Size: 219.57 MB
+    PostDate: March 18, 2026 05:10 PM
+  - os: Sonoma
+    version: 26.3.1
+    URL: https://swcdn.apple.com/content/downloads/54/23/047-86758-A_QLLM0SUWOU/d91sqoaqatd7jakkbkgo420qbecfd630nq/Safari26.3.1SonomaAuto.pkg
+    Size: 210.62 MB
+    PostDate: March 18, 2026 05:10 PM
