@@ -1,6 +1,6 @@
 {
     "safari_versions": {
-        "last_updated": "March 18, 2026 01:22 PM EDT",
+        "last_updated": "March 18, 2026 02:19 PM EDT",
         "release": [
             {
                 "os": "BigSur",
@@ -29,20 +29,6 @@
                 "URL": "https://swcdn.apple.com/content/downloads/18/08/093-01291-A_8PAQLVAPMY/q858ihftlht01sdwcf9oqqzkuvm12laqlx/Safari18.6VenturaAuto.pkg",
                 "Size": "180.39 MB",
                 "PostDate": "August 05, 2025 06:04 PM"
-            },
-            {
-                "os": "Sonoma",
-                "version": "26.3",
-                "URL": "https://swcdn.apple.com/content/downloads/30/21/089-72065-A_VD7YUNVKAK/afyaly8u5gpcas3i1l4uccn4bb8sbdshsl/Safari26.3SonomaAuto.pkg",
-                "Size": "210.57 MB",
-                "PostDate": "February 18, 2026 11:37 PM"
-            },
-            {
-                "os": "Sequoia",
-                "version": "26.3",
-                "URL": "https://swcdn.apple.com/content/downloads/14/05/089-65716-A_AVTNR0UQGA/p5t2tv7n6hpiw2zuwsrcgdkp6x32ybrixt/Safari26.3SequoiaAuto.pkg",
-                "Size": "219.55 MB",
-                "PostDate": "February 18, 2026 11:38 PM"
             },
             {
                 "os": "Sequoia",
