@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <safari_versions>
-  <last_updated>March 24, 2026 03:23 PM EDT</last_updated>
+  <last_updated>March 24, 2026 04:14 PM EDT</last_updated>
   <Safari_Technology_Preview>
     <macos>Tahoe</macos>
     <version>1</version>
@@ -17,14 +17,8 @@
   </Safari_Technology_Preview>
   <release>
     <major_version>26</major_version>
-    <full_version>26.3 (20623.2.7)</full_version>
-    <released>February 11, 2026</released>
-    <release_notes>https://developer.apple.com/documentation/safari-release-notes/safari-26_3-release-notes</release_notes>
-  </release>
-  <release>
-    <major_version>26</major_version>
-    <full_version>26.4 beta (20624.11.11)</full_version>
-    <released>February 16, 2026</released>
+    <full_version>26.4 (20624.1.16)</full_version>
+    <released>March 24, 2026</released>
     <release_notes>https://developer.apple.com/documentation/safari-release-notes/safari-26_4-release-notes</release_notes>
   </release>
   <release>
