@@ -1,24 +1,66 @@
 <?xml version="1.0" ?>
 <releases>
-  <last_updated>March 25, 2026 02:18 PM EDT</last_updated>
+  <last_updated>March 25, 2026 03:18 PM EDT</last_updated>
+  <release>
+    <version>146.0.7680.165</version>
+    <release_date>March 25, 2026 06:56 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>99%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
+  <release>
+    <version>146.0.7680.154</version>
+    <release_date>March 25, 2026 06:21 PM</release_date>
+    <end_date>March 25, 2026 06:56 PM</end_date>
+    <fraction>49.5%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
+  <release>
+    <version>146.0.7680.155</version>
+    <release_date>March 25, 2026 06:21 PM</release_date>
+    <end_date>March 25, 2026 06:56 PM</end_date>
+    <fraction>24.75%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
+  <release>
+    <version>146.0.7680.164</version>
+    <release_date>March 25, 2026 06:21 PM</release_date>
+    <end_date>March 25, 2026 06:56 PM</end_date>
+    <fraction>24.75%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
+  <release>
+    <version>146.0.7680.166</version>
+    <release_date>March 25, 2026 06:21 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>0.5%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
+  <release>
+    <version>147.0.7727.24</version>
+    <release_date>March 25, 2026 06:21 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>0.5%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
   <release>
     <version>146.0.7680.154</version>
     <release_date>March 23, 2026 07:20 PM</release_date>
-    <end_date>N/A</end_date>
+    <end_date>March 25, 2026 06:21 PM</end_date>
     <fraction>50%</fraction>
     <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>146.0.7680.155</version>
     <release_date>March 23, 2026 07:20 PM</release_date>
-    <end_date>N/A</end_date>
+    <end_date>March 25, 2026 06:21 PM</end_date>
     <fraction>25%</fraction>
     <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>146.0.7680.164</version>
     <release_date>March 23, 2026 07:20 PM</release_date>
-    <end_date>N/A</end_date>
+    <end_date>March 25, 2026 06:21 PM</end_date>
     <fraction>25%</fraction>
     <fraction_group>195</fraction_group>
   </release>
