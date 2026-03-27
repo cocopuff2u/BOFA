@@ -45,7 +45,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <sup>**Edge**: [**_Raw XML_**](latest_edge_files/edge_latest_versions.xml) [**_Raw YAML_**](latest_edge_files/edge_latest_versions.yaml) [**_Raw JSON_**](latest_edge_files/edge_latest_versions.json) | **Safari**: [**_Raw XML_**](latest_safari_files/safari_latest_versions.xml) [**_Raw YAML_**](latest_safari_files/safari_latest_versions.yaml) [**_Raw JSON_**](latest_safari_files/safari_latest_versions.json)</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">March 26, 2026 07:07 PM EDT</code> (Automatically Updated every hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">March 26, 2026 08:20 PM EDT</code> (Automatically Updated every hour)_</sup>
 
 </div>
 
@@ -81,8 +81,8 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 | **Browser** | **Version** | **CFBundle Identifier** | **Download** |
 |------------|-------------------|---------------------|------------|
-| **Safari Technology Preview <sup>(Tahoe)</sup>** <br><br><b>Post Date:</b><br><em><code>March 12, 2026</code></em> | `1` | `com.apple.SafariTechnologyPreview` | <div align="center"><a href="https://secure-appldnld.apple.com/STP/047-93885-20260312-d78db77c-9ae2-4181-aa39-bf11fc01e170/SafariTechnologyPreview.dmg"><img src=".github/images/safari_technology.png" alt="Download Safari Technology Preview <sup>(Tahoe)</sup>" width="80"></a></div> |
-| **Safari Technology Preview <sup>(Sequoia)</sup>** <br><br><b>Post Date:</b><br><em><code>March 12, 2026</code></em> | `1` | `com.apple.SafariTechnologyPreview` | <div align="center"><a href="https://secure-appldnld.apple.com/STP/047-93824-20260312-0b54e97a-c282-4ced-aaa1-3c13ea488222/SafariTechnologyPreview.dmg"><img src=".github/images/safari_technology.png" alt="Download Safari Technology Preview <sup>(Sequoia)</sup>" width="80"></a></div> |
+| **Safari Technology Preview <sup>(Tahoe)</sup>** <br><br><b>Post Date:</b><br><em><code>March 26, 2026</code></em> | `1` | `com.apple.SafariTechnologyPreview` | <div align="center"><a href="https://secure-appldnld.apple.com/STP/122-14197-20260326-fa2fe469-70a4-4d16-9734-88c43e19af4c/SafariTechnologyPreview.dmg"><img src=".github/images/safari_technology.png" alt="Download Safari Technology Preview <sup>(Tahoe)</sup>" width="80"></a></div> |
+| **Safari Technology Preview <sup>(Sequoia)</sup>** <br><br><b>Post Date:</b><br><em><code>March 26, 2026</code></em> | `1` | `com.apple.SafariTechnologyPreview` | <div align="center"><a href="https://secure-appldnld.apple.com/STP/122-12547-20260326-bf27e465-9dd1-466c-804b-cef504ef1602/SafariTechnologyPreview.dmg"><img src=".github/images/safari_technology.png" alt="Download Safari Technology Preview <sup>(Sequoia)</sup>" width="80"></a></div> |
 
 
 ## Browser Settings Management
