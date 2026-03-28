@@ -1,14 +1,14 @@
 EdgeInsiderVersions:
-  last_updated: March 27, 2026 07:09 PM EDT
+  last_updated: March 27, 2026 08:18 PM EDT
   Version:
   - Channel: current
     Date: March 26, 2026 05:57 PM EDT
     Location: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/be10546a-4c12-4633-8dce-37a41a35fd5a/MicrosoftEdge-146.0.3856.84.pkg
     Version: 146.0.3856.84
   - Channel: canary
-    Date: March 26, 2026 12:39 PM EDT
-    Location: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/18991048-a306-4f0e-a2b1-ce49d1ef1cc0/MicrosoftEdgeCanary-148.0.3940.0.pkg
-    Version: 148.0.3940.0
+    Date: March 28, 2026 12:11 AM EDT
+    Location: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8b8074e2-16d7-4d9f-8f94-854249f7ea81/MicrosoftEdgeCanary-148.0.3943.0.pkg
+    Version: 148.0.3943.0
   - Channel: dev
     Date: March 24, 2026 08:56 PM EDT
     Location: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2599be5b-6150-41dc-8df1-c60356b1aecc/MicrosoftEdgeDev-148.0.3928.0.pkg
