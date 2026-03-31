@@ -1,6 +1,6 @@
 {
     "safari_versions": {
-        "last_updated": "March 31, 2026 09:31 AM EDT",
+        "last_updated": "March 31, 2026 10:30 AM EDT",
         "Safari_Technology_Preview": [
             {
                 "macos": "Tahoe",
@@ -23,6 +23,12 @@
                 "full_version": "26.4 (20624.1.16)",
                 "released": "March 24, 2026",
                 "release_notes": "https://developer.apple.com/documentation/safari-release-notes/safari-26_4-release-notes"
+            },
+            {
+                "major_version": "26",
+                "full_version": "26.5 beta (20624.2.1)",
+                "released": "March 30, 2026",
+                "release_notes": "https://developer.apple.com/documentation/safari-release-notes/safari-26_5-release-notes"
             },
             {
                 "major_version": "18",
