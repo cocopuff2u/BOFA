@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 08, 2026 12:25 PM EDT",
+  "last_updated": "April 08, 2026 01:23 PM EDT",
   "stable": {
     "version": "147.0.7727.56",
     "time": "April 07, 2026 09:24 PM EDT",
@@ -7,12 +7,12 @@
   },
   "extended": {
     "version": "146.0.7680.178",
-    "time": "April 02, 2026 06:45 PM EDT",
+    "time": "April 08, 2026 04:31 PM EDT",
     "download_link": "https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg"
   },
   "beta": {
-    "version": "147.0.7727.49",
-    "time": "April 01, 2026 04:44 PM EDT",
+    "version": "148.0.7778.5",
+    "time": "April 08, 2026 04:25 PM EDT",
     "download_link": "https://dl.google.com/chrome/mac/beta/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg"
   },
   "dev": {
