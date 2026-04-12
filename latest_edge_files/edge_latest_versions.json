@@ -1,10 +1,10 @@
 {
     "EdgeInsiderVersions": {
-        "last_updated": "April 12, 2026 04:16 AM EDT",
+        "last_updated": "April 12, 2026 05:16 AM EDT",
         "Version": [
             {
                 "Channel": "current",
-                "Date": "April 10, 2026 07:54 PM EDT",
+                "Date": "April 12, 2026 08:40 AM EDT",
                 "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5fe04b8e-37d4-4632-81d4-54b7ed1f3832/MicrosoftEdge-147.0.3912.60.pkg",
                 "Version": "147.0.3912.60"
             },
