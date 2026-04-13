@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='utf8'?>
 <firefox_all_history>
-  <last_updated>April 13, 2026 11:29 AM EDT</last_updated>
+  <last_updated>April 13, 2026 12:26 PM EDT</last_updated>
+  <release>
+    <key>firefox-150.0b9</key>
+    <build_number>1</build_number>
+    <category>dev</category>
+    <date>2026-04-13</date>
+    <description>None</description>
+    <is_security_driven>False</is_security_driven>
+    <product>firefox</product>
+    <version>150.0b9</version>
+    <download_pkg>https://ftp.mozilla.org/pub/firefox/releases/150.0b9/mac/en-US/Firefox%20150.0b9.pkg</download_pkg>
+    <download_dmg>https://ftp.mozilla.org/pub/firefox/releases/150.0b9/mac/en-US/Firefox%20150.0b9.dmg</download_dmg>
+  </release>
   <release>
     <key>firefox-150.0b8</key>
     <build_number>1</build_number>
