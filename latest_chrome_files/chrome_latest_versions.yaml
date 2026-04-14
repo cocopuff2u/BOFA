@@ -8,8 +8,8 @@ canary:
   version: 149.0.7792.0
 canary_asan:
   download_link: https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg
-  time: April 14, 2026 09:53 AM EDT
-  version: 149.0.7791.2
+  time: April 14, 2026 09:19 PM EDT
+  version: 149.0.7792.1
 dev:
   download_link: https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg
   time: April 09, 2026 03:19 PM EDT
@@ -18,7 +18,7 @@ extended:
   download_link: https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg
   time: April 13, 2026 08:33 PM EDT
   version: 146.0.7680.188
-last_updated: April 14, 2026 05:16 PM EDT
+last_updated: April 14, 2026 06:15 PM EDT
 stable:
   download_link: https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg
   time: April 13, 2026 08:28 PM EDT
