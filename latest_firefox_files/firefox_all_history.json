@@ -1,6 +1,18 @@
 {
-  "last_updated": "April 15, 2026 11:26 AM EDT",
+  "last_updated": "April 15, 2026 12:21 PM EDT",
   "releases": [
+    {
+      "key": "firefox-150.0b10",
+      "build_number": 1,
+      "category": "dev",
+      "date": "2026-04-15",
+      "description": null,
+      "is_security_driven": false,
+      "product": "firefox",
+      "version": "150.0b10",
+      "download_pkg": "https://ftp.mozilla.org/pub/firefox/releases/150.0b10/mac/en-US/Firefox%20150.0b10.pkg",
+      "download_dmg": "https://ftp.mozilla.org/pub/firefox/releases/150.0b10/mac/en-US/Firefox%20150.0b10.dmg"
+    },
     {
       "key": "firefox-150.0b9",
       "build_number": 1,
