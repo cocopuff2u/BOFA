@@ -1,5 +1,5 @@
 {
-  "last_updated": "April 24, 2026 11:26 AM EDT",
+  "last_updated": "April 24, 2026 12:20 PM EDT",
   "stable": {
     "version": "150.0",
     "release_time": "April 21, 2026 12:00 AM EDT",
@@ -13,7 +13,7 @@
   "dev": {
     "version": "151.0b1",
     "release_time": "April 22, 2026 12:00 AM EDT",
-    "download": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/151.0b1/mac/en-US/Firefox%20151.0b1.dmg"
+    "download": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/151.0b2/mac/en-US/Firefox%20151.0b2.dmg"
   },
   "esr": {
     "version": "140.10.0",
