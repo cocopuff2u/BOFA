@@ -1,19 +1,19 @@
 {
-  "last_updated": "April 27, 2026 11:33 AM EDT",
+  "last_updated": "April 27, 2026 12:32 PM EDT",
   "stable": {
     "version": "150.0",
     "release_time": "April 21, 2026 12:00 AM EDT",
     "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/150.0/mac/en-US/Firefox%20150.0.pkg"
   },
   "beta": {
-    "version": "151.0b2",
-    "release_time": "April 24, 2026 12:00 AM EDT",
-    "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/151.0b2/mac/en-US/Firefox%20151.0b2.pkg"
+    "version": "151.0b3",
+    "release_time": "April 27, 2026 12:00 AM EDT",
+    "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/151.0b3/mac/en-US/Firefox%20151.0b3.pkg"
   },
   "dev": {
-    "version": "151.0b2",
-    "release_time": "April 24, 2026 12:00 AM EDT",
-    "download": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/151.0b2/mac/en-US/Firefox%20151.0b2.dmg"
+    "version": "151.0b3",
+    "release_time": "April 27, 2026 12:00 AM EDT",
+    "download": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/151.0b3/mac/en-US/Firefox%20151.0b3.dmg"
   },
   "esr": {
     "version": "140.10.0",

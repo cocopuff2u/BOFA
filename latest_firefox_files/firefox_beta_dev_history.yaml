@@ -1,5 +1,9 @@
-last_updated: April 27, 2026 11:33 AM EDT
+last_updated: April 27, 2026 12:32 PM EDT
 releases:
+- version: 151.0b3
+  date: '2026-04-27'
+  download_pkg: https://ftp.mozilla.org/pub/firefox/releases/151.0b3/mac/en-US/Firefox%20151.0b3.pkg
+  download_dmg: https://ftp.mozilla.org/pub/firefox/releases/151.0b3/mac/en-US/Firefox%20151.0b3.dmg
 - version: 151.0b2
   date: '2026-04-24'
   download_pkg: https://ftp.mozilla.org/pub/firefox/releases/151.0b2/mac/en-US/Firefox%20151.0b2.pkg
