@@ -1,6 +1,42 @@
 {
-  "last_updated": "April 28, 2026 09:35 AM EDT",
+  "last_updated": "April 28, 2026 11:47 AM EDT",
   "releases": [
+    {
+      "key": "firefox-115.35.1esr",
+      "build_number": 1,
+      "category": "stability",
+      "date": "2026-04-28",
+      "description": null,
+      "is_security_driven": false,
+      "product": "firefox",
+      "version": "115.35.1",
+      "download_pkg": "https://ftp.mozilla.org/pub/firefox/releases/115.35.1/mac/en-US/Firefox%20115.35.1.pkg",
+      "download_dmg": "https://ftp.mozilla.org/pub/firefox/releases/115.35.1/mac/en-US/Firefox%20115.35.1.dmg"
+    },
+    {
+      "key": "firefox-140.10.1esr",
+      "build_number": 1,
+      "category": "esr",
+      "date": "2026-04-28",
+      "description": null,
+      "is_security_driven": false,
+      "product": "firefox",
+      "version": "140.10.1",
+      "download_pkg": "https://ftp.mozilla.org/pub/firefox/releases/140.10.1/mac/en-US/Firefox%20140.10.1.pkg",
+      "download_dmg": "https://ftp.mozilla.org/pub/firefox/releases/140.10.1/mac/en-US/Firefox%20140.10.1.dmg"
+    },
+    {
+      "key": "firefox-150.0.1",
+      "build_number": 1,
+      "category": "stability",
+      "date": "2026-04-28",
+      "description": null,
+      "is_security_driven": false,
+      "product": "firefox",
+      "version": "150.0.1",
+      "download_pkg": "https://ftp.mozilla.org/pub/firefox/releases/150.0.1/mac/en-US/Firefox%20150.0.1.pkg",
+      "download_dmg": "https://ftp.mozilla.org/pub/firefox/releases/150.0.1/mac/en-US/Firefox%20150.0.1.dmg"
+    },
     {
       "key": "firefox-151.0b3",
       "build_number": 1,
