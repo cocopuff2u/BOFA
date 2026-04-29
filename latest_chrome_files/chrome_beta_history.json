@@ -1,10 +1,17 @@
 {
-  "last_updated": "April 29, 2026 12:32 PM EDT",
+  "last_updated": "April 29, 2026 01:32 PM EDT",
   "releases": [
+    {
+      "version": "148.0.7778.96",
+      "release_date": "April 29, 2026 04:33 PM",
+      "end_date": "N/A",
+      "fraction": "100%",
+      "fraction_group": "11"
+    },
     {
       "version": "148.0.7778.56",
       "release_date": "April 23, 2026 04:23 PM",
-      "end_date": "N/A",
+      "end_date": "April 29, 2026 04:33 PM",
       "fraction": "100%",
       "fraction_group": "11"
     },
@@ -2750,14 +2757,14 @@
       "release_date": "April 22, 2019 05:45 PM",
       "end_date": "April 24, 2019 03:06 PM",
       "fraction": "100%",
-      "fraction_group": "5"
+      "fraction_group": "3"
     },
     {
       "version": "74.0.3729.108",
       "release_date": "April 22, 2019 05:45 PM",
       "end_date": "April 24, 2019 03:06 PM",
       "fraction": "100%",
-      "fraction_group": "3"
+      "fraction_group": "5"
     },
     {
       "version": "74.0.3729.108",
