@@ -1,6 +1,18 @@
 {
-  "last_updated": "April 29, 2026 11:38 AM EDT",
+  "last_updated": "April 29, 2026 12:32 PM EDT",
   "releases": [
+    {
+      "key": "firefox-151.0b4",
+      "build_number": 1,
+      "category": "dev",
+      "date": "2026-04-29",
+      "description": null,
+      "is_security_driven": false,
+      "product": "firefox",
+      "version": "151.0b4",
+      "download_pkg": "https://ftp.mozilla.org/pub/firefox/releases/151.0b4/mac/en-US/Firefox%20151.0b4.pkg",
+      "download_dmg": "https://ftp.mozilla.org/pub/firefox/releases/151.0b4/mac/en-US/Firefox%20151.0b4.dmg"
+    },
     {
       "key": "firefox-115.35.1esr",
       "build_number": 1,
