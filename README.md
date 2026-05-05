@@ -45,7 +45,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <sup>**Edge**: [**_Raw XML_**](latest_edge_files/edge_latest_versions.xml) [**_Raw YAML_**](latest_edge_files/edge_latest_versions.yaml) [**_Raw JSON_**](latest_edge_files/edge_latest_versions.json) | **Safari**: [**_Raw XML_**](latest_safari_files/safari_latest_versions.xml) [**_Raw YAML_**](latest_safari_files/safari_latest_versions.yaml) [**_Raw JSON_**](latest_safari_files/safari_latest_versions.json)</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">May 05, 2026 06:20 PM EDT</code> (Automatically Updated every hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">May 05, 2026 07:18 PM EDT</code> (Automatically Updated every hour)_</sup>
 
 </div>
 
@@ -64,7 +64,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **Firefox** <sup>Nightly</sup> <br><a href="https://www.mozilla.org/en-US/firefox/nightly/notes/" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br><b>Last Updated:</b><br><em><code>April 20, 2026</code></em> | `152.0a1` | `org.mozilla.nightly` | <a href="https://download-installer.cdn.mozilla.net/pub/firefox/nightly/latest-mozilla-central/firefox-152.0a1.en-US.mac.pkg"><img src=".github/images/firefox_nightly.png" alt="Download Firefox" width="80"></a> |
 | **Edge**  <br><a href="https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br><b>Last Updated:</b><br><em><code>May 02, 2026</code></em> | `147.0.3912.98` | `com.microsoft.edgemac` | <a href="https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8ef4985e-fb35-40a3-b56b-3de67c008f23/MicrosoftEdge-147.0.3912.98.pkg"><img src=".github/images/edge.png" alt="Download Edge" width="80"></a> |
 | **Edge** <sup>Beta</sup> <br><a href="https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-beta-channel" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br><b>Last Updated:</b><br><em><code>May 01, 2026</code></em> | `148.0.3967.42` | `com.microsoft.edgemac.beta` | <a href="https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/6fa16ab3-fe6c-4730-b3c9-9ff1ce781fae/MicrosoftEdgeBeta-148.0.3967.42.pkg"><img src=".github/images/edge_beta.png" alt="Download Edge" width="80"></a> |
-| **Edge** <sup>Developer</sup> <br><br><b>Last Updated:</b><br><em><code>April 28, 2026</code></em> | `149.0.3993.0` | `com.microsoft.edgemac.dev` | <a href="https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5092d273-cf2d-4588-9edf-55d7f891ecf2/MicrosoftEdgeDev-149.0.3993.0.pkg"><img src=".github/images/edge_dev.png" alt="Download Edge" width="80"></a> |
+| **Edge** <sup>Developer</sup> <br><br><b>Last Updated:</b><br><em><code>May 05, 2026</code></em> | `149.0.4009.0` | `com.microsoft.edgemac.dev` | <a href="https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/7306d935-1c89-472a-8281-a53a83cbaf53/MicrosoftEdgeDev-149.0.4009.0.pkg"><img src=".github/images/edge_dev.png" alt="Download Edge" width="80"></a> |
 | **Edge** <sup>Canary</sup> <br><br><b>Last Updated:</b><br><em><code>May 01, 2026</code></em> | `149.0.4009.0` | `com.microsoft.edgemac.canary` | <a href="https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/fdeed125-c28c-44bb-92ae-96606b0e967d/MicrosoftEdgeCanary-149.0.4009.0.pkg"><img src=".github/images/edge_canary.png" alt="Download Edge" width="80"></a> |
 
 
