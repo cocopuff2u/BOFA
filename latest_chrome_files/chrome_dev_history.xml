@@ -1,10 +1,17 @@
 <?xml version="1.0" ?>
 <releases>
-  <last_updated>May 07, 2026 03:32 PM EDT</last_updated>
+  <last_updated>May 07, 2026 04:28 PM EDT</last_updated>
+  <release>
+    <version>150.0.7828.2</version>
+    <release_date>May 07, 2026 08:22 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>15</fraction_group>
+  </release>
   <release>
     <version>149.0.7815.2</version>
     <release_date>April 30, 2026 02:48 PM</release_date>
-    <end_date>N/A</end_date>
+    <end_date>May 07, 2026 08:22 PM</end_date>
     <fraction>100%</fraction>
     <fraction_group>15</fraction_group>
   </release>
