@@ -1,18 +1,18 @@
 <?xml version="1.0" ?>
 <safari_versions>
-  <last_updated>May 07, 2026 01:33 PM EDT</last_updated>
+  <last_updated>May 07, 2026 02:33 PM EDT</last_updated>
   <Safari_Technology_Preview>
     <macos>Tahoe</macos>
     <version>1</version>
-    <PostDate>April 23, 2026</PostDate>
-    <URL>https://secure-appldnld.apple.com/STP/122-52743-20260422-45cd20be-cc9d-4957-a60d-f593495e919f/SafariTechnologyPreview.dmg</URL>
+    <PostDate>May 7, 2026</PostDate>
+    <URL>https://secure-appldnld.apple.com/STP/122-72142-20260507-c9a810c9-3745-4fcf-905c-a556d95ae394/SafariTechnologyPreview.dmg</URL>
     <ReleaseNotes>https://developer.apple.com/documentation/ios-ipados-release-notes</ReleaseNotes>
   </Safari_Technology_Preview>
   <Safari_Technology_Preview>
     <macos>Sequoia</macos>
     <version>1</version>
-    <PostDate>April 23, 2026</PostDate>
-    <URL>https://secure-appldnld.apple.com/STP/122-52744-20260422-06b90b6a-f5ce-40d0-88da-2101d743c10a/SafariTechnologyPreview.dmg</URL>
+    <PostDate>May 7, 2026</PostDate>
+    <URL>https://secure-appldnld.apple.com/STP/122-72143-20260507-72eb88f1-3f1a-496b-8fac-e70ddc90c600/SafariTechnologyPreview.dmg</URL>
     <ReleaseNotes>https://developer.apple.com/documentation/ios-ipados-release-notes</ReleaseNotes>
   </Safari_Technology_Preview>
   <release>
