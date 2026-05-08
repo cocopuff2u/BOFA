@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <mac_versions>
-  <last_updated>May 07, 2026 07:18 PM EDT</last_updated>
+  <last_updated>May 07, 2026 09:35 PM EDT</last_updated>
   <stable>
     <version>148.0.7778.97</version>
     <release_time>May 05, 2026 08:31 PM EDT</release_time>
@@ -8,7 +8,7 @@
   </stable>
   <extended>
     <version>146.0.7680.216</version>
-    <release_time>May 05, 2026 08:31 PM EDT</release_time>
+    <release_time>May 07, 2026 11:45 PM EDT</release_time>
     <download_link>https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg</download_link>
   </extended>
   <beta>
