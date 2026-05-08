@@ -1,4 +1,4 @@
-last_updated: May 08, 2026 02:35 AM EDT
+last_updated: May 08, 2026 03:32 AM EDT
 releases:
 - version: 147.0.7727.138
   release_date: May 07, 2026 11:45 PM
@@ -202,19 +202,19 @@ releases:
   fraction_group: '195'
 - version: 147.0.7727.56
   release_date: April 07, 2026 09:24 PM
-  end_date: April 13, 2026 08:28 PM
-  fraction: 0.5%
-  fraction_group: '195'
-- version: 147.0.7727.56
-  release_date: April 07, 2026 09:24 PM
-  end_date: April 13, 2026 08:28 PM
-  fraction: 0.5%
-  fraction_group: '195'
-- version: 147.0.7727.56
-  release_date: April 07, 2026 09:24 PM
   end_date: April 15, 2026 05:40 PM
   fraction: 100%
   fraction_group: '194'
+- version: 147.0.7727.56
+  release_date: April 07, 2026 09:24 PM
+  end_date: April 13, 2026 08:28 PM
+  fraction: 0.5%
+  fraction_group: '195'
+- version: 147.0.7727.56
+  release_date: April 07, 2026 09:24 PM
+  end_date: April 13, 2026 08:28 PM
+  fraction: 0.5%
+  fraction_group: '195'
 - version: 146.0.7680.178
   release_date: April 02, 2026 06:45 PM
   end_date: April 07, 2026 09:24 PM
@@ -372,13 +372,8 @@ releases:
   fraction_group: '195'
 - version: 146.0.7680.80
   release_date: March 14, 2026 01:08 AM
-  end_date: March 17, 2026 06:59 PM
-  fraction: 0.5%
-  fraction_group: '195'
-- version: 146.0.7680.80
-  release_date: March 14, 2026 01:08 AM
-  end_date: March 17, 2026 06:59 PM
-  fraction: 9.8%
+  end_date: March 16, 2026 10:28 PM
+  fraction: 6.27%
   fraction_group: '195'
 - version: 146.0.7680.80
   release_date: March 14, 2026 01:08 AM
@@ -387,8 +382,13 @@ releases:
   fraction_group: '194'
 - version: 146.0.7680.80
   release_date: March 14, 2026 01:08 AM
-  end_date: March 16, 2026 10:28 PM
-  fraction: 6.27%
+  end_date: March 17, 2026 06:59 PM
+  fraction: 9.8%
+  fraction_group: '195'
+- version: 146.0.7680.80
+  release_date: March 14, 2026 01:08 AM
+  end_date: March 17, 2026 06:59 PM
+  fraction: 0.5%
   fraction_group: '195'
 - version: 146.0.7680.80
   release_date: March 14, 2026 01:08 AM
@@ -423,12 +423,12 @@ releases:
 - version: 146.0.7680.76
   release_date: March 12, 2026 09:08 PM
   end_date: March 14, 2026 01:08 AM
-  fraction: 9.8%
+  fraction: 0.5%
   fraction_group: '195'
 - version: 146.0.7680.76
   release_date: March 12, 2026 09:08 PM
   end_date: March 14, 2026 01:08 AM
-  fraction: 0.5%
+  fraction: 9.8%
   fraction_group: '195'
 - version: 145.0.7632.160
   release_date: March 10, 2026 06:40 PM
@@ -453,13 +453,13 @@ releases:
 - version: 146.0.7680.72
   release_date: March 10, 2026 06:40 PM
   end_date: March 12, 2026 09:08 PM
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 0.5%
+  fraction_group: '195'
 - version: 146.0.7680.72
   release_date: March 10, 2026 06:40 PM
   end_date: March 12, 2026 09:08 PM
-  fraction: 0.5%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 145.0.7632.160
   release_date: March 05, 2026 09:16 PM
   end_date: March 10, 2026 06:40 PM
@@ -608,7 +608,7 @@ releases:
 - version: 145.0.7632.76
   release_date: February 13, 2026 06:20 PM
   end_date: February 18, 2026 08:43 PM
-  fraction: 0.5%
+  fraction: 9.9%
   fraction_group: '195'
 - version: 145.0.7632.76
   release_date: February 13, 2026 06:20 PM
@@ -618,11 +618,6 @@ releases:
 - version: 145.0.7632.76
   release_date: February 13, 2026 06:20 PM
   end_date: February 18, 2026 08:43 PM
-  fraction: 9.9%
-  fraction_group: '195'
-- version: 145.0.7632.68
-  release_date: Invalid Time
-  end_date: February 13, 2026 06:20 PM
   fraction: 0.5%
   fraction_group: '195'
 - version: 145.0.7632.68
@@ -634,6 +629,11 @@ releases:
   release_date: Invalid Time
   end_date: February 13, 2026 06:20 PM
   fraction: 9.9%
+  fraction_group: '195'
+- version: 145.0.7632.68
+  release_date: Invalid Time
+  end_date: February 13, 2026 06:20 PM
+  fraction: 0.5%
   fraction_group: '195'
 - version: 144.0.7559.133
   release_date: February 10, 2026 09:33 PM
@@ -1097,6 +1097,11 @@ releases:
   fraction_group: '195'
 - version: 142.0.7444.60
   release_date: October 28, 2025 09:24 PM
+  end_date: November 03, 2025 09:18 PM
+  fraction: 0.5%
+  fraction_group: '195'
+- version: 142.0.7444.60
+  release_date: October 28, 2025 09:24 PM
   end_date: October 31, 2025 12:06 PM
   fraction: 9.9%
   fraction_group: '195'
@@ -1105,11 +1110,6 @@ releases:
   end_date: November 05, 2025 07:58 PM
   fraction: 100%
   fraction_group: '194'
-- version: 142.0.7444.60
-  release_date: October 28, 2025 09:24 PM
-  end_date: November 03, 2025 09:18 PM
-  fraction: 0.5%
-  fraction_group: '195'
 - version: 141.0.7390.123
   release_date: October 23, 2025 07:56 PM
   end_date: October 28, 2025 09:24 PM
@@ -1742,14 +1742,14 @@ releases:
   fraction_group: '195'
 - version: 138.0.7204.93
   release_date: June 30, 2025 08:47 PM
-  end_date: July 08, 2025 04:53 PM
-  fraction: 100%
-  fraction_group: '194'
-- version: 138.0.7204.93
-  release_date: June 30, 2025 08:47 PM
   end_date: July 07, 2025 06:35 PM
   fraction: 0.5%
   fraction_group: '195'
+- version: 138.0.7204.93
+  release_date: June 30, 2025 08:47 PM
+  end_date: July 08, 2025 04:53 PM
+  fraction: 100%
+  fraction_group: '194'
 - version: 138.0.7204.93
   release_date: June 30, 2025 08:47 PM
   end_date: July 07, 2025 06:35 PM
@@ -1932,14 +1932,14 @@ releases:
   fraction_group: '195'
 - version: 137.0.7151.56
   release_date: May 27, 2025 05:17 PM
-  end_date: June 02, 2025 10:50 PM
-  fraction: 100%
-  fraction_group: '194'
-- version: 137.0.7151.56
-  release_date: May 27, 2025 05:17 PM
   end_date: June 02, 2025 08:59 PM
   fraction: 0.5%
   fraction_group: '195'
+- version: 137.0.7151.56
+  release_date: May 27, 2025 05:17 PM
+  end_date: June 02, 2025 10:50 PM
+  fraction: 100%
+  fraction_group: '194'
 - version: 136.0.7103.114
   release_date: May 21, 2025 03:04 PM
   end_date: May 27, 2025 05:17 PM
@@ -4112,13 +4112,13 @@ releases:
   fraction_group: '195'
 - version: 124.0.6367.119
   release_date: May 08, 2024 05:59 PM
-  end_date: May 09, 2024 07:52 PM
-  fraction: 49.75%
+  end_date: May 08, 2024 07:30 PM
+  fraction: 24.88%
   fraction_group: '195'
 - version: 124.0.6367.119
   release_date: May 08, 2024 05:59 PM
-  end_date: May 08, 2024 07:30 PM
-  fraction: 24.88%
+  end_date: May 09, 2024 07:52 PM
+  fraction: 49.75%
   fraction_group: '195'
 - version: 124.0.6367.155
   release_date: May 08, 2024 05:59 PM
@@ -4567,14 +4567,14 @@ releases:
   fraction_group: '195'
 - version: 122.0.6261.129
   release_date: March 12, 2024 09:32 PM
-  end_date: March 19, 2024 08:40 PM
-  fraction: 100%
-  fraction_group: '194'
-- version: 122.0.6261.129
-  release_date: March 12, 2024 09:32 PM
   end_date: March 13, 2024 06:20 PM
   fraction: 25%
   fraction_group: '195'
+- version: 122.0.6261.129
+  release_date: March 12, 2024 09:32 PM
+  end_date: March 19, 2024 08:40 PM
+  fraction: 100%
+  fraction_group: '194'
 - version: 122.0.6261.112
   release_date: March 07, 2024 07:30 PM
   end_date: March 12, 2024 09:32 PM
@@ -4657,14 +4657,14 @@ releases:
   fraction_group: '195'
 - version: 122.0.6261.69
   release_date: February 22, 2024 08:54 PM
-  end_date: February 27, 2024 06:59 PM
-  fraction: 100%
-  fraction_group: '194'
-- version: 122.0.6261.69
-  release_date: February 22, 2024 08:54 PM
   end_date: Invalid Time
   fraction: 50%
   fraction_group: '195'
+- version: 122.0.6261.69
+  release_date: February 22, 2024 08:54 PM
+  end_date: February 27, 2024 06:59 PM
+  fraction: 100%
+  fraction_group: '194'
 - version: 121.0.6167.184
   release_date: February 21, 2024 08:13 PM
   end_date: February 22, 2024 08:54 PM
@@ -4832,14 +4832,14 @@ releases:
   fraction_group: '195'
 - version: 121.0.6167.85
   release_date: January 23, 2024 05:00 PM
-  end_date: January 24, 2024 09:15 PM
-  fraction: 10%
-  fraction_group: '195'
-- version: 121.0.6167.85
-  release_date: January 23, 2024 05:00 PM
   end_date: January 30, 2024 06:21 PM
   fraction: 100%
   fraction_group: '194'
+- version: 121.0.6167.85
+  release_date: January 23, 2024 05:00 PM
+  end_date: January 24, 2024 09:15 PM
+  fraction: 10%
+  fraction_group: '195'
 - version: 121.0.6167.85
   release_date: January 22, 2024 04:14 PM
   end_date: January 23, 2024 05:00 PM
@@ -4972,14 +4972,14 @@ releases:
   fraction_group: '195'
 - version: 120.0.6099.129
   release_date: Invalid Time
-  end_date: December 21, 2023 07:21 PM
-  fraction: 25%
-  fraction_group: '195'
-- version: 120.0.6099.129
-  release_date: Invalid Time
   end_date: January 03, 2024 07:05 PM
   fraction: 100%
   fraction_group: '194'
+- version: 120.0.6099.129
+  release_date: Invalid Time
+  end_date: December 21, 2023 07:21 PM
+  fraction: 25%
+  fraction_group: '195'
 - version: 120.0.6099.109
   release_date: December 14, 2023 07:49 PM
   end_date: Invalid Time
@@ -5048,13 +5048,13 @@ releases:
 - version: 120.0.6099.62
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 10%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 120.0.6099.62
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 10%
+  fraction_group: '195'
 - version: 120.0.6099.62
   release_date: Invalid Time
   end_date: Invalid Time
@@ -5097,14 +5097,14 @@ releases:
   fraction_group: '195'
 - version: 119.0.6045.199
   release_date: November 28, 2023 07:29 PM
-  end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
-- version: 119.0.6045.199
-  release_date: November 28, 2023 07:29 PM
   end_date: November 29, 2023 09:27 PM
   fraction: 25%
   fraction_group: '195'
+- version: 119.0.6045.199
+  release_date: November 28, 2023 07:29 PM
+  end_date: Invalid Time
+  fraction: 100%
+  fraction_group: '194'
 - version: 119.0.6045.159
   release_date: November 16, 2023 08:49 PM
   end_date: November 28, 2023 07:29 PM
@@ -5127,14 +5127,14 @@ releases:
   fraction_group: '195'
 - version: 119.0.6045.159
   release_date: November 14, 2023 07:20 PM
-  end_date: November 15, 2023 07:14 PM
-  fraction: 25%
-  fraction_group: '195'
-- version: 119.0.6045.159
-  release_date: November 14, 2023 07:20 PM
   end_date: November 28, 2023 07:29 PM
   fraction: 100%
   fraction_group: '194'
+- version: 119.0.6045.159
+  release_date: November 14, 2023 07:20 PM
+  end_date: November 15, 2023 07:14 PM
+  fraction: 25%
+  fraction_group: '195'
 - version: 119.0.6045.123
   release_date: November 09, 2023 11:28 PM
   end_date: November 14, 2023 07:20 PM
@@ -5197,14 +5197,14 @@ releases:
   fraction_group: '195'
 - version: 119.0.6045.105
   release_date: October 31, 2023 08:30 PM
-  end_date: November 01, 2023 08:27 PM
-  fraction: 10%
-  fraction_group: '195'
-- version: 119.0.6045.105
-  release_date: October 31, 2023 08:30 PM
   end_date: November 07, 2023 10:20 PM
   fraction: 100%
   fraction_group: '194'
+- version: 119.0.6045.105
+  release_date: October 31, 2023 08:30 PM
+  end_date: November 01, 2023 08:27 PM
+  fraction: 10%
+  fraction_group: '195'
 - version: 119.0.6045.105
   release_date: October 31, 2023 08:04 PM
   end_date: October 31, 2023 08:30 PM
@@ -5433,13 +5433,13 @@ releases:
 - version: 117.0.5938.92
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 25%
+  fraction_group: '195'
 - version: 117.0.5938.92
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 25%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 116.0.5845.187
   release_date: Invalid Time
   end_date: Invalid Time
@@ -5472,14 +5472,14 @@ releases:
   fraction_group: '195'
 - version: 117.0.5938.88
   release_date: Invalid Time
-  end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
-- version: 117.0.5938.88
-  release_date: Invalid Time
   end_date: September 18, 2023 05:42 PM
   fraction: 5%
   fraction_group: '195'
+- version: 117.0.5938.88
+  release_date: Invalid Time
+  end_date: Invalid Time
+  fraction: 100%
+  fraction_group: '194'
 - version: 116.0.5845.187
   release_date: Invalid Time
   end_date: Invalid Time
@@ -5533,13 +5533,13 @@ releases:
 - version: 116.0.5845.187
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 24.94%
+  fraction_group: '195'
 - version: 116.0.5845.187
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 24.94%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 116.0.5845.179
   release_date: Invalid Time
   end_date: Invalid Time
@@ -5598,13 +5598,13 @@ releases:
 - version: 116.0.5845.140
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 25%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 116.0.5845.140
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 25%
+  fraction_group: '195'
 - version: 116.0.5845.110
   release_date: Invalid Time
   end_date: Invalid Time
@@ -5798,13 +5798,13 @@ releases:
 - version: 115.0.5790.98
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 10%
+  fraction_group: '195'
 - version: 115.0.5790.98
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 10%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 115.0.5790.98
   release_date: Invalid Time
   end_date: Invalid Time
@@ -5963,13 +5963,13 @@ releases:
 - version: 113.0.5672.126
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 25%
+  fraction_group: '195'
 - version: 113.0.5672.126
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 25%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 113.0.5672.92
   release_date: Invalid Time
   end_date: Invalid Time
@@ -6083,13 +6083,13 @@ releases:
 - version: 112.0.5615.121
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 25%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 112.0.5615.121
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 25%
+  fraction_group: '195'
 - version: 112.0.5615.49
   release_date: Invalid Time
   end_date: Invalid Time
@@ -6128,13 +6128,13 @@ releases:
 - version: 112.0.5615.49
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 10%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 112.0.5615.49
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 10%
+  fraction_group: '195'
 - version: 111.0.5563.146
   release_date: Invalid Time
   end_date: Invalid Time
@@ -6168,13 +6168,13 @@ releases:
 - version: 111.0.5563.146
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 25%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 111.0.5563.146
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 25%
+  fraction_group: '195'
 - version: 111.0.5563.110
   release_date: Invalid Time
   end_date: Invalid Time
@@ -6238,13 +6238,13 @@ releases:
 - version: 111.0.5563.64
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 10%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 111.0.5563.64
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 10%
+  fraction_group: '195'
 - version: 111.0.5563.64
   release_date: Invalid Time
   end_date: Invalid Time
@@ -6308,13 +6308,13 @@ releases:
 - version: 110.0.5481.100
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 25%
+  fraction_group: '195'
 - version: 110.0.5481.100
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 25%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 110.0.5481.96
   release_date: Invalid Time
   end_date: Invalid Time
@@ -6342,14 +6342,14 @@ releases:
   fraction_group: '195'
 - version: 110.0.5481.77
   release_date: Invalid Time
-  end_date: February 08, 2023 10:27 PM
-  fraction: 10%
-  fraction_group: '195'
-- version: 110.0.5481.77
-  release_date: Invalid Time
   end_date: Invalid Time
   fraction: 100%
   fraction_group: '194'
+- version: 110.0.5481.77
+  release_date: Invalid Time
+  end_date: February 08, 2023 10:27 PM
+  fraction: 10%
+  fraction_group: '195'
 - version: 109.0.5414.119
   release_date: Invalid Time
   end_date: Invalid Time
@@ -6422,14 +6422,14 @@ releases:
   fraction_group: '195'
 - version: 109.0.5414.87
   release_date: Invalid Time
+  end_date: Invalid Time
+  fraction: 100%
+  fraction_group: '194'
+- version: 109.0.5414.87
+  release_date: Invalid Time
   end_date: January 11, 2023 09:12 PM
   fraction: 10%
   fraction_group: '195'
-- version: 109.0.5414.87
-  release_date: Invalid Time
-  end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
 - version: 108.0.5359.124
   release_date: Invalid Time
   end_date: Invalid Time
@@ -6448,13 +6448,13 @@ releases:
 - version: 108.0.5359.124
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 25%
+  fraction_group: '195'
 - version: 108.0.5359.124
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 25%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 108.0.5359.98
   release_date: Invalid Time
   end_date: Invalid Time
@@ -6473,13 +6473,13 @@ releases:
 - version: 108.0.5359.98
   release_date: December 07, 2022 05:09 PM
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 50%
+  fraction_group: '195'
 - version: 108.0.5359.98
   release_date: December 07, 2022 05:09 PM
   end_date: Invalid Time
-  fraction: 50%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 108.0.5359.94
   release_date: Invalid Time
   end_date: December 07, 2022 05:09 PM
@@ -6538,13 +6538,13 @@ releases:
 - version: 108.0.5359.71
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 10%
+  fraction_group: '195'
 - version: 108.0.5359.71
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 10%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 107.0.5304.121
   release_date: Invalid Time
   end_date: Invalid Time
@@ -6593,13 +6593,13 @@ releases:
 - version: 107.0.5304.110
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 25%
+  fraction_group: '195'
 - version: 107.0.5304.110
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 25%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 107.0.5304.87
   release_date: Invalid Time
   end_date: Invalid Time
@@ -6623,13 +6623,13 @@ releases:
 - version: 107.0.5304.87
   release_date: October 27, 2022 08:27 PM
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 25%
+  fraction_group: '195'
 - version: 107.0.5304.87
   release_date: October 27, 2022 08:27 PM
   end_date: Invalid Time
-  fraction: 25%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 106.0.5249.119
   release_date: Invalid Time
   end_date: Invalid Time
@@ -6647,14 +6647,14 @@ releases:
   fraction_group: '195'
 - version: 107.0.5304.62
   release_date: Invalid Time
-  end_date: October 27, 2022 08:27 PM
-  fraction: 100%
-  fraction_group: '194'
-- version: 107.0.5304.62
-  release_date: Invalid Time
   end_date: Invalid Time
   fraction: 10%
   fraction_group: '195'
+- version: 107.0.5304.62
+  release_date: Invalid Time
+  end_date: October 27, 2022 08:27 PM
+  fraction: 100%
+  fraction_group: '194'
 - version: 106.0.5249.119
   release_date: Invalid Time
   end_date: Invalid Time
@@ -6718,13 +6718,13 @@ releases:
 - version: 106.0.5249.103
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 5%
+  fraction_group: '195'
 - version: 106.0.5249.103
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 5%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 105.0.5195.125
   release_date: Invalid Time
   end_date: Invalid Time
@@ -6778,13 +6778,13 @@ releases:
 - version: 106.0.5249.61
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 10%
+  fraction_group: '195'
 - version: 106.0.5249.61
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 10%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 105.0.5195.125
   release_date: Invalid Time
   end_date: Invalid Time
@@ -6808,13 +6808,13 @@ releases:
 - version: 105.0.5195.125
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 25%
+  fraction_group: '195'
 - version: 105.0.5195.125
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 25%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 105.0.5195.102
   release_date: Invalid Time
   end_date: Invalid Time
@@ -6833,13 +6833,13 @@ releases:
 - version: 105.0.5195.102
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 25%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 105.0.5195.102
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 25%
+  fraction_group: '195'
 - version: 104.0.5112.101
   release_date: Invalid Time
   end_date: Invalid Time
@@ -6858,13 +6858,13 @@ releases:
 - version: 105.0.5195.52
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 10%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 105.0.5195.52
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 10%
+  fraction_group: '195'
 - version: 104.0.5112.101
   release_date: Invalid Time
   end_date: Invalid Time
@@ -6883,13 +6883,13 @@ releases:
 - version: 104.0.5112.101
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 25%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 104.0.5112.101
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 25%
+  fraction_group: '195'
 - version: 104.0.5112.79
   release_date: Invalid Time
   end_date: Invalid Time
@@ -6928,13 +6928,13 @@ releases:
 - version: 104.0.5112.79
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 10%
+  fraction_group: '195'
 - version: 104.0.5112.79
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 10%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 103.0.5060.134
   release_date: Invalid Time
   end_date: Invalid Time
@@ -6958,13 +6958,13 @@ releases:
 - version: 103.0.5060.134
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 25%
+  fraction_group: '195'
 - version: 103.0.5060.134
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 25%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 103.0.5060.114
   release_date: Invalid Time
   end_date: Invalid Time
@@ -7053,13 +7053,13 @@ releases:
 - version: 102.0.5005.115
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 25%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 102.0.5005.115
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 25%
+  fraction_group: '195'
 - version: 102.0.5005.61
   release_date: Invalid Time
   end_date: Invalid Time
@@ -7098,13 +7098,13 @@ releases:
 - version: 102.0.5005.61
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 10%
+  fraction_group: '195'
 - version: 102.0.5005.61
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 10%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 101.0.4951.64
   release_date: Invalid Time
   end_date: Invalid Time
@@ -7128,13 +7128,13 @@ releases:
 - version: 101.0.4951.64
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 25%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 101.0.4951.64
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 25%
+  fraction_group: '195'
 - version: 101.0.4951.54
   release_date: May 05, 2022 09:37 PM
   end_date: Invalid Time
@@ -7163,13 +7163,13 @@ releases:
 - version: 101.0.4951.54
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 10%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 101.0.4951.54
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 10%
+  fraction_group: '195'
 - version: 100.0.4896.127
   release_date: Invalid Time
   end_date: Invalid Time
@@ -7333,13 +7333,13 @@ releases:
 - version: 99.0.4844.84
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 100%
-  fraction_group: '194'
+  fraction: 25%
+  fraction_group: '195'
 - version: 99.0.4844.84
   release_date: Invalid Time
   end_date: Invalid Time
-  fraction: 25%
-  fraction_group: '195'
+  fraction: 100%
+  fraction_group: '194'
 - version: 99.0.4844.83
   release_date: Invalid Time
   end_date: Invalid Time
@@ -7392,14 +7392,14 @@ releases:
   fraction_group: '195'
 - version: 99.0.4844.74
   release_date: Invalid Time
-  end_date: Invalid Time
-  fraction: 25%
-  fraction_group: '195'
-- version: 99.0.4844.74
-  release_date: Invalid Time
   end_date: March 20, 2022 03:37 PM
   fraction: 100%
   fraction_group: '194'
+- version: 99.0.4844.74
+  release_date: Invalid Time
+  end_date: Invalid Time
+  fraction: 25%
+  fraction_group: '195'
 - version: 99.0.4844.51
   release_date: Invalid Time
   end_date: Invalid Time
@@ -8549,12 +8549,12 @@ releases:
   release_date: February 22, 2021 07:56 PM
   end_date: February 23, 2021 08:03 PM
   fraction: 100%
-  fraction_group: '114'
+  fraction_group: '106'
 - version: 88.0.4324.182
   release_date: February 22, 2021 07:56 PM
   end_date: February 23, 2021 08:03 PM
   fraction: 100%
-  fraction_group: '106'
+  fraction_group: '114'
 - version: 88.0.4324.192
   release_date: February 22, 2021 07:56 PM
   end_date: February 23, 2021 08:03 PM
@@ -8594,12 +8594,12 @@ releases:
   release_date: Invalid Time
   end_date: February 22, 2021 07:56 PM
   fraction: 100%
-  fraction_group: '105'
+  fraction_group: '97'
 - version: 88.0.4324.182
   release_date: Invalid Time
   end_date: February 22, 2021 07:56 PM
   fraction: 100%
-  fraction_group: '97'
+  fraction_group: '105'
 - version: 88.0.4324.192
   release_date: Invalid Time
   end_date: February 22, 2021 07:56 PM
