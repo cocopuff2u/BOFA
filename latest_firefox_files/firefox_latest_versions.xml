@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf8'?>
 <mac_versions>
-  <last_updated>May 18, 2026 08:36 PM EDT</last_updated>
+  <last_updated>May 18, 2026 09:39 PM EDT</last_updated>
   <stable>
     <version>150.0.3</version>
     <release_time>May 12, 2026 12:00 AM EDT</release_time>
@@ -24,6 +24,6 @@
   <nightly>
     <version>152.0a1</version>
     <release_time>April 20, 2026 12:00 AM EDT</release_time>
-    <download>https://download-installer.cdn.mozilla.net/pub/firefox/nightly/latest-mozilla-central/firefox-152.0a1.en-US.mac.pkg</download>
+    <download>https://download-installer.cdn.mozilla.net/pub/firefox/nightly/latest-mozilla-central/firefox-153.0a1.en-US.mac.pkg</download>
   </nightly>
 </mac_versions>
