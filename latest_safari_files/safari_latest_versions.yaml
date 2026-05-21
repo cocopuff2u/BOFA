@@ -1,15 +1,15 @@
 safari_versions:
-  last_updated: May 21, 2026 06:28 PM EDT
+  last_updated: May 21, 2026 07:22 PM EDT
   Safari_Technology_Preview:
   - macos: Tahoe
     version: '1'
-    PostDate: May 7, 2026
-    URL: https://secure-appldnld.apple.com/STP/122-72142-20260507-c9a810c9-3745-4fcf-905c-a556d95ae394/SafariTechnologyPreview.dmg
+    PostDate: May 21, 2026
+    URL: https://secure-appldnld.apple.com/STP/122-88537-20260521-a8fe9705-30d4-4c1c-8c22-b2b7f2bb260e/SafariTechnologyPreview.dmg
     ReleaseNotes: https://developer.apple.com/documentation/ios-ipados-release-notes
   - macos: Sequoia
     version: '1'
-    PostDate: May 7, 2026
-    URL: https://secure-appldnld.apple.com/STP/122-72143-20260507-72eb88f1-3f1a-496b-8fac-e70ddc90c600/SafariTechnologyPreview.dmg
+    PostDate: May 21, 2026
+    URL: https://secure-appldnld.apple.com/STP/122-88534-20260521-6dc38dc5-09a4-4572-985a-13bccab2baca/SafariTechnologyPreview.dmg
     ReleaseNotes: https://developer.apple.com/documentation/ios-ipados-release-notes
   release:
   - major_version: '26'
