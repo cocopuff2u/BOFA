@@ -1,24 +1,59 @@
 <?xml version="1.0" ?>
 <releases>
-  <last_updated>May 21, 2026 11:03 AM EDT</last_updated>
+  <last_updated>May 21, 2026 12:52 PM EDT</last_updated>
+  <release>
+    <version>148.0.7778.168</version>
+    <release_date>May 21, 2026 03:46 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>49.5%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
+  <release>
+    <version>148.0.7778.169</version>
+    <release_date>May 21, 2026 03:46 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>24.75%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
+  <release>
+    <version>148.0.7778.178</version>
+    <release_date>May 21, 2026 03:46 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>24.75%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
+  <release>
+    <version>148.0.7778.180</version>
+    <release_date>May 21, 2026 03:46 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>0.5%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
+  <release>
+    <version>149.0.7827.29</version>
+    <release_date>May 21, 2026 03:46 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>0.5%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
   <release>
     <version>148.0.7778.168</version>
     <release_date>May 19, 2026 07:51 PM</release_date>
-    <end_date>N/A</end_date>
+    <end_date>May 21, 2026 03:46 PM</end_date>
     <fraction>50%</fraction>
     <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>148.0.7778.169</version>
     <release_date>May 19, 2026 07:51 PM</release_date>
-    <end_date>N/A</end_date>
+    <end_date>May 21, 2026 03:46 PM</end_date>
     <fraction>25%</fraction>
     <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>148.0.7778.178</version>
     <release_date>May 19, 2026 07:51 PM</release_date>
-    <end_date>N/A</end_date>
+    <end_date>May 21, 2026 03:46 PM</end_date>
     <fraction>25%</fraction>
     <fraction_group>195</fraction_group>
   </release>
