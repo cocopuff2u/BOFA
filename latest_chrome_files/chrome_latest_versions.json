@@ -1,5 +1,5 @@
 {
-  "last_updated": "May 27, 2026 05:34 PM EDT",
+  "last_updated": "May 27, 2026 06:32 PM EDT",
   "stable": {
     "version": "148.0.7778.216",
     "time": "May 27, 2026 05:44 PM EDT",
@@ -26,8 +26,8 @@
     "download_link": "https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg"
   },
   "canary_asan": {
-    "version": "150.0.7861.1",
-    "time": "May 27, 2026 10:34 AM EDT",
+    "version": "150.0.7862.1",
+    "time": "May 27, 2026 09:34 PM EDT",
     "download_link": "https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg"
   }
 }
