@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf8'?>
 <mac_versions>
-  <last_updated>May 29, 2026 11:03 AM EDT</last_updated>
+  <last_updated>May 29, 2026 01:08 PM EDT</last_updated>
   <stable>
     <version>151.0.2</version>
     <release_time>May 26, 2026 12:00 AM EDT</release_time>
@@ -9,7 +9,7 @@
   <beta>
     <version>152.0b4</version>
     <release_time>May 27, 2026 12:00 AM EDT</release_time>
-    <download>https://download-installer.cdn.mozilla.net/pub/firefox/releases/152.0b4/mac/en-US/Firefox%20152.0b4.pkg</download>
+    <download>https://download-installer.cdn.mozilla.net/pub/firefox/releases/152.0b5/mac/en-US/Firefox%20152.0b5.pkg</download>
   </beta>
   <dev>
     <version>152.0b4</version>
