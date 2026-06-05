@@ -16,9 +16,9 @@ dev:
   version: 151.0.7872.0
 extended:
   download_link: https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg
-  time: June 03, 2026 04:14 PM EDT
-  version: 148.0.7778.216
-last_updated: June 05, 2026 10:01 AM EDT
+  time: June 05, 2026 02:54 PM EDT
+  version: 148.0.7778.254
+last_updated: June 05, 2026 11:59 AM EDT
 stable:
   download_link: https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg
   time: June 02, 2026 08:08 PM EDT
