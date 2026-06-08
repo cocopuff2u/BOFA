@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <safari_versions>
-  <last_updated>June 08, 2026 04:48 PM EDT</last_updated>
+  <last_updated>June 08, 2026 05:33 PM EDT</last_updated>
   <Safari_Technology_Preview>
     <macos>Tahoe</macos>
     <version>1</version>
@@ -15,6 +15,12 @@
     <URL>https://secure-appldnld.apple.com/STP/122-88534-20260521-6dc38dc5-09a4-4572-985a-13bccab2baca/SafariTechnologyPreview.dmg</URL>
     <ReleaseNotes>https://developer.apple.com/documentation/ios-ipados-release-notes</ReleaseNotes>
   </Safari_Technology_Preview>
+  <release>
+    <major_version>27</major_version>
+    <full_version>27.0 beta (20625.1.18)</full_version>
+    <released>June 8, 2026</released>
+    <release_notes>https://developer.apple.com/documentation/safari-release-notes/safari-27-release-notes</release_notes>
+  </release>
   <release>
     <major_version>26</major_version>
     <full_version>26.5 (20624.2.5)</full_version>

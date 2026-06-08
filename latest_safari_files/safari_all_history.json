@@ -1,5 +1,13 @@
 [
   {
+    "major_version": "27",
+    "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-27-release-notes",
+    "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-27-release-notes",
+    "title": "Safari 27 Beta Release Notes",
+    "released": "June 8, 2026",
+    "version": "27.0 beta (20625.1.18)"
+  },
+  {
     "major_version": "26",
     "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-26_5-release-notes",
     "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-26_5-release-notes",
@@ -45,7 +53,7 @@
     "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-26-release-notes",
     "title": "Safari 26.0 Release Notes",
     "released": "September 15, 2025",
-    "version": "26.0 (20622.1.22)"
+    "version": "26 (20622.1.22)"
   },
   {
     "major_version": "18",
@@ -107,7 +115,7 @@
     "major_version": "18",
     "release_notes": "doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-18-release-notes",
     "release_notes_url": "https://developer.apple.com/documentation/safari-release-notes/safari-18-release-notes",
-    "title": "Safari 18.0 Release Notes",
+    "title": "Safari 18 Release Notes",
     "released": "September 16, 2024",
     "version": "18.0 (20619.1.26)"
   },

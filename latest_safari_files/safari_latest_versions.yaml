@@ -1,5 +1,5 @@
 safari_versions:
-  last_updated: June 08, 2026 04:48 PM EDT
+  last_updated: June 08, 2026 05:33 PM EDT
   Safari_Technology_Preview:
   - macos: Tahoe
     version: '1'
@@ -12,6 +12,10 @@ safari_versions:
     URL: https://secure-appldnld.apple.com/STP/122-88534-20260521-6dc38dc5-09a4-4572-985a-13bccab2baca/SafariTechnologyPreview.dmg
     ReleaseNotes: https://developer.apple.com/documentation/ios-ipados-release-notes
   release:
+  - major_version: '27'
+    full_version: 27.0 beta (20625.1.18)
+    released: June 8, 2026
+    release_notes: https://developer.apple.com/documentation/safari-release-notes/safari-27-release-notes
   - major_version: '26'
     full_version: 26.5 (20624.2.5)
     released: May 11, 2026

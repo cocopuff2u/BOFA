@@ -1,6 +1,12 @@
 <?xml version="1.0" ?>
 <safari_all_history>
-  <last_updated>June 08, 2026 04:48 PM EDT</last_updated>
+  <last_updated>June 08, 2026 05:33 PM EDT</last_updated>
+  <release>
+    <major_version>27</major_version>
+    <full_version>27.0 beta (20625.1.18)</full_version>
+    <released>June 8, 2026</released>
+    <release_notes>https://developer.apple.com/documentation/safari-release-notes/safari-27-release-notes</release_notes>
+  </release>
   <release>
     <major_version>26</major_version>
     <full_version>26.5 (20624.2.5)</full_version>
@@ -33,7 +39,7 @@
   </release>
   <release>
     <major_version>26</major_version>
-    <full_version>26.0 (20622.1.22)</full_version>
+    <full_version>26 (20622.1.22)</full_version>
     <released>September 15, 2025</released>
     <release_notes>https://developer.apple.com/documentation/safari-release-notes/safari-26-release-notes</release_notes>
   </release>
