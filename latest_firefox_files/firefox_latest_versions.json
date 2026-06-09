@@ -1,9 +1,9 @@
 {
-  "last_updated": "June 09, 2026 08:58 AM EDT",
+  "last_updated": "June 09, 2026 09:55 AM EDT",
   "stable": {
-    "version": "151.0.3",
-    "release_time": "June 02, 2026 12:00 AM EDT",
-    "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/151.0.3/mac/en-US/Firefox%20151.0.3.pkg"
+    "version": "151.0.4",
+    "release_time": "June 09, 2026 12:00 AM EDT",
+    "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/151.0.4/mac/en-US/Firefox%20151.0.4.pkg"
   },
   "beta": {
     "version": "152.0b9",

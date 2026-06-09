@@ -1,6 +1,18 @@
 <?xml version='1.0' encoding='utf8'?>
 <firefox_all_history>
-  <last_updated>June 09, 2026 08:58 AM EDT</last_updated>
+  <last_updated>June 09, 2026 09:55 AM EDT</last_updated>
+  <release>
+    <key>firefox-151.0.4</key>
+    <build_number>1</build_number>
+    <category>stability</category>
+    <date>2026-06-09</date>
+    <description>None</description>
+    <is_security_driven>False</is_security_driven>
+    <product>firefox</product>
+    <version>151.0.4</version>
+    <download_pkg>https://ftp.mozilla.org/pub/firefox/releases/151.0.4/mac/en-US/Firefox%20151.0.4.pkg</download_pkg>
+    <download_dmg>https://ftp.mozilla.org/pub/firefox/releases/151.0.4/mac/en-US/Firefox%20151.0.4.dmg</download_dmg>
+  </release>
   <release>
     <key>firefox-152.0b9</key>
     <build_number>1</build_number>
