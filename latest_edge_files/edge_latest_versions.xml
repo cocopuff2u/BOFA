@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <EdgeInsiderVersions>
-  <last_updated>June 09, 2026 09:55 AM EDT</last_updated>
+  <last_updated>June 09, 2026 12:53 PM EDT</last_updated>
   <Version>
     <Channel>current</Channel>
-    <Date>June 06, 2026 08:00 AM EDT</Date>
-    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/20523184-11bb-436b-a567-0e33fcaff5f2/MicrosoftEdge-149.0.4022.52.pkg</Location>
-    <Version>149.0.4022.52</Version>
+    <Date>June 09, 2026 04:18 PM EDT</Date>
+    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/67f5a1f3-d656-4d2c-be7b-c9f6c474584d/MicrosoftEdge-149.0.4022.62.pkg</Location>
+    <Version>149.0.4022.62</Version>
   </Version>
   <Version>
     <Channel>canary</Channel>
@@ -21,8 +21,8 @@
   </Version>
   <Version>
     <Channel>beta</Channel>
-    <Date>June 04, 2026 06:09 PM EDT</Date>
-    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/bc28958d-7de5-477e-a0e5-63b8685274f6/MicrosoftEdgeBeta-149.0.4022.52.pkg</Location>
-    <Version>149.0.4022.52</Version>
+    <Date>June 09, 2026 03:33 PM EDT</Date>
+    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/05c7efdc-380a-4027-9776-61d27b087523/MicrosoftEdgeBeta-149.0.4022.62.pkg</Location>
+    <Version>149.0.4022.62</Version>
   </Version>
 </EdgeInsiderVersions>
