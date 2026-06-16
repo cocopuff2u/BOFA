@@ -1,6 +1,42 @@
 <?xml version='1.0' encoding='utf8'?>
 <firefox_all_history>
-  <last_updated>June 16, 2026 07:46 AM EDT</last_updated>
+  <last_updated>June 16, 2026 09:42 AM EDT</last_updated>
+  <release>
+    <key>firefox-115.37.0esr</key>
+    <build_number>1</build_number>
+    <category>stability</category>
+    <date>2026-06-16</date>
+    <description>None</description>
+    <is_security_driven>False</is_security_driven>
+    <product>firefox</product>
+    <version>115.37.0</version>
+    <download_pkg>https://ftp.mozilla.org/pub/firefox/releases/115.37.0/mac/en-US/Firefox%20115.37.0.pkg</download_pkg>
+    <download_dmg>https://ftp.mozilla.org/pub/firefox/releases/115.37.0/mac/en-US/Firefox%20115.37.0.dmg</download_dmg>
+  </release>
+  <release>
+    <key>firefox-140.12.0esr</key>
+    <build_number>1</build_number>
+    <category>esr</category>
+    <date>2026-06-16</date>
+    <description>None</description>
+    <is_security_driven>False</is_security_driven>
+    <product>firefox</product>
+    <version>140.12.0</version>
+    <download_pkg>https://ftp.mozilla.org/pub/firefox/releases/140.12.0/mac/en-US/Firefox%20140.12.0.pkg</download_pkg>
+    <download_dmg>https://ftp.mozilla.org/pub/firefox/releases/140.12.0/mac/en-US/Firefox%20140.12.0.dmg</download_dmg>
+  </release>
+  <release>
+    <key>firefox-152.0</key>
+    <build_number>1</build_number>
+    <category>major</category>
+    <date>2026-06-16</date>
+    <description>None</description>
+    <is_security_driven>False</is_security_driven>
+    <product>firefox</product>
+    <version>152.0</version>
+    <download_pkg>https://ftp.mozilla.org/pub/firefox/releases/152.0/mac/en-US/Firefox%20152.0.pkg</download_pkg>
+    <download_dmg>https://ftp.mozilla.org/pub/firefox/releases/152.0/mac/en-US/Firefox%20152.0.dmg</download_dmg>
+  </release>
   <release>
     <key>firefox-152.0b10</key>
     <build_number>1</build_number>
