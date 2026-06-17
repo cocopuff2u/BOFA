@@ -45,7 +45,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <sup>**Edge**: [**_Raw XML_**](latest_edge_files/edge_latest_versions.xml) [**_Raw YAML_**](latest_edge_files/edge_latest_versions.yaml) [**_Raw JSON_**](latest_edge_files/edge_latest_versions.json) | **Safari**: [**_Raw XML_**](latest_safari_files/safari_latest_versions.xml) [**_Raw YAML_**](latest_safari_files/safari_latest_versions.yaml) [**_Raw JSON_**](latest_safari_files/safari_latest_versions.json)</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">June 17, 2026 06:34 PM EDT</code> (Automatically Updated every hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">June 17, 2026 07:32 PM EDT</code> (Automatically Updated every hour)_</sup>
 
 </div>
 
@@ -82,8 +82,8 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 | **Browser** | **Version** | **CFBundle Identifier** | **Download** |
 |------------|-------------------|---------------------|------------|
-| **Safari Technology Preview <sup>(27 beta)</sup>** <br><br><b>Post Date:</b><br><em><code>June 8, 2026</code></em> | `1` | `com.apple.SafariTechnologyPreview` | <div align="center"><a href="https://secure-appldnld.apple.com/STP/093-46354-20260605-354515df-3945-48da-878a-6e6200a450a4/SafariTechnologyPreview.dmg"><img src=".github/images/safari_technology.png" alt="Download Safari Technology Preview <sup>(27 beta)</sup>" width="80"></a></div> |
-| **Safari Technology Preview <sup>(26)</sup>** <br><br><b>Post Date:</b><br><em><code>June 8, 2026</code></em> | `1` | `com.apple.SafariTechnologyPreview` | <div align="center"><a href="https://secure-appldnld.apple.com/STP/122-98668-20260605-fba5ee23-9734-48f0-91b1-a872b1bd55f1/SafariTechnologyPreview.dmg"><img src=".github/images/safari_technology.png" alt="Download Safari Technology Preview <sup>(26)</sup>" width="80"></a></div> |
+| **Safari Technology Preview <sup>(27 beta)</sup>** <br><br><b>Post Date:</b><br><em><code>June 17, 2026</code></em> | `1` | `com.apple.SafariTechnologyPreview` | <div align="center"><a href="https://secure-appldnld.apple.com/STP/140-18506-20260617-4be20e6b-235c-43fe-8c41-10e9d4f8345a/SafariTechnologyPreview.dmg"><img src=".github/images/safari_technology.png" alt="Download Safari Technology Preview <sup>(27 beta)</sup>" width="80"></a></div> |
+| **Safari Technology Preview <sup>(26)</sup>** <br><br><b>Post Date:</b><br><em><code>June 17, 2026</code></em> | `1` | `com.apple.SafariTechnologyPreview` | <div align="center"><a href="https://secure-appldnld.apple.com/STP/140-18555-20260617-903317e6-560d-4370-9252-0be4d87523ea/SafariTechnologyPreview.dmg"><img src=".github/images/safari_technology.png" alt="Download Safari Technology Preview <sup>(26)</sup>" width="80"></a></div> |
 
 
 ## Browser Settings Management
