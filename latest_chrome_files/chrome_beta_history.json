@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 23, 2026 05:32 PM EDT",
+  "last_updated": "June 23, 2026 06:26 PM EDT",
   "releases": [
     {
       "version": "150.0.7871.24",
@@ -2806,14 +2806,14 @@
       "release_date": "April 22, 2019 05:45 PM",
       "end_date": "April 24, 2019 03:06 PM",
       "fraction": "100%",
-      "fraction_group": "3"
+      "fraction_group": "5"
     },
     {
       "version": "74.0.3729.108",
       "release_date": "April 22, 2019 05:45 PM",
       "end_date": "April 24, 2019 03:06 PM",
       "fraction": "100%",
-      "fraction_group": "5"
+      "fraction_group": "3"
     },
     {
       "version": "74.0.3729.108",
