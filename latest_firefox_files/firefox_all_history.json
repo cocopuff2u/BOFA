@@ -1,5 +1,5 @@
 {
-  "last_updated": "June 26, 2026 08:48 AM EDT",
+  "last_updated": "June 26, 2026 09:40 AM EDT",
   "releases": [
     {
       "key": "firefox-152.0.3",
@@ -100,7 +100,7 @@
     {
       "key": "firefox-140.12.0esr",
       "build_number": 1,
-      "category": "esr",
+      "category": "stability",
       "date": "2026-06-16",
       "description": null,
       "is_security_driven": false,
@@ -304,7 +304,7 @@
     {
       "key": "firefox-140.11.0esr",
       "build_number": 2,
-      "category": "esr",
+      "category": "stability",
       "date": "2026-05-19",
       "description": null,
       "is_security_driven": false,
@@ -388,7 +388,7 @@
     {
       "key": "firefox-140.10.2esr",
       "build_number": 1,
-      "category": "esr",
+      "category": "stability",
       "date": "2026-05-07",
       "description": null,
       "is_security_driven": false,
@@ -472,7 +472,7 @@
     {
       "key": "firefox-140.10.1esr",
       "build_number": 1,
-      "category": "esr",
+      "category": "stability",
       "date": "2026-04-28",
       "description": null,
       "is_security_driven": false,
@@ -544,7 +544,7 @@
     {
       "key": "firefox-140.10.0esr",
       "build_number": 1,
-      "category": "esr",
+      "category": "stability",
       "date": "2026-04-21",
       "description": null,
       "is_security_driven": false,
@@ -628,7 +628,7 @@
     {
       "key": "firefox-140.9.1esr",
       "build_number": 1,
-      "category": "esr",
+      "category": "stability",
       "date": "2026-04-07",
       "description": null,
       "is_security_driven": false,
@@ -736,7 +736,7 @@
     {
       "key": "firefox-140.9.0esr",
       "build_number": 1,
-      "category": "esr",
+      "category": "stability",
       "date": "2026-03-24",
       "description": null,
       "is_security_driven": false,
@@ -904,7 +904,7 @@
     {
       "key": "firefox-140.8.0esr",
       "build_number": 2,
-      "category": "esr",
+      "category": "stability",
       "date": "2026-02-24",
       "description": null,
       "is_security_driven": false,
@@ -940,7 +940,7 @@
     {
       "key": "firefox-140.7.1esr",
       "build_number": 1,
-      "category": "esr",
+      "category": "stability",
       "date": "2026-02-16",
       "description": null,
       "is_security_driven": false,
@@ -1180,7 +1180,7 @@
     {
       "key": "firefox-140.7.0esr",
       "build_number": 1,
-      "category": "esr",
+      "category": "stability",
       "date": "2026-01-13",
       "description": null,
       "is_security_driven": false,
@@ -1336,7 +1336,7 @@
     {
       "key": "firefox-140.6.0esr",
       "build_number": 1,
-      "category": "esr",
+      "category": "stability",
       "date": "2025-12-09",
       "description": null,
       "is_security_driven": false,
@@ -1504,7 +1504,7 @@
     {
       "key": "firefox-140.5.0esr",
       "build_number": 2,
-      "category": "esr",
+      "category": "stability",
       "date": "2025-11-11",
       "description": null,
       "is_security_driven": false,
@@ -1660,7 +1660,7 @@
     {
       "key": "firefox-140.4.0esr",
       "build_number": 2,
-      "category": "esr",
+      "category": "stability",
       "date": "2025-10-14",
       "description": null,
       "is_security_driven": false,
@@ -1780,7 +1780,7 @@
     {
       "key": "firefox-140.3.1esr",
       "build_number": 1,
-      "category": "esr",
+      "category": "stability",
       "date": "2025-09-23",
       "description": null,
       "is_security_driven": false,
@@ -1852,7 +1852,7 @@
     {
       "key": "firefox-140.3.0esr",
       "build_number": 1,
-      "category": "esr",
+      "category": "stability",
       "date": "2025-09-16",
       "description": null,
       "is_security_driven": false,
@@ -2020,7 +2020,7 @@
     {
       "key": "firefox-140.2.0esr",
       "build_number": 1,
-      "category": "esr",
+      "category": "stability",
       "date": "2025-08-19",
       "description": null,
       "is_security_driven": false,
@@ -2200,7 +2200,7 @@
     {
       "key": "firefox-140.1.0esr",
       "build_number": 1,
-      "category": "esr",
+      "category": "stability",
       "date": "2025-07-22",
       "description": null,
       "is_security_driven": false,
@@ -2404,7 +2404,7 @@
     {
       "key": "firefox-140.0esr",
       "build_number": 1,
-      "category": "esr",
+      "category": "major",
       "date": "2025-06-24",
       "description": null,
       "is_security_driven": false,

@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='utf8'?>
 <firefox_all_history>
-  <last_updated>June 26, 2026 08:48 AM EDT</last_updated>
+  <last_updated>June 26, 2026 09:40 AM EDT</last_updated>
   <release>
     <key>firefox-152.0.3</key>
     <build_number>1</build_number>
@@ -100,7 +100,7 @@
   <release>
     <key>firefox-140.12.0esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2026-06-16</date>
     <description>None</description>
     <is_security_driven>False</is_security_driven>
@@ -304,7 +304,7 @@
   <release>
     <key>firefox-140.11.0esr</key>
     <build_number>2</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2026-05-19</date>
     <description>None</description>
     <is_security_driven>False</is_security_driven>
@@ -388,7 +388,7 @@
   <release>
     <key>firefox-140.10.2esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2026-05-07</date>
     <description>None</description>
     <is_security_driven>False</is_security_driven>
@@ -472,7 +472,7 @@
   <release>
     <key>firefox-140.10.1esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2026-04-28</date>
     <description>None</description>
     <is_security_driven>False</is_security_driven>
@@ -544,7 +544,7 @@
   <release>
     <key>firefox-140.10.0esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2026-04-21</date>
     <description>None</description>
     <is_security_driven>False</is_security_driven>
@@ -628,7 +628,7 @@
   <release>
     <key>firefox-140.9.1esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2026-04-07</date>
     <description>None</description>
     <is_security_driven>False</is_security_driven>
@@ -736,7 +736,7 @@
   <release>
     <key>firefox-140.9.0esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2026-03-24</date>
     <description>None</description>
     <is_security_driven>False</is_security_driven>
@@ -904,7 +904,7 @@
   <release>
     <key>firefox-140.8.0esr</key>
     <build_number>2</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2026-02-24</date>
     <description>None</description>
     <is_security_driven>False</is_security_driven>
@@ -940,7 +940,7 @@
   <release>
     <key>firefox-140.7.1esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2026-02-16</date>
     <description>None</description>
     <is_security_driven>False</is_security_driven>
@@ -1180,7 +1180,7 @@
   <release>
     <key>firefox-140.7.0esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2026-01-13</date>
     <description>None</description>
     <is_security_driven>False</is_security_driven>
@@ -1336,7 +1336,7 @@
   <release>
     <key>firefox-140.6.0esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2025-12-09</date>
     <description>None</description>
     <is_security_driven>False</is_security_driven>
@@ -1504,7 +1504,7 @@
   <release>
     <key>firefox-140.5.0esr</key>
     <build_number>2</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2025-11-11</date>
     <description>None</description>
     <is_security_driven>False</is_security_driven>
@@ -1660,7 +1660,7 @@
   <release>
     <key>firefox-140.4.0esr</key>
     <build_number>2</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2025-10-14</date>
     <description>None</description>
     <is_security_driven>False</is_security_driven>
@@ -1780,7 +1780,7 @@
   <release>
     <key>firefox-140.3.1esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2025-09-23</date>
     <description>None</description>
     <is_security_driven>False</is_security_driven>
@@ -1852,7 +1852,7 @@
   <release>
     <key>firefox-140.3.0esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2025-09-16</date>
     <description>None</description>
     <is_security_driven>False</is_security_driven>
@@ -2020,7 +2020,7 @@
   <release>
     <key>firefox-140.2.0esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2025-08-19</date>
     <description>None</description>
     <is_security_driven>False</is_security_driven>
@@ -2200,7 +2200,7 @@
   <release>
     <key>firefox-140.1.0esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>stability</category>
     <date>2025-07-22</date>
     <description>None</description>
     <is_security_driven>False</is_security_driven>
@@ -2404,7 +2404,7 @@
   <release>
     <key>firefox-140.0esr</key>
     <build_number>1</build_number>
-    <category>esr</category>
+    <category>major</category>
     <date>2025-06-24</date>
     <description>None</description>
     <is_security_driven>False</is_security_driven>
