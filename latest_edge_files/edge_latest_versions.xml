@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <EdgeInsiderVersions>
-  <last_updated>June 26, 2026 12:39 PM EDT</last_updated>
+  <last_updated>June 26, 2026 01:33 PM EDT</last_updated>
   <Version>
     <Channel>current</Channel>
     <Date>June 25, 2026 07:59 PM EDT</Date>
@@ -21,8 +21,8 @@
   </Version>
   <Version>
     <Channel>beta</Channel>
-    <Date>June 22, 2026 06:40 PM EDT</Date>
-    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/8199b955-acde-4b59-aa75-ce2b13e90740/MicrosoftEdgeBeta-150.0.4078.28.pkg</Location>
-    <Version>150.0.4078.28</Version>
+    <Date>June 26, 2026 05:12 PM EDT</Date>
+    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/4735339c-56e2-4af0-be81-2fd5bc89ec53/MicrosoftEdgeBeta-150.0.4078.36.pkg</Location>
+    <Version>150.0.4078.36</Version>
   </Version>
 </EdgeInsiderVersions>
