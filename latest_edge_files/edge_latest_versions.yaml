@@ -1,19 +1,19 @@
 EdgeInsiderVersions:
-  last_updated: July 02, 2026 02:23 PM EDT
+  last_updated: July 02, 2026 04:15 PM EDT
   Version:
   - Channel: current
     Date: June 28, 2026 06:43 AM EDT
     Location: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/351963e1-f6ca-4391-a0a5-fb84132a0d98/MicrosoftEdge-149.0.4022.98.pkg
     Version: 149.0.4022.98
   - Channel: canary
-    Date: July 02, 2026 12:49 PM EDT
-    Location: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c5e9914b-0362-4266-9c91-874039cbbcc6/MicrosoftEdgeCanary-152.0.4131.0.pkg
-    Version: 152.0.4131.0
+    Date: July 02, 2026 08:12 PM EDT
+    Location: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/261fef16-3f1e-4ba2-94f4-4b8cd84bc441/MicrosoftEdgeCanary-152.0.4132.0.pkg
+    Version: 152.0.4132.0
   - Channel: dev
     Date: June 30, 2026 07:52 PM EDT
     Location: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e5d3dfec-ea1e-47c8-a2f6-97e3d6438515/MicrosoftEdgeDev-151.0.4119.1.pkg
     Version: 151.0.4119.1
   - Channel: beta
-    Date: July 01, 2026 08:00 PM EDT
-    Location: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b87a756d-6469-474f-a6ce-b052a985fbf3/MicrosoftEdgeBeta-150.0.4078.46.pkg
-    Version: 150.0.4078.46
+    Date: July 02, 2026 07:07 PM EDT
+    Location: https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c8e45e8b-797a-4f00-8f5c-e959985dd6a6/MicrosoftEdgeBeta-150.0.4078.48.pkg
+    Version: 150.0.4078.48
