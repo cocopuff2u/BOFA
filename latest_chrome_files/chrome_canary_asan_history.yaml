@@ -1,8 +1,13 @@
-last_updated: July 06, 2026 01:05 AM EDT
+last_updated: July 06, 2026 06:03 AM EDT
 releases:
+- version: 152.0.7934.1
+  release_date: July 06, 2026 09:36 AM
+  end_date: N/A
+  fraction: 100%
+  fraction_group: '1'
 - version: 152.0.7933.1
   release_date: July 05, 2026 08:50 PM
-  end_date: N/A
+  end_date: July 06, 2026 09:36 AM
   fraction: 100%
   fraction_group: '1'
 - version: 152.0.7932.1
