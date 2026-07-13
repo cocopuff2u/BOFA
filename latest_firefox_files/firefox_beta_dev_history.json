@@ -1,6 +1,12 @@
 {
-  "last_updated": "July 13, 2026 12:24 PM EDT",
+  "last_updated": "July 13, 2026 02:27 PM EDT",
   "releases": [
+    {
+      "version": "153.0b12",
+      "date": "2026-07-13",
+      "download_pkg": "https://ftp.mozilla.org/pub/firefox/releases/153.0b12/mac/en-US/Firefox%20153.0b12.pkg",
+      "download_dmg": "https://ftp.mozilla.org/pub/firefox/releases/153.0b12/mac/en-US/Firefox%20153.0b12.dmg"
+    },
     {
       "version": "153.0b11",
       "date": "2026-07-10",
