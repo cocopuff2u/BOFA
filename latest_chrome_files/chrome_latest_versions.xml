@@ -1,14 +1,14 @@
 <?xml version="1.0" ?>
 <mac_versions>
-  <last_updated>July 13, 2026 04:07 PM EDT</last_updated>
+  <last_updated>July 13, 2026 05:50 PM EDT</last_updated>
   <stable>
     <version>150.0.7871.115</version>
-    <release_time>July 08, 2026 10:28 PM EDT</release_time>
+    <release_time>July 13, 2026 08:35 PM EDT</release_time>
     <download_link>https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg</download_link>
   </stable>
   <extended>
-    <version>148.0.7778.280</version>
-    <release_time>July 08, 2026 10:28 PM EDT</release_time>
+    <version>150.0.7871.115</version>
+    <release_time>July 13, 2026 08:35 PM EDT</release_time>
     <download_link>https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg</download_link>
   </extended>
   <beta>
@@ -27,8 +27,8 @@
     <download_link>https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg</download_link>
   </canary>
   <canary_asan>
-    <version>152.0.7947.1</version>
-    <release_time>July 13, 2026 09:51 AM EDT</release_time>
+    <version>152.0.7948.1</version>
+    <release_time>July 13, 2026 09:03 PM EDT</release_time>
     <download_link>https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg</download_link>
   </canary_asan>
 </mac_versions>
