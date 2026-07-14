@@ -1,6 +1,6 @@
 {
     "safari_versions": {
-        "last_updated": "July 14, 2026 03:08 PM EDT",
+        "last_updated": "July 14, 2026 04:53 PM EDT",
         "release": [
             {
                 "os": "BigSur",
@@ -35,14 +35,14 @@
                 "version": "26.5.2",
                 "URL": "https://swcdn.apple.com/content/downloads/33/56/140-36296-A_OE1K6FFMM6/mdmnysyl0fw0noxuxycczhngcxoc4svkxh/Safari26.5.2SequoiaAuto.pkg",
                 "Size": "221.22 MB",
-                "PostDate": "June 29, 2026 06:49 PM"
+                "PostDate": "July 14, 2026 08:05 PM"
             },
             {
                 "os": "Sonoma",
                 "version": "26.5.2",
                 "URL": "https://swcdn.apple.com/content/downloads/56/50/140-36297-A_HZ9LYR7Y5X/qj9gyd0whu30lhy9j8krrr3ym6o87x7p50/Safari26.5.2SonomaAuto.pkg",
                 "Size": "213.27 MB",
-                "PostDate": "June 29, 2026 06:49 PM"
+                "PostDate": "July 14, 2026 08:05 PM"
             }
         ]
     }
