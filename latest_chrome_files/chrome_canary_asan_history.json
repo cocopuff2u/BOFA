@@ -1,10 +1,17 @@
 {
-  "last_updated": "July 21, 2026 09:23 AM EDT",
+  "last_updated": "July 21, 2026 11:38 AM EDT",
   "releases": [
+    {
+      "version": "152.0.7963.1",
+      "release_date": "July 21, 2026 03:16 PM",
+      "end_date": "N/A",
+      "fraction": "100%",
+      "fraction_group": "1"
+    },
     {
       "version": "152.0.7962.1",
       "release_date": "July 20, 2026 09:05 PM",
-      "end_date": "N/A",
+      "end_date": "July 21, 2026 03:16 PM",
       "fraction": "100%",
       "fraction_group": "1"
     },
