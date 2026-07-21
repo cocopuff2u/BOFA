@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <EdgeInsiderVersions>
-  <last_updated>July 21, 2026 04:59 PM EDT</last_updated>
+  <last_updated>July 21, 2026 06:07 PM EDT</last_updated>
   <Version>
     <Channel>current</Channel>
     <Date>July 19, 2026 08:21 AM EDT</Date>
@@ -9,9 +9,9 @@
   </Version>
   <Version>
     <Channel>canary</Channel>
-    <Date>July 21, 2026 01:20 PM EDT</Date>
-    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/a4cc2cab-9e6c-44be-9d6b-bf16f9e75d5d/MicrosoftEdgeCanary-152.0.4169.0.pkg</Location>
-    <Version>152.0.4169.0</Version>
+    <Date>July 21, 2026 09:20 PM EDT</Date>
+    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/59b7c515-0f39-4f61-a5db-803ba9d980a1/MicrosoftEdgeCanary-152.0.4170.0.pkg</Location>
+    <Version>152.0.4170.0</Version>
   </Version>
   <Version>
     <Channel>dev</Channel>
