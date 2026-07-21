@@ -1,6 +1,54 @@
 {
-  "last_updated": "July 21, 2026 07:00 AM EDT",
+  "last_updated": "July 21, 2026 09:23 AM EDT",
   "releases": [
+    {
+      "key": "firefox-115.38.0esr",
+      "build_number": 3,
+      "category": "stability",
+      "date": "2026-07-21",
+      "description": null,
+      "is_security_driven": false,
+      "product": "firefox",
+      "version": "115.38.0",
+      "download_pkg": "https://ftp.mozilla.org/pub/firefox/releases/115.38.0/mac/en-US/Firefox%20115.38.0.pkg",
+      "download_dmg": "https://ftp.mozilla.org/pub/firefox/releases/115.38.0/mac/en-US/Firefox%20115.38.0.dmg"
+    },
+    {
+      "key": "firefox-140.13.0esr",
+      "build_number": 1,
+      "category": "stability",
+      "date": "2026-07-21",
+      "description": null,
+      "is_security_driven": false,
+      "product": "firefox",
+      "version": "140.13.0",
+      "download_pkg": "https://ftp.mozilla.org/pub/firefox/releases/140.13.0/mac/en-US/Firefox%20140.13.0.pkg",
+      "download_dmg": "https://ftp.mozilla.org/pub/firefox/releases/140.13.0/mac/en-US/Firefox%20140.13.0.dmg"
+    },
+    {
+      "key": "firefox-153.0",
+      "build_number": 1,
+      "category": "major",
+      "date": "2026-07-21",
+      "description": null,
+      "is_security_driven": false,
+      "product": "firefox",
+      "version": "153.0",
+      "download_pkg": "https://ftp.mozilla.org/pub/firefox/releases/153.0/mac/en-US/Firefox%20153.0.pkg",
+      "download_dmg": "https://ftp.mozilla.org/pub/firefox/releases/153.0/mac/en-US/Firefox%20153.0.dmg"
+    },
+    {
+      "key": "firefox-153.0esr",
+      "build_number": 1,
+      "category": "esr",
+      "date": "2026-07-21",
+      "description": null,
+      "is_security_driven": false,
+      "product": "firefox",
+      "version": "153.0",
+      "download_pkg": "https://ftp.mozilla.org/pub/firefox/releases/153.0/mac/en-US/Firefox%20153.0.pkg",
+      "download_dmg": "https://ftp.mozilla.org/pub/firefox/releases/153.0/mac/en-US/Firefox%20153.0.dmg"
+    },
     {
       "key": "firefox-153.0b13",
       "build_number": 1,
