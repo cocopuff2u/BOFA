@@ -1,15 +1,15 @@
 safari_versions:
-  last_updated: July 22, 2026 01:09 PM EDT
+  last_updated: July 22, 2026 03:02 PM EDT
   Safari_Technology_Preview:
   - macos: 27 beta
     version: '1'
-    PostDate: July 1, 2026
-    URL: https://secure-appldnld.apple.com/STP/140-34366-20260630-87ebbe6a-e3ef-4af1-9d0e-848f2ab2ec7a/SafariTechnologyPreview.dmg
+    PostDate: July 22, 2026
+    URL: https://secure-appldnld.apple.com/STP/140-70285-20260721-d3636a85-a78c-4d18-aa9a-cb8e999e276a/SafariTechnologyPreview.dmg
     ReleaseNotes: https://developer.apple.com/documentation/ios-ipados-release-notes
   - macos: '26'
     version: '1'
-    PostDate: July 1, 2026
-    URL: https://secure-appldnld.apple.com/STP/140-34382-20260630-9f5e899d-3f85-450d-ab63-4f657b833cf9/SafariTechnologyPreview.dmg
+    PostDate: July 22, 2026
+    URL: https://secure-appldnld.apple.com/STP/140-68976-20260721-b3545a30-cb78-4d14-9ddb-c1f43098f3ef/SafariTechnologyPreview.dmg
     ReleaseNotes: https://developer.apple.com/documentation/ios-ipados-release-notes
   release:
   - major_version: '27'

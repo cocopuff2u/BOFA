@@ -1,5 +1,15 @@
-last_updated: July 22, 2026 01:09 PM EDT
+last_updated: July 22, 2026 03:02 PM EDT
 releases:
+- key: firefox-154.0b1
+  build_number: 2
+  category: dev
+  date: '2026-07-22'
+  description: null
+  is_security_driven: false
+  product: firefox
+  version: 154.0b1
+  download_pkg: https://ftp.mozilla.org/pub/firefox/releases/154.0b1/mac/en-US/Firefox%20154.0b1.pkg
+  download_dmg: https://ftp.mozilla.org/pub/firefox/releases/154.0b1/mac/en-US/Firefox%20154.0b1.dmg
 - key: firefox-115.38.0esr
   build_number: 3
   category: stability
