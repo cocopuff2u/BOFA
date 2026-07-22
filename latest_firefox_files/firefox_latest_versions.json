@@ -1,5 +1,5 @@
 {
-  "last_updated": "July 22, 2026 11:26 AM EDT",
+  "last_updated": "July 22, 2026 01:09 PM EDT",
   "stable": {
     "version": "153.0",
     "release_time": "July 21, 2026 12:00 AM EDT",
@@ -11,9 +11,9 @@
     "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.0b13/mac/en-US/Firefox%20153.0b13.pkg"
   },
   "dev": {
-    "version": "153.0b13",
-    "release_time": "July 15, 2026 12:00 AM EDT",
-    "download": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/153.0b13/mac/en-US/Firefox%20153.0b13.dmg"
+    "version": "154.0b1",
+    "release_time": "July 22, 2026 12:00 AM EDT",
+    "download": "https://download-installer.cdn.mozilla.net/pub/devedition/releases/154.0b1/mac/en-US/Firefox%20154.0b1.dmg"
   },
   "esr": {
     "version": "153.0",

@@ -1,18 +1,58 @@
-last_updated: July 22, 2026 11:26 AM EDT
+last_updated: July 22, 2026 01:09 PM EDT
 releases:
 - version: 150.0.7871.129
-  release_date: July 21, 2026 08:42 PM
+  release_date: July 22, 2026 04:15 PM
   end_date: N/A
   fraction: 49.5%
   fraction_group: '195'
 - version: 150.0.7871.130
-  release_date: July 21, 2026 08:42 PM
+  release_date: July 22, 2026 04:15 PM
   end_date: N/A
   fraction: 24.75%
   fraction_group: '195'
 - version: 150.0.7871.181
-  release_date: July 21, 2026 08:42 PM
+  release_date: July 22, 2026 04:15 PM
   end_date: N/A
+  fraction: 24.75%
+  fraction_group: '195'
+- version: 150.0.7871.183
+  release_date: July 22, 2026 04:15 PM
+  end_date: N/A
+  fraction: 0.5%
+  fraction_group: '195'
+- version: 151.0.7922.47
+  release_date: July 22, 2026 04:15 PM
+  end_date: N/A
+  fraction: 0.5%
+  fraction_group: '195'
+- version: 150.0.7871.129
+  release_date: July 22, 2026 04:03 PM
+  end_date: July 22, 2026 04:15 PM
+  fraction: 50%
+  fraction_group: '195'
+- version: 150.0.7871.130
+  release_date: July 22, 2026 04:03 PM
+  end_date: July 22, 2026 04:15 PM
+  fraction: 25%
+  fraction_group: '195'
+- version: 150.0.7871.181
+  release_date: July 22, 2026 04:03 PM
+  end_date: July 22, 2026 04:15 PM
+  fraction: 25%
+  fraction_group: '195'
+- version: 150.0.7871.129
+  release_date: July 21, 2026 08:42 PM
+  end_date: July 22, 2026 04:03 PM
+  fraction: 49.5%
+  fraction_group: '195'
+- version: 150.0.7871.130
+  release_date: July 21, 2026 08:42 PM
+  end_date: July 22, 2026 04:03 PM
+  fraction: 24.75%
+  fraction_group: '195'
+- version: 150.0.7871.181
+  release_date: July 21, 2026 08:42 PM
+  end_date: July 22, 2026 04:03 PM
   fraction: 24.75%
   fraction_group: '195'
 - version: 150.0.7871.182
@@ -67,12 +107,12 @@ releases:
   fraction_group: '195'
 - version: 150.0.7871.126
   release_date: July 15, 2026 08:41 PM
-  end_date: N/A
+  end_date: July 22, 2026 04:03 PM
   fraction: 0.5%
   fraction_group: '195'
 - version: 151.0.7922.34
   release_date: July 15, 2026 08:41 PM
-  end_date: N/A
+  end_date: July 22, 2026 04:03 PM
   fraction: 0.5%
   fraction_group: '195'
 - version: 150.0.7871.115
