@@ -1,13 +1,13 @@
 {
-  "last_updated": "July 23, 2026 03:04 PM EDT",
+  "last_updated": "July 23, 2026 04:54 PM EDT",
   "stable": {
-    "version": "150.0.7871.182",
-    "time": "July 21, 2026 08:42 PM EDT",
+    "version": "150.0.7871.187",
+    "time": "July 23, 2026 08:23 PM EDT",
     "download_link": "https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg"
   },
   "extended": {
-    "version": "150.0.7871.129",
-    "time": "July 21, 2026 08:42 PM EDT",
+    "version": "150.0.7871.182",
+    "time": "July 23, 2026 08:23 PM EDT",
     "download_link": "https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg"
   },
   "beta": {
@@ -21,8 +21,8 @@
     "download_link": "https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg"
   },
   "canary": {
-    "version": "152.0.7967.0",
-    "time": "July 23, 2026 08:24 AM EDT",
+    "version": "152.0.7968.0",
+    "time": "July 23, 2026 07:29 PM EDT",
     "download_link": "https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg"
   },
   "canary_asan": {
