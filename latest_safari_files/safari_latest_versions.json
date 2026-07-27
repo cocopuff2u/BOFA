@@ -1,6 +1,6 @@
 {
     "safari_versions": {
-        "last_updated": "July 27, 2026 12:10 PM EDT",
+        "last_updated": "July 27, 2026 02:19 PM EDT",
         "Safari_Technology_Preview": [
             {
                 "macos": "27 beta",
@@ -20,8 +20,8 @@
         "release": [
             {
                 "major_version": "27",
-                "full_version": "27.0 beta (20625.1.18)",
-                "released": "June 8, 2026",
+                "full_version": "27.0 beta (20625.1.24)",
+                "released": "July 20, 2026",
                 "release_notes": "https://developer.apple.com/documentation/safari-release-notes/safari-27-release-notes"
             },
             {
