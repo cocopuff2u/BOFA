@@ -1,18 +1,18 @@
 <?xml version="1.0" ?>
 <safari_versions>
-  <last_updated>July 29, 2026 04:45 PM EDT</last_updated>
+  <last_updated>July 29, 2026 05:53 PM EDT</last_updated>
   <Safari_Technology_Preview>
     <macos>27 beta</macos>
     <version>1</version>
-    <PostDate>July 22, 2026</PostDate>
-    <URL>https://secure-appldnld.apple.com/STP/140-70285-20260721-d3636a85-a78c-4d18-aa9a-cb8e999e276a/SafariTechnologyPreview.dmg</URL>
+    <PostDate>July 29, 2026</PostDate>
+    <URL>https://secure-appldnld.apple.com/STP/140-75785-20260739-5C476DF4-7DA4-4362-984A-272AB68E0BE7/SafariTechnologyPreview.dmg</URL>
     <ReleaseNotes>https://developer.apple.com/documentation/ios-ipados-release-notes</ReleaseNotes>
   </Safari_Technology_Preview>
   <Safari_Technology_Preview>
     <macos>26</macos>
     <version>1</version>
-    <PostDate>July 22, 2026</PostDate>
-    <URL>https://secure-appldnld.apple.com/STP/140-68976-20260721-b3545a30-cb78-4d14-9ddb-c1f43098f3ef/SafariTechnologyPreview.dmg</URL>
+    <PostDate>July 29, 2026</PostDate>
+    <URL>https://secure-appldnld.apple.com/STP/140-75782-20260729-3ded5f54-d23e-4ecc-b89b-860b39ee984b/SafariTechnologyPreview.dmg</URL>
     <ReleaseNotes>https://developer.apple.com/documentation/ios-ipados-release-notes</ReleaseNotes>
   </Safari_Technology_Preview>
   <release>
