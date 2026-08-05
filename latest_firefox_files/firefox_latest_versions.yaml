@@ -1,16 +1,16 @@
-last_updated: August 05, 2026 09:51 AM EDT
+last_updated: August 05, 2026 11:57 AM EDT
 stable:
   version: 153.0.3
   release_time: August 04, 2026 12:00 AM EDT
   download: https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.0.3/mac/en-US/Firefox%20153.0.3.pkg
 beta:
-  version: 154.0b6
-  release_time: August 03, 2026 12:00 AM EDT
-  download: https://download-installer.cdn.mozilla.net/pub/firefox/releases/154.0b6/mac/en-US/Firefox%20154.0b6.pkg
+  version: 154.0b7
+  release_time: August 05, 2026 12:00 AM EDT
+  download: https://download-installer.cdn.mozilla.net/pub/firefox/releases/154.0b7/mac/en-US/Firefox%20154.0b7.pkg
 dev:
-  version: 154.0b6
-  release_time: August 03, 2026 12:00 AM EDT
-  download: https://download-installer.cdn.mozilla.net/pub/devedition/releases/154.0b6/mac/en-US/Firefox%20154.0b6.dmg
+  version: 154.0b7
+  release_time: August 05, 2026 12:00 AM EDT
+  download: https://download-installer.cdn.mozilla.net/pub/devedition/releases/154.0b7/mac/en-US/Firefox%20154.0b7.dmg
 esr:
   version: '153.0'
   release_time: July 21, 2026 12:00 AM EDT

@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='utf8'?>
 <firefox_beta_dev_history>
-  <last_updated>August 05, 2026 09:51 AM EDT</last_updated>
+  <last_updated>August 05, 2026 11:57 AM EDT</last_updated>
+  <release>
+    <version>154.0b7</version>
+    <date>2026-08-05</date>
+    <download_pkg>https://ftp.mozilla.org/pub/firefox/releases/154.0b7/mac/en-US/Firefox%20154.0b7.pkg</download_pkg>
+    <download_dmg>https://ftp.mozilla.org/pub/firefox/releases/154.0b7/mac/en-US/Firefox%20154.0b7.dmg</download_dmg>
+  </release>
   <release>
     <version>154.0b6</version>
     <date>2026-08-03</date>
