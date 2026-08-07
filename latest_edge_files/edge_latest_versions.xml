@@ -1,28 +1,28 @@
 <?xml version="1.0" ?>
 <EdgeInsiderVersions>
-  <last_updated>August 06, 2026 09:48 AM EDT</last_updated>
+  <last_updated>August 06, 2026 08:37 PM EDT</last_updated>
   <Version>
     <Channel>current</Channel>
-    <Date>August 02, 2026 09:24 AM EDT</Date>
-    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ea921391-7ff2-42bb-9044-9ac25c36970b/MicrosoftEdge-151.0.4129.59.pkg</Location>
-    <Version>151.0.4129.59</Version>
+    <Date>August 06, 2026 08:21 PM EDT</Date>
+    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/45588d64-460f-48a7-a6ed-b94a656d170a/MicrosoftEdge-151.0.4129.72.pkg</Location>
+    <Version>151.0.4129.72</Version>
   </Version>
   <Version>
     <Channel>canary</Channel>
-    <Date>August 06, 2026 12:31 PM EDT</Date>
-    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f45d8abc-d354-4c87-8535-37e1c60d6d2d/MicrosoftEdgeCanary-153.0.4202.0.pkg</Location>
-    <Version>153.0.4202.0</Version>
+    <Date>August 06, 2026 09:09 PM EDT</Date>
+    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/282d794d-f174-43d3-9afc-f295a688519d/MicrosoftEdgeCanary-153.0.4203.0.pkg</Location>
+    <Version>153.0.4203.0</Version>
   </Version>
   <Version>
     <Channel>dev</Channel>
-    <Date>August 05, 2026 04:53 PM EDT</Date>
-    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/44cd8f48-a7b4-4c3f-93b9-a2bd36f1b554/MicrosoftEdgeDev-152.0.4191.7.pkg</Location>
-    <Version>152.0.4191.7</Version>
+    <Date>August 06, 2026 07:12 PM EDT</Date>
+    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/557b95fb-6893-479d-a121-60ae2cdf6de3/MicrosoftEdgeDev-152.0.4191.10.pkg</Location>
+    <Version>152.0.4191.10</Version>
   </Version>
   <Version>
     <Channel>beta</Channel>
-    <Date>July 31, 2026 07:17 PM EDT</Date>
-    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/40a93add-890a-48cc-a05b-4b5b5a305620/MicrosoftEdgeBeta-151.0.4129.59.pkg</Location>
-    <Version>151.0.4129.59</Version>
+    <Date>August 06, 2026 07:13 PM EDT</Date>
+    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/da8231eb-507e-4789-ac21-0767d0653baa/MicrosoftEdgeBeta-152.0.4191.10.pkg</Location>
+    <Version>152.0.4191.10</Version>
   </Version>
 </EdgeInsiderVersions>
