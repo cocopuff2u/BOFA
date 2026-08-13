@@ -12,13 +12,13 @@ canary_asan:
   version: 153.0.8005.1
 dev:
   download_link: https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg
-  time: August 07, 2026 11:09 PM EDT
-  version: 153.0.7993.0
+  time: August 13, 2026 06:30 PM EDT
+  version: 153.0.8003.0
 extended:
   download_link: https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg
   time: August 11, 2026 09:24 PM EDT
   version: 150.0.7871.224
-last_updated: August 13, 2026 01:52 PM EDT
+last_updated: August 13, 2026 02:53 PM EDT
 stable:
   download_link: https://dl.google.com/chrome/mac/stable/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg
   time: August 11, 2026 09:19 PM EDT
