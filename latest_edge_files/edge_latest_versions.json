@@ -1,12 +1,12 @@
 {
     "EdgeInsiderVersions": {
-        "last_updated": "August 13, 2026 07:34 PM EDT",
+        "last_updated": "August 13, 2026 09:20 PM EDT",
         "Version": [
             {
                 "Channel": "current",
-                "Date": "August 12, 2026 03:31 AM EDT",
-                "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/34eead08-762c-4e91-9ee0-2988fece5a9c/MicrosoftEdge-151.0.4129.78.pkg",
-                "Version": "151.0.4129.78"
+                "Date": "August 14, 2026 12:34 AM EDT",
+                "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ed0bad1f-1780-4ff1-918d-05f38239b396/MicrosoftEdge-151.0.4129.86.pkg",
+                "Version": "151.0.4129.86"
             },
             {
                 "Channel": "canary",
