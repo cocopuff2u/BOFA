@@ -1,6 +1,6 @@
 {
     "safari_versions": {
-        "last_updated": "August 18, 2026 12:22 PM EDT",
+        "last_updated": "August 18, 2026 01:20 PM EDT",
         "release": [
             {
                 "os": "BigSur",
@@ -17,6 +17,13 @@
                 "PostDate": "August 15, 2024 07:58 PM"
             },
             {
+                "os": "Sonoma",
+                "version": "18.6",
+                "URL": "https://swcdn.apple.com/content/downloads/52/08/093-01292-A_RB1WZOT879/679v9stbm7s0ccdcebzsfju4kp761uzgl7/Safari18.6SonomaAuto.pkg",
+                "Size": "184.83 MB",
+                "PostDate": "August 05, 2025 06:04 PM"
+            },
+            {
                 "os": "Ventura",
                 "version": "18.6",
                 "URL": "https://swcdn.apple.com/content/downloads/18/08/093-01291-A_8PAQLVAPMY/q858ihftlht01sdwcf9oqqzkuvm12laqlx/Safari18.6VenturaAuto.pkg",
@@ -25,24 +32,17 @@
             },
             {
                 "os": "Sonoma",
-                "version": "18.6",
-                "URL": "https://swcdn.apple.com/content/downloads/52/08/093-01292-A_RB1WZOT879/679v9stbm7s0ccdcebzsfju4kp761uzgl7/Safari18.6SonomaAuto.pkg",
-                "Size": "184.83 MB",
-                "PostDate": "August 05, 2025 06:04 PM"
-            },
-            {
-                "os": "Sonoma",
-                "version": "26.6",
-                "URL": "https://swcdn.apple.com/content/downloads/60/63/140-66480-A_86TSTRH1AI/2cou57w1w3s06s65h9dam39w4kua7tuu91/Safari26.6SonomaAuto.pkg",
-                "Size": "212.92 MB",
-                "PostDate": "August 10, 2026 10:07 PM"
+                "version": "26.6.1",
+                "URL": "https://swcdn.apple.com/content/downloads/49/10/140-79456-A_O404JLOL6M/o3tv0l3yuo1eakvajp35rrb6leojgv5a4f/Safari26.6.1SonomaAuto.pkg",
+                "Size": "212.93 MB",
+                "PostDate": "August 18, 2026 05:08 PM"
             },
             {
                 "os": "Sequoia",
-                "version": "26.6",
-                "URL": "https://swcdn.apple.com/content/downloads/37/22/140-66475-A_VDUTJVIWHX/ejc79qqnsuwky5vvz8gfm6slr8y6qrnapa/Safari26.6SequoiaAuto.pkg",
-                "Size": "219.90 MB",
-                "PostDate": "August 10, 2026 10:07 PM"
+                "version": "26.6.1",
+                "URL": "https://swcdn.apple.com/content/downloads/12/20/140-79446-A_WLCAU1QGJT/4052afep8j2bk88w59sl238x1rartjy93h/Safari26.6.1SequoiaAuto.pkg",
+                "Size": "220.03 MB",
+                "PostDate": "August 18, 2026 05:08 PM"
             }
         ]
     }
