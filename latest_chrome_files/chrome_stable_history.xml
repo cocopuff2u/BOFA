@@ -1,24 +1,80 @@
 <?xml version="1.0" ?>
 <releases>
-  <last_updated>August 19, 2026 12:22 PM EDT</last_updated>
+  <last_updated>August 19, 2026 01:20 PM EDT</last_updated>
   <release>
     <version>151.0.7922.138</version>
-    <release_date>August 18, 2026 06:49 PM</release_date>
+    <release_date>August 19, 2026 04:43 PM</release_date>
     <end_date>N/A</end_date>
     <fraction>49.5%</fraction>
     <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>151.0.7922.140</version>
-    <release_date>August 18, 2026 06:49 PM</release_date>
+    <release_date>August 19, 2026 04:43 PM</release_date>
     <end_date>N/A</end_date>
     <fraction>24.75%</fraction>
     <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>151.0.7922.169</version>
-    <release_date>August 18, 2026 06:49 PM</release_date>
+    <release_date>August 19, 2026 04:43 PM</release_date>
     <end_date>N/A</end_date>
+    <fraction>24.75%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
+  <release>
+    <version>151.0.7922.171</version>
+    <release_date>August 19, 2026 04:43 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>0.5%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
+  <release>
+    <version>152.0.7977.54</version>
+    <release_date>August 19, 2026 04:43 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>0.5%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
+  <release>
+    <version>151.0.7922.138</version>
+    <release_date>August 19, 2026 04:25 PM</release_date>
+    <end_date>August 19, 2026 04:43 PM</end_date>
+    <fraction>50%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
+  <release>
+    <version>151.0.7922.140</version>
+    <release_date>August 19, 2026 04:25 PM</release_date>
+    <end_date>August 19, 2026 04:43 PM</end_date>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
+  <release>
+    <version>151.0.7922.169</version>
+    <release_date>August 19, 2026 04:25 PM</release_date>
+    <end_date>August 19, 2026 04:43 PM</end_date>
+    <fraction>25%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
+  <release>
+    <version>151.0.7922.138</version>
+    <release_date>August 18, 2026 06:49 PM</release_date>
+    <end_date>August 19, 2026 04:25 PM</end_date>
+    <fraction>49.5%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
+  <release>
+    <version>151.0.7922.140</version>
+    <release_date>August 18, 2026 06:49 PM</release_date>
+    <end_date>August 19, 2026 04:25 PM</end_date>
+    <fraction>24.75%</fraction>
+    <fraction_group>195</fraction_group>
+  </release>
+  <release>
+    <version>151.0.7922.169</version>
+    <release_date>August 18, 2026 06:49 PM</release_date>
+    <end_date>August 19, 2026 04:25 PM</end_date>
     <fraction>24.75%</fraction>
     <fraction_group>195</fraction_group>
   </release>
@@ -60,14 +116,14 @@
   <release>
     <version>151.0.7922.139</version>
     <release_date>August 12, 2026 09:07 PM</release_date>
-    <end_date>N/A</end_date>
+    <end_date>August 19, 2026 04:25 PM</end_date>
     <fraction>0.5%</fraction>
     <fraction_group>195</fraction_group>
   </release>
   <release>
     <version>152.0.7977.42</version>
     <release_date>August 12, 2026 09:07 PM</release_date>
-    <end_date>N/A</end_date>
+    <end_date>August 19, 2026 04:25 PM</end_date>
     <fraction>0.5%</fraction>
     <fraction_group>195</fraction_group>
   </release>

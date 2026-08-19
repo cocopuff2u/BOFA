@@ -1,18 +1,58 @@
-last_updated: August 19, 2026 12:22 PM EDT
+last_updated: August 19, 2026 01:20 PM EDT
 releases:
 - version: 151.0.7922.138
-  release_date: August 18, 2026 06:49 PM
+  release_date: August 19, 2026 04:43 PM
   end_date: N/A
   fraction: 49.5%
   fraction_group: '195'
 - version: 151.0.7922.140
-  release_date: August 18, 2026 06:49 PM
+  release_date: August 19, 2026 04:43 PM
   end_date: N/A
   fraction: 24.75%
   fraction_group: '195'
 - version: 151.0.7922.169
-  release_date: August 18, 2026 06:49 PM
+  release_date: August 19, 2026 04:43 PM
   end_date: N/A
+  fraction: 24.75%
+  fraction_group: '195'
+- version: 151.0.7922.171
+  release_date: August 19, 2026 04:43 PM
+  end_date: N/A
+  fraction: 0.5%
+  fraction_group: '195'
+- version: 152.0.7977.54
+  release_date: August 19, 2026 04:43 PM
+  end_date: N/A
+  fraction: 0.5%
+  fraction_group: '195'
+- version: 151.0.7922.138
+  release_date: August 19, 2026 04:25 PM
+  end_date: August 19, 2026 04:43 PM
+  fraction: 50%
+  fraction_group: '195'
+- version: 151.0.7922.140
+  release_date: August 19, 2026 04:25 PM
+  end_date: August 19, 2026 04:43 PM
+  fraction: 25%
+  fraction_group: '195'
+- version: 151.0.7922.169
+  release_date: August 19, 2026 04:25 PM
+  end_date: August 19, 2026 04:43 PM
+  fraction: 25%
+  fraction_group: '195'
+- version: 151.0.7922.138
+  release_date: August 18, 2026 06:49 PM
+  end_date: August 19, 2026 04:25 PM
+  fraction: 49.5%
+  fraction_group: '195'
+- version: 151.0.7922.140
+  release_date: August 18, 2026 06:49 PM
+  end_date: August 19, 2026 04:25 PM
+  fraction: 24.75%
+  fraction_group: '195'
+- version: 151.0.7922.169
+  release_date: August 18, 2026 06:49 PM
+  end_date: August 19, 2026 04:25 PM
   fraction: 24.75%
   fraction_group: '195'
 - version: 151.0.7922.170
@@ -42,12 +82,12 @@ releases:
   fraction_group: '195'
 - version: 151.0.7922.139
   release_date: August 12, 2026 09:07 PM
-  end_date: N/A
+  end_date: August 19, 2026 04:25 PM
   fraction: 0.5%
   fraction_group: '195'
 - version: 152.0.7977.42
   release_date: August 12, 2026 09:07 PM
-  end_date: N/A
+  end_date: August 19, 2026 04:25 PM
   fraction: 0.5%
   fraction_group: '195'
 - version: 151.0.7922.109
