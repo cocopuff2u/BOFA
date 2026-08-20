@@ -1,8 +1,28 @@
-last_updated: August 20, 2026 03:25 PM EDT
+last_updated: August 20, 2026 04:20 PM EDT
 releases:
 - version: 151.0.7922.170
-  release_date: August 20, 2026 06:21 PM
+  release_date: August 20, 2026 08:13 PM
   end_date: N/A
+  fraction: 49.5%
+  fraction_group: '195'
+- version: 151.0.7922.172
+  release_date: August 20, 2026 08:13 PM
+  end_date: N/A
+  fraction: 24.75%
+  fraction_group: '195'
+- version: 151.0.7922.173
+  release_date: August 20, 2026 08:13 PM
+  end_date: N/A
+  fraction: 24.75%
+  fraction_group: '195'
+- version: 151.0.7922.174
+  release_date: August 20, 2026 08:13 PM
+  end_date: N/A
+  fraction: 100%
+  fraction_group: '194'
+- version: 151.0.7922.170
+  release_date: August 20, 2026 06:21 PM
+  end_date: August 20, 2026 08:13 PM
   fraction: 99%
   fraction_group: '195'
 - version: 151.0.7922.138
@@ -62,7 +82,7 @@ releases:
   fraction_group: '195'
 - version: 151.0.7922.170
   release_date: August 18, 2026 06:49 PM
-  end_date: N/A
+  end_date: August 20, 2026 08:13 PM
   fraction: 100%
   fraction_group: '194'
 - version: 151.0.7922.138
