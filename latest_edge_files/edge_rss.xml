@@ -8,12 +8,19 @@
     <atom:link href="" rel="self" type="application/rss+xml" />
     <language>en-US</language>
     <ttl>60</ttl>
-    <lastBuildDate>Wed, 02 Sep 2026 20:05:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2026 23:27:00 +0000</lastBuildDate>
     <image>
       <url>https://bofa.cocolabs.dev/images/bofa_logo.png</url>
       <title>BOFA - Edge RSS Feed</title>
       <link>https://bofa.cocolabs.dev/</link>
     </image>
+    <item>
+      <title>New Edge Release</title>
+      <link>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/35c7ec3f-425a-430f-9998-6db18f725089/MicrosoftEdge-152.0.4191.66.pkg</link>
+      <description>&lt;br&gt;Version: 152.0.4191.66&lt;br&gt;Release Notes: &lt;a href="https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel"&gt;Release Notes&lt;/a&gt;</description>
+      <pubDate>Fri, 04 Sep 2026 23:27:00 +0000</pubDate>
+      <guid isPermaLink="false">https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/35c7ec3f-425a-430f-9998-6db18f725089/MicrosoftEdge-152.0.4191.66.pkg</guid>
+    </item>
     <item>
       <title>New Edge Release</title>
       <link>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5d6715c7-1ec1-4375-87b1-2a7780b0aa60/MicrosoftEdge-152.0.4191.62.pkg</link>
