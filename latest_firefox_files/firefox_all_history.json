@@ -1,6 +1,18 @@
 {
-  "last_updated": "September 07, 2026 07:17 AM EDT",
+  "last_updated": "September 07, 2026 01:01 PM EDT",
   "releases": [
+    {
+      "key": "firefox-156.0b4",
+      "build_number": 1,
+      "category": "dev",
+      "date": "2026-09-07",
+      "description": null,
+      "is_security_driven": false,
+      "product": "firefox",
+      "version": "156.0b4",
+      "download_pkg": "https://ftp.mozilla.org/pub/firefox/releases/156.0b4/mac/en-US/Firefox%20156.0b4.pkg",
+      "download_dmg": "https://ftp.mozilla.org/pub/firefox/releases/156.0b4/mac/en-US/Firefox%20156.0b4.dmg"
+    },
     {
       "key": "firefox-155.0.1",
       "build_number": 1,
