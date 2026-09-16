@@ -1,17 +1,31 @@
 {
-  "last_updated": "September 16, 2026 03:17 PM EDT",
+  "last_updated": "September 16, 2026 06:32 PM EDT",
   "releases": [
     {
       "version": "152.0.7977.83",
-      "release_date": "September 15, 2026 08:01 PM",
+      "release_date": "September 16, 2026 09:12 PM",
       "end_date": "N/A",
+      "fraction": "75%",
+      "fraction_group": "195"
+    },
+    {
+      "version": "153.0.8010.47",
+      "release_date": "September 16, 2026 09:12 PM",
+      "end_date": "N/A",
+      "fraction": "25%",
+      "fraction_group": "195"
+    },
+    {
+      "version": "152.0.7977.83",
+      "release_date": "September 15, 2026 08:01 PM",
+      "end_date": "September 16, 2026 09:12 PM",
       "fraction": "74.25%",
       "fraction_group": "195"
     },
     {
       "version": "153.0.8010.47",
       "release_date": "September 15, 2026 08:01 PM",
-      "end_date": "N/A",
+      "end_date": "September 16, 2026 09:12 PM",
       "fraction": "24.75%",
       "fraction_group": "195"
     },
@@ -67,7 +81,7 @@
     {
       "version": "152.0.7977.85",
       "release_date": "September 09, 2026 05:42 PM",
-      "end_date": "N/A",
+      "end_date": "September 16, 2026 09:12 PM",
       "fraction": "0.5%",
       "fraction_group": "195"
     },
@@ -81,7 +95,7 @@
     {
       "version": "154.0.8037.17",
       "release_date": "September 09, 2026 05:42 PM",
-      "end_date": "N/A",
+      "end_date": "September 16, 2026 09:12 PM",
       "fraction": "0.5%",
       "fraction_group": "195"
     },
