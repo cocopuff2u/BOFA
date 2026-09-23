@@ -1,4 +1,10 @@
 - major_version: '27'
+  release_notes: doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-27_2-release-notes
+  release_notes_url: https://developer.apple.com/documentation/safari-release-notes/safari-27_2-release-notes
+  title: Safari 27.2 Beta Release Notes
+  released: September 16, 2026
+  version: 27.2 beta (20625.2.4)
+- major_version: '27'
   release_notes: doc://com.apple.Safari-Release-Notes/documentation/Safari-Release-Notes/safari-27-release-notes
   release_notes_url: https://developer.apple.com/documentation/safari-release-notes/safari-27-release-notes
   title: Safari 27 Release Notes
