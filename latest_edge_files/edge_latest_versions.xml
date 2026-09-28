@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <EdgeInsiderVersions>
-  <last_updated>September 28, 2026 10:50 AM EDT</last_updated>
+  <last_updated>September 28, 2026 04:59 PM EDT</last_updated>
   <Version>
     <Channel>current</Channel>
     <Date>September 24, 2026 07:11 PM EDT</Date>
@@ -9,9 +9,9 @@
   </Version>
   <Version>
     <Channel>canary</Channel>
-    <Date>September 25, 2026 09:57 PM EDT</Date>
-    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/d8f3856b-3218-4d79-b015-2b8cecd2cda2/MicrosoftEdgeCanary-156.0.4301.0.pkg</Location>
-    <Version>156.0.4301.0</Version>
+    <Date>September 28, 2026 05:34 PM EDT</Date>
+    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/befc8679-f133-4d81-b790-9dbb7f9b8520/MicrosoftEdgeCanary-156.0.4306.0.pkg</Location>
+    <Version>156.0.4306.0</Version>
   </Version>
   <Version>
     <Channel>dev</Channel>
@@ -21,8 +21,8 @@
   </Version>
   <Version>
     <Channel>beta</Channel>
-    <Date>September 25, 2026 09:19 PM EDT</Date>
-    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/efc3880c-f797-4055-9cff-ce600b43c90c/MicrosoftEdgeBeta-155.0.4283.18.pkg</Location>
-    <Version>155.0.4283.18</Version>
+    <Date>September 28, 2026 07:44 PM EDT</Date>
+    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/cb83df70-84ff-4bf9-a900-24c5c49afe9a/MicrosoftEdgeBeta-155.0.4283.24.pkg</Location>
+    <Version>155.0.4283.24</Version>
   </Version>
 </EdgeInsiderVersions>
