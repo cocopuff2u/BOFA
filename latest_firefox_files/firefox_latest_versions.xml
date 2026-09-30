@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='utf8'?>
 <mac_versions>
-  <last_updated>September 30, 2026 12:36 PM EDT</last_updated>
+  <last_updated>September 30, 2026 05:09 PM EDT</last_updated>
   <stable>
     <version>157.0</version>
     <release_time>September 29, 2026 12:00 AM EDT</release_time>
     <download>https://download-installer.cdn.mozilla.net/pub/firefox/releases/157.0/mac/en-US/Firefox%20157.0.pkg</download>
   </stable>
   <beta>
-    <version>158.0b1</version>
-    <release_time>September 28, 2026 12:00 AM EDT</release_time>
-    <download>https://download-installer.cdn.mozilla.net/pub/firefox/releases/158.0b1/mac/en-US/Firefox%20158.0b1.pkg</download>
+    <version>158.0b2</version>
+    <release_time>September 30, 2026 12:00 AM EDT</release_time>
+    <download>https://download-installer.cdn.mozilla.net/pub/firefox/releases/158.0b2/mac/en-US/Firefox%20158.0b2.pkg</download>
   </beta>
   <dev>
-    <version>158.0b1</version>
-    <release_time>September 28, 2026 12:00 AM EDT</release_time>
-    <download>https://download-installer.cdn.mozilla.net/pub/devedition/releases/158.0b1/mac/en-US/Firefox%20158.0b1.dmg</download>
+    <version>158.0b2</version>
+    <release_time>September 30, 2026 12:00 AM EDT</release_time>
+    <download>https://download-installer.cdn.mozilla.net/pub/devedition/releases/158.0b2/mac/en-US/Firefox%20158.0b2.dmg</download>
   </dev>
   <esr>
     <version>153.4.0</version>
