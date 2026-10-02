@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 02, 2026 02:52 PM EDT",
+  "last_updated": "October 02, 2026 06:44 PM EDT",
   "stable": {
     "version": "154.0.8037.98",
     "time": "October 02, 2026 12:57 AM EDT",
@@ -21,13 +21,13 @@
     "download_link": "https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg"
   },
   "canary": {
-    "version": "157.0.8083.0",
-    "time": "October 02, 2026 08:26 AM EDT",
+    "version": "157.0.8084.0",
+    "time": "October 02, 2026 07:18 PM EDT",
     "download_link": "https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg"
   },
   "canary_asan": {
-    "version": "157.0.8083.1",
-    "time": "October 02, 2026 10:09 AM EDT",
+    "version": "157.0.8084.1",
+    "time": "October 02, 2026 09:03 PM EDT",
     "download_link": "https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg"
   }
 }
