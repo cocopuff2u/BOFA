@@ -1,8 +1,18 @@
-last_updated: October 06, 2026 07:40 AM EDT
+last_updated: October 06, 2026 01:44 PM EDT
 releases:
 - version: 152.0.7977.152
-  release_date: October 05, 2026 06:25 PM
+  release_date: October 06, 2026 05:07 PM
   end_date: N/A
+  fraction: 75%
+  fraction_group: '0'
+- version: 152.0.7977.158
+  release_date: October 06, 2026 05:07 PM
+  end_date: N/A
+  fraction: 25%
+  fraction_group: '0'
+- version: 152.0.7977.152
+  release_date: October 05, 2026 06:25 PM
+  end_date: October 06, 2026 05:07 PM
   fraction: 100%
   fraction_group: '0'
 - version: 152.0.7977.149

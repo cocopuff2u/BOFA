@@ -1,5 +1,15 @@
-last_updated: October 06, 2026 07:39 AM EDT
+last_updated: October 06, 2026 01:43 PM EDT
 releases:
+- key: firefox-157.0.1
+  build_number: 1
+  category: stability
+  date: '2026-10-06'
+  description: null
+  is_security_driven: false
+  product: firefox
+  version: 157.0.1
+  download_pkg: https://ftp.mozilla.org/pub/firefox/releases/157.0.1/mac/en-US/Firefox%20157.0.1.pkg
+  download_dmg: https://ftp.mozilla.org/pub/firefox/releases/157.0.1/mac/en-US/Firefox%20157.0.1.dmg
 - key: firefox-158.0b4
   build_number: 1
   category: dev
