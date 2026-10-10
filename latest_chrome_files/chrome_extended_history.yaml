@@ -1,5 +1,10 @@
-last_updated: October 09, 2026 08:25 PM EDT
+last_updated: October 10, 2026 02:35 AM EDT
 releases:
+- version: 156.0.8078.13
+  release_date: October 07, 2026 05:15 PM
+  end_date: N/A
+  fraction: 0%
+  fraction_group: '0'
 - version: 152.0.7977.152
   release_date: October 06, 2026 05:07 PM
   end_date: N/A
@@ -160,6 +165,11 @@ releases:
   end_date: August 25, 2026 06:32 PM
   fraction: 100%
   fraction_group: '0'
+- version: 152.0.7977.55
+  release_date: August 19, 2026 04:43 PM
+  end_date: August 25, 2026 06:32 PM
+  fraction: 0%
+  fraction_group: '0'
 - version: 150.0.7871.230
   release_date: August 18, 2026 07:17 PM
   end_date: August 20, 2026 06:31 PM
@@ -174,6 +184,11 @@ releases:
   release_date: August 13, 2026 09:47 PM
   end_date: August 18, 2026 07:17 PM
   fraction: 100%
+  fraction_group: '0'
+- version: 152.0.7977.43
+  release_date: August 12, 2026 09:07 PM
+  end_date: August 19, 2026 04:43 PM
+  fraction: 0%
   fraction_group: '0'
 - version: 150.0.7871.224
   release_date: August 11, 2026 09:24 PM
@@ -295,6 +310,11 @@ releases:
   end_date: July 08, 2026 10:28 PM
   fraction: 100%
   fraction_group: '0'
+- version: 150.0.7871.101
+  release_date: July 08, 2026 10:04 PM
+  end_date: July 08, 2026 10:28 PM
+  fraction: 0%
+  fraction_group: '0'
 - version: 148.0.7778.280
   release_date: July 07, 2026 05:38 PM
   end_date: July 08, 2026 10:04 PM
@@ -309,6 +329,11 @@ releases:
   release_date: July 07, 2026 05:18 PM
   end_date: July 07, 2026 05:38 PM
   fraction: 100%
+  fraction_group: '0'
+- version: 150.0.7871.47
+  release_date: July 07, 2026 05:18 PM
+  end_date: July 07, 2026 05:38 PM
+  fraction: 0%
   fraction_group: '0'
 - version: 148.0.7778.280
   release_date: Invalid Time
@@ -325,6 +350,11 @@ releases:
   end_date: Invalid Time
   fraction: 100%
   fraction_group: '0'
+- version: 150.0.7871.47
+  release_date: June 24, 2026 07:05 PM
+  end_date: Invalid Time
+  fraction: 0%
+  fraction_group: '0'
 - version: 148.0.7778.271
   release_date: June 23, 2026 06:58 PM
   end_date: June 30, 2026 10:25 AM
@@ -339,6 +369,11 @@ releases:
   release_date: June 23, 2026 06:52 PM
   end_date: June 23, 2026 06:58 PM
   fraction: 100%
+  fraction_group: '0'
+- version: 150.0.7871.25
+  release_date: June 17, 2026 04:07 PM
+  end_date: June 24, 2026 07:05 PM
+  fraction: 0%
   fraction_group: '0'
 - version: 148.0.7778.265
   release_date: June 16, 2026 09:31 PM
@@ -470,6 +505,11 @@ releases:
   end_date: May 05, 2026 08:31 PM
   fraction: 100%
   fraction_group: '0'
+- version: 148.0.7778.97
+  release_date: April 29, 2026 06:10 PM
+  end_date: May 05, 2026 08:31 PM
+  fraction: 0%
+  fraction_group: '0'
 - version: 146.0.7680.208
   release_date: April 28, 2026 07:59 PM
   end_date: April 30, 2026 11:30 PM
@@ -484,6 +524,11 @@ releases:
   release_date: April 28, 2026 07:40 PM
   end_date: April 28, 2026 07:59 PM
   fraction: 100%
+  fraction_group: '0'
+- version: 148.0.7778.57
+  release_date: April 23, 2026 04:59 PM
+  end_date: April 29, 2026 06:10 PM
+  fraction: 0%
   fraction_group: '0'
 - version: 146.0.7680.201
   release_date: April 22, 2026 05:33 PM
@@ -605,6 +650,11 @@ releases:
   end_date: March 12, 2026 09:08 PM
   fraction: 10%
   fraction_group: '0'
+- version: 146.0.7680.66
+  release_date: March 05, 2026 09:16 PM
+  end_date: March 10, 2026 06:40 PM
+  fraction: 0%
+  fraction_group: '0'
 - version: 144.0.7559.236
   release_date: March 05, 2026 08:38 PM
   end_date: March 10, 2026 06:40 PM
@@ -619,6 +669,11 @@ releases:
   release_date: March 03, 2026 07:11 PM
   end_date: March 05, 2026 08:38 PM
   fraction: 25%
+  fraction_group: '0'
+- version: 146.0.7680.32
+  release_date: February 25, 2026 09:02 PM
+  end_date: March 05, 2026 09:16 PM
+  fraction: 0%
   fraction_group: '0'
 - version: 144.0.7559.225
   release_date: February 25, 2026 08:46 PM
@@ -745,6 +800,11 @@ releases:
   end_date: January 13, 2026 09:27 PM
   fraction: 100%
   fraction_group: '0'
+- version: 144.0.7559.60
+  release_date: January 07, 2026 06:02 PM
+  end_date: January 13, 2026 09:27 PM
+  fraction: 0%
+  fraction_group: '0'
 - version: 142.0.7444.243
   release_date: January 06, 2026 07:38 PM
   end_date: January 08, 2026 07:47 PM
@@ -870,6 +930,11 @@ releases:
   end_date: October 31, 2025 12:06 PM
   fraction: 10%
   fraction_group: '0'
+- version: 142.0.7444.53
+  release_date: October 23, 2025 12:06 AM
+  end_date: October 28, 2025 09:24 PM
+  fraction: 0%
+  fraction_group: '0'
 - version: 140.0.7339.249
   release_date: October 16, 2025 07:16 PM
   end_date: October 28, 2025 09:24 PM
@@ -994,6 +1059,11 @@ releases:
   release_date: August 28, 2025 08:35 PM
   end_date: September 02, 2025 09:00 PM
   fraction: 100%
+  fraction_group: '0'
+- version: 140.0.7339.42
+  release_date: August 27, 2025 06:26 PM
+  end_date: September 02, 2025 09:00 PM
+  fraction: 0%
   fraction_group: '0'
 - version: 138.0.7204.243
   release_date: August 26, 2025 06:17 PM
@@ -1145,6 +1215,11 @@ releases:
   end_date: June 24, 2025 06:00 PM
   fraction: 100%
   fraction_group: '0'
+- version: 138.0.7204.36
+  release_date: June 18, 2025 04:48 PM
+  end_date: June 24, 2025 06:00 PM
+  fraction: 0%
+  fraction_group: '0'
 - version: 136.0.7103.168
   release_date: June 17, 2025 05:43 PM
   end_date: June 23, 2025 11:53 AM
@@ -1244,6 +1319,11 @@ releases:
   release_date: April 29, 2025 06:21 PM
   end_date: May 01, 2025 08:10 PM
   fraction: 10%
+  fraction_group: '0'
+- version: 136.0.7103.49
+  release_date: April 23, 2025 07:12 PM
+  end_date: April 29, 2025 06:21 PM
+  fraction: 0%
   fraction_group: '0'
 - version: 134.0.6998.205
   release_date: April 17, 2025 08:27 PM
@@ -1355,6 +1435,11 @@ releases:
   end_date: March 06, 2025 08:11 PM
   fraction: 10%
   fraction_group: '0'
+- version: 134.0.6998.45
+  release_date: February 27, 2025 10:59 PM
+  end_date: March 04, 2025 08:54 PM
+  fraction: 0%
+  fraction_group: '0'
 - version: 132.0.6834.210
   release_date: February 27, 2025 07:59 PM
   end_date: March 04, 2025 08:54 PM
@@ -1464,6 +1549,11 @@ releases:
   release_date: January 09, 2025 09:43 PM
   end_date: January 14, 2025 09:38 PM
   fraction: 100%
+  fraction_group: '0'
+- version: 132.0.6834.84
+  release_date: January 08, 2025 07:27 PM
+  end_date: January 14, 2025 09:38 PM
+  fraction: 0%
   fraction_group: '0'
 - version: 130.0.6723.170
   release_date: January 07, 2025 07:13 PM
@@ -1910,6 +2000,11 @@ releases:
   end_date: August 22, 2024 11:06 PM
   fraction: 10%
   fraction_group: '0'
+- version: 128.0.6613.37
+  release_date: August 14, 2024 08:44 PM
+  end_date: August 21, 2024 07:08 PM
+  fraction: 0%
+  fraction_group: '0'
 - version: 126.0.6478.234
   release_date: August 08, 2024 08:29 PM
   end_date: August 21, 2024 07:08 PM
@@ -2074,6 +2169,11 @@ releases:
   release_date: June 11, 2024 07:11 PM
   end_date: June 12, 2024 10:35 PM
   fraction: 10%
+  fraction_group: '0'
+- version: 126.0.6478.36
+  release_date: June 05, 2024 07:39 PM
+  end_date: June 11, 2024 07:11 PM
+  fraction: 0%
   fraction_group: '0'
 - version: 124.0.6367.243
   release_date: June 04, 2024 06:57 PM
@@ -2350,6 +2450,11 @@ releases:
   end_date: April 17, 2024 07:47 PM
   fraction: 10%
   fraction_group: '0'
+- version: 124.0.6367.61
+  release_date: April 15, 2024 06:01 PM
+  end_date: April 16, 2024 09:25 PM
+  fraction: 0%
+  fraction_group: '0'
 - version: 122.0.6261.156
   release_date: April 04, 2024 06:17 PM
   end_date: April 16, 2024 09:25 PM
@@ -2559,6 +2664,11 @@ releases:
   release_date: February 14, 2024 07:30 PM
   end_date: February 15, 2024 09:44 PM
   fraction: 50%
+  fraction_group: '0'
+- version: 122.0.6261.49
+  release_date: February 14, 2024 07:12 PM
+  end_date: February 20, 2024 09:34 PM
+  fraction: 0%
   fraction_group: '0'
 - version: 120.0.6099.283
   release_date: February 13, 2024 07:04 PM
@@ -2819,6 +2929,11 @@ releases:
   release_date: Invalid Time
   end_date: Invalid Time
   fraction: 100%
+  fraction_group: '0'
+- version: 120.0.6099.56
+  release_date: November 29, 2023 09:42 PM
+  end_date: Invalid Time
+  fraction: 0%
   fraction_group: '0'
 - version: 118.0.5993.144
   release_date: November 29, 2023 09:27 PM
@@ -3915,6 +4030,11 @@ releases:
   end_date: Invalid Time
   fraction: 100%
   fraction_group: '0'
+- version: 106.0.5249.91
+  release_date: Invalid Time
+  end_date: Invalid Time
+  fraction: 0%
+  fraction_group: '0'
 - version: 104.0.5112.123
   release_date: Invalid Time
   end_date: Invalid Time
@@ -3939,6 +4059,11 @@ releases:
   release_date: Invalid Time
   end_date: Invalid Time
   fraction: 100%
+  fraction_group: '0'
+- version: 106.0.5249.61
+  release_date: Invalid Time
+  end_date: Invalid Time
+  fraction: 0%
   fraction_group: '0'
 - version: 104.0.5112.123
   release_date: Invalid Time
