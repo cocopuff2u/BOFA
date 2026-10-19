@@ -1,8 +1,13 @@
-last_updated: October 19, 2026 02:08 PM EDT
+last_updated: October 19, 2026 06:44 PM EDT
 releases:
+- version: 155.0.8059.85
+  release_date: October 19, 2026 09:16 PM
+  end_date: N/A
+  fraction: 100%
+  fraction_group: '200'
 - version: 155.0.8059.80
   release_date: October 16, 2026 08:04 PM
-  end_date: N/A
+  end_date: October 19, 2026 09:16 PM
   fraction: 50%
   fraction_group: '200'
 - version: 155.0.8059.81
@@ -12,12 +17,12 @@ releases:
   fraction_group: '200'
 - version: 155.0.8059.82
   release_date: October 16, 2026 08:04 PM
-  end_date: N/A
+  end_date: October 19, 2026 09:16 PM
   fraction: 25%
   fraction_group: '200'
 - version: 155.0.8059.84
   release_date: October 16, 2026 08:04 PM
-  end_date: N/A
+  end_date: October 19, 2026 09:16 PM
   fraction: 25%
   fraction_group: '200'
 - version: 156.0.8078.35
