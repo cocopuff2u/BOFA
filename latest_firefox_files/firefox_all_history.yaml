@@ -1,5 +1,15 @@
-last_updated: October 19, 2026 07:47 AM EDT
+last_updated: October 19, 2026 02:07 PM EDT
 releases:
+- key: firefox-159.0b4
+  build_number: 1
+  category: dev
+  date: '2026-10-19'
+  description: null
+  is_security_driven: false
+  product: firefox
+  version: 159.0b4
+  download_pkg: https://ftp.mozilla.org/pub/firefox/releases/159.0b4/mac/en-US/Firefox%20159.0b4.pkg
+  download_dmg: https://ftp.mozilla.org/pub/firefox/releases/159.0b4/mac/en-US/Firefox%20159.0b4.dmg
 - key: firefox-159.0b3
   build_number: 1
   category: dev
