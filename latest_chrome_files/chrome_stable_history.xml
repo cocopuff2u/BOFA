@@ -1,10 +1,52 @@
 <?xml version="1.0" ?>
 <releases>
-  <last_updated>October 20, 2026 01:42 PM EDT</last_updated>
+  <last_updated>October 20, 2026 05:07 PM EDT</last_updated>
+  <release>
+    <version>155.0.8059.85</version>
+    <release_date>October 20, 2026 07:57 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>80%</fraction>
+    <fraction_group>200</fraction_group>
+  </release>
+  <release>
+    <version>155.0.8059.86</version>
+    <release_date>October 20, 2026 07:57 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>10%</fraction>
+    <fraction_group>200</fraction_group>
+  </release>
+  <release>
+    <version>156.0.8078.47</version>
+    <release_date>October 20, 2026 07:57 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>10%</fraction>
+    <fraction_group>200</fraction_group>
+  </release>
+  <release>
+    <version>156.0.8078.48</version>
+    <release_date>October 20, 2026 07:57 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>199</fraction_group>
+  </release>
+  <release>
+    <version>156.0.8078.48</version>
+    <release_date>October 20, 2026 07:57 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>0%</fraction>
+    <fraction_group>200</fraction_group>
+  </release>
+  <release>
+    <version>156.0.8078.48</version>
+    <release_date>October 20, 2026 07:57 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>0%</fraction>
+    <fraction_group>200</fraction_group>
+  </release>
   <release>
     <version>155.0.8059.85</version>
     <release_date>October 19, 2026 09:16 PM</release_date>
-    <end_date>N/A</end_date>
+    <end_date>October 20, 2026 07:57 PM</end_date>
     <fraction>100%</fraction>
     <fraction_group>200</fraction_group>
   </release>
@@ -39,7 +81,7 @@
   <release>
     <version>156.0.8078.35</version>
     <release_date>October 16, 2026 08:04 PM</release_date>
-    <end_date>N/A</end_date>
+    <end_date>October 20, 2026 07:57 PM</end_date>
     <fraction>0%</fraction>
     <fraction_group>200</fraction_group>
   </release>
@@ -67,7 +109,7 @@
   <release>
     <version>155.0.8059.85</version>
     <release_date>October 15, 2026 08:40 PM</release_date>
-    <end_date>N/A</end_date>
+    <end_date>October 20, 2026 07:57 PM</end_date>
     <fraction>100%</fraction>
     <fraction_group>199</fraction_group>
   </release>
@@ -116,7 +158,7 @@
   <release>
     <version>156.0.8078.36</version>
     <release_date>October 14, 2026 08:45 PM</release_date>
-    <end_date>N/A</end_date>
+    <end_date>October 20, 2026 07:57 PM</end_date>
     <fraction>0%</fraction>
     <fraction_group>200</fraction_group>
   </release>
