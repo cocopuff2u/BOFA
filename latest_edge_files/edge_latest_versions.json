@@ -1,6 +1,6 @@
 {
     "EdgeInsiderVersions": {
-        "last_updated": "October 19, 2026 06:44 PM EDT",
+        "last_updated": "October 19, 2026 09:25 PM EDT",
         "Version": [
             {
                 "Channel": "current",
@@ -10,9 +10,9 @@
             },
             {
                 "Channel": "canary",
-                "Date": "October 19, 2026 12:50 PM EDT",
-                "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/afa9a6d8-50b0-4a2d-afa4-5623aac54643/MicrosoftEdgeCanary-158.0.4349.0.pkg",
-                "Version": "158.0.4349.0"
+                "Date": "October 20, 2026 01:04 AM EDT",
+                "Location": "https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/3b947cbc-f52b-49bc-a069-d3158760236a/MicrosoftEdgeCanary-158.0.4350.0.pkg",
+                "Version": "158.0.4350.0"
             },
             {
                 "Channel": "dev",
