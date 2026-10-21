@@ -1,6 +1,18 @@
 {
-  "last_updated": "October 21, 2026 11:51 AM EDT",
+  "last_updated": "October 21, 2026 03:51 PM EDT",
   "releases": [
+    {
+      "key": "firefox-159.0b5",
+      "build_number": 1,
+      "category": "dev",
+      "date": "2026-10-21",
+      "description": null,
+      "is_security_driven": false,
+      "product": "firefox",
+      "version": "159.0b5",
+      "download_pkg": "https://ftp.mozilla.org/pub/firefox/releases/159.0b5/mac/en-US/Firefox%20159.0b5.pkg",
+      "download_dmg": "https://ftp.mozilla.org/pub/firefox/releases/159.0b5/mac/en-US/Firefox%20159.0b5.dmg"
+    },
     {
       "key": "firefox-115.43.1esr",
       "build_number": 1,
