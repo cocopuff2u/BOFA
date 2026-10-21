@@ -1,4 +1,4 @@
-last_updated: October 20, 2026 05:06 PM EDT
+last_updated: October 20, 2026 08:18 PM EDT
 stable:
   version: 158.0.1
   release_time: October 20, 2026 12:00 AM EDT
@@ -14,7 +14,7 @@ dev:
 esr:
   version: 153.5.1
   release_time: October 20, 2026 12:00 AM EDT
-  download: https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.5.0esr/mac/en-US/Firefox%20153.5.0esr.pkg
+  download: https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.5.1esr/mac/en-US/Firefox%20153.5.1esr.pkg
 nightly:
   version: 160.0a1
   release_time: October 08, 2026 12:00 AM EDT
