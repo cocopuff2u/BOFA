@@ -45,7 +45,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 <sup>**Edge**: [**_Raw XML_**](latest_edge_files/edge_latest_versions.xml) [**_Raw YAML_**](latest_edge_files/edge_latest_versions.yaml) [**_Raw JSON_**](latest_edge_files/edge_latest_versions.json) | **Safari**: [**_Raw XML_**](latest_safari_files/safari_latest_versions.xml) [**_Raw YAML_**](latest_safari_files/safari_latest_versions.yaml) [**_Raw JSON_**](latest_safari_files/safari_latest_versions.json)</sup>
 
-<sup>_Last Updated: <code style="color : mediumseagreen">October 22, 2026 05:05 PM EDT</code> (Automatically Updated every hour)_</sup>
+<sup>_Last Updated: <code style="color : mediumseagreen">October 22, 2026 08:19 PM EDT</code> (Automatically Updated every hour)_</sup>
 
 </div>
 
@@ -65,7 +65,7 @@ We welcome community contributions—fork the repository, ask questions, or shar
 | **Edge**  <br><a href="https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-stable-channel" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br><b>Last Updated:</b><br><em><code>October 22, 2026</code></em> | `156.0.4314.42` | `com.microsoft.edgemac` | <a href="https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ba907672-5d36-42cb-bd05-d1ff3a6fdb39/MicrosoftEdge-156.0.4314.42.pkg"><img src=".github/images/edge.png" alt="Download Edge" width="80"></a> |
 | **Edge** <sup>Beta</sup> <br><a href="https://learn.microsoft.com/en-us/deployedge/microsoft-edge-relnote-beta-channel" style="text-decoration: none;"><small>_Release Notes_</small></a><br><br><b>Last Updated:</b><br><em><code>October 20, 2026</code></em> | `157.0.4341.10` | `com.microsoft.edgemac.beta` | <a href="https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/2ebe861a-bc8d-4602-b4be-c41556b94ba0/MicrosoftEdgeBeta-157.0.4341.10.pkg"><img src=".github/images/edge_beta.png" alt="Download Edge" width="80"></a> |
 | **Edge** <sup>Developer</sup> <br><br><b>Last Updated:</b><br><em><code>October 20, 2026</code></em> | `158.0.4344.0` | `com.microsoft.edgemac.dev` | <a href="https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/c77071a8-0729-4327-b1b7-b3e5b8c723c4/MicrosoftEdgeDev-158.0.4344.0.pkg"><img src=".github/images/edge_dev.png" alt="Download Edge" width="80"></a> |
-| **Edge** <sup>Canary</sup> <br><br><b>Last Updated:</b><br><em><code>October 22, 2026</code></em> | `158.0.4355.0` | `com.microsoft.edgemac.canary` | <a href="https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/f151dbd3-5dd7-42d7-bccb-acd8ac22083a/MicrosoftEdgeCanary-158.0.4355.0.pkg"><img src=".github/images/edge_canary.png" alt="Download Edge" width="80"></a> |
+| **Edge** <sup>Canary</sup> <br><br><b>Last Updated:</b><br><em><code>October 22, 2026</code></em> | `158.0.4356.0` | `com.microsoft.edgemac.canary` | <a href="https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/ad79b55d-87e6-4b21-811b-9551edf5a2d0/MicrosoftEdgeCanary-158.0.4356.0.pkg"><img src=".github/images/edge_canary.png" alt="Download Edge" width="80"></a> |
 
 
 | **Browser** | **Version** | **CFBundle Identifier** | **Release Notes** |
@@ -83,8 +83,8 @@ We welcome community contributions—fork the repository, ask questions, or shar
 
 | **Browser** | **Version** | **CFBundle Identifier** | **Download** |
 |------------|-------------------|---------------------|------------|
-| **Safari Technology Preview <sup>(27)</sup>** <br><br><b>Post Date:</b><br><em><code>October 8, 2026</code></em> | `1` | `com.apple.SafariTechnologyPreview` | <div align="center"><a href="https://secure-appldnld.apple.com/STP/142-36179-20261008-3c90402e-c681-4700-bb14-4265744f1038/SafariTechPreview254.dmg"><img src=".github/images/safari_technology.png" alt="Download Safari Technology Preview <sup>(27)</sup>" width="80"></a></div> |
-| **Safari Technology Preview <sup>(26)</sup>** <br><br><b>Post Date:</b><br><em><code>October 8, 2026</code></em> | `1` | `com.apple.SafariTechnologyPreview` | <div align="center"><a href="https://secure-appldnld.apple.com/STP/142-29069-20261008-2015600e-8f9b-41ba-8709-ce9bc77a1fa0/SafariTechnologyPreview.dmg"><img src=".github/images/safari_technology.png" alt="Download Safari Technology Preview <sup>(26)</sup>" width="80"></a></div> |
+| **Safari Technology Preview <sup>(27)</sup>** <br><br><b>Post Date:</b><br><em><code>October 22, 2026</code></em> | `1` | `com.apple.SafariTechnologyPreview` | <div align="center"><a href="https://secure-appldnld.apple.com/STP/142-43796-20261022-5c49ab3e-e501-4219-a605-c14a70cf5e86/SafariTechPreview255.dmg"><img src=".github/images/safari_technology.png" alt="Download Safari Technology Preview <sup>(27)</sup>" width="80"></a></div> |
+| **Safari Technology Preview <sup>(26)</sup>** <br><br><b>Post Date:</b><br><em><code>October 22, 2026</code></em> | `1` | `com.apple.SafariTechnologyPreview` | <div align="center"><a href="https://secure-appldnld.apple.com/STP/142-42915-20261022-ade23045-b1f3-4000-958d-58a62ac67b79/SafariTechnologyPreview.dmg"><img src=".github/images/safari_technology.png" alt="Download Safari Technology Preview <sup>(26)</sup>" width="80"></a></div> |
 
 
 ## Browser Settings Management
