@@ -1,5 +1,5 @@
 {
-  "last_updated": "October 22, 2026 08:19 PM EDT",
+  "last_updated": "October 23, 2026 01:38 AM EDT",
   "stable": {
     "version": "158.0.1",
     "release_time": "October 20, 2026 12:00 AM EDT",
@@ -21,8 +21,8 @@
     "download": "https://download-installer.cdn.mozilla.net/pub/firefox/releases/153.5.1esr/mac/en-US/Firefox%20153.5.1esr.pkg"
   },
   "nightly": {
-    "version": "160.0a1",
-    "release_time": "October 08, 2026 12:00 AM EDT",
-    "download": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/latest-mozilla-central/firefox-160.0a1.en-US.mac.pkg"
+    "version": "161.0a1",
+    "release_time": "October 22, 2026 12:00 AM EDT",
+    "download": "https://download-installer.cdn.mozilla.net/pub/firefox/nightly/latest-mozilla-central/firefox-161.0a1.en-US.mac.pkg"
   }
 }
