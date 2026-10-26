@@ -1,10 +1,17 @@
 {
-  "last_updated": "October 26, 2026 03:17 AM EDT",
+  "last_updated": "October 26, 2026 10:44 AM EDT",
   "releases": [
+    {
+      "version": "158.0.8125.1",
+      "release_date": "October 26, 2026 08:19 AM",
+      "end_date": "N/A",
+      "fraction": "100%",
+      "fraction_group": "1"
+    },
     {
       "version": "158.0.8124.1",
       "release_date": "October 25, 2026 07:26 PM",
-      "end_date": "N/A",
+      "end_date": "October 26, 2026 08:19 AM",
       "fraction": "100%",
       "fraction_group": "1"
     },
