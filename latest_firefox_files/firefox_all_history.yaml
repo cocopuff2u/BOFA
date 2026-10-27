@@ -1,5 +1,35 @@
-last_updated: October 27, 2026 07:23 AM EDT
+last_updated: October 27, 2026 01:12 PM EDT
 releases:
+- key: firefox-115.44.0esr
+  build_number: 2
+  category: stability
+  date: '2026-10-27'
+  description: null
+  is_security_driven: false
+  product: firefox
+  version: 115.44.0
+  download_pkg: https://ftp.mozilla.org/pub/firefox/releases/115.44.0/mac/en-US/Firefox%20115.44.0.pkg
+  download_dmg: https://ftp.mozilla.org/pub/firefox/releases/115.44.0/mac/en-US/Firefox%20115.44.0.dmg
+- key: firefox-153.6.0esr
+  build_number: 2
+  category: esr
+  date: '2026-10-27'
+  description: null
+  is_security_driven: false
+  product: firefox
+  version: 153.6.0
+  download_pkg: https://ftp.mozilla.org/pub/firefox/releases/153.6.0/mac/en-US/Firefox%20153.6.0.pkg
+  download_dmg: https://ftp.mozilla.org/pub/firefox/releases/153.6.0/mac/en-US/Firefox%20153.6.0.dmg
+- key: firefox-159.0
+  build_number: 1
+  category: major
+  date: '2026-10-27'
+  description: null
+  is_security_driven: false
+  product: firefox
+  version: '159.0'
+  download_pkg: https://ftp.mozilla.org/pub/firefox/releases/159.0/mac/en-US/Firefox%20159.0.pkg
+  download_dmg: https://ftp.mozilla.org/pub/firefox/releases/159.0/mac/en-US/Firefox%20159.0.dmg
 - key: firefox-160.0b1
   build_number: 2
   category: dev
