@@ -1,6 +1,12 @@
 {
-  "last_updated": "November 02, 2026 09:10 AM EST",
+  "last_updated": "November 02, 2026 12:39 PM EST",
   "releases": [
+    {
+      "version": "160.0b4",
+      "date": "2026-11-02",
+      "download_pkg": "https://ftp.mozilla.org/pub/firefox/releases/160.0b4/mac/en-US/Firefox%20160.0b4.pkg",
+      "download_dmg": "https://ftp.mozilla.org/pub/firefox/releases/160.0b4/mac/en-US/Firefox%20160.0b4.dmg"
+    },
     {
       "version": "160.0b3",
       "date": "2026-10-30",
