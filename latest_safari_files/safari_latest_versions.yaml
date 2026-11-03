@@ -1,5 +1,5 @@
 safari_versions:
-  last_updated: November 03, 2026 10:41 AM EST
+  last_updated: November 03, 2026 04:24 PM EST
   Safari_Technology_Preview:
   - macos: '27'
     version: '1'
@@ -16,6 +16,10 @@ safari_versions:
     full_version: 27.2 (20625.2.8)
     released: October 26, 2026
     release_notes: https://developer.apple.com/documentation/safari-release-notes/safari-27_2-release-notes
+  - major_version: '27'
+    full_version: 27.3 beta (20626.1.12)
+    released: November 3, 2026
+    release_notes: https://developer.apple.com/documentation/safari-release-notes/safari-27_3-release-notes
   - major_version: '26'
     full_version: 26.6 (20624.4.5)
     released: July 27, 2026
