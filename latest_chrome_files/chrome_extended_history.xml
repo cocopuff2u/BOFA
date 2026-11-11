@@ -1,17 +1,38 @@
 <?xml version="1.0" ?>
 <releases>
-  <last_updated>November 11, 2026 11:48 AM EST</last_updated>
+  <last_updated>November 11, 2026 06:15 PM EST</last_updated>
   <release>
-    <version>156.0.8078.88</version>
-    <release_date>November 09, 2026 08:38 PM</release_date>
+    <version>156.0.8078.100</version>
+    <release_date>November 11, 2026 07:52 PM</release_date>
+    <end_date>N/A</end_date>
+    <fraction>25%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
+    <version>156.0.8078.96</version>
+    <release_date>November 11, 2026 07:52 PM</release_date>
     <end_date>N/A</end_date>
     <fraction>75%</fraction>
     <fraction_group>0</fraction_group>
   </release>
   <release>
     <version>156.0.8078.96</version>
+    <release_date>November 11, 2026 07:30 PM</release_date>
+    <end_date>November 11, 2026 07:52 PM</end_date>
+    <fraction>100%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
+    <version>156.0.8078.88</version>
     <release_date>November 09, 2026 08:38 PM</release_date>
-    <end_date>N/A</end_date>
+    <end_date>November 11, 2026 07:30 PM</end_date>
+    <fraction>75%</fraction>
+    <fraction_group>0</fraction_group>
+  </release>
+  <release>
+    <version>156.0.8078.96</version>
+    <release_date>November 09, 2026 08:38 PM</release_date>
+    <end_date>November 11, 2026 07:30 PM</end_date>
     <fraction>25%</fraction>
     <fraction_group>0</fraction_group>
   </release>
