@@ -1,10 +1,17 @@
 {
-  "last_updated": "November 12, 2026 09:27 AM EST",
+  "last_updated": "November 12, 2026 04:40 PM EST",
   "releases": [
+    {
+      "version": "159.0.8154.6",
+      "release_date": "November 12, 2026 08:28 PM",
+      "end_date": "N/A",
+      "fraction": "100%",
+      "fraction_group": "11"
+    },
     {
       "version": "158.0.8127.18",
       "release_date": "November 04, 2026 03:15 PM",
-      "end_date": "N/A",
+      "end_date": "November 12, 2026 08:28 PM",
       "fraction": "100%",
       "fraction_group": "11"
     },
@@ -1602,14 +1609,14 @@
       "release_date": "August 05, 2022 04:11 PM",
       "end_date": "Invalid Time",
       "fraction": "100%",
-      "fraction_group": "13"
+      "fraction_group": "12"
     },
     {
       "version": "104.0.5112.79",
       "release_date": "August 05, 2022 04:11 PM",
       "end_date": "Invalid Time",
       "fraction": "100%",
-      "fraction_group": "12"
+      "fraction_group": "13"
     },
     {
       "version": "104.0.5112.79",
@@ -2960,14 +2967,14 @@
       "release_date": "April 22, 2019 05:45 PM",
       "end_date": "April 24, 2019 03:06 PM",
       "fraction": "100%",
-      "fraction_group": "5"
+      "fraction_group": "3"
     },
     {
       "version": "74.0.3729.108",
       "release_date": "April 22, 2019 05:45 PM",
       "end_date": "April 24, 2019 03:06 PM",
       "fraction": "100%",
-      "fraction_group": "3"
+      "fraction_group": "5"
     },
     {
       "version": "74.0.3729.108",
