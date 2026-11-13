@@ -1,4 +1,4 @@
-last_updated: November 12, 2026 04:40 PM EST
+last_updated: November 12, 2026 09:19 PM EST
 releases:
 - version: 159.0.8154.6
   release_date: November 12, 2026 08:28 PM
@@ -2119,12 +2119,12 @@ releases:
   release_date: April 22, 2019 05:45 PM
   end_date: April 24, 2019 03:06 PM
   fraction: 100%
-  fraction_group: '3'
+  fraction_group: '5'
 - version: 74.0.3729.108
   release_date: April 22, 2019 05:45 PM
   end_date: April 24, 2019 03:06 PM
   fraction: 100%
-  fraction_group: '5'
+  fraction_group: '3'
 - version: 74.0.3729.108
   release_date: April 22, 2019 05:45 PM
   end_date: April 24, 2019 03:06 PM
