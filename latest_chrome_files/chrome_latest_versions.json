@@ -1,5 +1,5 @@
 {
-  "last_updated": "November 13, 2026 05:25 AM EST",
+  "last_updated": "November 13, 2026 01:19 PM EST",
   "stable": {
     "version": "157.0.8103.79",
     "time": "November 11, 2026 07:51 PM EST",
@@ -16,18 +16,18 @@
     "download_link": "https://dl.google.com/chrome/mac/beta/accept_tos%3Dhttps%253A%252F%252Fwww.google.com%252Fintl%252Fen_ph%252Fchrome%252Fterms%252F%26_and_accept_tos%3Dhttps%253A%252F%252Fpolicies.google.com%252Fterms/googlechrome.pkg"
   },
   "dev": {
-    "version": "159.0.8144.0",
-    "time": "November 06, 2026 05:09 PM EST",
+    "version": "160.0.8157.0",
+    "time": "November 13, 2026 05:18 PM EST",
     "download_link": "https://dl.google.com/chrome/mac/universal/dev/googlechromedev.dmg"
   },
   "canary": {
-    "version": "160.0.8158.0",
-    "time": "November 12, 2026 08:30 PM EST",
+    "version": "160.0.8159.0",
+    "time": "November 13, 2026 02:14 PM EST",
     "download_link": "https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg"
   },
   "canary_asan": {
-    "version": "160.0.8158.1",
-    "time": "November 12, 2026 10:44 PM EST",
+    "version": "160.0.8158.2",
+    "time": "November 13, 2026 11:42 AM EST",
     "download_link": "https://dl.google.com/chrome/mac/universal/canary/googlechromecanary.dmg"
   }
 }
