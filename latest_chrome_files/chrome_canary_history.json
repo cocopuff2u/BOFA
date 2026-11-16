@@ -1,10 +1,17 @@
 {
-  "last_updated": "November 16, 2026 08:17 AM EST",
+  "last_updated": "November 16, 2026 06:09 PM EST",
   "releases": [
+    {
+      "version": "160.0.8166.0",
+      "release_date": "November 16, 2026 09:03 PM",
+      "end_date": "N/A",
+      "fraction": "100%",
+      "fraction_group": "2"
+    },
     {
       "version": "160.0.8165.0",
       "release_date": "November 16, 2026 10:10 AM",
-      "end_date": "N/A",
+      "end_date": "November 16, 2026 09:03 PM",
       "fraction": "100%",
       "fraction_group": "2"
     },
