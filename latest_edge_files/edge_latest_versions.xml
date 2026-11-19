@@ -1,11 +1,11 @@
 <?xml version="1.0" ?>
 <EdgeInsiderVersions>
-  <last_updated>November 19, 2026 07:24 AM EST</last_updated>
+  <last_updated>November 19, 2026 04:06 PM EST</last_updated>
   <Version>
     <Channel>current</Channel>
-    <Date>November 13, 2026 10:22 PM EST</Date>
-    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/e70e6888-3793-48bf-af04-53db0bd99abe/MicrosoftEdge-157.0.4341.60.pkg</Location>
-    <Version>157.0.4341.60</Version>
+    <Date>November 19, 2026 09:02 PM EST</Date>
+    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5ae0864c-e816-4e7a-b349-a25b2a188c7e/MicrosoftEdge-158.0.4370.33.pkg</Location>
+    <Version>158.0.4370.33</Version>
   </Version>
   <Version>
     <Channel>canary</Channel>
