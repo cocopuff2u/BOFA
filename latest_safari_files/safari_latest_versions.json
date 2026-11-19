@@ -1,19 +1,19 @@
 {
     "safari_versions": {
-        "last_updated": "November 18, 2026 05:26 PM EST",
+        "last_updated": "November 18, 2026 10:55 PM EST",
         "Safari_Technology_Preview": [
             {
                 "macos": "27",
                 "version": "1",
-                "PostDate": "November 4, 2026",
-                "URL": "https://secure-appldnld.apple.com/STP/142-53583-20261104-3efa3282-5778-498f-bf15-a17269776fe0/SafariTechPreview256.dmg",
+                "PostDate": "November 18, 2026",
+                "URL": "https://secure-appldnld.apple.com/STP/142-68495-20261118-aa18e73c-a899-4615-a28a-eca5706c3f84/SafariTechnologyPreview.dmg",
                 "ReleaseNotes": "https://developer.apple.com/documentation/ios-ipados-release-notes"
             },
             {
                 "macos": "26",
                 "version": "1",
-                "PostDate": "November 4, 2026",
-                "URL": "https://secure-appldnld.apple.com/STP/142-53570-20261104-0a424b2d-98ac-491c-9215-ddf803ed6253/SafariTechnologyPreview.dmg",
+                "PostDate": "November 18, 2026",
+                "URL": "https://secure-appldnld.apple.com/STP/142-68493-20261118-77438b3b-e8e1-4c91-9f96-001cd5a98069/SafariTechnologyPreview.dmg",
                 "ReleaseNotes": "https://developer.apple.com/documentation/ios-ipados-release-notes"
             }
         ],
