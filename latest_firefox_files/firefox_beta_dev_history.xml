@@ -1,6 +1,12 @@
 <?xml version='1.0' encoding='utf8'?>
 <firefox_beta_dev_history>
-  <last_updated>November 23, 2026 12:03 PM EST</last_updated>
+  <last_updated>November 23, 2026 10:41 PM EST</last_updated>
+  <release>
+    <version>162.0b1</version>
+    <date>2026-11-23</date>
+    <download_pkg>https://ftp.mozilla.org/pub/firefox/releases/162.0b1/mac/en-US/Firefox%20162.0b1.pkg</download_pkg>
+    <download_dmg>https://ftp.mozilla.org/pub/firefox/releases/162.0b1/mac/en-US/Firefox%20162.0b1.dmg</download_dmg>
+  </release>
   <release>
     <version>161.0b5</version>
     <date>2026-11-18</date>
