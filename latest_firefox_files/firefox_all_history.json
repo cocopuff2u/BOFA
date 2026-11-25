@@ -1,6 +1,18 @@
 {
-  "last_updated": "November 25, 2026 01:28 AM EST",
+  "last_updated": "November 25, 2026 12:44 PM EST",
   "releases": [
+    {
+      "key": "firefox-162.0b2",
+      "build_number": 1,
+      "category": "dev",
+      "date": "2026-11-25",
+      "description": null,
+      "is_security_driven": false,
+      "product": "firefox",
+      "version": "162.0b2",
+      "download_pkg": "https://ftp.mozilla.org/pub/firefox/releases/162.0b2/mac/en-US/Firefox%20162.0b2.pkg",
+      "download_dmg": "https://ftp.mozilla.org/pub/firefox/releases/162.0b2/mac/en-US/Firefox%20162.0b2.dmg"
+    },
     {
       "key": "firefox-115.46.0esr",
       "build_number": 1,
