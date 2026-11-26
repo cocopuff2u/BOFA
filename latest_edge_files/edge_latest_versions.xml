@@ -1,17 +1,17 @@
 <?xml version="1.0" ?>
 <EdgeInsiderVersions>
-  <last_updated>November 25, 2026 12:44 PM EST</last_updated>
+  <last_updated>November 25, 2026 08:25 PM EST</last_updated>
   <Version>
     <Channel>current</Channel>
-    <Date>November 19, 2026 09:02 PM EST</Date>
-    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/5ae0864c-e816-4e7a-b349-a25b2a188c7e/MicrosoftEdge-158.0.4370.33.pkg</Location>
-    <Version>158.0.4370.33</Version>
+    <Date>November 25, 2026 09:13 PM EST</Date>
+    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/29fb8188-da01-426d-ae95-74e0cd91b45e/MicrosoftEdge-158.0.4370.45.pkg</Location>
+    <Version>158.0.4370.45</Version>
   </Version>
   <Version>
     <Channel>canary</Channel>
-    <Date>November 25, 2026 04:56 PM EST</Date>
-    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/09b3def3-24b7-4701-90cb-773cb37d2ffb/MicrosoftEdgeCanary-160.0.4425.0.pkg</Location>
-    <Version>160.0.4425.0</Version>
+    <Date>November 25, 2026 08:50 PM EST</Date>
+    <Location>https://msedge.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/aba7ab10-dd44-48e6-bbef-9daff8ec6a0c/MicrosoftEdgeCanary-160.0.4426.0.pkg</Location>
+    <Version>160.0.4426.0</Version>
   </Version>
   <Version>
     <Channel>dev</Channel>
